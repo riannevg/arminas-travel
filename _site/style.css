@@ -76,10 +76,6 @@ h3, h4, h5, h6{
     margin-top:0.5rem;
 }
 
-
-
-
-
 p{
     font-family: var(--sans-serif);
     font-weight:300;
@@ -89,6 +85,10 @@ p{
 
 .light-text{
     color: white;
+}
+
+.bg-blue{
+    background-color:#DEEDF6;   
 }
 
 
@@ -107,13 +107,6 @@ p{
 }
 
 /* Button Styles */
-.nav .button{
-    border: 0.1em solid black;   
-    padding: 0.5rem 1rem;
-    display:inline-block;    
-    color:inherit;    
-}
-
 
 .button{
     border: 0.1em solid black;     
@@ -127,9 +120,25 @@ p{
 }
 
 .button:hover{
-    border:0.2em solid grey;
-    font-weight:400;
+   background-color:#DEEDF6;   
 }
+
+.button-white{
+    border: 0.1em solid black;     
+    display:inline-block;
+    text-decoration:none;
+    color:inherit;
+    padding:1.2rem;
+    font-family:var(--sans-serif);
+    font-weight:200;
+    text-transform:uppercase;
+}
+
+.button-white:hover{
+    background-color:white;
+}
+
+
 
 /* Link Styles */
 .tours{
@@ -154,9 +163,11 @@ header nav a{
 }
 
 header nav a:hover{
-    border-bottom:1px solid black;
-    
+    border-bottom:2px solid #DEEDF6;    
 }
+
+a.button:hover{
+    border-bottom:1px solid black;}
 
 .bg-header{
     background-image:url('/images/horizontal.jpg');    
@@ -192,9 +203,20 @@ header nav a:hover{
 
 
 /* Footer Styles */
+footer p{
+    margin-bottom:1rem;    
+    color:inherit;
+    font-size:1.2rem;
+}
 
+footer a{
+    text-decoration:none;
+    color:inherit;
+}
 
-
+footer a:hover{
+    text-decoration:underline;
+}
 
 /* Slick Slider */
 
