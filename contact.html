@@ -1,0 +1,51 @@
+---
+layout: default
+title: Arminas Travel
+header_image: /images/horizontal.jpg
+header_text: Your Gateway to Exclusive<br>Mexican Adventures
+---
+
+<!-- This is the header menu + banner section -->
+
+{% include header.html %}
+
+<!-- Contact Form -->
+
+<section class="grid-spaceAround-middle center padded-5">   
+    <div class="col-8"> 
+         <h1 class="margin-b-2">Contact Us</h1>
+    </div>
+
+    <form class="col-9 left" method="post" action="/success.html" name="contact" data-netlify="true">         
+         
+        <label for="_name"> First & Last Name </label>
+        <input type="text" name="_name" id="_name" placeholder="First & Last Name" />
+
+        <label for="_companyname"> Company Name </label>
+        <input type="text" name="_companyname" id="_companyname" placeholder="Company Name" />    
+
+        <label for="_country"> Country</label>
+        <input type="text" name="_country" id="_country" placeholder="Country" />
+
+        <label for="_replyto"> Email address </label>
+        <input type="email" name="_replyto" id="_replyto" placeholder="Email address" />
+
+        <label for="_name"> Company Website </label>
+        <input type="text" name="_website" id="_website" placeholder="Company Website" />
+        
+        <label for="_name"> Phone (Including country code) </label>
+        <input type="text" name="_phone" id="_phone" placeholder="Phone" />
+                
+        <label for="message"> Your message</label>
+        <textarea name="message" id="message" placeholder="I am writing about...."></textarea>      
+
+        <button type="submit" class="margin-b-3 button"> SUBMIT </button>
+
+    </form>  
+
+    <p class="editable margin-t-2">A representative from Armina's Travel will be in contact with you within the next 2 business days </p>
+
+</section>
+
+<!--Footer  -->
+{% include footer.html %}

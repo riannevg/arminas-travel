@@ -167,6 +167,43 @@ h3.tours:hover{
     text-decoration:underline;
 }
 
+/* Form Styles */
+form input, 
+form textarea {
+  width: 100%;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  border: 2px solid grey;
+  outline: none;
+  font-family: var(--sans-serif);
+  font-size: 0.9rem;
+  font-weight:300,
+}
+
+form input:focus,
+form textarea:focus {
+  border-color: lightskyblue;
+}
+
+textarea {
+  min-height: 4rem;
+}
+
+form label {
+  font-family: var(--sans-serif);
+  margin-top: 1rem;
+  display: block;
+  color: black;
+  font-weight: 400;
+}
+
+select{
+    font-family:var(--sans-serif);
+    padding:0.5rem;
+    margin-top:0.3rem;
+    border:2px solid grey;
+}
+
 /* Header styles */
 header nav a{
     font-size:1.2rem;
@@ -182,6 +219,7 @@ header nav a{
 header nav a:hover{
     border-bottom:2px solid #DEEDF6;    
 }
+
 
 a.button:hover{
     border-bottom:1px solid black;}

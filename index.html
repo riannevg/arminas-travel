@@ -11,13 +11,13 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 
 
 <!-- This is a short text section -->
- <section class="grid-spaceAround padded-5">   
+ <section class="grid-spaceAround center padded-5">   
 
     <div class="col-8 center"> 
          <h1 class="margin-b-2">Arminas Travel, your partner in Mexico</h1>
     </div>
 
-    <div class="col-9">         
+    <div class="col-9 center">         
         <p>Welcome to Arminas Travel, where we specialize in providing high-quality, reliable services that ensure the highest level of satisfaction for our discerning clients from Europe, Asia, the Middle East, and Africa. Our bespoke tours and luxury accommodations showcase the unique beauty and diverse opportunities across Mexico. Experience Mexico in unparalleled comfort with our meticulously organized private services, including top-tier hotels, fascinating excursions, and expert-guided tours, all tailored to your preferences.</p>
         <a href="/aboutus.html" class="button">Read more</a>
     </div>  
@@ -31,13 +31,7 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 <!-- Tours section -->
 <section class="grid-spaceAround center padded-5">
         
-    <div class="col-8"> 
-        <h2 class="margin-b-2">Custom-made tours</h2>
-    </div>
-
-    <p class="col-9 margin-b-2">
-            All our tours are custom-crafted to perfectly match your desires. We tailor each journey to suit your budget, schedule, and group size. Explore our example itineraries to discover the endless possibilities awaiting you across Mexico.
-    </p>
+    {% include tours-text.html %}
 
     <div class="col-12 grid-spaceAround center">
         <div class="col-3">
@@ -75,13 +69,7 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 <!-- DESTINATIONS section -->
 <section class="grid-spaceAround center padded-5 bg-blue">
         
-    <div class="col-8"> 
-        <h2 class="margin-b-2">Destinations within Mexico</h2>
-    </div>
-
-     <p class="col-9 margin-b-2">
-            Mexico has everything you can dream of and more. From spectacular beaches and lush jungles to colonial cities and exquisite gastronomy, Mexico offers adventure, relaxation, celebration, and luxury. Prepare to have all your senses awakened and your soul enriched as you explore the vibrant essence of this incredible country.
-    </p>
+    {% include destinations-text.html %}
 
     <div class="col-12 grid-spaceAround center">
         <div class="col-3">
@@ -118,16 +106,7 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 <!-- HOTELS section -->
 <section class="grid-spaceAround center padded-5">
         
-    <div class="col-8"> 
-        <h2 class="margin-b-2">Our favorite hotels</h2>
-    </div>    
-    <div class="col-9 margin-b-2">
-        <p>
-            With hundreds of hotels across Mexico, we have handpicked our favorites just for you! Each of these exceptional hotels offers something truly special, whether it's a unique dining experience, an outstanding sustainability program, or a fantastic kids' club. We're excited to share these treasures with you.</p>
-        <p>
-            At Arminas Travel, we have direct contracts with all the top hotels and are eager to guide you to the best options for your travel desires.</p>
-        </p>
-    </div>
+    {% include hotels-text.html %}
     
     <div class="col-12 grid-spaceAround center">
         <div class="col-3">
