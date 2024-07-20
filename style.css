@@ -28,7 +28,7 @@ body, html{
   /* Utility classes */
 
 
-  .padded-1{padding:1rem;}
+.padded-1{padding:1rem;}
 .padded-3{padding:3rem;}
 .padded-5{padding:5%;}
 .padded-l-5{padding-left:5%;}
@@ -64,12 +64,18 @@ body, html{
 
 h1, h2, h3, h4, h5, h6{
     font-family: var(--sans-serif);
+    font-size: 2.8rem;
+    font-weight:200;
 }
 
 p{
     font-family: var(--sans-serif);
     font-weight:300;
     line-height:1.6;
+}
+
+.light-text{
+    color: white;
 }
 
 
@@ -88,7 +94,11 @@ p{
 }
 
 /* Button Styles */
-
+.button{
+    border: 0.1em solid black;
+    border-radius:20%;
+    padding: 0.5rem 1rem;
+}
 
 
 /* Link Styles */
@@ -96,8 +106,49 @@ p{
 
 
 /* Header styles */
+header nav a{
+    font-size:1.2rem;
+    text-decoration:none;
+    color:inherit;
+    padding:0.5rem;
+    margin:0.5rem;
+    font-family:var(--sans-serif);
+    font-weight:300;
+    text-transform:uppercase;
+}
 
+header nav a:hover{
+    border-bottom:1px solid black;
+}
 
+.bg-header{
+    background-image:url('/images/horizontal.jpg');    
+    background-size:cover;
+    background-position:center;
+    background-color:lightskyblue;
+    background-repeat:no-repeat;
+    position:relative;
+}
+
+.bg-overlay::before{
+    content:"";
+    position:absolute;
+    top:0;
+    bottom: 0;
+    left:0;
+    right:0;
+    background: linear-gradient(180deg, rgba(0,0,0,0.5),
+    rgba(0,0,0,0));
+    z-index:50;
+}
+
+.header-text{
+    font-size:4rem;
+    line-height:1;
+    font-weight:200;
+    z-index: 100;
+    position:relative;
+}
 
 /* Mobile Menu Styles */
 

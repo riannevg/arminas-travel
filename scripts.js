@@ -1,5 +1,6 @@
 // A $( document ).ready() block.
 // This is to initiate Javascript. Always has to go on top. 
+
 $( document ).ready(function() {
     
 
