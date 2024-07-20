@@ -91,6 +91,15 @@ p{
     background-color:#DEEDF6;   
 }
 
+hr {
+    border: none;
+    border-bottom: 5px solid #DEEDF6;
+    margin:1rem 0;
+    margin-top:3rem;
+    margin-bottom:3rem;
+        
+  }
+
 
 /* Add image styles */
 .portrait{padding-bottom:125%;}
