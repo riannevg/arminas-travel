@@ -218,6 +218,11 @@ footer a:hover{
     text-decoration:underline;
 }
 
+footer h3{
+    font-weight:400;
+    text-transform:uppercase;
+}
+
 /* Slick Slider */
 
 
