@@ -1,5 +1,5 @@
 ---
-layout: hotel-layout.html
+layout: hotel-layout
 title: Chable Yucatan
 location: Chochola, Yucatan
 featured: true
