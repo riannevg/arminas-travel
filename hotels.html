@@ -5,24 +5,44 @@ header_image: /images/horizontal.jpg
 header_text: Your Gateway to Exclusive<br>Mexican Adventures
 ---
 
-<!-- This is the header menu + banner section -->
 
-{% include header.html %}
-
-<!-- Hotels LOOP SECTIONS -->
+<!-- Hotels  SECTIONS -->
 <section class="grid-spaceAround center padded-5">
     {% include hotels-text.html %}
-
-
-
-
-
 </section>
 
+<!-- Line -->
+{% include line.html %}
 
 
+<!-- Hotels grid -->
+<section class="grid-spaceAround center padded-5">           
+    
+    <div class="col-12 grid-spaceAround center">
+        <div class="col-3">
+            <div class="bg-image square"></div>
+            <a href="#" class="tours">
+                <h3 class="tours">Casa Polanco, Mexico City</h3>
+                <p>The perfect spot to relax away from the hustle and bustle in the city. This unique property offers xxxxx</p>
+            </a>
+        </div>
+    
+        <div class="col-3">
+            <div class="bg-image square"></div>
+            <a href="#" class="tours">
+                <h3 class="tours">Casa Malca, Tulum</h3>
+                <p>Be surrounded by art while enjoying the best beaches in the world in this location full of history. </p>
+            </a>
+        </div>
+    
+        <div class="col-3">
+            <div class="bg-image square"></div>
+            <a href="#" class="tours">
+                <h3 class="tours">Chable Yucatan</h3>
+                <p>There is a reason this property has been named the best hotel in the service. The truly personal service and an unparralled decor make this the perfect escape. </p>
+            </a>
+        </div>
+                             
+     </div>
+</section>
 
-
-
-<!--Footer  -->
-{% include footer.html %}
