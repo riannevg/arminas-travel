@@ -18,11 +18,11 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 <!-- Hotels grid -->
 <section class="grid-spaceAround-top center padded-5">     
     
-    <div class="col-9">
+    <div class="col-9 grid">
     
         {% for hotelpost in site.hotelposts %}
 
-            {% hotel-loop.html %}
+            {% include hotel-loop.html %}
 
         {% endfor %}
 

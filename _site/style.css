@@ -60,6 +60,11 @@ body, html{
 .vh-90{min-height:90vh;}
 .vh-100{min-height:100vh;}
 
+
+.capped-width{ 
+    max-width: 1000px; margin: auto; 
+}
+
 /* Fonts & Typography */
 
 h1, h2{
