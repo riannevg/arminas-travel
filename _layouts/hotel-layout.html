@@ -4,10 +4,10 @@ layout: default
 
 <section class="grid-spaceAround-middle center padded-5">
 
-    <div class="col-8"> 
-        
-        <h2 class="margin-b-2">hotel name</h2><br><h3>Hotel location</h3>
+    <div class="col-8">         
+        <h2 class="margin-b-2">{{page.name}}</h2><br><h3>{{page.location}}</h3>
     </div>    
+
     <div class="col-9 margin-b-2">
         
         {{content}}
@@ -16,17 +16,7 @@ layout: default
 
     <!-- LINE -->
     {% include line.html %}
-
-    <!-- Grid nearby hotels -->
-    <div class="col-9">
-        <h2>Nearby hotels</h2>
-        <div>
-            {% for hotel in site.hotels limit:3 %}
-                <a href="{{hotel.url}}">{{hotel.name}}</a>
-            {% endfor %}
-        </div>
-
-    </div>
+  
 
 
 </section>

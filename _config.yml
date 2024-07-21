@@ -1,0 +1,23 @@
+collections:
+  hotelposts:
+    output: true
+  hotelarchives:
+    output: true
+
+_options:
+  content:
+    styles: /editor.css
+    format: p h1 h2 h3 h4 h5 h6
+    bold: true
+    italic: true
+    bulletedlist: true
+    code: true
+    right: right
+    center: center
+    left: left
+    link: true
+    embed: true
+    undo: true
+    redo: true
+    underline: true
+    image: true
