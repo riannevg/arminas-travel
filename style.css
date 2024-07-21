@@ -172,6 +172,15 @@ h3.tours:hover{
     text-decoration:underline;
 }
 
+.blog a{
+    text-decoration:none;
+    color:inherit;
+}
+
+.blog a:hover{
+    text-decoration:underline;
+
+
 /* Form Styles */
 form input, 
 form textarea {
