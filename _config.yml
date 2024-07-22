@@ -37,3 +37,5 @@ _options:
     underline: true
     strike: true
     image: true
+    image_size_attributes: true
+    resize_style: contain
