@@ -2,13 +2,13 @@ collections:
   hotelposts:
     output: true
     permalink: /hotels/:slug
-  hotelarchives: 
+  hotelarchives:
     output: true
     permalink: /:title
   destposts:
     output: true
     permalink: /destinations/:slug
-  destarchives: 
+  destarchives:
     output: true
     permalink: /:title
 

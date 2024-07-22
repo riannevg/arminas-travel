@@ -1,5 +1,5 @@
 ---
-layout: destination-layout
+layout: dest-layout
 name: Riviera Maya
 featured: true
 categories:
