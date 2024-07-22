@@ -1,10 +1,18 @@
 collections:
   hotelposts:
     output: true
-    permalink: /posts/:slug
+    permalink: /hotels/:slug
   hotelarchives: 
     output: true
     permalink: /:title
+  destposts:
+    output: true
+    permalink: /destinations/:slug
+  destarchives: 
+    output: true
+    permalink: /:title
+
+  
     
     
 _options:
