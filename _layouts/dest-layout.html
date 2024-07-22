@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<section class="grid-spaceAround center padded-5 capped-width blog">
+
+    <div class="col-8">         
+        <h2 class="margin-b-2">{{page.name}}</h2>
+    </div>    
+
+    <div class="col-12 capped-width">  
+
+        {{content}}
+
+        <a href="/destinations.html" class="button">Back to all destinations</a>
+    </div>
+
+    <!-- LINE -->
+    {% include line.html %}  
+
+
+</section>

@@ -6,11 +6,42 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 ---
 
 
-
+<!-- DESTINATIONS TEXT -->
 <section class="grid-spaceAround center padded-5">
         
     {% include destinations-text.html %}
 
 </section>  
 
+<!-- Line -->
+{% include line.html %}
 
+
+<!-- Categories -->
+<section class="grid-spaceAround-middle">
+    <div class="col-8">
+        {% for destinationarchive in site.destinationarchives %}
+            <a href="{{destinationarchive.url}}" class="button">{{destinationarchive.category}}</a>
+        {% endfor %}
+
+
+    </div>
+
+
+</section>
+
+
+
+<!-- DESTINATIONS grid -->
+<section class="grid-spaceAround-top center padded-5 blog">     
+    
+    <div class="col-11 grid">
+    
+        {% for destinationpost in site.destinationposts %}
+
+            {% include destination-loop.html %}
+
+        {% endfor %}
+
+    </div>
+</section>
