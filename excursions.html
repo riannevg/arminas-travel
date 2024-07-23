@@ -6,10 +6,28 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 ---
 
 
+<!-- Categories -->
+<section class="grid-spaceAround-middle">
+    <div class="col-10 grid-spaceAround">
+        {% for excarchive in site.excarchives %}
+        <div class="col-3 center margin-b-1">
+            <a href="{{excarchive.url}}" class="button">{{excarchive.category}}</a>
+        </div>
+        {% endfor %}
+    </div>
+</section>
 
 
 
+<!-- Hotels grid -->
+<section class="grid-spaceAround-top center padded-5 blog">     
+    
+    <div class="col-11 grid">
+    
+        {% for excpost in site.excposts %}
+            {% include exc-loop.html %}
+        {% endfor %}
 
-
-
+    </div>
+</section>
 

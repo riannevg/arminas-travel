@@ -17,6 +17,12 @@ collections:
   tourarchives:
     output: true
     permalink: /:title
+  excposts:
+    output: true
+    permalink: /tours/:slug
+  excarchives:
+    output: true
+    permalink: /:title
 
   
     
