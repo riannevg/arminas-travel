@@ -15,5 +15,29 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 </section>
 
 
+<!-- Categories -->
+<section class="grid-spaceAround-middle">
+    <div class="col-10 grid-spaceAround">
+        {% for tourarchive in site.tourarchives %}
+        <div class="col-3 center margin-b-1">
+            <a href="{{tourarchive.url}}" class="button">{{tourarchive.category}}</a>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+
+
+
+<!-- Hotels grid -->
+<section class="grid-spaceAround-top center padded-5 blog">     
+    
+    <div class="col-11 grid">
+    
+        {% for tourpost in site.tourposts %}
+            {% include tour-loop.html %}
+        {% endfor %}
+
+    </div>
+</section>
 
 
