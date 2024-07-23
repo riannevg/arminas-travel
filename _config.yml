@@ -1,29 +1,59 @@
-collections:
+# collections:
+#   hotelposts:
+#     output: true
+#     permalink: /hotels/:slug
+#   hotelarchives:
+#     output: true
+#     permalink: /hotel/:title
+#   destposts:
+#     output: true
+#     permalink: /destinations/:slug
+#   destarchives:
+#     output: true
+#     permalink: /dest/:title
+#   tourposts:
+#     output: true
+#     permalink: /tours/:slug
+#   tourarchives:
+#     output: true
+#     permalink: /trs/:title
+#   excposts:
+#     output: true
+#     permalink: /excursions/:slug
+#   excarchives:
+#     output: true
+#     permalink: /exc/:title
+    
+  collections:
   hotelposts:
     output: true
-    permalink: /hotels/:slug
   hotelarchives:
     output: true
-    permalink: /hotel/:title
   destposts:
     output: true
-    permalink: /destinations/:slug
   destarchives:
     output: true
-    permalink: /dest/:title
-  tourposts:
-    output: true
-    permalink: /tours/:slug
-  tourarchives:
-    output: true
-    permalink: /trs/:title
   excposts:
     output: true
-    permalink: /excursions/:slug
   excarchives:
     output: true
-    permalink: /exc/:title
-    
+
+plugins:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: archive
+  permalinks:
+    category: /category/:name/
+
+
+
+
+
+
 _options:
   content:
     styles: /editor.css
