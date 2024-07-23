@@ -11,7 +11,7 @@ collections:
   destarchives:
     output: true
     permalink: /:title
-  tourosts:
+  tourposts:
     output: true
     permalink: /tours/:slug
   tourarchives:
