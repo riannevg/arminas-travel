@@ -4,25 +4,25 @@ collections:
     permalink: /hotels/:slug
   hotelarchives:
     output: true
-    permalink: /:title
+    permalink: /hotels/:title
   destposts:
     output: true
     permalink: /destinations/:slug
   destarchives:
     output: true
-    permalink: /:title
+    permalink: /destinations/:title
   tourposts:
     output: true
     permalink: /tours/:slug
   tourarchives:
     output: true
-    permalink: /:title
+    permalink: /tours/:title
   excposts:
     output: true
-    permalink: /tours/:slug
+    permalink: /excursions/:slug
   excarchives:
     output: true
-    permalink: /:title
+    permalink: /excursions/:title
     
 _options:
   content:
