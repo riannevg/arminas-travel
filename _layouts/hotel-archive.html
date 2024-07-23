@@ -8,6 +8,36 @@
 
     {{content}}
 
+    <section class="grid-spaceAround-top padded-5 blog">     
+        <div class="col-11 grid center">   
+            <h2>{{ page.title }}</h2>
+            <p>Category: {{ page.category }}</p>
+            
+            <h3>All Categories and Posts:</h3>
+            <ul>
+            {% for category in site.categories %}
+                <li><strong>{{ category[0] }}</strong>
+                    <ul>
+                    {% for post in category[1] %}
+                        <li>{{ post.title }}</li>
+                    {% endfor %}
+                    </ul>
+                </li>
+            {% endfor %}
+            </ul>
+    
+            <h3>Posts in Current Category:</h3>
+            <ul>
+            {% for hotelpost in site.categories[page.category] %}
+                <li>{{ hotelpost.title }}</li>
+            {% else %}
+                <li>No posts found in this category.</li>
+            {% endfor %}
+            </ul>
+        </div>
+    </section>
+
+
     {% include footer.html %}
 
 <!-- This is the Jquery script cdnjs. Always goes first. -->
