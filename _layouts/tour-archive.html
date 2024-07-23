@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+
+<section class="grid-spaceAround-top center padded-5 blog">     
+    
+    <div class="col-11 grid">           
+
+        {% for tourpost in site.categories[page.category] %}                
+
+            {% include tour-loop.html %}
+
+        {% endfor %}
+
+    </div>
+</section>
