@@ -8,17 +8,19 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 
 <!-- Hotels  SECTIONS -->
 <section class="grid-spaceAround center padded-5">
-    {% include hotels-text.html %}
+    {% include hotels-text.html %}  
 </section>
 
-<!-- Line -->
-{% include line.html %}
+
+
 
 <!-- Categories -->
 <section class="grid-spaceAround-middle">
-    <div class="col-8">
+    <div class="col-10 grid-spaceAround">
         {% for hotelarchive in site.hotelarchives %}
+        <div class="col-3 center margin-b-1">
             <a href="{{hotelarchive.url}}" class="button">{{hotelarchive.category}}</a>
+        </div>
         {% endfor %}
 
 
