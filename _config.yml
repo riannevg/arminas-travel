@@ -23,14 +23,6 @@ collections:
   excarchives:
     output: true
     permalink: /:title
-
-collections_dir: _collections
-gems: [jekyll-archives]
-
-jekyll-archives:
-  enabled:
-    - categories
-  
     
 _options:
   content:
