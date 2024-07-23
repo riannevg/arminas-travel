@@ -5,11 +5,13 @@ layout: default
 
 <section class="grid-spaceAround-top center padded-5 blog">     
     
-    <div class="col-11 grid">           
+    <div class="col-11 grid">      
+        
+        <h2>{{page.title}}</h2>
 
         {% for destpost in site.categories[page.category] %}                
 
-            {% include dest-loop.html %}
+            {% include dest-loop.html destpost=destpost %}
 
         {% endfor %}
 

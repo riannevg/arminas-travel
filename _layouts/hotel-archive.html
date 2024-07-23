@@ -1,25 +1,30 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+    {{content}}
+
+    {% include footer.html %}
+
+<!-- This is the Jquery script cdnjs. Always goes first. -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<!-- This is for animate on scroll -->
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
 
-<section class="grid-spaceAround-top padded-5 blog">     
-    
-    <div class="col-11 grid center">   
-        
-        <h2>{{page.title}}</h2>
+<!-- Slick Slider -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js" integrity="sha512-WNZwVebQjhSxEzwbettGuQgWxbpYdoLf7mH+25A7sfQbbxKeS5SQ9QBf97zOY4nOlwtksgDA/czSTmfj4DUEiQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-        {% for hotelpost in site.categories[page.category] %}                
 
-            {% include hotel-loop.html hotelpost=hotelpost %}
+<!-- Our custom javascript file. Always goes last.  -->
+<script src="scripts.js"></script>
 
-        {% endfor %}     
+</body>
 
-    </div>
-
-    <div class="col-12 center capped-width">          
-
-        <a href="/hotels.html" class="button">Back to all hotels</a>
-    </div>
-
-</section>
+</html>
