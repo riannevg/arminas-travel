@@ -103,7 +103,7 @@ PLATFORMS
   x86_64-darwin
 
 DEPENDENCIES
-  jekyll (~> 4.3.3)
+  jekyll
   jekyll-archives
 
 BUNDLED WITH
