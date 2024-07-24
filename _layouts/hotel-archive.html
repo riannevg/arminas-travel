@@ -2,10 +2,9 @@
 layout: default
 ---
 
-<section class="grid-spaceAround-top padded-5 blog">
-    <div class="col-11 grid center">
-        <h2>{{ post.name }}</h2>
-        <!-- <p>Category: {{ page.category | replace: "-", " " }}</p> -->
+<section class="grid-spaceAround-top center padded-5 blog">
+    <div class="col-11">
+        <h2 class="center margin-b-1">{{ page.title }}</h2>        
        
         <div class="col-11 padded-1 grid">
      
@@ -13,8 +12,8 @@ layout: default
             {% for post in posts_in_category %}
             <div class="col-3 padded-1">
             
-            <a href="{{hotelpost.url}}">
-                <div class="bg-image square" style="background-image:url({{hotelpost.header_image}})">  </div>
+            <a href="{{post.url}}">
+                <div class="bg-image square" style="background-image:url({{post.header_image}})">  </div>
                 <h3>{{post.title}}</h3>
                 <p>{{post.location}}</p>
             </a>  
