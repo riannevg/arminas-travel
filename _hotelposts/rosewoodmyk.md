@@ -4,7 +4,7 @@ name: Rosewood Mayakoba
 location: Riviera Maya
 featured: true
 categories: 
-  - Riviera Maya Hotels
+  - Riviera-Maya-Hotels
 header_image: /images/horizontal.jpg
 ---
 

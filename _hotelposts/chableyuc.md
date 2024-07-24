@@ -4,8 +4,8 @@ name: Chable Yucatan
 location: Chochola
 featured: true
 categories: 
-  - Yucatan Hotels
-  - Merida Hotels
+  - Yucatan-Hotels
+  - Merida-Hotels
 header_image: /images/vertical.jpg
 ---
 
