@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Sheraton Soberano
+title: Sheraton Soberano
 location: Chihuahua
 featured: false
 categories:

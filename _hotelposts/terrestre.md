@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Terrestre
+title: Terrestre
 location: Puerto Escondido
 featured: false
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-name: Mini Mexico Acapulco
+title: Mini Mexico Acapulco
 featured: false
 categories:
   - Acapulco Tours

@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Kempinski
+title: Kempinski
 location: Cancun
 featured: false
 categories:

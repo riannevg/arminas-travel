@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Kimpton Mas Olas
+title: Kimpton Mas Olas
 location: Todos Santos
 featured: false
 categories:

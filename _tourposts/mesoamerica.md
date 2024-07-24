@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-name: Mesoamerica
+title: Mesoamerica
 featured: false
 categories:
   - Yucatan Tours

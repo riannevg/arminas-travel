@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-name: Los Cabos to the Copper Canyonn
+title: Los Cabos to the Copper Canyonn
 featured: false
 categories:
   - Los Cabos Tours

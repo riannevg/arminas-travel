@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Rosewood
+title: Rosewood
 location: San Miguel de Allende
 featured: false
 categories:

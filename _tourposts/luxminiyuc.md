@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-name: Luxury Mini Yucatan
+title: Luxury Mini Yucatan
 featured: false
 categories:
   - Yucatan Tours

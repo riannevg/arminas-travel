@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Hotel Rockaway
+title: Hotel Rockaway
 location: Puerto Escondido
 featured: false
 categories:

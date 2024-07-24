@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Four Seasons
+title: Four Seasons
 location: Mexico City
 featured: true
 categories:

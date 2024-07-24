@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Banyan Tree Puebla
+title: Banyan Tree Puebla
 location: Puebla
 featured: false
 categories:

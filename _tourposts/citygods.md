@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-name: The City of Gods
+title: The City of Gods
 featured: false
 categories:
   - Yucatan Tours

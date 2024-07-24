@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Nututun
+title: Nututun
 location: Palenque
 featured: false
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Grand Velas Riviera Nayarit
+title: Grand Velas Riviera Nayarit
 location: Nueva Vallarta
 featured: false
 categories:

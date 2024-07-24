@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-name: In the footsteps of Cortes
+title: In the footsteps of Cortes
 featured: false
 categories:
   - Yucatan Tours

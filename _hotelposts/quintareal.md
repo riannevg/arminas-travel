@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Quinta Real 
+title: Quinta Real 
 location: Oaxaca
 featured: false
 categories:

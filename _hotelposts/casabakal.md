@@ -1,7 +1,6 @@
 ---
 layout: hotel-layout
 title: Casa Bakal
-name: Casa Bakal
 location: Bacalar
 featured: false
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Hotel Indigo Puerto Cortez
+title: Hotel Indigo Puerto Cortez
 location: La Paz
 featured: false
 categories:

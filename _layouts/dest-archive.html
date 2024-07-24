@@ -2,19 +2,29 @@
 layout: default
 ---
 
+<section class="grid-spaceAround-top padded-5 blog">
+    <div class="col-11 grid center">
+        <h2>{{ post.name }}</h2>
+       
+       
+        <div class="col-11 padded-1 grid">
+     
+            {% assign posts_in_category = site.destposts | where: "categories", page.category %}
+            {% for post in posts_in_category %}
+            <div class="col-3 padded-1">
+            
+            <a href="{{destpost.url}}">
+                <div class="bg-image square" style="background-image:url({{destpost.header_image}})">  </div>
+                <h3>{{post.title}}</h3>
+                <p>{{post.location}}</p>
+            </a>  
+        </div>             
 
-<section class="grid-spaceAround-top center padded-5 blog">     
-    
-    <div class="col-11 grid">      
-        
-        <h2>{{page.title}}</h2>
-        <p>Category: {{ page.category | replace: "-", " " }}</p>
-
-            {% assign posts_in_category = site.destposts | where: "categories", page.category %}        
-                {% for post in posts_in_category %}
-                {% include dest-loop.html destpost=destpost %}
-
-        {% endfor %}
-
+            {% endfor %}
+       
+        </div>
+        <div class="col-12 center padded-1">
+        <a href="/destinations.html" class="button">Back to all destinations</a>
+    </div>
     </div>
 </section>

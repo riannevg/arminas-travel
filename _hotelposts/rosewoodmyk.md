@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Rosewood Mayakoba
+title: Rosewood Mayakoba
 location: Riviera Maya
 featured: true
 categories: 

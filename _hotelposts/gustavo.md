@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Casa Gustavo
+title: Casa Gustavo
 location: Campeche
 featured: false
 categories:

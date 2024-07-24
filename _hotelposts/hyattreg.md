@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Hyatt Regency Andares
+title: Hyatt Regency Andares
 location: Guadalajara
 featured: false
 categories:

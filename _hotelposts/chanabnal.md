@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Quinta Chanabnal
+title: Quinta Chanabnal
 location: Palenque
 featured: false
 categories:

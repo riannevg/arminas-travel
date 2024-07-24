@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Hacienda Xcanatun
+title: Hacienda Xcanatun
 location: Merida
 featured: false
 categories:

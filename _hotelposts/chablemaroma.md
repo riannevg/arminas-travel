@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Chable Maroma
+title: Chable Maroma
 location: Riviera Maya
 featured: true
 categories:

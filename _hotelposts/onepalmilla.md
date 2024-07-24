@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: One and Only Palmilla
+title: One and Only Palmilla
 location: Los Cabos
 featured: false
 categories:

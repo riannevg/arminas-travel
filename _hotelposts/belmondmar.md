@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Belmond Maroma
+title: Belmond Maroma
 location: Riviera Maya
 featured: false
 categories:

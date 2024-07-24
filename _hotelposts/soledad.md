@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Hotel de la Soledad
+title: Hotel de la Soledad
 location: Morelia
 featured: false
 categories:

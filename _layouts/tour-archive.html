@@ -2,16 +2,29 @@
 layout: default
 ---
 
+<section class="grid-spaceAround-top padded-5 blog">
+    <div class="col-11 grid center">
+        <h2>{{ post.title }}</h2>
+        <!-- <p>Category: {{ page.category | replace: "-", " " }}</p> -->
+       
+        <div class="col-11 padded-1 grid">
+     
+            {% assign posts_in_category = site.tourposts | where: "categories", page.category %}
+            {% for post in posts_in_category %}
+            <div class="col-3 padded-1">
+            
+            <a href="{{tourpost.url}}">
+                <div class="bg-image square" style="background-image:url({{tourpost.header_image}})">  </div>
+                <h3>{{post.title}}</h3>
+                <p>{{post.location}}</p>
+            </a>  
+        </div>             
 
-<section class="grid-spaceAround-top center padded-5 blog">     
-    
-    <div class="col-11 grid">           
-
-        {% for tourpost in site.categories[page.category] %}                
-
-            {% include tour-loop.html %}
-
-        {% endfor %}
-
+            {% endfor %}
+       
+        </div>
+        <div class="col-12 center padded-1">
+        <a href="/tours.html" class="button">Back to all tours</a>
+    </div>
     </div>
 </section>

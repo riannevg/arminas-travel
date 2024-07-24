@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Galeria Plaza
+title: Galeria Plaza
 location: Monterrey
 featured: false
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Susurros del Corazon
+title: Susurros del Corazon
 location: Punta Mita
 featured: false
 categories:

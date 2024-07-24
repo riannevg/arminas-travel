@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Paradero 
+title: Paradero 
 location: Todos Santos
 featured: false
 categories:

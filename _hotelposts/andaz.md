@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Andaz Mayakoba
+title: Andaz Mayakoba
 location: Riviera Maya
 featured: false
 categories:

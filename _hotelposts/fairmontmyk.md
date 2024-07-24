@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Fairmont Mayakoba
+title: Fairmont Mayakoba
 location: Riviera Maya
 featured: false
 categories:

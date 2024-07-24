@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Emporio
+title: Emporio
 location: Veracruz
 featured: false
 categories:

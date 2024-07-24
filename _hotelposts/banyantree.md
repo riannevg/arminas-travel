@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Banyan Tree Mayakoba
+title: Banyan Tree Mayakoba
 location: Riviera Maya
 featured: false
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Galeria Plaza
+title: Galeria Plaza
 location: Mexico City
 featured: false
 categories:

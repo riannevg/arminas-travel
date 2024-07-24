@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Courtyard Merida
+title: Courtyard Merida
 location: Merida
 featured: false
 categories:

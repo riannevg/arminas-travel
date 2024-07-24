@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Casa Chable
+title: Casa Chable
 location: Sian Ka'an
 featured: false
 categories:

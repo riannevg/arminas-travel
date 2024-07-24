@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Ritz Carlton Mexico
+title: Ritz Carlton Mexico
 location: Mexico City
 featured: false
 categories:

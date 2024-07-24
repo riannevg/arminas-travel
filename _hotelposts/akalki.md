@@ -1,7 +1,6 @@
 ---
 layout: hotel-layout
 title: Akalki Hotel
-name: Akalki Hotel
 location: Bacalar
 featured: false
 categories:

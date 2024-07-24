@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-name: Large Copper Canyon
+title: Large Copper Canyon
 featured: false
 categories:
   - Chihuahua Tours

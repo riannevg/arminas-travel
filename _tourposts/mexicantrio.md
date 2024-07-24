@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-name: Mexican Trio
+title: Mexican Trio
 categories:
   - Yucatan Tours
   - Yucatan

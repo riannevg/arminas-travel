@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Casa Malca
+title: Casa Malca
 location: Tulum
 featured: false
 categories:

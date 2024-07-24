@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Ciudad Real
+title: Ciudad Real
 location: Palenque
 featured: false
 categories:

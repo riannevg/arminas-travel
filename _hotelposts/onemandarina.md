@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: One and Only Mandarina
+title: One and Only Mandarina
 location: Punta Mita
 featured: false
 categories:

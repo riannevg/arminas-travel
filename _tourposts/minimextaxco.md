@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-name: Mini Mexico Taxco
+title: Mini Mexico Taxco
 featured: false
 categories:
   - Mexico Tours

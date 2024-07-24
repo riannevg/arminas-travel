@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-name: Mini Yucatan 3
+title: Mini Yucatan 3
 featured: false
 categories:
   - Yucatan Tours

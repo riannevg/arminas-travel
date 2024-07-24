@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-name: Five Civilazations
+title: Five Civilazations
 featured: false
 categories:
   - Yucatan Tours

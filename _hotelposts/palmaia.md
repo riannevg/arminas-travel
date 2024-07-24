@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Palmaia House of Aia
+title: Palmaia House of Aia
 location: Riviera Maya
 featured: false
 categories:

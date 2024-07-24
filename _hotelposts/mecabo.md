@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Me Cabo
+title: Me Cabo
 location: Los Cabos
 featured: false
 categories:

@@ -7,11 +7,11 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 
 
 <!-- Categories -->
-<section class="grid-spaceAround-middle">
+<section class="grid-spaceAround-middle padded-1">
     <div class="col-10 grid-spaceAround">
         {% for excarchive in site.excarchives %}
         <div class="col-3 center margin-b-1">
-            <a href="{{excarchive.url}}" class="button">{{excarchive.category}}</a>
+            <a href="{{excarchive.url}}" class="button">{{excarchive.category | replace: "-", " "}}</a>
         </div>
         {% endfor %}
     </div>

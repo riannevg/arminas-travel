@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Casa Polanco
+title: Casa Polanco
 location: Mexico City
 featured: false
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-name: Chable Experience
+title: Chable Experience
 featured: false
 categories:
   - Yucatan Tours

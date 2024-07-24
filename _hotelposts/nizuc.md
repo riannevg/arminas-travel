@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Nizuc
+title: Nizuc
 location: Cancun
 featured: true
 categories:

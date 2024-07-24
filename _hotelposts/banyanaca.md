@@ -1,7 +1,6 @@
 ---
 layout: hotel-layout
 title: Banyan Tree Cabo Marquez
-name: Banyan Tree Cabo Marquez
 location: Acapulco
 featured: false
 categories:

@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-name: Chileno Bay
+title: Chileno Bay
 location: Los Cabos
 featured: false
 categories:
