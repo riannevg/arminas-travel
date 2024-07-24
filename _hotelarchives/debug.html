@@ -1,0 +1,23 @@
+---
+title: Debug Page
+layout: default
+---
+<h2>All Posts</h2>
+<ul>
+{% for post in site.hotelposts %}
+    <li>{{ post.title }} - Categories: {{ post.categories }}</li>
+{% endfor %}
+</ul>
+
+<h2>All Categories and Posts</h2>
+<ul>
+{% for category in site.categories %}
+    <li><strong>{{ category[0] }}</strong>
+        <ul>
+        {% for post in category[1] %}
+            <li>{{ post.title }}</li>
+        {% endfor %}
+        </ul>
+    </li>
+{% endfor %}
+</ul>

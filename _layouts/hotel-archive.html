@@ -1,60 +1,20 @@
-<!DOCTYPE html>
-<html>
-    {% include head.html %}
+---
+layout: default
+---
 
-<body>
-
-    {% include header.html %}
-
-    {{content}}
-
-    <section class="grid-spaceAround-top padded-5 blog">     
-        <div class="col-11 grid center">   
-            <h2>{{ page.title }}</h2>
-            <p>Category: {{ page.category }}</p>
-            
-            <h3>All Categories and Posts:</h3>
-            <ul>
-            {% for category in site.categories %}
-                <li><strong>{{ category[0] }}</strong>
-                    <ul>
-                    {% for post in category[1] %}
-                        <li>{{ post.title }}</li>
-                    {% endfor %}
-                    </ul>
-                </li>
-            {% endfor %}
-            </ul>
-    
-            <h3>Posts in Current Category:</h3>
-            <ul>
-            {% for hotelpost in site.categories[page.category] %}
-                <li>{{ hotelpost.title }}</li>
-            {% else %}
-                <li>No posts found in this category.</li>
-            {% endfor %}
-            </ul>
-        </div>
-    </section>
-
-
-    {% include footer.html %}
-
-<!-- This is the Jquery script cdnjs. Always goes first. -->
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js" integrity="sha512-pumBsjNRGGqkPzKHndZMaAG+bir374sORyzM3uulLV14lN5LyykqNk8eEeUlUkB3U0M4FApyaHraT65ihJhDpQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<!-- This is for animate on scroll -->
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-
-
-<!-- Slick Slider -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js" integrity="sha512-WNZwVebQjhSxEzwbettGuQgWxbpYdoLf7mH+25A7sfQbbxKeS5SQ9QBf97zOY4nOlwtksgDA/czSTmfj4DUEiQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-
-<!-- Our custom javascript file. Always goes last.  -->
-<script src="scripts.js"></script>
-
-</body>
-
-</html>
+<section class="grid-spaceAround-top padded-5 blog">     
+    <div class="col-11 grid center">   
+        <h2>{{ page.title }}</h2>
+        <p>Category: {{ page.category }}</p>
+        
+        <h3>Posts in Current Category:</h3>
+        <ul>
+        {% assign posts_in_category = site.hotelposts | where: "categories", page.category %}
+        {% for post in posts_in_category %}
+            <li>{{ post.title }}</li>
+        {% else %}
+            <li>No posts found in this category.</li>
+        {% endfor %}
+        </ul>
+    </div>
+</section>
