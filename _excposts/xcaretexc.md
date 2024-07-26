@@ -6,4 +6,6 @@ categories:
   - Riviera-Maya-Excursions
 header_image: /images/vertical.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas venenatis tellus id faucibus fringilla. Cras libero dui, pharetra at varius et, congue vel risus. Nulla in venenatis nisi. Integer placerat euismod sem. Aliquam nisi ligula, facilisis nec hendrerit sit amet, sodales vel sem. Aliquam ac dolor imperdiet, aliquam leo eu, ultricies lorem. Aenean ultrices pulvinar dictum. In vitae ante lorem. Curabitur sit amet gravida ex. Phasellus malesuada lectus sapien, vel varius ante ornare quis. Donec scelerisque feugiat arcu in tincidunt.
+
+### Main Information
+Xcaret, meaning “Little Inlet” in Maya, for more than for 1000 years had been one of the most important Mayan ceremonial sites and seaports. Mayans used to come here to purify themselves in “Cenote” (natural water well). Today this nature’s sacred paradise is an Eco-Archaelogical Park with a plethora of attractions such as underground river swim, dolphin show, horses, a farm with tropical birds, beach and its famous crystal water caves. Xcaret is eco-archeological theme park which aims to package the Yucatan’s Mayan history and its tropical lagoon ecology into one day-long fun experience. The result is well-executed; Xcaret is a terrific place for a family to spend a day. Xcaret is approximately an hour’s drive south of Cancun.

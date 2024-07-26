@@ -6,4 +6,14 @@ categories:
   - Riviera-Maya-Excursions
 header_image: /images/vertical.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas venenatis tellus id faucibus fringilla. Cras libero dui, pharetra at varius et, congue vel risus. Nulla in venenatis nisi. Integer placerat euismod sem. Aliquam nisi ligula, facilisis nec hendrerit sit amet, sodales vel sem. Aliquam ac dolor imperdiet, aliquam leo eu, ultricies lorem. Aenean ultrices pulvinar dictum. In vitae ante lorem. Curabitur sit amet gravida ex. Phasellus malesuada lectus sapien, vel varius ante ornare quis. Donec scelerisque feugiat arcu in tincidunt.
+### Main Information
+Selvatica is a natural park located in Puerto Morelos with canopy – zip lines and circuits through the jungle for driving an ATV. Selvatica is committed to provide you a great experience under the best safety conditions. The Extreme Canopy Adventure is the longest zip line circuit in Quintana Roo, featuring 12 high-speed cables and the best safety.Selvatica is ideal for Families and adults.
+
+We recommend that you wear closed tennis shoes, biodegradable sunscreen and repellent and comfortable clothing, bring your towel, change of clothes.
+
+### Includes
+Safety equipment
+Light snackBottled water
+Zip line circuit
+Army truck ride
+Swim in cenote

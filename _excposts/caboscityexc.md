@@ -5,4 +5,19 @@ categories:
   - Los-Cabos-Excursions
 header_image: /images/vertical.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas venenatis tellus id faucibus fringilla. Cras libero dui, pharetra at varius et, congue vel risus. Nulla in venenatis nisi. Integer placerat euismod sem. Aliquam nisi ligula, facilisis nec hendrerit sit amet, sodales vel sem. Aliquam ac dolor imperdiet, aliquam leo eu, ultricies lorem. Aenean ultrices pulvinar dictum. In vitae ante lorem. Curabitur sit amet gravida ex. Phasellus malesuada lectus sapien, vel varius ante ornare quis. Donec scelerisque feugiat arcu in tincidunt.
+### Main Information
+A narrative adventure through the storied past and present of Los Cabos. With your guides, you will start your adventure and get to know Los Cabos and its long history starting in the early 14th Century involving famous discoverers, famous pirates and the native Indian tribe called the Pericues.
+
+Explore Los Cabos by visiting the local Glass Blowing Factory, the Zocalo, the Jesuit Mission, and Tequila Tasting. Finally visit Lands End where you will explore Pelicans Rock, Lovers and Divorce Beach and the famous Arch, Sea Lions Colony while viewing many other rock formations with plenty of history on a comfortable Glass Bottom Boat. Enjoy thousands of colorful tropical fish during your ride to Lands End.
+
+### Tour Days & Pick-Up Times
+Monday – Saturday
+Cabo San Lucas – 7:30am*
+Corridor – 8:00am*
+San Jose – 8:20am*
+*Times vary depending on pick-up location and will be confirmed when reservation is booked.
+
+Tour Length
+Approximately 5 hours
+
+Private Charters and customized tours are available by request (6 person minimum)

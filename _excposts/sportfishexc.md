@@ -5,4 +5,6 @@ categories:
   - Los-Cabos-Excursions
 header_image: /images/vertical.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas venenatis tellus id faucibus fringilla. Cras libero dui, pharetra at varius et, congue vel risus. Nulla in venenatis nisi. Integer placerat euismod sem. Aliquam nisi ligula, facilisis nec hendrerit sit amet, sodales vel sem. Aliquam ac dolor imperdiet, aliquam leo eu, ultricies lorem. Aenean ultrices pulvinar dictum. In vitae ante lorem. Curabitur sit amet gravida ex. Phasellus malesuada lectus sapien, vel varius ante ornare quis. Donec scelerisque feugiat arcu in tincidunt.
+### Main Information
+
+These waters are full of monster fish – and we know how to catch them! Picture yourself pulling in a HUGE Marlin, or an enormous Tuna – one for the ages. Sailfish, Roosterfish, Grouper, Wahoo – Cabo has them all. We’ve helped many people live their dreams…and we can help you too!

@@ -5,4 +5,17 @@ categories:
   - Los-Cabos-Excursions
 header_image: /images/vertical.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas venenatis tellus id faucibus fringilla. Cras libero dui, pharetra at varius et, congue vel risus. Nulla in venenatis nisi. Integer placerat euismod sem. Aliquam nisi ligula, facilisis nec hendrerit sit amet, sodales vel sem. Aliquam ac dolor imperdiet, aliquam leo eu, ultricies lorem. Aenean ultrices pulvinar dictum. In vitae ante lorem. Curabitur sit amet gravida ex. Phasellus malesuada lectus sapien, vel varius ante ornare quis. Donec scelerisque feugiat arcu in tincidunt.
+### Main Information
+Come and experience a very relaxing walk trot on a good horse, feel the sensation of the breeze touching your face while you admire the huge waves of the Pacific Ocean and great views.
+
+Departure times:
+
+10:30 am
+
+1:00 pm
+
+3:0 pm
+
+Tour length: 2 hours.
+
+Minimum age: 7 years.
