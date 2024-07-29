@@ -7,9 +7,7 @@ categories:
 header_image: /images/vertical.jpg
 ---
 
-<section class='grid-spaceBetween-middle blog'>
-  <div class='col-9 left margin-b-2'><h2>Multi-day tour from Mexico City to Cancun including Teotihuacan, Puebla, Palenque, Yaxchilan, Campeche, Chichen Itza and Yucatan</h2></div>
-  <div class='col-2 border'><h3>Duration</h3><br><p class='margin-b-1'>14 days</p></div>  
+  <div class='col-9 left margin-b-2'><h2>Multi-day tour from Mexico City to Cancun including Teotihuacan, Puebla, Palenque, Yaxchilan, Campeche, Chichen Itza and Yucatan</h2>
 
 <div class='col-5'>
   <div class='bg-image square'></div>
@@ -70,13 +68,3 @@ Impressive megapolis showcasing Mexico’s unique combination of Indians, Mestiz
 <p>Travel through fields of henequen, natural fiber, the ancient currency of Yucatan. Arrive to Chichen-Itza, rightly named ‘Wonder of the New World. This temple complex beautifully represents Mayan – Tolteque culture. Only the elite – Magicians, scientists, and ‘soccer’ players could access this special landscape of white stone and ‘eyes’ of the earth – underground lakes. Such temples, belonging to Mexico’s classical and post-classical periods, were never seen in action by the Spanish colonizers. When the Europeans came, the Temples were already abandoned. Arch-astronomy was developed here, a world-view holding Philosophy and History to be identical. View the Pyramid of Kukulkan, ‘the feathered serpent’, the field of ball games, the observatory and much more. Swim in Ik-Kil cenote, ‘a place where the wind is born’, and the Yucatan’s most beautiful karsts lake. Finally, we visit Ek Balam, the archeological center celebrating fantastic discoveries of the last decades. Learn how recent discoveries have flipped understanding of Mayan culture upside down. Only a small area is visible, the remainder of the city is buried under thick jungle. Spot the Acropolis, Ball Game field, Twin Buildings, Observatory, and ritual saunce, the Temazcal. Arrive to Cancun.</p>
 
 
-</div>
-
-<div class='col-6 padded-1'>
-  <div class='bg-image landscape'></div>
-</div>
-
-<div class='col-6 padded-1'>
-  <div class='bg-image landscape'></div>
-</div>
-</section>
