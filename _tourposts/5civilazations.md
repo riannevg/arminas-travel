@@ -10,8 +10,6 @@ header_image: /images/vertical.jpg
 
 &nbsp;
 
-![](/_site/images/horizontal.jpg)![](/images/vertical.jpg)
-
 #### Day 1: Arrival to Mexico City
 
 Tour starts from transfer from Mexico City airport to the hotel (30-40 min)
