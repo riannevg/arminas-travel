@@ -25,6 +25,9 @@ body, html{
     overflow-x: hidden;
   }
 
+  .border{
+    border: 1px solid grey;
+  }
   /* Utility classes */
 
 
@@ -163,6 +166,16 @@ li{
 
 
 /* Link Styles */
+.blog {
+    font-family: var(--sans-serif);
+}
+
+.blog h2{
+    font-size:2rem;
+    font-weight:300;
+    /* text-transform:uppercase; */
+}
+
 .tours{
     text-decoration:none;
     color:inherit;
