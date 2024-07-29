@@ -7,9 +7,9 @@ categories:
 header_image: /images/vertical.jpg
 ---
 
-<h2>Multi-day tour from Mexico City to Cancun including Teotihuacan, Puebla, Palenque, Yaxchilan, Campeche, Chichen Itza and Yucatan</h2>
+Multi-day tour from Mexico City to Cancun including Teotihuacan, Puebla, Palenque, Yaxchilan, Campeche, Chichen Itza and Yucatan
 
-<h3>Day 1: Arrival to Mexico City</h3>
+Day 1: Arrival to Mexico City
 
 <p>Tour starts from transfer from Mexico City airport to the hotel (30-40 min).</p>
 
