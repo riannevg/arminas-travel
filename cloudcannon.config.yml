@@ -113,22 +113,19 @@ _inputs:
       resize_style: contain
       snippet: true
     cascade: true
-  image half:
+  image resize:
     type: image
     options:
       paths:
       mime_type:
       empty_type:
-      resize_style: crop
-      width: 0
+      resize_style: contain
+      width: 500
       height:
       expandable: true
       allowed_sources:
       prevent_resize_existing_files:
       sizes:
-        - size:
-          target:
-    label: resize
     cascade: true
 _select_data:
   jekyll-archives:
