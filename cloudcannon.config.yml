@@ -1,0 +1,148 @@
+paths:
+  uploads: uploads
+  uploads_use_relative_path: false
+  static: ''
+  dam_uploads: ''
+  dam_static: ''
+  collections: ''
+  data: _data
+  layouts: _layouts
+  includes: _includes
+collections_config:
+  pages:
+    path: ''
+    output: true
+    filter: strict
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  hotelposts:
+    path: _hotelposts
+    output: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  hotelarchives:
+    path: _hotelarchives
+    output: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  destposts:
+    path: _destposts
+    output: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  destarchives:
+    path: _destarchives
+    output: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  tourposts:
+    path: _tourposts
+    output: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  tourarchives:
+    path: _tourarchives
+    output: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  excposts:
+    path: _excposts
+    output: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  excarchives:
+    path: _excarchives
+    output: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+_inputs:
+  categories:
+    type: multiselect
+    options:
+      allow_create: true
+      empty_type: array
+    cascade: true
+  tags:
+    type: multiselect
+    options:
+      allow_create: true
+      empty_type: array
+    cascade: true
+  content:
+    type: text
+    options:
+      styles: /editor.css
+      blockquote: true
+      horizontalrule: true
+      format: p h1 h2 h3 h4 h5 h6
+      bold: true
+      italic: true
+      numberedlist: true
+      bulletedlist: true
+      code: true
+      table: true
+      right: right
+      center: center
+      left: left
+      embed: true
+      link: true
+      undo: true
+      redo: true
+      underline: true
+      strike: true
+      image: true
+      image_size_attributes: true
+      resize_style: contain
+      snippet: true
+    cascade: true
+  image half:
+    type: image
+    options:
+      paths:
+      mime_type:
+      empty_type:
+      resize_style: crop
+      width: 0
+      height:
+      expandable: true
+      allowed_sources:
+      prevent_resize_existing_files:
+      sizes:
+        - size:
+          target:
+    label: resize
+    cascade: true
+_select_data:
+  jekyll-archives:
+    layout: archive
+    enabled:
+      - categories
+    permalinks:
+      year: /:year/
+      month: /:year/:month/
+      day: /:year/:month/:day/
+      tag: /tag/:name/
+      category: /category/:name/
+    layouts:
+      category: archive
+  archives: []
+data_config: {}
+timezone: Etc/UTC
