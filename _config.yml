@@ -71,3 +71,7 @@ _options:
     image: true
     image_size_attributes: true
     resize_style: contain
+
+_editables:
+  content:
+    snippet: true
