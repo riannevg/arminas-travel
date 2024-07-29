@@ -7,17 +7,7 @@ categories:
 header_image: /images/vertical.jpg
 ---
 
-  <div class='col-9 left margin-b-2'><h2>Multi-day tour from Mexico City to Cancun including Teotihuacan, Puebla, Palenque, Yaxchilan, Campeche, Chichen Itza and Yucatan</h2>
-
-<div class='col-5'>
-  <div class='bg-image square'></div>
-</div>
-
-<div class='col-5'>
-  <div class='bg-image square'></div>
-</div>
-
-<div class='col-12 left margin-t-2'>
+<h2>Multi-day tour from Mexico City to Cancun including Teotihuacan, Puebla, Palenque, Yaxchilan, Campeche, Chichen Itza and Yucatan</h2>
 
 <h3>Day 1: Arrival to Mexico City</h3>
 
