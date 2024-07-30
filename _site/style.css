@@ -131,6 +131,18 @@ li{
     background-repeat:no-repeat;    
 }
 
+.bg-cdmx{
+    background-image:url('/images/destinations/cdmx/cdmx9.jpg')
+}
+
+.bg-lapaz{
+    background-image:url('/images/destinations/lapaz/lapaz8.jpg')
+}
+
+.bg-yucatan{
+    background-image:url('/images/destinations/yucatan/yucatan2.jpg')
+}
+
 /* Button Styles */
 
 .button{
