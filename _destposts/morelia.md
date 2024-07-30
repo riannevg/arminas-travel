@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Morelia
-featured: true
+featured: false
 categories:
   - Morelia
-header_image: /images/vertical.jpg
+header_image: /images/destinations/morelia/morelia1.jpg
 ---
 # **Morelia: A Colonial Gem in the Heart of Mexico**
 

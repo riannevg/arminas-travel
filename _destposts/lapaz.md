@@ -4,7 +4,7 @@ name: La Paz
 featured: true
 categories:
   - La-Paz
-header_image: /images/vertical.jpg
+header_image: /images/destinations/lapaz/lapaz8.jpg
 ---
 # **La Paz: The Pearl of the Sea of Cortez**
 

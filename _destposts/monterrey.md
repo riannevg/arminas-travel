@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Monterrey
-featured: true
+featured: false
 categories:
   - Monterrey
-header_image: /images/vertical.jpg
+header_image: /images/destinations/monterrey/monterrey2.jpg
 ---
 # **Monterrey: The Industrial Heart of Northern Mexico**
 

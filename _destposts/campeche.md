@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Campeche
-featured: true
+featured: false
 categories:
   - Campeche
-header_image: /images/vertical.jpg
+header_image: /images/destinations/campeche/campeche2.jpg
 ---
 # **Campeche: A Journey Through Time and Tradition**
 

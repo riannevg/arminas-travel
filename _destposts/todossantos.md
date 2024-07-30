@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Todos Santos
-featured: true
+featured: false
 categories:
   - Todos-Santos
-header_image: /images/vertical.jpg
+header_image: /images/destinations/todossantos/todossantos3.jpg
 ---
 
 # **Todos Santos: A Charming Oasis on Mexico's Pacific Coast**

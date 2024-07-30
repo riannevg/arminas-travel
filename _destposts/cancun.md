@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Cancun
-featured: true
+featured: false
 categories:
   - Cancun
-header_image: /images/vertical.jpg
+header_image: /images/destinations/cancun/cancun2.jpg
 ---
 # **Cancun: Paradise Found on Mexico's Caribbean Coast**
 

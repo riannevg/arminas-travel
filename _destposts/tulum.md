@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Tulum
-featured: true
+featured: false
 categories:
   - Tulum
-header_image: /images/vertical.jpg
+header_image: /images/destinations/tulum/tulum4.jpg
 ---
 # **Tulum: A Fusion of Tranquil Beauty and Vibrant Energy**
 

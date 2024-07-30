@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Oaxaca
-featured: true
+featured: false
 categories:
   - Oaxaca
-header_image: /images/vertical.jpg
+header_image: /images/destinations/oaxaca/oaxaca7.jpg
 ---
 # **Oaxaca: A Cultural and Culinary Paradise**
 

@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Riviera Maya
-featured: true
+featured: false
 categories:
   - Riviera-Maya
-header_image: /images/vertical.jpg
+header_image: /images/destinations/rivieramaya/rivieramaya4.jpg
 ---
 # **Riviera Maya: A Journey Through Nature and Culture**
 

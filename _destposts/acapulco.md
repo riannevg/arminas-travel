@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Acapulco
-featured: true
+featured: false
 categories:
   - Acapulco
-header_image: /images/vertical.jpg
+header_image: /images/destinations/acapulco/acapulco5.jpg
 ---
 # **Acapulco: The Timeless Jewel of Mexico’s Pacific Coast**
 

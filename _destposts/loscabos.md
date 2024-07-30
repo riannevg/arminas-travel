@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Los Cabos
-featured: true
+featured: false
 categories:
   - Los-Cabos
-header_image: /images/vertical.jpg
+header_image: /images/destinations/loscabos/loscabos7.jpg
 ---
 # **Los Cabos: Where the Desert Meets the Sea**
 

@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Bacalar
-featured: true
+featured: false
 categories:
   - Bacalar
-header_image: /images/vertical.jpg
+header_image: /images/destinations/bacalar/bacalar6.jpg
 ---
 # **Bacalar: The Lagoon of Seven Colors**
 

@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Palenque
-featured: true
+featured: false
 categories:
   - Palenque
-header_image: /images/vertical.jpg
+header_image: /images/destinations/palenque/palenque7.jpg
 ---
 # **Palenque: A Mystical Journey into Ancient Maya Civilization**
 

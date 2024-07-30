@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Chihuahua
-featured: true
+featured: false
 categories:
   - Chihuahua
-header_image: /images/vertical.jpg
+header_image: /images/destinations/chihuahua/chihuahua7.jpg
 ---
 # **Chihuahua: Where Heritage Meets Adventure**
 

@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Veracruz
-featured: true
+featured: false
 categories:
   - Veracruz
-header_image: /images/vertical.jpg
+header_image: /images/destinations/veracruz/veracruz1.jpg
 ---
 # **Veracruz: A Coastal Gem of History, Culture, and Vibrant Festivities**
 

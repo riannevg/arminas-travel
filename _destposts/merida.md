@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Merida
-featured: true
+featured: false
 categories:
   - Merida
-header_image: /images/vertical.jpg
+header_image: /images/destinations/merida/merida9.jpg
 ---
 # **Mérida: The White City of Culture and Tradition**
 

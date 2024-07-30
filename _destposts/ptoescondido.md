@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Puerto Escondido
-featured: true
+featured: false
 categories:
   - Puerto-Escondido
-header_image: /images/vertical.jpg
+header_image: /images/destinations/puertoescondido/ptoescondido4.jpg
 ---
 # **Puerto Escondido: A Laid-Back Paradise on the Pacific Coast**
 

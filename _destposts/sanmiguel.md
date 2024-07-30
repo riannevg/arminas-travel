@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: San Miguel de Allende
-featured: true
+featured: false
 categories:
   - San-Miguel-de-Allende
-header_image: /images/vertical.jpg
+header_image: /images/destinations/sanmiguel/sanmiguel6.jpg
 ---
 # **San Miguel de Allende: A Colonial Jewel of Art and Culture**
 

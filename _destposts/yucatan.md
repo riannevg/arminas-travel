@@ -4,7 +4,7 @@ name: Yucatan
 featured: true
 categories:
   - Yucatan
-header_image: /images/vertical.jpg
+header_image: /images/destinations/yucatan/yucatan1.jpg
 ---
 
 # **Yucatán State: A Rich Tapestry of Maya Heritage and Natural Wonders**

@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Puebla
-featured: true
+featured: false
 categories:
   - Puebla
-header_image: /images/vertical.jpg
+header_image: /images/destinations/puebla/puebla1.jpg
 ---
 # **Puebla: A City of History, Culture, and Gastronomy**
 

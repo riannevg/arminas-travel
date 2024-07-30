@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Puerto Vallarta
-featured: true
+featured: false
 categories:
   - Puerto-Vallarta
-header_image: /images/vertical.jpg
+header_image: /images/destinations/vallarta/puertovallarta5.jpg
 ---
 # **Puerto Vallarta: A Coastal Paradise of Sun, Sea, and Culture**
 

@@ -1,10 +1,10 @@
 ---
 layout: dest-layout
 name: Guadalajara
-featured: true
+featured: false
 categories:
   - Guadalajara
-header_image: /images/vertical.jpg
+header_image: /images/destinations/guadalajara/guadalajara8.jpg
 ---
 # **Guadalajara: The Heartbeat of Mexican Culture**
 
