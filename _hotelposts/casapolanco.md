@@ -7,4 +7,4 @@ categories:
   -  Mexico-City-Hotels
 header_image: /images/vertical.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas venenatis tellus id faucibus fringilla. Cras libero dui, pharetra at varius et, congue vel risus. Nulla in venenatis nisi. Integer placerat euismod sem. Aliquam nisi ligula, facilisis nec hendrerit sit amet, sodales vel sem. Aliquam ac dolor imperdiet, aliquam leo eu, ultricies lorem. Aenean ultrices pulvinar dictum. In vitae ante lorem. Curabitur sit amet gravida ex. Phasellus malesuada lectus sapien, vel varius ante ornare quis. Donec scelerisque feugiat arcu in tincidunt.
+Hotel Boutique Casa Polanco is an example of a boutique hotel. It's housed in an original 19th-century building, offering a unique charm. Located in the center of Polanco, surrounded by boutiques and restaurants, it provides a feeling of staying in a private home. It's definitely a new and different way to experience Mexico City.
