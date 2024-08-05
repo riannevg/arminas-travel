@@ -5,7 +5,7 @@ location: Mexico City
 featured: false
 categories:
   - Mexico-City-Hotels
-header_image: /images/vertical.jpg
+header_image: /images/hotels/ritzcdmx/ritzcdmx2.jpeg
 ---
 The Ritz-Carlton in Mexico City is an amazing touristic  product.
 Unlike the traditional Four Seasons, which is also amazing,

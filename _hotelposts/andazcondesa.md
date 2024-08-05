@@ -5,7 +5,8 @@ location: Mexico City
 featured: false
 categories:
   -  Mexico-City-Hotels
-header_image: /images/vertical.jpg
+header_image: /images/hotels/andazcondesa/andazcondesa5.webp
+
 ---
 
 Hotel Andaz Condesa

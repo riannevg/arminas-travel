@@ -5,7 +5,7 @@ location: Tulum
 featured: false
 categories:
   -  Tulum-Hotels
-header_image: /images/vertical.jpg
+header_image: /images/hotels/casamalca/casamalca5.png
 ---
 One of the most popular hotels in Tulum is Casa Malca Hotel. It has a fascinating story; many people say it was the former house of the drug lord Pablo Escobar and even call it "Casa de Escobar." I think it may be true. It's not very small; it has 70 rooms, making it much better than most hotels in Tulum. It has several advantages: it's a good hotel with excellent services, amenities, and spas.
 
