@@ -2,9 +2,8 @@
 layout: tour-layout
 title: Mexican Trio
 categories:
-  - Yucatan Tours
-  - Yucatan
-header_image: /images/vertical.jpg
+  - Mexico-City-Tours
+header_image: /images/destinations/vallarta/puertovallarta5.jpg
 ---
 # Mexico City to Puerto Vallarta tour including Queretaro, Morelia and Guadalajara
 

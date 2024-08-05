@@ -3,9 +3,8 @@ layout: tour-layout
 title: Mesoamerica
 featured: false
 categories:
-  - Yucatan Tours
-  - Yucatan
-header_image: /images/vertical.jpg
+  - Mexico-City-Tours
+header_image: /images/destinations/palenque/palenque3.jpg
 ---
 # Multi-day tour from Mexico City to Cancun including Teotihuacan, Puebla, Palenque, Yaxchilan, Campeche, Chichen Itza and Yucatan
 
@@ -21,7 +20,7 @@ Visit Mexico City’s National Museum of Anthropology in Chapultepec Park. See a
 
 Then visit Mexico’s grandest archaeological site, ancient Teotihuacán (80km from Mexico City) Sixth largest city in the world in 400 A.D., Teotihuacán was mysteriously abandoned 300 years later, centuries before the Aztec occupation. Visit the Jaguar Palace and Temple of the Plumed Conch Shells. Wander around Pyramids of the Sun and Moon. Stroll along Avenue of the Dead, flanked by temples and palaces. Return to hotel.
 
-### Day 3:Mexico –Puebla – Oaxaca
+### Day 3:Mexico – Puebla – Oaxaca
 
 Your journey toward Caribbean cost starts. Morning drive to visit the historic center of colonial Puebla, a UNESCO World Heritage site. Puebla is the city of the clean air and of a quality of life, the city of the legendary chocolate sauce of “mole”. Further travel to Oaxaca. Tour arrives to the hotel.
 

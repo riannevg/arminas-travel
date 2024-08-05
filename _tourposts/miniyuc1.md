@@ -3,9 +3,8 @@ layout: tour-layout
 title: Mini Yucatan 1
 featured: false
 categories:
-  - Yucatan Tours
-  - Yucatan
-header_image: /images/vertical.jpg
+  - Cancun-Tours
+header_image: /images/destinations/yucatan/yucatan2.jpg
 ---
 # Multi-day tour from Cancun
 

@@ -3,9 +3,8 @@ layout: tour-layout
 title: In the footsteps of Cortes
 featured: false
 categories:
-  - Yucatan Tours
-  - Yucatan
-header_image: /images/vertical.jpg
+  - Mexico-City-Tours
+header_image: /images/destinations/bacalar/bacalar5.jpg
 ---
 # 11-Day Mexico Tour including Tajin, Eyipantla Falls, Catemaco, Nanciyaga, Palenque, Bonampak, Laguna Bacalar and Cancun
 

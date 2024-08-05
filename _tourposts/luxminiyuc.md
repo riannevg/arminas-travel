@@ -3,9 +3,8 @@ layout: tour-layout
 title: Luxury Mini Yucatan
 featured: false
 categories:
-  - Yucatan Tours
-  - Yucatan
-header_image: /images/vertical.jpg
+  - Cancun-Tours
+header_image: /images/destinations/merida/merida8.jpg
 ---
 1 dia
 Cancun – Ek Balam con cenote – Rio Lagartos – Valladolid, hotel Boutique ORIUNDO, Luxury Nature Villas

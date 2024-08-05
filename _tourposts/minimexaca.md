@@ -3,9 +3,8 @@ layout: tour-layout
 title: Mini Mexico Acapulco
 featured: false
 categories:
-  - Acapulco Tours
-  - Acapulco
-header_image: /images/vertical.jpg
+  - Mexico-City-Tours
+header_image: /images/destinations/acapulco/acapulco1.jpg
 ---
 # Multi-day tour from Mexico City to Acapulco
 

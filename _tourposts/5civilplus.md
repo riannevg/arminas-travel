@@ -3,9 +3,8 @@ layout: tour-layout
 title: Five Civilizations Plus
 featured: false
 categories:
-  - Yucatan Tours
-  - Yucatan
-header_image: /images/vertical.jpg
+  - Mexico-City-Tours
+header_image: /images/destinations/palenque/palenque7.jpg
 ---
 # Multi-day tour from Mexico City to Cancun including Teotihuacan, Puebla, Palenque, Yaxchilan, Campeche, Chichen Itza and Yucatan
 

@@ -3,9 +3,8 @@ layout: tour-layout
 title: The City of Gods
 featured: false
 categories:
-  - Yucatan Tours
-  - Yucatan
-header_image: /images/vertical.jpg
+  - Mexico-City-Tours
+header_image: /images/destinations/yucatan/yucatan1.jpg
 ---
 ### Day 1: Arrival to Mexico City - Tour starts from transfer from Mexico City airport to the hotel (30-40 min).
 

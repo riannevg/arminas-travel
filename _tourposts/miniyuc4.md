@@ -3,9 +3,8 @@ layout: tour-layout
 title: Mini Yucatan 4
 featured: false
 categories:
-  - Yucatan Tours
-  - Yucatan
-header_image: /images/vertical.jpg
+  - Cancun-Tours
+header_image: /images/destinations/merida/merida4.jpg
 ---
 # Multi-day tour from Cancun including Ek Balam, Chichen Itza, Palenque, Uxmal, Campeche, Xel-Ha
 

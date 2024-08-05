@@ -3,8 +3,8 @@ layout: tour-layout
 title: Mini Mexico Taxco
 featured: false
 categories:
-  - Mexico Tours
-header_image: /images/vertical.jpg
+  - Mexico-City-Tours
+header_image: /images/destinations/cdmx/cdmx6.jpg
 ---
 # Multi-day tour from Mexico City
 

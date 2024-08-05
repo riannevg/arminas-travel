@@ -3,8 +3,8 @@ layout: tour-layout
 title: Five Civilizations
 featured: false
 categories:
-  - Yucatan-Tours
-header_image: /images/vertical.jpg
+  - Mexico-City-Tours
+header_image: /images/destinations/cdmx/cdmx10.jpg
 ---
 ### 9-day tour from Mexico City to Cancun
 

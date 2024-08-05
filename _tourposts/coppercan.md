@@ -3,9 +3,8 @@ layout: tour-layout
 title: Large Copper Canyon
 featured: false
 categories:
-  - Chihuahua Tours
-  - Chihuahua
-header_image: /images/vertical.jpg
+  - Chihuahua-Tours
+header_image: /images/destinations/chihuahua/chihuahua1.jpg
 ---
 # Multi-day tour in the Copper Canyon
 
