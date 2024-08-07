@@ -143,29 +143,29 @@ li{
     background-image:url('/images/destinations/yucatan/yucatan2.jpg')
 }
 
-/* .bg-luxminiyuc{
-    backgroundimage:PENDING
-} */
+.bg-luxminiyuc{
+    background-image:url('/images/destinations/merida/merida8.jpg');
+}
 
-/* .bg-5civil{
-    background-image:PENDING
-} */
+.bg-5civil{
+    background-image:url('/images/destinations/cdmx/cdmx10.jpg');
+}
 
-/* .bg-mexicantrio{
-    background-image:PENDING
-} */
+.bg-mexicantrio{
+    background-image:url('/images/destinations/vallarta/puertovallarta5.jpg');
+}
 
-/* .bg-casapolanco{
-    background-image:PENDING
-} */
+.bg-casapolanco{
+    background-image:url('/images/hotels/casapolanco/casapolanco4.jpg');
+}
 
-/* .bg-casamalca{
-    background-image:PENDING
-} */
+.bg-casamalca{
+    background-image:url('/images/hotels/casamalca/casamalca5.png');
+}
 
-/* .bg-chableyucatan{
-    background-image:PENDING
-} */
+.bg-chableyucatan{
+    background-image:url('/images/hotels/chableyuc/chableyuc3.jpeg');
+}
 
 /* post image code */
 
