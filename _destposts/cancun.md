@@ -8,6 +8,8 @@ header_image: /images/destinations/cancun/cancun2.jpg
 ---
 # **Cancun: Paradise Found on Mexico's Caribbean Coast**
 
+{% include snippets/image-float.html image="/images/destinations/cancun/cancun5.jpg" alt="cancun" float-direction="right" %}
+
 Cancun, a sun-drenched paradise on Mexico’s Caribbean coast, is synonymous with pristine beaches, turquoise waters, and a vibrant nightlife. This tropical oasis is not just a destination; it's an experience that blends natural beauty, rich culture, and endless adventure. From the moment you step off the plane, you’re greeted by the warm embrace of the Mexican Caribbean, inviting you to explore its many wonders.
 
 **Highlights and Attractions**
@@ -17,6 +19,8 @@ Cancun’s beaches are its crown jewels, with powdery white sand and crystal-cle
 **Activities and Adventures**
 
 Adventure seekers will find no shortage of thrilling activities in Cancun. Dive into the vibrant underwater world of the Great Mesoamerican Reef, the second-largest coral reef system in the world, teeming with colorful marine life. Snorkeling and scuba diving here are unforgettable experiences. For those who prefer to stay above water, sailing, jet skiing, and parasailing offer exhilarating ways to enjoy the stunning seascape.
+
+![cancun](/images/destinations/cancun/cancun1.jpg)
 
 **Reasons to Visit**
 
