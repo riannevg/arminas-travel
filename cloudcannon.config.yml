@@ -171,17 +171,17 @@ _snippets:
     definitions:
       include_name: snippets/imgGallery3.html
       named_args:
-        - editor_key: first-image
+        - editor_key: image
           type: string
-        - editor_key: first-alt
+        - editor_key: alt
           type: string
-        - editor_key: second-image
+        - editor_key: image
           type: string
-        - editor_key: second-alt
+        - editor_key: alt
           type: string
-        - editor_key: third-image
+        - editor_key: image
           type: string
-        - editor_key: third-alt
+        - editor_key: alt
           type: string
         - editor_key: image_size_ratio
           type: string
@@ -193,9 +193,9 @@ _snippets:
     definitions:
       include_name: snippets/image-float.html
       named_args:
-        - editor_key: third-image
+        - editor_key: image
           type: string
-        - editor_key: third-alt
+        - editor_key: alt
           type: string
         - editor_key: float-direction
           type: string
