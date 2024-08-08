@@ -11,5 +11,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas venenatis tell
 
 {% include snippets/image-float.html image="/images/hotels/akalki/akalki5.png" alt="" float-direction="right" %}
 
+
 {% include snippets/imgGallery3.html first-image="/images/hotels/akalki/akalki4.png" first-alt="test" second-image="/images/hotels/akalki/akalki6.png" second-alt="test" third-image="/images/hotels/akalki/akalki5.png" third-alt="test" image_size_ratio="square" %}
 
