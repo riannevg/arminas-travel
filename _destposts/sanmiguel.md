@@ -8,6 +8,8 @@ header_image: /images/destinations/sanmiguel/sanmiguel6.jpg
 ---
 # **San Miguel de Allende: A Colonial Jewel of Art and Culture**
 
+{% include snippets/image-float.html image="/images/destinations/sanmiguel/sanmiguel5.jpg" alt="San Miguel de Allende" float-direction="right" %}
+
 San Miguel de Allende, a picturesque city in central Mexico, is celebrated for its well-preserved colonial architecture, vibrant art scene, and charming ambiance. Recognized as a UNESCO World Heritage site, this enchanting city offers a rich tapestry of history, culture, and creativity, making it a top destination for travelers seeking a blend of historical elegance and modern sophistication.
 
 **Highlights and Attractions**

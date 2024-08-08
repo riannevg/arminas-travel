@@ -8,6 +8,8 @@ header_image: /images/destinations/puertoescondido/ptoescondido4.jpg
 ---
 # **Puerto Escondido: A Laid-Back Paradise on the Pacific Coast**
 
+{% include snippets/image-float.html image="/images/destinations/puertoescondido/ptoescondido3.jpg" alt="Puerto Escondido" float-direction="right" %}
+
 Puerto Escondido, a hidden gem on the Pacific coast of Oaxaca, is a haven for surfers, beach lovers, and those seeking a relaxed, off-the-beaten-path escape. Known for its stunning beaches, vibrant marine life, and laid-back atmosphere, Puerto Escondido offers a perfect blend of natural beauty and authentic Mexican charm. This coastal town invites travelers to unwind, explore, and enjoy the simple pleasures of life by the sea.
 
 **Highlights and Attractions**
@@ -17,6 +19,8 @@ The beaches of Puerto Escondido are its main draw, each offering a unique experi
 **Activities and Adventures**
 
 Puerto Escondido is a paradise for water sports enthusiasts. Beyond surfing, you can enjoy activities such as snorkeling, scuba diving, and deep-sea fishing. The nearby Manialtepec Lagoon offers a magical experience of bioluminescence, where the water glows with light emitted by tiny plankton. For a taste of adventure, take a boat tour to watch dolphins and sea turtles or explore the scenic coastline on horseback.
+
+{% include snippets/image-float.html image="/images/destinations/puertoescondido/ptoescondido1.jpg" alt="Puerto Escondido" float-direction="left" %}
 
 **Reasons to Visit**
 

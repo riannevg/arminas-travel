@@ -8,6 +8,8 @@ header_image: /images/destinations/tulum/tulum4.jpg
 ---
 # **Tulum: A Fusion of Tranquil Beauty and Vibrant Energy**
 
+{% include snippets/image-float.html image="/images/destinations/tulum/tulum6.jpg" alt="Tulum" float-direction="right" %}
+
 Tulum, located on Mexico’s stunning Caribbean coast, is renowned for its idyllic beaches, ancient Maya ruins, and a unique blend of tranquility and vibrant nightlife. This coastal paradise offers a perfect balance between serene natural beauty and a lively party scene, making it an ideal destination for travelers seeking both relaxation and excitement.
 
 **Highlights and Attractions**
@@ -22,10 +24,8 @@ Tulum’s beaches are famed for their beauty, with soft white sand and turquoise
 
 In addition to its tranquil offerings, Tulum is also known for its vibrant nightlife. The town’s beach clubs and bars come alive after dark, featuring lively music, dance, and cocktail scenes. Popular spots like Papaya Playa Project and Casa Jaguar offer beachfront parties with DJ sets, bonfires, and a mix of international and local music. Tulum’s nightlife provides a perfect complement to its laid-back daytime activities.
 
+{% include snippets/image-float.html image="/images/destinations/tulum/tulum8.jpg" alt="Tulum" float-direction="left" %}
+
 **Reasons to Visit**
 
 Tulum’s unique combination of serene natural beauty and dynamic party scene makes it a versatile destination. Whether you’re drawn to exploring ancient ruins, swimming in cenotes, or dancing under the stars, Tulum offers a diverse range of experiences. The town’s eco-friendly vibe and beautiful surroundings create an enchanting setting for relaxation and adventure, while its lively nightlife ensures that there’s always something exciting to discover.
-
-
-
-

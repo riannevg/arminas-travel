@@ -8,6 +8,8 @@ header_image: /images/destinations/puntamita/puntamita2.jpg
 ---
 # **Punta Mita: A Luxurious Haven on the Riviera Nayarit**
 
+{% include snippets/image-float.html image="/images/destinations/puntamita/puntamita4.jpg" alt="Punta Mita" float-direction="right" %}
+
 Punta Mita, a luxurious resort town located on the Riviera Nayarit, is a premier destination known for its stunning beaches, world-class golf courses, and exclusive resorts. This private peninsula, surrounded by the Pacific Ocean and the Bay of Banderas, offers a perfect blend of natural beauty, upscale amenities, and tranquility. Punta Mita is a paradise for those seeking relaxation, luxury, and adventure in a breathtaking setting.
 
 **Highlights and Attractions**
@@ -21,6 +23,8 @@ Golf enthusiasts will find paradise at Punta Mita’s two Jack Nicklaus Signatur
 Punta Mita offers a variety of activities for adventure seekers and nature lovers. Snorkeling and scuba diving in the vibrant waters around the Marietas Islands reveal a rich marine ecosystem, while whale watching tours during the winter months provide an opportunity to witness these majestic creatures up close.
 
 For a unique experience, embark on a sailing or yacht excursion to explore the beautiful coastline and enjoy water activities such as paddleboarding and kayaking. On land, guided hikes through the lush tropical landscape and horseback riding along the beach offer memorable ways to connect with the natural beauty of the area.
+
+{% include snippets/image-float.html image="/images/destinations/puntamita/puntamita3.jpg" alt="Punta Mita" float-direction="left" %}
 
 **Reasons to Visit**
 

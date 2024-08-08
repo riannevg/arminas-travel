@@ -8,6 +8,8 @@ header_image: /images/destinations/vallarta/puertovallarta5.jpg
 ---
 # **Puerto Vallarta: A Coastal Paradise of Sun, Sea, and Culture**
 
+{% include snippets/image-float.html image="/images/destinations/vallarta/puertovallarta3.jpg" alt="Puerto Vallarta" float-direction="right" %}
+
 Puerto Vallarta, located on Mexico’s Pacific coast, is a vibrant resort town renowned for its stunning beaches, lively cultural scene, and picturesque setting between the Sierra Madre mountains and the Bay of Banderas. This charming destination offers a perfect blend of natural beauty, rich history, and modern amenities, making it a favorite for travelers seeking relaxation and adventure.
 
 **Highlights and Attractions**
@@ -21,6 +23,8 @@ The Romantic Zone, or Old Vallarta, is a charming neighborhood with cobblestone 
 Puerto Vallarta offers a wide array of outdoor adventures and water sports. Snorkeling and scuba diving in the clear waters of the Bay of Banderas reveal a colorful underwater world of coral reefs and marine life. Whale watching tours, especially between December and March, provide an unforgettable experience as humpback whales migrate through the bay.
 
 For those seeking adventure on land, the Sierra Madre mountains offer hiking, zip-lining, and horseback riding through lush tropical forests. A boat trip to the secluded beaches of Yelapa or the Marietas Islands is another highlight, where you can explore hidden coves and enjoy pristine natural beauty.
+
+{% include snippets/image-float.html image="/images/destinations/vallarta/puertovallarta2.jpg" alt="Puerto Vallarta" float-direction="left" %}
 
 **Reasons to Visit**
 
