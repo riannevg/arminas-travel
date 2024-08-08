@@ -6,8 +6,9 @@ categories:
   - Yucatan
 header_image: /images/destinations/yucatan/yucatan1.jpg
 ---
-
 # **Yucatán State: A Rich Tapestry of Maya Heritage and Natural Wonders**
+
+{% include snippets/image-float.html image="/images/destinations/yucatan/yucatan3.jpg" alt="Yucatan" float-direction="right" %}
 
 Yucatán State, located in southeastern Mexico, is a region of extraordinary historical significance, stunning natural beauty, and vibrant cultural traditions. Known for its ancient Maya ruins, lush cenotes, and colonial cities, Yucatán offers a captivating blend of past and present. This diverse state invites travelers to explore its archaeological treasures, experience its rich cultural heritage, and enjoy its unique natural landscapes.
 
@@ -22,6 +23,8 @@ The colonial city of Mérida, the state capital, is another highlight. Known for
 Yucatán’s natural beauty is equally captivating, with its numerous cenotes—natural sinkholes filled with clear, fresh water. Cenote Ik Kil, near Chichén Itzá, is a popular spot for swimming and cooling off in its enchanting blue waters. The cenotes of Cuzamá, with their network of underground rivers, offer a unique and refreshing adventure. These natural wonders are perfect for swimming, snorkeling, and exploring the underground landscapes.
 
 For nature enthusiasts, the Ría Celestún Biosphere Reserve is a must-visit. This protected area is home to diverse wildlife, including the striking pink flamingos that flock to its salt flats. Boat tours through the reserve offer opportunities to observe these majestic birds and explore the reserve’s mangroves and wetlands.
+
+{% include snippets/image-float.html image="/images/destinations/yucatan/yucatan5.jpg" alt="Yucatan" float-direction="left" %}
 
 **Reasons to Visit**
 

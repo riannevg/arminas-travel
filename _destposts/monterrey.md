@@ -8,6 +8,10 @@ header_image: /images/destinations/monterrey/monterrey2.jpg
 ---
 # **Monterrey: The Industrial Heart of Northern Mexico**
 
+&nbsp;
+
+{% include snippets/image-float.html image="/images/destinations/monterrey/monterrey3.jpg" alt="Monterrey" float-direction="right" %}
+
 Monterrey, the capital of the state of Nuevo León, is a dynamic city known for its industrial prowess, modern architecture, and stunning natural surroundings. As one of Mexico’s wealthiest and most developed cities, Monterrey offers a unique blend of business sophistication and outdoor adventure. From its bustling urban center to the majestic Sierra Madre mountains, Monterrey invites travelers to experience its rich culture and scenic beauty.
 
 **Highlights and Attractions**

@@ -8,6 +8,10 @@ header_image: /images/destinations/oaxaca/oaxaca7.jpg
 ---
 # **Oaxaca: A Cultural and Culinary Paradise**
 
+&nbsp;
+
+{% include snippets/image-float.html image="/images/destinations/oaxaca/oaxaca5.jpg" alt="Oaxaca" float-direction="right" %}
+
 Oaxaca, the capital city of the state with the same name, is a vibrant destination renowned for its rich indigenous heritage, stunning colonial architecture, and exceptional culinary scene. Nestled in the valleys of southern Mexico, Oaxaca offers a unique blend of tradition and modernity. The city’s colorful festivals, bustling markets, and historic landmarks make it an unforgettable experience for any traveler.
 
 **Highlights and Attractions**
@@ -21,6 +25,10 @@ One of the city’s most famous attractions is the ancient Zapotec ruins of Mont
 Oaxaca’s vibrant cultural scene is best experienced through its lively markets and festivals. The Mercado Benito Juárez and Mercado 20 de Noviembre are bustling hubs where you can find everything from fresh produce and traditional textiles to handcrafted pottery and delicious street food. The Guelaguetza Festival, held in July, is a spectacular celebration of indigenous culture, featuring traditional music, dance, and colorful costumes.
 
 For a unique adventure, explore the natural wonders surrounding Oaxaca. The Hierve el Agua petrified waterfalls and mineral springs offer stunning natural beauty and opportunities for hiking and swimming. The region is also known for its artisanal mezcal, and a tour of local distilleries provides insight into the traditional methods of this iconic Mexican spirit.
+
+&nbsp;
+
+{% include snippets/image-float.html image="/images/destinations/oaxaca/oaxaca3.jpg" alt="Oaxaca" float-direction="left" %}
 
 **Gastronomy**
 

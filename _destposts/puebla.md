@@ -8,6 +8,8 @@ header_image: /images/destinations/puebla/puebla1.jpg
 ---
 # **Puebla: A City of History, Culture, and Gastronomy**
 
+{% include snippets/image-float.html image="/images/destinations/puebla/puebla2.jpg" alt="Puebla" float-direction="right" %}
+
 Puebla, a city steeped in history and culture, is known for its stunning colonial architecture, rich traditions, and exceptional culinary heritage. Nestled in the shadow of the Popocatépetl and Iztaccíhuatl volcanoes, Puebla’s scenic beauty and vibrant cultural scene make it a must-visit destination in central Mexico. The city’s well-preserved historic center, combined with its famous cuisine, offers an enriching and flavorful journey for any traveler.
 
 **Highlights and Attractions**
@@ -22,6 +24,8 @@ Puebla’s vibrant markets are a feast for the senses. The El Parián market off
 
 The nearby town of Cholula, with its Great Pyramid topped by the beautiful Nuestra Señora de los Remedios church, offers spectacular views and fascinating archaeological discoveries. Cholula’s lively streets are also home to numerous bars and cafes, perfect for enjoying a relaxing afternoon.
 
+{% include snippets/image-float.html image="/images/destinations/puebla/puebla5.jpg" alt="Puebla" float-direction="left" %}
+
 **Gastronomy**
 
 Puebla’s culinary scene is one of its greatest attractions, renowned for its rich flavors and traditional dishes. Mole poblano, a complex and flavorful sauce made with a blend of chilies, chocolate, and spices, is perhaps the city’s most famous culinary contribution. Chiles en nogada, a dish featuring stuffed peppers topped with a creamy walnut sauce and pomegranate seeds, is a seasonal favorite that celebrates Mexico’s Independence Day.
@@ -31,4 +35,3 @@ Other local specialties include pipián, a pumpkin seed-based sauce, and tinga, 
 **Reasons to Visit**
 
 Puebla’s rich cultural heritage, stunning architecture, and exceptional cuisine make it a destination that appeals to all the senses. The city’s welcoming atmosphere and vibrant traditions create a unique and immersive experience for visitors. Whether exploring its historic landmarks, indulging in its culinary delights, or simply soaking in its scenic beauty, Puebla offers a journey that is both enriching and unforgettable.
-

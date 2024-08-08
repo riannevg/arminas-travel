@@ -8,6 +8,8 @@ header_image: /images/destinations/campeche/campeche2.jpg
 ---
 # **Campeche: A Journey Through Time and Tradition**
 
+{% include snippets/image-float.html image="/images/destinations/campeche/campeche3.jpg" alt="campeche" float-direction="right" %}
+
 Campeche, a captivating state on Mexico’s Gulf Coast, is a treasure trove of history, culture, and natural beauty. The city of Campeche, the state capital, is a UNESCO World Heritage site renowned for its beautifully preserved colonial architecture and vibrant streets. Beyond the city, the state offers lush jungles, ancient ruins, and picturesque coastlines, making it a diverse and enchanting destination for travelers.
 
 **Highlights and Attractions**
@@ -21,5 +23,3 @@ Campeche is a playground for history enthusiasts and nature lovers. Explore the 
 **Reasons to Visit**
 
 Campeche’s blend of historical charm and natural beauty provides a unique and enriching travel experience. The state’s commitment to preserving its heritage is evident in its meticulously restored buildings and cultural festivals, such as the Carnival of Campeche, which brings the city to life with music, dance, and colorful parades. The region’s culinary delights, from fresh seafood to traditional Mayan dishes, offer a taste of its rich cultural tapestry. Whether you’re wandering through the streets of the old town, exploring ancient ruins, or relaxing by the sea, Campeche invites you to discover its many layers of beauty and history.
-
-

@@ -8,6 +8,8 @@ header_image: /images/destinations/veracruz/veracruz1.jpg
 ---
 # **Veracruz: A Coastal Gem of History, Culture, and Vibrant Festivities**
 
+{% include snippets/image-float.html image="/images/destinations/veracruz/veracruz2.jpg" alt="Veracruz" float-direction="right" %}
+
 Veracruz, a bustling port city on Mexico’s Gulf Coast, is renowned for its rich history, vibrant culture, and lively celebrations. This dynamic city, with its charming colonial architecture and vibrant waterfront, offers a blend of historical significance, cultural diversity, and a spirited local atmosphere. Veracruz is a destination that invites exploration and enjoyment, providing a unique glimpse into Mexico’s coastal life.
 
 **Highlights and Attractions**
@@ -21,6 +23,8 @@ The Malecón, Veracruz’s seaside boardwalk, is a favorite spot for both locals
 Veracruz offers a range of activities that cater to different interests. The city’s beaches, such as Playa Villa del Mar and Playa Mocambo, provide opportunities for sunbathing, swimming, and enjoying water sports. For a more adventurous experience, take a boat tour to explore the nearby islands or go fishing in the Gulf of Mexico.
 
 Cultural enthusiasts will appreciate Veracruz’s vibrant festivals, including the Carnaval de Veracruz, one of the most famous and colorful celebrations in Mexico. This annual event features parades, music, dancing, and elaborate costumes, showcasing the city’s lively spirit and cultural heritage. The city’s traditional music, especially its son jarocho style, is an integral part of Veracruz’s cultural identity and can be enjoyed in local venues and festivals.
+
+{% include snippets/image-float.html image="/images/destinations/veracruz/veracruz3.jpg" alt="Veracruz" float-direction="left" %}
 
 **Reasons to Visit**
 
