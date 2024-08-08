@@ -193,9 +193,9 @@ _snippets:
     definitions:
       include_name: snippets/image-float.html
       named_args:
-        - editor_key: image
+        - editor_key: third-image
           type: string
-        - editor_key: alt
+        - editor_key: third-alt
           type: string
         - editor_key: float-direction
           type: string
