@@ -12,7 +12,7 @@ Acapulco, the legendary resort city on Mexico’s Pacific coast, has long been a
 
 **Highlights and Attractions**
 
-Acapulco’s iconic bay, with its crescent-shaped beaches and azure waters, is a sight to behold. The city’s Golden Zone, home to luxury resorts, restaurants, and nightclubs, is where the action happens. For a taste of Acapulco’s storied past, visit the Fort of San Diego, a historic fortress that now houses a museum showcasing the city’s rich maritime history. Don’t miss the chance to witness the famous La Quebrada cliff divers, who perform daring plunges into the ocean from heights of over 100 feet.
+Acapulco’s iconic bay, with its crescent-shaped beaches and azure waters, is a sight {% include snippets/image-float.html image="/images/destinations/acapulco/acapulco2.jpg" alt="Acapulco" float-direction="right" %}to behold. The city’s Golden Zone, home to luxury resorts, restaurants, and nightclubs, is where the action happens. For a taste of Acapulco’s storied past, visit the Fort of San Diego, a historic fortress that now houses a museum showcasing the city’s rich maritime history. Don’t miss the chance to witness the famous La Quebrada cliff divers, who perform daring plunges into the ocean from heights of over 100 feet.
 
 **Activities and Adventures**
 
@@ -20,4 +20,4 @@ Acapulco offers a wealth of activities for thrill-seekers and nature lovers alik
 
 **Reasons to Visit**
 
-Acapulco’s allure lies in its ability to cater to all types of travelers. Its vibrant nightlife, with world-class clubs and beach parties, is legendary. Yet, the city also offers serene escapes, from quiet beachside retreats to luxurious spas. Acapulco’s culinary scene is another highlight, blending traditional Mexican flavors with international cuisine. Whether you’re seeking adventure, relaxation, or a bit of both, Acapulco promises an unforgettable experience.
+{% include snippets/image-float.html image="/images/destinations/acapulco/acapulco4.jpg" alt="Acapulco" float-direction="left" %}Acapulco’s allure lies in its ability to cater to all types of travelers. Its vibrant nightlife, with world-class clubs and beach parties, is legendary. Yet, the city also offers serene escapes, from quiet beachside retreats to luxurious spas. Acapulco’s culinary scene is another highlight, blending traditional Mexican flavors with international cuisine. Whether you’re seeking adventure, relaxation, or a bit of both, Acapulco promises an unforgettable experience.
