@@ -8,6 +8,8 @@ header_image: /images/destinations/bacalar/bacalar6.jpg
 ---
 # **Bacalar: The Lagoon of Seven Colors**
 
+&nbsp;
+
 {% include snippets/image-float.html image="/images/destinations/bacalar/bacalar2.jpg" alt="bacalar" float-direction="right" %}Bacalar, a hidden gem in the Mexican state of Quintana Roo, is a serene paradise known for its mesmerizing lagoon. Often referred to as the “Lagoon of Seven Colors” due to its varying shades of blue, Bacalar offers a tranquil escape from the hustle and bustle of more crowded destinations. This charming town, with its rich history and natural beauty, invites travelers to unwind and explore its unique landscapes.
 
 **Highlights and Attractions**
