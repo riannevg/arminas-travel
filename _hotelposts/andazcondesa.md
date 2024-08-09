@@ -4,16 +4,18 @@ title: Andaz Condesa
 location: Mexico City
 featured: false
 categories:
-  -  Mexico-City-Hotels
+  - Mexico-City-Hotels
 header_image: /images/hotels/andazcondesa/andazcondesa5.webp
-
 ---
 ## Andaz Condesa: Urban Chic in the Heart of Mexico City
+
 &nbsp;
 
 ### Location
 
 Located in the vibrant and trendy Condesa neighborhood of Mexico City, Andaz Condesa offers a stylish urban retreat surrounded by the city's best attractions. The hotel is ideally situated near lush parks, eclectic restaurants, and a vibrant nightlife scene, making it a perfect base for exploring the cultural and culinary delights of the city. The central location also provides easy access to major landmarks like Chapultepec Park, the historic center, and the city's numerous museums.
+
+![](/images/hotels/andazcondesa/andazcondesa1.webp)
 
 ### What to Do at the Hotel
 
@@ -27,4 +29,6 @@ Andaz Condesa combines luxury with the dynamic spirit of Mexico City. Guests can
 
 **Cultural Immersion:** With its regular art exhibitions and live events, Andaz Condesa offers guests an authentic taste of Mexico City's vibrant culture.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://videos.hyatt.com/andaz_mexaz_mexico_city_masthead_video_0423.mp4' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://videos.hyatt.com/andaz_mexaz_mexico_city_masthead_video_0423.mp4" frameborder="0" allowfullscreen=""></iframe></div>
