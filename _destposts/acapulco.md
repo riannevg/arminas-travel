@@ -21,7 +21,7 @@ Acapulco’s iconic bay, with its crescent-shaped beaches and azure waters, is a
 Acapulco offers a wealth of activities for thrill-seekers and nature lovers alike. Water sports are a major draw, with opportunities for snorkeling, scuba diving, and deep-sea fishing. Take a boat tour to explore the nearby islands and discover hidden beaches and coves. For a more laid-back experience, enjoy a sunset cruise along the bay, offering stunning views of the coastline as the sun dips below the horizon.
 
 {% include snippets/image-float.html image="/images/destinations/acapulco/acapulco4.jpg" alt="Acapulco" float-direction="left" %}
-
+&nbsp;
 **Reasons to Visit**
 
 Acapulco’s allure lies in its ability to cater to all types of travelers. Its vibrant nightlife, with world-class clubs and beach parties, is legendary. Yet, the city also offers serene escapes, from quiet beachside retreats to luxurious spas. Acapulco’s culinary scene is another highlight, blending traditional Mexican flavors with international cuisine. Whether you’re seeking adventure, relaxation, or a bit of both, Acapulco promises an unforgettable experience.
