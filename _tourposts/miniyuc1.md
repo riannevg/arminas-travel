@@ -6,14 +6,14 @@ categories:
   - Cancun-Tours
 header_image: /images/destinations/yucatan/yucatan2.jpg
 ---
-# Multi-day tour from Cancun
+## Multi-Day Tour from Cancun
 
-### Day 1 Cancun – Caverns – Coba – Merida
+&nbsp;  
 
-From Cancun we will go to some caves with stalactites or unique cenotes, known as “Eyes of the Earth”. These are fantastic places to dive or snorkel. Then you can visit Coba, an ancient Mayan city immersed in the subtropical jungle. You can take a bike tour of the city. Arrival to Merida, an interesting and picturesque colonial city, capital of the State of Yucatán.
+### Day 1: Cancun – Caverns – Coba – Merida
 
-### Day 2 Merida – Chichen Itza – Ek Balam – Cancun
+Depart from Cancun and explore some fascinating caves or cenotes, known as “Eyes of the Earth,” perfect for diving or snorkeling. Next, visit Coba, an ancient Mayan city nestled in the subtropical jungle, where you can take a bike tour to explore the site. Continue to Merida, a picturesque colonial city and the capital of the State of Yucatán.
 
-Travel through fields of henequen, a natural fiber that served as Yucatan’s ancient currency. We will take you to Chichen Itza, one of the 7 wonders of the modern world and you will be able to see the great complex of temples that represent the splendor of the Mayan culture.
-Only the elite made up of magicians, scientists and soccer players had access to these special landscapes of white stone and “Eyes of the Earth”, the cenotes. Those temples belonging to the periods of the Mexico classic and postclassic were never seen in action by the Spanish colonizers. When the Europeans arrived, these were already abandoned. You will be able to admire the Pyramid of Kukulcan, “the Plumed Serpent”, the ball court, the Observatory and much more. You will also visit the Ik Kil cenote, and you will have the opportunity to swim in its waters.
-Finally, we will visit Ek Balam, an important archaeological site where fantastic discoveries have been made in last decades. Only a small area is visible since the rest remains hidden under the thick vegetation of the jungle. You will see the Acropolis, the playing field, the Twin buildings, the Observatory and Temazcal. Arrival to Cancun.
+### Day 2: Merida – Chichen Itza – Ek Balam – Cancun
+
+Travel through fields of henequen, a natural fiber that was once Yucatán’s ancient currency. Visit Chichen Itza, one of the Seven Wonders of the Modern World, and marvel at the grand complex of temples showcasing the splendor of Mayan culture. These temples, including the Pyramid of Kukulcan, the ball court, and the Observatory, were abandoned before the Spanish arrived. You will also visit the Ik Kil cenote, where you can swim in its refreshing waters. Lastly, explore Ek Balam, an important archaeological site with significant discoveries made in recent decades. While only a small portion is visible, you’ll see the Acropolis, the playing field, the Twin buildings, the Observatory, and the Temazcal. Return to Cancun.
