@@ -167,6 +167,10 @@ li{
     background-image:url('/images/hotels/chableyuc/chableyuc3.jpeg');
 }
 
+.bg-calderon{
+    background-image:url('/images/calderon.jpg');
+}
+
 /* post image code */
 
 .image-gallery {

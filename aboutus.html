@@ -3,6 +3,58 @@ layout: default
 title: Arminas Travel
 header_image: /images/horizontal.jpg
 header_text: Your Gateway to Exclusive<br>Mexican Adventures
+team:
+ - name: Armina Wolpert
+   department: CEO
+   profile_image: images/staff/armina.jpg
+ - name: Nhia Nouel
+   department: Contracting Manager
+   profile_image: images/staff/nhia.jpg
+ - name: Sandra Archer
+   department: Reservations Manager
+   profile_image: images/staff/sandra.jpg
+ - name: Maribel Hernandez
+   department: Contracting Manager
+   profile_image: images/staff/maribel.jpg
+ - name: Rocio Lopez
+   department: Contracting Executive
+   profile_image: images/staff/rocio.jpg
+ - name: Veronica Gongora
+   department: Account Assistant
+   profile_image: images/staff/veronica.jpg
+ - name: Zhanna Pinigina
+   department: Sales
+   profile_image: images/staff/zhanna.jpg
+ - name: Christian Olvera
+   department: Operations Executive
+   profile_image: images/staff/christian.jpg 
+ - name: Francisco Loeza
+   department: Security
+   profile_image: images/staff/francisco.jpg
+ - name: Daymary Marfil
+   department: Accountant
+   profile_image: images/staff/daymary.jpg 
+ - name: Merary Marquez
+   department: Accountant
+   profile_image: images/staff/merary.jpg 
+ - name: Lilia Flores
+   department: Accountant
+   profile_image: images/staff/lilia.jpg 
+ - name: Emir Cano
+   department: Project Manager
+   profile_image: images/staff/emir.jpg 
+ - name: Carlos Sanchez
+   department: Team Support
+   profile_image: images/staff/carlos.jpg 
+ - name: Anna Urazaeva
+   department: Sales Executive
+   profile_image: images/staff/anna.jpg 
+ - name: Olga Kamenskaya
+   department: Sales Manager
+   profile_image: images/staff/olga.jpg 
+ - name: Leo Gunho Hur
+   department: Sales Manager
+   profile_image: images/staff/leo.jpg 
 ---
 
 
@@ -79,7 +131,7 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
             </ul>
         </div>  
         <div class="col-5">
-            <div class="bg-image square"></div>
+            <div class="bg-image bg-calderon landscape"></div>
         </div>
     </section>
 </section>
@@ -93,6 +145,24 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
     <div class="col-8"> 
          <h1 class="margin-b-2">Our Team</h1>
     </div>
+
+    <div class="padded-1 grid-spaceAround">
+
+        {% for person in page.team %}	
+	    <div class="col-3 padded-1">
+			<img src="{{person.profile_image}}" class="profile-image">
+            <h3>{{person.name}}</h3>
+            <p>{{person.department}}</p>     
+       	</div>
+   
+
+   	{% endfor %}
+
+   
+    </div>
+
+</section>
+
 
 <!-- Add team members section -->
 
