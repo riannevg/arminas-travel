@@ -48,10 +48,10 @@ team:
    profile_image: images/staff/carlos.jpg 
  - name: Anna Urazaeva
    department: Sales Executive
-   profile_image: images/staff/anna.jpg 
+   profile_image: images/staff/annau.jpg 
  - name: Olga Kamenskaya
    department: Sales Manager
-   profile_image: images/staff/olga.jpg 
+   profile_image: images/staff/olga.jpeg 
  - name: Leo Gunho Hur
    department: Sales Manager
    profile_image: images/staff/leo.jpg 
@@ -85,13 +85,13 @@ team:
             </p>        
         </div>  
         <div class="col-5">
-            <div class="bg-image square"></div>
+            <div class="bg-image bg-team-1 landscape"></div>
         </div>
     </section>
 
     <section class="grid-spaceAround-middle center padded-5">
         <div class="col-5">
-            <div class="bg-image square"></div>
+            <div class="bg-image bg-team-2 landscape"></div>
         </div>
         <div class="col-5">         
             <p>Arminas Travel offers an extensive array of private services across the Mexican Republic, meticulously organized and coordinated by our team of seasoned professionals. We provide accommodations in the most luxurious and beautiful hotels, captivating tours, and comprehensive tours throughout the country. Our transportation services feature new, comfortable vehicles, and our experienced tour guides ensure an enriching journey.
@@ -105,7 +105,7 @@ team:
             </p>        
         </div>  
         <div class="col-5">
-            <div class="bg-image square"></div>
+            <div class="bg-image bg-team-3 landscape"></div>
         </div>
     </section>
 </section>
@@ -149,7 +149,7 @@ team:
     <div class="padded-1 grid-spaceAround">
 
         {% for person in page.team %}	
-	    <div class="col-3 padded-1">
+	    <div class="col-2 padded-1">
 			<img src="{{person.profile_image}}" class="profile-image">
             <h3>{{person.name}}</h3>
             <p>{{person.department}}</p>     

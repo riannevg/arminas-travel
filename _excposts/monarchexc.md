@@ -5,11 +5,32 @@ categories:
   - Mexico-City-Excursions
 header_image: /images/vertical.jpg
 ---
-Main Information
-Only from November to March
+## Monarch Butterfly Reserve
 
-You will visit the Cosmovitral-Botanical Garden: Completed in 1910 as part of Mexico’s centennial celebrations, the former City of Toluca Market boasts 5,000 square meters of space holding 400 plant species within its walls and comprised for 3,000 square meters of stained glass. The market was closed in 1975 and five years later the building was rededicated as the Cosmovitral-Botanical Garden.
+&nbsp;
 
-The stained glass, finished in 1990 by Leopoldo Flores Valdes, includes 28 different colors of glass and is considered one of the largest artworks in the world. In the glass, Flores Valdes sought to depict his interpretation of time, movement and the contradictory phenomena taking place in matter, from a cosmogony perception.
+**Available from November to March**
 
-Piedra Herrada & Valle de Bravo: It is unique in that you’ll often encounter swarms of butterflies before even arriving at the sanctuary. Each day around noon, millions of butterflies head down from the mountains and out along the road leading to the reserve on their way to a nearby river which serves as a butterfly watering hole. Standing in the forests of the reserve as millions of orange and black Monarch butterflies swarm overhead is a magical experience, and it’s not unusual for the butterflies to land on visitors. While you’re visiting the reserve, you might also stop off in some of the nearby towns and villages. The Pueblo Magico (magic town) of Valle de Bravo is located just down the road from the butterfly sanctuary at Piedra Herrada and makes a pleasant stop along the route to or from the reserve. Back to the hotel in Mexico City.
+Embark on a breathtaking journey to witness the Monarch butterflies in their natural habitat. This unique experience includes visits to the Cosmovitral-Botanical Garden and the butterfly sanctuary at Piedra Herrada, with a chance to explore the charming town of Valle de Bravo.
+
+### Cosmovitral-Botanical Garden
+
+Begin your adventure at the **Cosmovitral-Botanical Garden** in Toluca. Originally constructed in 1910 as a market, the building was repurposed as a botanical garden in 1980. 
+
+- **Stained Glass Masterpiece**: The garden is renowned for its stunning stained glass windows, completed in 1990 by artist Leopoldo Flores Valdes. With 28 different colors of glass, it is one of the largest stained glass artworks in the world, depicting themes of time, movement, and the cosmos.
+
+### Piedra Herrada & Valle de Bravo
+
+Continue your journey to the **Piedra Herrada Sanctuary** and the nearby town of Valle de Bravo.
+
+- **Piedra Herrada Sanctuary**: Witness the magical spectacle of Monarch butterflies. Around noon, millions of butterflies descend from the mountains, creating a breathtaking display as they head towards a nearby river. Standing among these majestic creatures is an unforgettable experience, with butterflies occasionally landing on visitors.
+
+- **Valle de Bravo**: Explore this charming Pueblo Mágico (magic town) located close to the sanctuary. Valle de Bravo offers a pleasant stop with its quaint streets and picturesque scenery.
+
+### Tour Highlights
+
+- **Cosmovitral-Botanical Garden**: Explore a stunning stained glass artwork and diverse plant species.
+- **Piedra Herrada Sanctuary**: Experience the enchanting Monarch butterfly migration.
+- **Valle de Bravo**: Discover the beauty of this nearby magical town.
+
+Enjoy a day full of natural beauty and cultural exploration before returning to your hotel in Mexico City.

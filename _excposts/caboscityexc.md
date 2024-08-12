@@ -5,19 +5,17 @@ categories:
   - Los-Cabos-Excursions
 header_image: /images/vertical.jpg
 ---
-### Main Information
-A narrative adventure through the storied past and present of Los Cabos. With your guides, you will start your adventure and get to know Los Cabos and its long history starting in the early 14th Century involving famous discoverers, famous pirates and the native Indian tribe called the Pericues.
+## Los Cabos City Tour  
+&nbsp;  
 
-Explore Los Cabos by visiting the local Glass Blowing Factory, the Zocalo, the Jesuit Mission, and Tequila Tasting. Finally visit Lands End where you will explore Pelicans Rock, Lovers and Divorce Beach and the famous Arch, Sea Lions Colony while viewing many other rock formations with plenty of history on a comfortable Glass Bottom Boat. Enjoy thousands of colorful tropical fish during your ride to Lands End.
+### A Narrative Adventure Through Los Cabos
 
-### Tour Days & Pick-Up Times
-Monday – Saturday
-Cabo San Lucas – 7:30am*
-Corridor – 8:00am*
-San Jose – 8:20am*
-*Times vary depending on pick-up location and will be confirmed when reservation is booked.
+Embark on a journey through the captivating history and vibrant present of Los Cabos. With your expert guides, dive into the rich tales of the region, beginning in the early 14th century. Discover the stories of famous explorers, legendary pirates, and the indigenous Pericúes tribe that once called this land home.
 
-Tour Length
-Approximately 5 hours
+### Explore Los Cabos
 
-Private Charters and customized tours are available by request (6 person minimum)
+Your adventure begins with a visit to the local Glass Blowing Factory, where you'll witness the artistry and craftsmanship that define this unique tradition. Continue to the Zócalo and the historic Jesuit Mission, each brimming with cultural significance. Indulge in an authentic Tequila Tasting experience, savoring the flavors of Mexico's most famous spirit.
+
+Finally, make your way to Lands End, where you'll board a comfortable Glass Bottom Boat for an unforgettable exploration of Pelican Rock, Lovers and Divorce Beach, and the iconic Arch. As you glide across the water, marvel at the Sea Lions Colony and numerous other rock formations, all while enjoying the vibrant underwater world teeming with colorful tropical fish.
+
+

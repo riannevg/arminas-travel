@@ -5,19 +5,26 @@ categories:
   - Los-Cabos-Excursions
 header_image: /images/vertical.jpg
 ---
-### Main Information
-Snorkel, swim or kick back! Take the opportunity to swim, snorkel and stand-up paddleboard in the beautiful waters of Cabo and the Sea of Cortés. For those seeking some downtime, this is the perfect day to just lie back on one of our oversized cushions and bask in the tropical rays. Sip on an ice-cold drink as you listen to the calming sounds of the ocean and the billowing sails as the crew caters to your every desire. With lunch, snacks and all drinks included, this wonderful day mixes the pleasures of sailing with absolute pampering. The crew attends to every little detail to ensure that your Cabo sailing experience is the adventure of a lifetime.
+## Snorkeling & Sailing Cruise Los Cabos
 
-What to wear & bring
-Swimwear
-Light sweater or jacket (winter months)
-Sunscreen
-Camera
+&nbsp;
 
-Restrictions
-Min. Age: 8 years old
-Guests are requested to remove footwear when boarding the sail boat
-Sailing time depends on winter and sea conditions.
+Embark on a day of ultimate relaxation and adventure with our Snorkeling & Sailing Cruise in Los Cabos. Whether you want to snorkel, swim, paddleboard, or simply unwind, this cruise offers it all.
 
-Duration
-4 hours plus transportation
+### Activities
+
+- **Snorkeling**: Dive into the crystal-clear waters of Cabo and the Sea of Cortés to explore vibrant marine life and underwater wonders.
+- **Swimming**: Enjoy a refreshing swim in the serene waters.
+- **Stand-Up Paddleboarding**: Try your hand at paddleboarding and experience the beauty of the sea from a different perspective.
+
+### Relaxation and Luxury
+
+For those preferring to relax, the cruise features oversized cushions where you can lie back, soak up the sun, and enjoy the tropical rays. Sip on an ice-cold drink as you listen to the soothing sounds of the ocean and the gentle billowing of the sails.
+
+### Culinary Delights
+
+Indulge in a delicious lunch and snacks, all included in the experience. Our crew ensures that every detail is attended to, providing a perfect blend of sailing pleasure and pampering.
+
+&nbsp;
+
+Let us take care of everything while you enjoy a memorable sailing adventure in Cabo, where every moment is designed to delight and rejuvenate.

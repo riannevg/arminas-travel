@@ -6,28 +6,21 @@ categories:
   - Riviera-Maya-Excursions
 header_image: /images/vertical.jpg
 ---
-### Main Information
-The whale shark is a slow-moving filter feeding shark and the largest known extant fish species. In 2011, more than 400 whale sharks gathered off the Yucatan Coast. It was one of the largest gatherings of whale sharks recorded. Aggregations in that area are among the most reliable seasonal gatherings known for whale sharks, with large numbers occurring in most years between May and September.
+## Swimming with Whale Sharks
 
-Seasonal feeding aggregations occur at several coastal sites such as Isla Mujeres and Isla Holbox and Contoy island in Yucatan, Mexico. Despite its size, the whale shark does not pose significant danger to humans. Whale sharks are docile fish and sometimes allow swimmers to catch a ride.
+&nbsp;
 
-Highlights
-Swim with the Whale Sharks in the beautiful waters of Mexican Caribean, meet this majestic animal face to face and top off your day with snorkeling. This activity in Cancun is truly amazing and not to be missed.
-Itinerary
-Departure from the pier of Punta Sam (Cancun) – exactly at 8:00 am
-Travel time from the pier to the habitat of sharks – 50 minutes
-The duration of swimming with sharks – 3 hours
-Swimming with scuba mask and flippers at the island of Isla Mujeres
-Lunch in a restaurant on the island of Isla Mujeres
-Arrival to the pier of Punta Sam (Cancun) approximately at 14:30
-Included
-Transfer from the hotel and to the hotel (only for groups)
-Breakfast (coffee, fruit, and bread)
-Equipment (goggles, life jacket, and snorkel equipment )
-Bottle wáter and soda all-day
-Beer after 12 p.m.
-Light lunch on the island of Isla Mujeres
-Snacks
-Rest Stop on the Isla Mujeres island
-Requirements
-Age 4 – 60 years old.
+Experience the thrill of swimming alongside the gentle giants of the sea—the whale sharks. These majestic creatures, known as the largest extant fish species, are filter feeders that gracefully glide through the waters of the Mexican Caribbean. With their slow-moving, docile nature, whale sharks offer a unique and safe opportunity to connect with marine life.
+
+### The Whale Shark Gathering
+
+In 2011, an extraordinary congregation of over 400 whale sharks was observed off the Yucatan Coast, marking one of the largest gatherings ever recorded. Each year, between May and September, the coastal waters around Isla Mujeres, Isla Holbox, and Contoy Island become a hotspot for these magnificent creatures. Despite their massive size, whale sharks are harmless to humans and are known for their gentle demeanor, occasionally allowing swimmers to even catch a ride.
+
+### Highlights
+
+Dive into the crystal-clear waters of the Mexican Caribbean and get up close with these incredible marine giants. Swimming with whale sharks is an awe-inspiring experience that combines the excitement of encountering these gentle giants with the serene beauty of snorkeling. This unforgettable adventure in Cancun is a must-do for nature lovers and thrill-seekers alike.
+
+&nbsp;
+
+Embark on this remarkable journey to swim with whale sharks and create lasting memories in the stunning waters of the Mexican Caribbean.
+
