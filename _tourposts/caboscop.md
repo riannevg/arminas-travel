@@ -3,7 +3,7 @@ layout: tour-layout
 title: Los Cabos to the Copper Canyonn
 featured: false
 categories:
-  - Los Cabos Tours
+  - Los-Cabos-Tours
 header_image: /images/destinations/chihuahua/chihuahua7.jpg
 ---
 ## Multi-day Tour from Los Cabos – Todos Santos – The Famous “Hotel California” – La Paz – Los Mochis – El Fuerte – Divisadero – Creel – Mennonites Community - Chihuahua

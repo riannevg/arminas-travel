@@ -4,6 +4,7 @@ title: Mini Yucatan 4
 featured: false
 categories:
   - Cancun-Tours
+  - Riviera-Maya-Tours
 header_image: /images/destinations/merida/merida4.jpg
 ---
 ## Multi-Day Tour from Cancun including Ek Balam, Chichen Itza, Palenque, Uxmal, Campeche, Xel-Ha

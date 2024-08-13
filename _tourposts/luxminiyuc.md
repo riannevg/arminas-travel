@@ -4,6 +4,7 @@ title: Luxury Mini Yucatan
 featured: false
 categories:
   - Cancun-Tours
+  - Riviera-Maya-Tours
 header_image: /images/destinations/merida/merida8.jpg
 ---
 ## Multi-day Tour from Cancun Including Ek Balam, Chichen Itza, Palenque, Uxmal, Campeche, Xel-Ha

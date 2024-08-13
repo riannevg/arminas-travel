@@ -4,7 +4,7 @@ title: Swimming with whalesharks
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
-header_image: /images/destinations/cancun/cancun11/jpg
+header_image: /images/destinations/cancun/cancun11.jpg
 ---
 ## Swimming with Whale Sharks
 

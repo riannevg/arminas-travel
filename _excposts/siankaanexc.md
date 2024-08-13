@@ -4,7 +4,7 @@ title: Sian Ka'an
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
-header_image: /images/hotels/chablecasa/chablecasa1.jpg
+header_image: /images/hotels/chablecasa/chablecasa1.jpeg
 ---
 ## Sian Ka’an
 

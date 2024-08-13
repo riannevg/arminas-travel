@@ -4,6 +4,7 @@ title: Mini Yucatan 3
 featured: false
 categories:
   - Cancun-Tours
+  - Riviera-Maya-Tours
 header_image: /images/destinations/yucatan/yucatan5.jpg
 ---
 ## Multi-Day Tour from Cancun including Ek Balam, Chichen Itza, Palenque, Campeche

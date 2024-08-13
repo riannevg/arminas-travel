@@ -4,6 +4,7 @@ title: Mini Yucatan 1
 featured: false
 categories:
   - Cancun-Tours
+  - Riviera-Maya-Tours
 header_image: /images/destinations/yucatan/yucatan2.jpg
 ---
 ## Multi-Day Tour from Cancun
