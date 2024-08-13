@@ -35,3 +35,14 @@ Chihuahua’s diverse attractions make it a destination that caters to both hist
 </div>
 
 </section>
+
+## Multi-day tours departing from Chihuahua
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/tours/coppercan">
+        <div class="bg-image square" style="background-image:url('/images/destinations/chihuahua/chihuahua1.jpg')">  </div>
+        <h3 class='center'>Large Copper Canyon</h3>        
+    </a>  
+</div>
+</section>

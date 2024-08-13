@@ -108,5 +108,15 @@ Los Cabos’ unique combination of desert and sea creates a spectacular setting 
 </div>
 
 
+</section>
 
+## Multi-day tours departing from Chihuahua
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/tours/caboscop">
+        <div class="bg-image square" style="background-image:url('/images/destinations/chihuahua/chihuahua7.jpg')">  </div>
+        <h3 class='center'>Los Cabos to the Copper Canyon</h3>        
+    </a>  
+</div>
 </section>

@@ -169,3 +169,43 @@ Cancun is more than just a beach destination; it’s a gateway to a myriad of ex
 </div>
 
 </section>
+
+## Multi-day tours departing from Cancun
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/tours/luxminiyuc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/merida/merida8.jpg')">  </div>
+        <h3 class='center'>Luxury Mini Yucatan</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/tours/miniyuc1">
+        <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan2.jpg')">  </div>
+        <h3 class='center'>Mini Yucatan 1</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/tours/miniyuc2">
+        <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan4.jpg')">  </div>
+        <h3 class='center'>Mini Yucatan 2</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/tours/miniyuc3">
+        <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan5.jpg')">  </div>
+        <h3 class='center'>Mini Yucatan 3</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/tours/miniyuc4">
+        <div class="bg-image square" style="background-image:url('/images/destinations/merida/merida4.jpg')">  </div>
+        <h3 class='center'>Mini Yucatan 4</h3>        
+    </a>  
+</div>
+
+</section>
