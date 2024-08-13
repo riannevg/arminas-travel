@@ -25,3 +25,21 @@ Acapulco offers a wealth of activities for thrill-seekers and nature lovers alik
 **Reasons to Visit**
 
 Acapulco’s allure lies in its ability to cater to all types of travelers. Its vibrant nightlife, with world-class clubs and beach parties, is legendary. Yet, the city also offers serene escapes, from quiet beachside retreats to luxurious spas. Acapulco’s culinary scene is another highlight, blending traditional Mexican flavors with international cuisine. Whether you’re seeking adventure, relaxation, or a bit of both, Acapulco promises an unforgettable experience.
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+
+## Hotels in Acapulco
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/banyanaca">
+        <div class="bg-image square" style="background-image:url('/images/hotels/banyanaca/banyanaca1.webp')">  </div>
+        <h3 class='center'>Banyan Tree Acapulco</h3>        
+    </a>  
+</div>
+</section>
+

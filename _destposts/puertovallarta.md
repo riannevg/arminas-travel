@@ -29,3 +29,32 @@ For those seeking adventure on land, the Sierra Madre mountains offer hiking, zi
 **Reasons to Visit**
 
 Puerto Vallarta’s unique blend of natural beauty, cultural richness, and modern comforts makes it a standout destination on Mexico’s Pacific coast. The town’s friendly atmosphere and diverse attractions cater to all types of travelers, from families and couples to solo adventurers. Whether you’re exploring the vibrant local culture, indulging in world-class cuisine, or simply relaxing on a beautiful beach, Puerto Vallarta offers an idyllic escape that promises relaxation and excitement.
+
+&nbsp;  
+
+
+## Hotels in Puerto Vallarta & Surroundings
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/grandvelasnay">
+        <div class="bg-image square" style="background-image:url('/images/hotels/velasnayarit/velasnayarit5.jpg')">  </div>
+        <h3 class='center'>Grand Velas Riviera Nayarit</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/onemandarina">
+        <div class="bg-image square" style="background-image:url('/images/hotels/onemandarina/onemandarina1.webp')">  </div>
+        <h3 class='center'>One and Only Mandarina</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/susurros">
+        <div class="bg-image square" style="background-image:url('/images/hotels/susurros/susurros4.jpg')">  </div>
+        <h3 class='center'>Susurros del Corazon</h3>        
+    </a>  
+</div>
+
+</section>

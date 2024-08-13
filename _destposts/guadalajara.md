@@ -20,6 +20,19 @@ The historic center of Guadalajara is a treasure trove of architectural gems. Th
 
 Guadalajara is a city that invites exploration. Take a leisurely walk through the charming neighborhood of Tlaquepaque, known for its vibrant arts and crafts scene. Here, you can shop for traditional pottery, textiles, and other handmade goods while enjoying the festive atmosphere. A short drive from the city, the town of Tequila offers tours of world-famous distilleries where you can learn about the production process and sample different varieties of tequila. For a unique experience, catch a performance at the Teatro Degollado, a beautifully preserved 19th-century theater that hosts ballet, opera, and concerts.
 
-{% include snippets/image-float.html image="/images/destinations/guadalajara/guadalajara1.jpg" alt="Guadalajara" float-direction="left" %}**Reasons to Visit**
+**Reasons to Visit**
 
+{% include snippets/image-float.html image="/images/destinations/guadalajara/guadalajara1.jpg" alt="Guadalajara" float-direction="left" %}
 Guadalajara’s allure lies in its rich cultural heritage and lively atmosphere. The city is the birthplace of mariachi music, and you can enjoy live performances in many of its plazas and restaurants. Guadalajara’s culinary scene is another highlight, offering everything from street food delights like tortas ahogadas to upscale dining experiences. The city’s warm climate and friendly locals make it a welcoming destination year-round. Whether you’re exploring its historical sites, enjoying its vibrant nightlife, or simply soaking in the local culture, Guadalajara offers a truly immersive Mexican experience.
+
+## Hotels in Guadalajara
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/hyattreg">
+        <div class="bg-image square" style="background-image:url('/images/hotels/hyattgdl/hyattgdl5.webp')">  </div>
+        <h3 class='center'>Hyatt Regency Andares</h3>        
+    </a>  
+</div>
+
+</section>

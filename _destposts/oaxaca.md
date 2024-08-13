@@ -39,3 +39,15 @@ Another must-try dish is tlayudas, often called Oaxacan pizza, which consists of
 **Reasons to Visit**
 
 Oaxaca’s captivating blend of cultural richness, historical depth, and culinary excellence makes it a standout destination in Mexico. The city’s warm and hospitable atmosphere, coupled with its vibrant traditions and natural beauty, provides a deeply immersive travel experience. Whether exploring its ancient ruins, enjoying its lively markets, or indulging in its world-renowned cuisine, Oaxaca promises a journey that is both enriching and unforgettable.
+
+## Hotels in Oaxaca
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/quintareal">
+        <div class="bg-image square" style="background-image:url('/images/hotels/quintareal/quintareal2.jpg')">  </div>
+        <h3 class='center'>Quinta Real</h3>        
+    </a>  
+</div>
+
+</section>

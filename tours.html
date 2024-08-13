@@ -20,7 +20,7 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
     <div class="col-10 grid-spaceAround">
         {% for tourarchive in site.tourarchives %}
         <div class="col-2_sm-4_xs-6 center padded-1 margin-b-1">
-            <a href="{{tourarchive.url}}" class="button">{{tourarchive.category | replace: "-", " "}}</a>
+            <a href="{{tourarchive.url}}" class="button">{{tourarchive.title | replace: "-", " "}}</a>
         </div>
         {% endfor %}
     </div>

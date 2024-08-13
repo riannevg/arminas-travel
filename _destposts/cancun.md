@@ -25,3 +25,147 @@ Adventure seekers will find no shortage of thrilling activities in Cancun. Dive 
 **Reasons to Visit**
 
 Cancun is more than just a beach destination; it’s a gateway to a myriad of experiences. The nearby Isla Mujeres is a tranquil escape with charming streets and beautiful beaches, perfect for a day trip. Cancun is also the ideal starting point for exploring the wonders of the Yucatan Peninsula, including the iconic Chichen Itza, one of the New Seven Wonders of the World. The combination of relaxation, adventure, and cultural enrichment makes Cancun a must-visit for travelers from around the globe.
+
+## Hotels in Cancun
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/hyattziva">
+        <div class="bg-image square" style="background-image:url('/images/hotels/hyattziva/hyattziva1.webp')">  </div>
+        <h3 class='center'>Hyatt Ziva</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/intercontinental">
+        <div class="bg-image square" style="background-image:url('/images/hotels/interconcancun/interconcancun1.webp')">  </div>
+        <h3 class='center'>Presidente Intercontinental</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/kempinski">
+        <div class="bg-image square" style="background-image:url('/images/hotels/kempinski/kempinski3.webp')">  </div>
+        <h3 class='center'>Kempinski</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/nizuc">
+        <div class="bg-image square" style="background-image:url('/images/hotels/nizuc/nizuc1.jpg')">  </div>
+        <h3 class='center'>Nizuc</h3>        
+    </a>  
+</div>
+
+</section>
+
+
+## Excursions in and around Cancun
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/chichenexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan2.jpg')">  </div>
+        <h3 class='center'>Chichen Itza</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/cobaexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun7.jpg')">  </div>
+        <h3 class='center'>Coba</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/contoyexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun3.jpg')">  </div>
+        <h3 class='center'>Isla Contoy</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/deepseaexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun8.jpg')">  </div>
+        <h3 class='center'>Deep Sea Fishing</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/divingexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun6.jpg')">  </div>
+        <h3 class='center'>Diving</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/ekbalamexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan1.jpg')">  </div>
+        <h3 class='center'>Ek Balam</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/garrafonexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun1.jpg')">  </div>
+        <h3 class='center'>Garrafon</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/jungleboatexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun9.jpg')">  </div>
+        <h3 class='center'>Jungle Boat</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/riosecreto">
+        <div class="bg-image square" style="background-image:url('/images/destinations/rivieramaya/riosecreto.jpg')">  </div>
+        <h3 class='center'>Rio Secreto</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/selvatica">
+        <div class="bg-image square" style="background-image:url('/images/destinations/rivieramaya/selvatica.jpg')">  </div>
+        <h3 class='center'>Selvatica</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/siankaanexc">
+        <div class="bg-image square" style="background-image:url('/images/hotels/chablecasa/chablecasa1.jpeg')">  </div>
+        <h3 class='center'>Sian Ka'an</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/underwaterexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun10.jpg')">  </div>
+        <h3 class='center'>Underwater Museum</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/whalesharkexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun11.jpg')">  </div>
+        <h3 class='center'>Swimming with Whalesharks</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/xcaretexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/rivieramaya/xcaret.jpg')">  </div>
+        <h3 class='center'>Xcaret</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/xelhaexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/rivieramaya/rivieramaya8.jpg')">  </div>
+        <h3 class='center'>Xel-Ha + Tulum</h3>        
+    </a>  
+</div>
+
+</section>

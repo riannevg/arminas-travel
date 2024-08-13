@@ -29,3 +29,33 @@ For a unique experience, embark on a sailing or yacht excursion to explore the b
 **Reasons to Visit**
 
 Punta Mita’s combination of luxurious accommodations, pristine natural surroundings, and world-class amenities make it an ideal destination for discerning travelers. The exclusive resorts and private villas provide unparalleled comfort and service, while the area’s natural beauty and outdoor activities offer endless opportunities for relaxation and adventure. Whether enjoying a round of golf with ocean views, exploring the vibrant marine life, or simply unwinding on a secluded beach, Punta Mita promises an unforgettable escape.
+
+&nbsp;  
+## Hotels in Punta Mita & Surroundings
+
+
+<section class='grid'>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/susurros">
+        <div class="bg-image square" style="background-image:url('/images/hotels/susurros/susurros4.jpg')">  </div>
+        <h3 class='center'>Susurros del Corazon</h3>        
+    </a>  
+</div>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/grandvelasnay">
+        <div class="bg-image square" style="background-image:url('/images/hotels/velasnayarit/velasnayarit5.jpg')">  </div>
+        <h3 class='center'>Grand Velas Riviera Nayarit</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/onemandarina">
+        <div class="bg-image square" style="background-image:url('/images/hotels/onemandarina/onemandarina1.webp')">  </div>
+        <h3 class='center'>One and Only Mandarina</h3>        
+    </a>  
+</div>
+
+
+
+</section>

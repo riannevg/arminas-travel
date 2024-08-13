@@ -29,3 +29,16 @@ Cultural enthusiasts will appreciate Veracruz’s vibrant festivals, including t
 **Reasons to Visit**
 
 Veracruz’s combination of historical charm, cultural vibrancy, and coastal beauty makes it an appealing destination for a diverse range of travelers. The city’s welcoming atmosphere, rich history, and lively festivals provide an immersive experience into Mexico’s coastal culture. Whether exploring its historic landmarks, enjoying its beaches, or participating in its vibrant celebrations, Veracruz offers a dynamic and engaging travel experience.
+
+&nbsp;  
+## Hotels in Veracruz
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/emporio">
+        <div class="bg-image square" style="background-image:url('/images/hotels/emporio/emporio3.jpg')">  </div>
+        <h3 class='center'>Hotel Emporio</h3>        
+    </a>  
+</div>
+
+</section>

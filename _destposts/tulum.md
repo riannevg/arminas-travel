@@ -8,7 +8,7 @@ header_image: /images/destinations/tulum/tulum4.jpg
 ---
 # **Tulum: A Fusion of Tranquil Beauty and Vibrant Energy**
 
-{% include snippets/image-float.html image="/images/destinations/tulum/tulum6.jpg" alt="Tulum" float-direction="right" %}
+{% include snippets/image-float.html image="/images/destinations/tulum/tulum1.jpg" alt="Tulum" float-direction="right" %}
 
 Tulum, located on Mexico’s stunning Caribbean coast, is renowned for its idyllic beaches, ancient Maya ruins, and a unique blend of tranquility and vibrant nightlife. This coastal paradise offers a perfect balance between serene natural beauty and a lively party scene, making it an ideal destination for travelers seeking both relaxation and excitement.
 
@@ -24,8 +24,139 @@ Tulum’s beaches are famed for their beauty, with soft white sand and turquoise
 
 In addition to its tranquil offerings, Tulum is also known for its vibrant nightlife. The town’s beach clubs and bars come alive after dark, featuring lively music, dance, and cocktail scenes. Popular spots like Papaya Playa Project and Casa Jaguar offer beachfront parties with DJ sets, bonfires, and a mix of international and local music. Tulum’s nightlife provides a perfect complement to its laid-back daytime activities.
 
-{% include snippets/image-float.html image="/images/destinations/tulum/tulum8.jpg" alt="Tulum" float-direction="left" %}
+{% include snippets/image-float.html image="/images/destinations/tulum/tulum4.jpg" alt="Tulum" float-direction="left" %}
 
 **Reasons to Visit**
 
 Tulum’s unique combination of serene natural beauty and dynamic party scene makes it a versatile destination. Whether you’re drawn to exploring ancient ruins, swimming in cenotes, or dancing under the stars, Tulum offers a diverse range of experiences. The town’s eco-friendly vibe and beautiful surroundings create an enchanting setting for relaxation and adventure, while its lively nightlife ensures that there’s always something exciting to discover.
+
+&nbsp;  
+## Hotels in Tulum & Surroundings
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/casamalca">
+        <div class="bg-image square" style="background-image:url('/images/hotels/casamalca/casamalca5.png')">  </div>
+        <h3 class='center'>Casa Malca</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/casachable">
+        <div class="bg-image square" style="background-image:url('/images/hotels/chablecasa/chablecasa5.jpeg')">  </div>
+        <h3 class='center'>Casa Chable</h3>        
+    </a>  
+</div>
+
+
+</section>
+
+## Excursions in and around Tulum
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/chichenexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan2.jpg')">  </div>
+        <h3 class='center'>Chichen Itza</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/cobaexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun7.jpg')">  </div>
+        <h3 class='center'>Coba</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/contoyexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun3.jpg')">  </div>
+        <h3 class='center'>Isla Contoy</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/deepseaexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun8.jpg')">  </div>
+        <h3 class='center'>Deep Sea Fishing</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/divingexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun6.jpg')">  </div>
+        <h3 class='center'>Diving</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/ekbalamexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan1.jpg')">  </div>
+        <h3 class='center'>Ek Balam</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/garrafonexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun1.jpg')">  </div>
+        <h3 class='center'>Garrafon</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/jungleboatexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun9.jpg')">  </div>
+        <h3 class='center'>Jungle Boat</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/riosecreto">
+        <div class="bg-image square" style="background-image:url('/images/destinations/rivieramaya/riosecreto.jpg')">  </div>
+        <h3 class='center'>Rio Secreto</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/selvatica">
+        <div class="bg-image square" style="background-image:url('/images/destinations/rivieramaya/selvatica.jpg')">  </div>
+        <h3 class='center'>Selvatica</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/siankaanexc">
+        <div class="bg-image square" style="background-image:url('/images/hotels/chablecasa/chablecasa1.jpeg')">  </div>
+        <h3 class='center'>Sian Ka'an</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/underwaterexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun10.jpg')">  </div>
+        <h3 class='center'>Underwater Museum</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/whalesharkexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun11.jpg')">  </div>
+        <h3 class='center'>Swimming with Whalesharks</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/xcaretexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/rivieramaya/xcaret.jpg')">  </div>
+        <h3 class='center'>Xcaret</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/xelhaexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/rivieramaya/rivieramaya8.jpg')">  </div>
+        <h3 class='center'>Xel-Ha + Tulum</h3>        
+    </a>  
+</div>
+
+</section>

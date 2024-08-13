@@ -27,3 +27,29 @@ La Paz is a gateway to some of the best outdoor adventures in Baja California Su
 **Reasons to Visit**
 
 La Paz’s natural beauty and laid-back atmosphere make it a perfect escape for those looking to unwind and connect with nature. The city’s friendly locals and welcoming vibe create a relaxed and enjoyable environment. La Paz also offers a rich culinary scene, with fresh seafood being a highlight – don’t miss trying the local chocolate clams or fish tacos. Whether you’re exploring its beautiful beaches, engaging in thrilling water activities, or simply soaking up the sun, La Paz promises an unforgettable experience.
+
+## Hotels in La Paz & Todos Santos
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/indigolapaz">
+        <div class="bg-image square" style="background-image:url('/images/hotels/indigo/indigo6.webp')">  </div>
+        <h3 class='center'>Hotel Indigo Puerto Cortez</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/kimptonmasolas">
+        <div class="bg-image square" style="background-image:url('/images/hotels/kimptonmasolas/kimptonmasolas3.jpeg')">  </div>
+        <h3 class='center'>Kimpton Mas Olas</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/paradero">
+        <div class="bg-image square" style="background-image:url('/images/hotels/paradero/paradero3.jpeg')">  </div>
+        <h3 class='center'>Paradero</h3>        
+    </a>  
+</div>
+
+</section>

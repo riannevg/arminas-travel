@@ -11,7 +11,7 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
     <div class="col-10 grid-spaceAround">
         {% for excarchive in site.excarchives %}
         <div class="col-4_xs-6 center padded-1 margin-b-1">
-            <a href="{{excarchive.url}}" class="button">{{excarchive.category | replace: "-", " "}}</a>
+            <a href="{{excarchive.url}}" class="button">{{excarchive.title | replace: "-", " "}}</a>
         </div>
         {% endfor %}
     </div>

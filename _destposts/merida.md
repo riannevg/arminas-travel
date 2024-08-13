@@ -27,3 +27,29 @@ Mérida is a cultural hub, offering a variety of activities that celebrate its r
 **Reasons to Visit**
 
 Mérida’s warm, welcoming atmosphere and rich cultural offerings make it a must-visit destination. The city’s culinary scene is another highlight, featuring Yucatecan specialties such as cochinita pibil, panuchos, and sopa de lima. Mérida’s strategic location also makes it an ideal base for exploring the surrounding area, including the ancient Mayan city of Uxmal and the stunning cenotes of the Yucatán Peninsula. Whether you’re delving into history, savoring local flavors, or simply soaking up the vibrant atmosphere, Mérida promises a memorable and enriching experience.
+
+## Hotels in Merida and surroundings
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/chableyuc">
+        <div class="bg-image square" style="background-image:url('/images/hotels/chableyuc/chableyuc3.jpeg')">  </div>
+        <h3 class='center'>Chable Yucatan</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/courtyardmed">
+        <div class="bg-image square" style="background-image:url('/images/hotels/courtyardmerida/courtyardmer1.jpg')">  </div>
+        <h3 class='center'>Courtyard Merida</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/xcanatun">
+        <div class="bg-image square" style="background-image:url('/images/hotels/xcanatun/xcanatun3.webp')">  </div>
+        <h3 class='center'>Hacienda Xcanatun</h3>        
+    </a>  
+</div>
+
+</section>

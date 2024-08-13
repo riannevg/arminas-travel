@@ -34,8 +34,129 @@ Mexico City is a gastronomic paradise, renowned for its diverse and innovative c
 
 For fine dining, Mexico City is home to some of the best restaurants in the world. Pujol, led by chef Enrique Olvera, offers a modern take on traditional Mexican flavors, while Quintonil, helmed by chef Jorge Vallejo, showcases contemporary Mexican cuisine with a focus on seasonal ingredients. Don’t miss the chance to try mezcal and tequila at one of the city’s many trendy bars, where expert mixologists craft innovative cocktails that highlight these iconic spirits.
 
-{% include snippets/image-float.html image="/images/destinations/cdmx/cdmx7.jpg" alt="Mexico City" float-direction="left" %}
-
 **Reasons to Visit**
 
 Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions make it a destination like no other. The city’s warm and welcoming locals, known as chilangos, add to its charm, making visitors feel at home. Whether you’re exploring its ancient ruins, enjoying its cutting-edge art scene, or indulging in its world-class cuisine, Mexico City offers an unforgettable experience that captivates all who visit.
+
+## Hotels in Mexico City
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/andazcondesa">
+        <div class="bg-image square" style="background-image:url('/images/hotels/andazcondesa/andazcondesa5.webp')">  </div>
+        <h3 class='center'>Andaz Condesa</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/casapolanco">
+        <div class="bg-image square" style="background-image:url('/images/hotels/casapolanco/casapolanco4.jpg')">  </div>
+        <h3 class='center'>Casa Polanco</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/fourseasons">
+        <div class="bg-image square" style="background-image:url('/images/hotels/fourseasonsmex/fourseasonsmex2.jpg')">  </div>
+        <h3 class='center'>Four Seasons</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/galeriaplaza">
+        <div class="bg-image square" style="background-image:url('/images/hotels/galeriaplaza/galeriaplaza1.png')">  </div>
+        <h3 class='center'>Galeria Plaza</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/ritzcdmx">
+        <div class="bg-image square" style="background-image:url('/images/hotels/ritzcdmx/ritzcdmx2.jpeg')">  </div>
+        <h3 class='center'>Ritz Carlton</h3>        
+    </a>  
+</div>
+
+</section>
+
+
+## Excursions in and around Mexico City
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/antropologiaexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx4.jpg')">  </div>
+        <h3 class='center'>Mexico City and Museum of Antropology</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/basilicateotiexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx6.jpg')">  </div>
+        <h3 class='center'>Basilica de Guadalupe and Teotihuacan </h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/fridaxochiexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx13.jpg')">  </div>
+        <h3 class='center'>Frida Kahlo Museum, Leon Trotsky Museum & Xochimilco </h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/monarchexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx14.jpg')">  </div>
+        <h3 class='center'>Monarch Butterfly Reserve </h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/museumsexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx15.jpg')">  </div>
+        <h3 class='center'>Museums of Mexico City </h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/onedaymexexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx11.jpg')">  </div>
+        <h3 class='center'>One day in Mexico City </h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/palacesexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx10.jpg')">  </div>
+        <h3 class='center'>Palaces of Mexico City</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/pueblacholexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/puebla/puebla4.jpg')">  </div>
+        <h3 class='center'>Puebla & Cholula Day Trip</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/soumayaexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx4.jpg')">  </div>
+        <h3 class='center'>Mexico City tour and Soumaya Museum</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/teotihuacan">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/teotihuacan.jpg')">  </div>
+        <h3 class='center'>Teotihuacan</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/xochitaxcoexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/taxco.jpg')">  </div>
+        <h3 class='center'>Xochicalco and Taxco</h3>        
+    </a>  
+</div>
+
+</section>

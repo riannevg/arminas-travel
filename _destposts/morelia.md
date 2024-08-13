@@ -25,3 +25,27 @@ Morelia’s cultural richness is reflected in its many festivals and events. The
 **Reasons to Visit**
 
 Morelia’s charm lies in its harmonious blend of history, culture, and natural beauty. The city’s warm and welcoming atmosphere, combined with its impressive colonial architecture, creates a unique travel experience. Morelia is also a gateway to the Monarch Butterfly Biosphere Reserve, where millions of monarch butterflies migrate each year, offering a breathtaking natural spectacle. Whether exploring its historical sites, enjoying its cultural festivities, or venturing into the surrounding countryside, Morelia promises an unforgettable journey.
+
+## Hotels in Morelia
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/soledad">
+        <div class="bg-image square" style="background-image:url('/images/hotels/soledad/soledad1.jpg')">  </div>
+        <h3 class='center'>Hotel de la Soledad</h3>        
+    </a>  
+</div>
+
+</section>
+
+## Excursions around Morelia
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/monarchexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx14.jpg')">  </div>
+        <h3 class='center'>Monarch Butterfly Reserve </h3>        
+    </a>  
+</div>
+
+</section>

@@ -23,3 +23,15 @@ Chihuahua state is renowned for its natural beauty, with the Copper Canyon (Barr
 {% include snippets/image-float.html image="/images/destinations/chihuahua/chihuahua5.jpg" alt="Chihuahua" float-direction="left" %}**Reasons to Visit**
 
 Chihuahua’s diverse attractions make it a destination that caters to both history buffs and adventure seekers. The state’s rich cultural heritage, seen in its architecture, museums, and festivals, provides a deep connection to Mexico’s storied past. Meanwhile, the natural beauty of places like the Copper Canyon offers an exhilarating escape into the wild. The warm hospitality of the local people and the region’s unique cuisine, featuring dishes like machaca and asado, add to the charm of this remarkable destination. Whether exploring the historic city or venturing into the great outdoors, Chihuahua promises an unforgettable experience.
+
+## Hotels in Chihuahua
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/sheraton">
+        <div class="bg-image square" style="background-image:url('/images/hotels/soberano/soberano4.webp')">  </div>
+        <h3 class='center'>Sheraton Soberano</h3>        
+    </a>  
+</div>
+
+</section>

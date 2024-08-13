@@ -35,3 +35,29 @@ Other local specialties include pipián, a pumpkin seed-based sauce, and tinga, 
 **Reasons to Visit**
 
 Puebla’s rich cultural heritage, stunning architecture, and exceptional cuisine make it a destination that appeals to all the senses. The city’s welcoming atmosphere and vibrant traditions create a unique and immersive experience for visitors. Whether exploring its historic landmarks, indulging in its culinary delights, or simply soaking in its scenic beauty, Puebla offers a journey that is both enriching and unforgettable.
+
+## Hotels in Puebla
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/banyanpue">
+        <div class="bg-image square" style="background-image:url('/images/hotels/banyanpuebla/banyanpue4.webp')">  </div>
+        <h3 class='center'>Banyan Tree Puebla</h3>        
+    </a>  
+</div>
+
+
+</section>
+
+## Excursions around Puebla
+
+<section class='grid'>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/pueblacholexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/puebla/puebla4.jpg')">  </div>
+        <h3 class='center'>Puebla & Cholula Day Trip</h3>        
+    </a>  
+</div>
+
+</section>

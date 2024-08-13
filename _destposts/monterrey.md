@@ -25,3 +25,15 @@ For outdoor enthusiasts, Monterrey is a gateway to numerous natural wonders. The
 **Reasons to Visit**
 
 Monterrey’s blend of urban sophistication and natural beauty makes it a compelling destination. The city’s culinary scene is another highlight, with local specialties such as cabrito (roast goat) and machaca (dried beef) offering a taste of Northern Mexican cuisine. The city’s vibrant nightlife, excellent shopping, and numerous cultural festivals add to its allure. Whether exploring its modern museums, enjoying its outdoor adventures, or savoring its local flavors, Monterrey promises a diverse and enriching travel experience.
+
+## Hotels in Monterrey
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/plazamty">
+        <div class="bg-image square" style="background-image:url('/images/hotels/galeriamty/galeriamty1.png')">  </div>
+        <h3 class='center'>Galeria Plaza</h3>        
+    </a>  
+</div>
+
+</section>

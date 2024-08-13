@@ -25,3 +25,23 @@ Puerto Escondido is a paradise for water sports enthusiasts. Beyond surfing, you
 **Reasons to Visit**
 
 Puerto Escondido’s laid-back vibe and stunning natural surroundings make it an ideal destination for those looking to escape the hustle and bustle of more touristy spots. The town’s vibrant markets, such as Mercado Benito Juárez, offer a taste of local life and a chance to sample Oaxacan specialties like tlayudas and fresh seafood. The friendly, welcoming atmosphere of Puerto Escondido, combined with its breathtaking sunsets and endless outdoor activities, ensures a memorable and rejuvenating getaway.
+
+## Hotels in Puerto Escondido
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/rockaway">
+        <div class="bg-image square" style="background-image:url('/images/hotels/rockaway/rockaway1.jpg')">  </div>
+        <h3 class='center'>Hotel Rockaway</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/terrestre">
+        <div class="bg-image square" style="background-image:url('/images/hotels/terrestre/terrestre2.png')">  </div>
+        <h3 class='center'>Terrestra</h3>        
+    </a>  
+</div>
+
+
+</section>

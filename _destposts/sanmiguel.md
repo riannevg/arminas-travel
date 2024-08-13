@@ -27,3 +27,23 @@ For outdoor enthusiasts, the nearby Cañada de la Virgen offers hiking trails wi
 **Reasons to Visit**
 
 San Miguel de Allende’s unique blend of colonial charm, artistic vibrancy, and cultural richness makes it a captivating destination. The city’s welcoming atmosphere, combined with its architectural beauty and artistic heritage, creates an enchanting environment for exploration and relaxation. Whether wandering through its historic streets, indulging in its culinary delights, or enjoying its cultural festivals, San Miguel de Allende promises a memorable and enriching travel experience.
+
+&nbsp;  
+## Hotels in San Miguel de Allende
+
+<section class='grid'>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/liveaqua">
+        <div class="bg-image square" style="background-image:url('/images/hotels/liveaquasma/liveaquasma1.jpg')">  </div>
+        <h3 class='center'>Live Aqua</h3>        
+    </a>  
+</div>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/rosewoodsma">
+        <div class="bg-image square" style="background-image:url('/images/hotels/rosewoodsma/rosewoodsma2.webp')">  </div>
+        <h3 class='center'>Rosewood</h3>        
+    </a>  
+</div>
+
+</section>

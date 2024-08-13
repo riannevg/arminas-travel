@@ -29,3 +29,29 @@ For nature enthusiasts, the Ría Celestún Biosphere Reserve is a must-visit. Th
 **Reasons to Visit**
 
 Yucatán State offers a compelling blend of historical intrigue, cultural richness, and natural beauty. The region’s Maya heritage, showcased through its impressive ruins and archaeological sites, provides a fascinating journey into the ancient past. Meanwhile, the colonial charm of Mérida and the natural wonders of the cenotes and biosphere reserves create a diverse and enriching travel experience. Whether delving into the history of Chichén Itzá, enjoying the cultural vibrancy of Mérida, or exploring the natural splendor of cenotes and wildlife reserves, Yucatán State promises an unforgettable adventure.
+
+&nbsp;  
+## Hotels in Yucatan
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/chableyuc">
+        <div class="bg-image square" style="background-image:url('/images/hotels/chableyuc/chableyuc3.jpeg')">  </div>
+        <h3 class='center'>Chable Yucatan</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/courtyardmed">
+        <div class="bg-image square" style="background-image:url('/images/hotels/courtyardmerida/courtyardmer1.jpg')">  </div>
+        <h3 class='center'>Courtyard Merida</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/xcanatun">
+        <div class="bg-image square" style="background-image:url('/images/hotels/xcanatun/xcanatun3.webp')">  </div>
+        <h3 class='center'>Hacienda Xcanatun</h3>        
+    </a>  
+</div>
+</section>
