@@ -11,6 +11,10 @@ header_image: /images/hotels/quintachan/quintachan1.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/xyAzyLFQ5cU" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Chanabnal is located in the lush jungle surrounding Palenque, offering a serene retreat just a short distance from the famous archaeological site. The hotel's setting amidst verdant rainforest provides guests with a tranquil escape, perfect for immersing themselves in the natural beauty of the region. With easy access to the Palenque ruins and nearby waterfalls, Chanabnal is ideally situated for those looking to explore both the cultural and natural wonders of Chiapas.
@@ -35,6 +39,3 @@ Chanabnal’s dining options reflect the region’s rich culinary heritage. The 
 
 **Authentic Dining:** The restaurant’s focus on traditional Mexican cuisine and fresh, local ingredients ensures a memorable and authentic culinary experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/xyAzyLFQ5cU" frameborder="0" allowfullscreen=""></iframe></div>

@@ -11,6 +11,10 @@ header_image: /images/hotels/banyanpuebla/banyanpue4.webp
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/_8eXDV3nEUQ" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Banyan Tree Puebla is situated in the heart of Puebla, one of Mexico’s most culturally rich and historic cities. Located within walking distance of Puebla’s UNESCO-listed historic center, the hotel offers easy access to the city’s stunning colonial architecture, vibrant markets, and renowned culinary scene. The hotel's prime location allows guests to immerse themselves in the rich history and vibrant culture of Puebla, making it an ideal destination for travelers seeking both luxury and authenticity.
@@ -31,6 +35,3 @@ At Banyan Tree Puebla, guests can experience a perfect blend of luxury and local
 
 **Cultural Immersion:** From curated art collections to cooking classes, Banyan Tree Puebla offers an immersive experience of local culture and traditions.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/_8eXDV3nEUQ" frameborder="0" allowfullscreen=""></iframe></div>

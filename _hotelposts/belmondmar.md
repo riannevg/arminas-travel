@@ -11,6 +11,10 @@ header_image: /images/hotels/belmond/belmond4.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/tgD52aO6cM8" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Belmond Maroma is located on the stunning white sands of Maroma Beach, one of the most beautiful and tranquil beaches in the Riviera Maya. Surrounded by lush jungle and the turquoise waters of the Caribbean Sea, this luxurious resort offers a serene and secluded environment while being just a short drive from the lively town of Playa del Carmen. The hotel’s location provides the perfect balance between relaxation and access to the cultural and natural wonders of the region.
@@ -35,6 +39,3 @@ Belmond Maroma is renowned for its exceptional culinary offerings, which highlig
 
 **Exceptional Dining:** With its focus on contemporary Mexican cuisine and fresh, local ingredients, Belmond Maroma’s restaurants provide a culinary experience that is both authentic and exquisite.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/tgD52aO6cM8" frameborder="0" allowfullscreen=""></iframe></div>

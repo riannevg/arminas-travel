@@ -11,6 +11,10 @@ header_image: /images/hotels/galeriamty/galeriamty1.png
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/VheFrWzWO1w" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Galeria Plaza Monterrey is situated in the vibrant downtown area of Monterrey, Mexico’s bustling business and cultural hub. The hotel’s central location provides easy access to major corporate offices, shopping districts, and cultural attractions. Guests can explore the nearby museums, parks, and local landmarks, all within a short distance from the hotel. The city’s dynamic atmosphere and the hotel’s convenient position make it an ideal choice for both business and leisure travelers.
@@ -33,6 +37,3 @@ Dining at Galeria Plaza Monterrey is a pleasant experience with a focus on high-
 
 **Diverse Dining Options:** The restaurant’s focus on international and Mexican cuisine ensures a satisfying and varied dining experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/VheFrWzWO1w" frameborder="0" allowfullscreen=""></iframe></div>

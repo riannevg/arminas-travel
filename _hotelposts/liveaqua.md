@@ -11,6 +11,10 @@ header_image: /images/hotels/liveaquasma/liveaquasma1.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/3Yg3hW6gQoA" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Live Aqua San Miguel de Allende is nestled in the heart of San Miguel de Allende, a charming and historic city known for its colonial architecture and vibrant cultural scene. The hotel is situated just a short walk from the city's main square, El Jardín, allowing guests to easily explore the local shops, galleries, and restaurants. The picturesque surroundings and historic ambiance make it an ideal location for experiencing the unique beauty and cultural richness of San Miguel de Allende.
@@ -35,6 +39,3 @@ Dining at Live Aqua San Miguel de Allende is a gourmet experience, with a focus 
 
 **Exceptional Dining Experience:** The restaurant’s focus on innovative and flavorful cuisine ensures a memorable and high-quality dining experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/3Yg3hW6gQoA" frameborder="0" allowfullscreen=""></iframe></div>

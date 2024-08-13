@@ -11,6 +11,10 @@ header_image: /images/hotels/fourseasonsmex/fourseasonsmex2.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/iDisCfGuGdM" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Four Seasons Mexico City is located in the vibrant and upscale Polanco neighborhood, providing guests with an ideal base to explore Mexico City’s rich cultural and culinary scene. The hotel is situated near major attractions such as Chapultepec Park, the National Museum of Anthropology, and high-end shopping districts. Its central location allows guests to immerse themselves in the city’s dynamic energy while enjoying the tranquility and luxury of the hotel’s surroundings.
@@ -35,6 +39,3 @@ Dining at Four Seasons Mexico City is an exceptional experience, with the hotel 
 
 **Exceptional Dining Experience:** The diverse dining options, featuring contemporary Mexican cuisine and craft cocktails, ensure a memorable and high-quality culinary experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/iDisCfGuGdM" frameborder="0" allowfullscreen=""></iframe></div>

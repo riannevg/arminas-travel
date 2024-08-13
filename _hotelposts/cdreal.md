@@ -11,6 +11,10 @@ header_image: /images/hotels/ciudadreal/ciudadreal2.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/x9M5-fAD8ZQ" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Hotel Ciudad Real is conveniently located in Palenque, offering guests a comfortable base from which to explore the region’s rich cultural and natural attractions. Situated just a short drive from the impressive Palenque archaeological site, the hotel provides easy access to the ancient Mayan ruins nestled within the lush rainforest. The hotel’s location also allows guests to explore the nearby waterfalls, lush jungles, and local villages, making it an ideal choice for those seeking both adventure and relaxation.
@@ -35,6 +39,3 @@ The hotel's restaurant provides a pleasant dining experience with a focus on bot
 
 **Local and International Cuisine:** The restaurant’s menu, featuring both local and international dishes, ensures a satisfying and diverse dining experience during your stay.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/x9M5-fAD8ZQ" frameborder="0" allowfullscreen=""></iframe></div>

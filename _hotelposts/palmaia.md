@@ -11,6 +11,10 @@ header_image: /images/hotels/palmaia/palmaia3.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/XwC0nrEc2X4" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Palmaia: The House of Aia is nestled on the pristine beaches of Playa del Carmen, offering guests a unique blend of luxury and eco-conscious living. The resort is set amid lush tropical landscapes and features direct access to a beautiful stretch of white sand beach along the Caribbean Sea. Its location allows guests to enjoy both the natural beauty of the Riviera Maya and the vibrant local culture of Playa del Carmen, making it a perfect destination for those seeking both relaxation and adventure.
@@ -35,6 +39,3 @@ Dining at Palmaia is a gourmet experience with a focus on fresh, organic, and lo
 
 **Gourmet and Organic Dining:** The emphasis on fresh, organic ingredients and diverse culinary options ensures a memorable and health-conscious dining experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/XwC0nrEc2X4" frameborder="0" allowfullscreen=""></iframe></div>

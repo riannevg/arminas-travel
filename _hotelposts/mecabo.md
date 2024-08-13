@@ -11,6 +11,10 @@ header_image: /images/hotels/mecabo/mecabo1.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/uwO6J3WgtE8" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 ME Cabo is situated in the lively Cabo San Lucas area, right on the edge of the pristine Medano Beach. This prime location offers guests stunning ocean views and direct access to one of Cabo’s most popular beaches. The hotel is also close to the bustling marina and downtown Cabo San Lucas, providing easy access to a variety of dining, shopping, and entertainment options. The vibrant surroundings and beautiful beach setting make it an ideal choice for those looking to enjoy both relaxation and excitement.
@@ -35,6 +39,3 @@ Dining at ME Cabo is a chic and flavorful experience, with a focus on fresh and 
 
 **Vibrant Dining Experience:** The restaurant’s focus on creative and fresh cuisine, along with stylish dining venues, ensures a memorable and high-quality culinary experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/uwO6J3WgtE8" frameborder="0" allowfullscreen=""></iframe></div>

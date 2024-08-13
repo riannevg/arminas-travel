@@ -11,6 +11,10 @@ header_image: /images/hotels/casapolanco/casapolanco4.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/Sg35ydBGYO4" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Casa Polanco is situated in one of Mexico City's most upscale neighborhoods, offering guests a luxurious retreat amidst the vibrant energy of the city. Located in the heart of Polanco, the hotel is surrounded by high-end boutiques, fine dining restaurants, and cultural attractions. Its central location provides easy access to key landmarks such as Chapultepec Park, the National Museum of Anthropology, and the lively dining and shopping scene along Presidente Masaryk Avenue.
@@ -35,6 +39,3 @@ Dining at Casa Polanco is a sophisticated affair, with an emphasis on high-quali
 
 **Exquisite Dining:** The restaurant’s focus on contemporary Mexican and international cuisine, coupled with exceptional service, ensures a memorable dining experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/Sg35ydBGYO4" frameborder="0" allowfullscreen=""></iframe></div>

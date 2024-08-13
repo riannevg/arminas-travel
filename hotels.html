@@ -12,25 +12,22 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 </section>
 
 
-
-
-<!-- Categories -->
-<section class="grid-spaceAround-middle">
-    <div class="col-10 grid-spaceAround">
-        {% for hotelarchive in site.hotelarchives %}
-        <div class="col-3_sm-4_xs-6 center margin-b-1">
-            <a href="{{hotelarchive.url}}" class="button">{{hotelarchive.category | replace: "-", " "}}</a>
-        </div>
-        {% endfor %}
-    </div>
-</section>
-
-
-
 <!-- Hotels grid -->
 <section class="grid-spaceAround-top center padded-5 blog">     
     
-    <div class="col-11 grid">
+    <div class="col-2 left border padded-1">
+        <h3>Destination</h3>
+        {% for hotelarchive in site.hotelarchives %}
+        <div class="col-3_sm-4_xs-6 left margin-b-1">
+            <a href="{{hotelarchive.url}}">&#9634; {{hotelarchive.category | replace: "-", " "}}</a>
+        </div>
+        {% endfor %}
+
+    </div>
+
+
+
+    <div class="col-10 grid">
     
         {% for hotelpost in site.hotelposts %}
             {% include hotel-loop.html %}

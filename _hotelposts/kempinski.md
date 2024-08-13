@@ -11,6 +11,10 @@ header_image: /images/hotels/kempinski/kempinski3.webp
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/DIgZSqp1jEQ" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Kempinski Cancun is situated in a prime location along the picturesque Cancun Hotel Zone, offering guests breathtaking views of the Caribbean Sea and direct access to pristine beaches. This luxury resort is nestled among lush tropical gardens, providing a serene and exclusive retreat while still being close to Cancun’s vibrant nightlife, shopping areas, and cultural attractions. The hotel’s setting allows guests to experience both the tranquility of its private beach and the excitement of the city.
@@ -35,6 +39,3 @@ Dining at Kempinski Cancun is an exceptional experience, with several restaurant
 
 **Exceptional Dining Options:** The variety of gourmet restaurants and bars offer a high-quality culinary experience with fresh, locally sourced ingredients.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/DIgZSqp1jEQ" frameborder="0" allowfullscreen=""></iframe></div>

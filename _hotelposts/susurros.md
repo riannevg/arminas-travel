@@ -12,6 +12,10 @@ header_image: /images/hotels/susurros/susurros4.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/R3jD97fn4oc" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Susurros del Corazón is located along the stunning coastline of Mexico’s Pacific Riviera, offering guests an exclusive retreat with breathtaking ocean views. Nestled in a secluded area, the resort is surrounded by lush tropical landscapes and pristine beaches, providing an idyllic setting for relaxation and rejuvenation. The location offers guests both tranquility and access to nearby natural attractions, including protected marine reserves and scenic coastal trails, making it an ideal destination for those seeking a serene escape with opportunities for adventure.
@@ -38,6 +42,3 @@ Dining at Susurros del Corazón is a refined experience, with a focus on fresh, 
 
 **Innovative Dining:** The focus on fresh, local ingredients and creative cuisine ensures a memorable and high-quality culinary experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/R3jD97fn4oc" frameborder="0" allowfullscreen=""></iframe></div>

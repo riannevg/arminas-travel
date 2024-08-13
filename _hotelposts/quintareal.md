@@ -11,6 +11,10 @@ header_image: /images/hotels/quintareal/quintareal2.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/0Di1ELCWjO4" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Quinta Real Oaxaca is set in the historic center of Oaxaca City, housed in a beautifully restored 16th-century convent. The hotel’s prime location allows guests to explore the city’s rich cultural heritage, including nearby museums, markets, and historic landmarks. The colonial architecture and lush gardens create a tranquil oasis in the midst of the city’s vibrant atmosphere. Its central position makes it convenient for visitors to immerse themselves in the local culture and explore the many attractions that Oaxaca has to offer.
@@ -35,6 +39,3 @@ Dining at Quinta Real Oaxaca is an elegant affair, with a focus on traditional O
 
 **Gourmet Dining:** The restaurant’s focus on traditional and sophisticated cuisine offers a delightful and memorable dining experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/0Di1ELCWjO4" frameborder="0" allowfullscreen=""></iframe></div>

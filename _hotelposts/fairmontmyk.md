@@ -11,6 +11,10 @@ header_image: /images/hotels/fairmontmyk/fairmontmyk4.webp
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/CPX4u4ZCGkY" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Fairmont Mayakoba is located in the heart of the Riviera Maya, surrounded by lush mangroves and tranquil lagoons. Situated just a short drive from Playa del Carmen, the resort offers a luxurious and serene setting along a beautiful stretch of coastline. The hotel's prime location provides easy access to the region’s stunning beaches, world-class golf courses, and nearby attractions, including the eco-archaeological parks and cenotes.
@@ -37,6 +41,3 @@ Dining at Fairmont Mayakoba is a highlight of the guest experience, with multipl
 
 **Diverse Dining Options:** The multiple dining venues, featuring both local and international cuisine, ensure a memorable culinary experience with beautiful beachfront views.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/CPX4u4ZCGkY" frameborder="0" allowfullscreen=""></iframe></div>

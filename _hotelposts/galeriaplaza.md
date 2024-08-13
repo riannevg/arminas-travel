@@ -11,6 +11,10 @@ header_image: /images/hotels/galeriaplaza/galeriaplaza1.png
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/9iEhzOBgG_g" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Galería Plaza México City is strategically located in the bustling Zona Rosa, a vibrant area known for its shopping, dining, and entertainment options. The hotel offers guests convenient access to major attractions such as the Angel of Independence, Reforma Avenue, and Chapultepec Park. Its central location makes it an ideal choice for travelers looking to explore Mexico City’s cultural landmarks and vibrant nightlife while enjoying a comfortable and modern retreat.
@@ -33,6 +37,3 @@ Dining at Galería Plaza México City is both convenient and enjoyable. The hote
 
 **Diverse Dining Options:** The restaurant and bar provide a variety of dining choices, ensuring a satisfying culinary experience within the hotel.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/9iEhzOBgG_g" frameborder="0" allowfullscreen=""></iframe></div>

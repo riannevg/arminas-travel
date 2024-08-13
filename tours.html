@@ -16,7 +16,7 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 
 
 <!-- Categories -->
-<section class="grid-spaceAround-middle">
+<!-- <section class="grid-spaceAround-middle">
     <div class="col-10 grid-spaceAround">
         {% for tourarchive in site.tourarchives %}
         <div class="col-2_sm-4_xs-6 center padded-1 margin-b-1">
@@ -24,14 +24,27 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
         </div>
         {% endfor %}
     </div>
-</section>
+</section> -->
 
 
 
-<!-- Hotels grid -->
+
+<!-- Tours grid -->
 <section class="grid-spaceAround-top center padded-5 blog">     
+
+    <div class="col-2 left border padded-1">
+        <h3>Tours departing from</h3>
+        {% for tourarchive in site.tourarchives %}
+        <div class="col-3_sm-4_xs-6 left margin-b-1">
+            <a href="{{tourarchive.url}}">&#9634; {{tourarchive.location | replace: "-", " "}}</a>
+        </div>
+        {% endfor %}
+
+    </div>
+
+
     
-    <div class="col-11 grid">
+    <div class="col-10 grid">
     
         {% for tourpost in site.tourposts %}
             {% include tour-loop.html %}

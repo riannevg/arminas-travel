@@ -11,6 +11,10 @@ header_image: /images/hotels/hyattgdl/hyattgdl5.webp
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/JGnrL0Czxhw" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Hyatt Regency Guadalajara is situated in the vibrant Zona Expo area of Guadalajara, providing guests with easy access to the city's main attractions and business districts. The hotel is conveniently located near the Expo Guadalajara convention center, making it an ideal choice for business travelers. Its central location also allows guests to explore the cultural and historic sites of Guadalajara, including the historic center, the Hospicio Cabañas, and the lively markets and dining areas.
@@ -35,6 +39,3 @@ Dining at Hyatt Regency Guadalajara offers a selection of options to suit differ
 
 **Diverse Dining Choices:** The restaurant and bar provide a variety of dining options, ensuring a satisfying culinary experience during your stay.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/JGnrL0Czxhw" frameborder="0" allowfullscreen=""></iframe></div>

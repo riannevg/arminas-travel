@@ -11,6 +11,10 @@ header_image: /images/hotels/casamalca/casamalca5.png
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/Llac2Aab0Ww" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Casa Malca is located on Tulum’s breathtaking coastline, offering guests a unique blend of art, luxury, and natural beauty. Positioned on a private stretch of beach, the hotel provides direct access to the Caribbean Sea’s pristine waters and powdery white sands. The tranquil setting is complemented by the lush tropical surroundings and the nearby Sian Ka'an Biosphere Reserve, making it an ideal destination for those seeking both relaxation and adventure.
@@ -35,6 +39,3 @@ Dining at Casa Malca is a highlight of the guest experience, with the hotel's re
 
 **Exceptional Dining Experience:** The dining experience, featuring fresh seafood and creative cocktails, complements the resort’s artistic and luxurious ambiance.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/Llac2Aab0Ww" frameborder="0" allowfullscreen=""></iframe></div>

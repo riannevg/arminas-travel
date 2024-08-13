@@ -11,6 +11,10 @@ header_image: /images/hotels/casagustavo/casagustavo4.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/vhqo707euU8" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Hotel Gustavo is located in the heart of Campeche’s historic center, a UNESCO World Heritage site known for its well-preserved colonial architecture and vibrant cultural scene. The hotel’s central location offers guests easy access to the city’s main attractions, including the Campeche Cathedral, the historic city walls, and the lively local markets. Its proximity to these landmarks allows guests to immerse themselves in the rich history and unique charm of Campeche.
@@ -37,6 +41,3 @@ Hotel Gustavo offers a charming dining experience with a focus on local flavors.
 
 **Local Culinary Experience:** The restaurant’s focus on traditional Campechan cuisine provides a delicious and authentic taste of the region.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/vhqo707euU8" frameborder="0" allowfullscreen=""></iframe></div>

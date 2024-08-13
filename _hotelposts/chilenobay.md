@@ -11,6 +11,10 @@ header_image: /images/hotels/chilenobay/chilenobay1.webp
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/koLtPB0LJO0" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Chileno Bay is situated on a stunning stretch of coastline in Los Cabos, offering guests an exclusive and picturesque retreat. Located along the Sea of Cortez, the resort boasts direct access to Chileno Beach, renowned for its clear waters and excellent snorkeling opportunities. The hotel’s location provides breathtaking ocean views and easy access to the vibrant dining and entertainment options in Cabo San Lucas, while maintaining a serene and secluded atmosphere.
@@ -35,6 +39,3 @@ Dining at Chileno Bay is a highlight of the guest experience, with the resort of
 
 **Exceptional Dining Experience:** The focus on Mediterranean and Mexican cuisine, with fresh, local ingredients, ensures a memorable and diverse culinary journey.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/koLtPB0LJO0" frameborder="0" allowfullscreen=""></iframe></div>

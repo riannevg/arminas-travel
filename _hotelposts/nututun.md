@@ -11,6 +11,10 @@ header_image: /images/hotels/nututun/nututun1.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/QUNnkhOwzMA" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Nututun Palenque is situated in a lush, tropical setting just outside the historic town of Palenque, offering guests a serene retreat surrounded by natural beauty. The resort’s location provides easy access to the nearby Mayan ruins of Palenque, making it an ideal base for exploring the rich history and archaeology of the region. The tranquil environment and verdant landscapes ensure a peaceful escape while being close to one of Mexico’s most significant archaeological sites.
@@ -33,6 +37,3 @@ Dining at Nututun Palenque is a delightful experience, with a focus on fresh and
 
 **Fresh Dining Options:** The restaurant’s focus on local and international cuisine offers a flavorful and satisfying dining experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/QUNnkhOwzMA" frameborder="0" allowfullscreen=""></iframe></div>

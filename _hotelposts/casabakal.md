@@ -11,6 +11,10 @@ header_image: /images/hotels/casabakal/casabakal2.webp
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/Ajk6qIcxE38" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Casa Bakal is a boutique hotel located on the tranquil shores of Bacalar Lagoon, known for its stunning shades of blue and often called the “Lagoon of Seven Colors.” Situated just minutes from the town of Bacalar, this charming retreat offers a peaceful setting where guests can unwind while being close to local attractions, including cenotes, Mayan ruins, and the vibrant town square.
@@ -31,6 +35,3 @@ Casa Bakal is designed for relaxation and connection with nature. Guests can sta
 
 **Active Relaxation:** The hotel’s activities, including kayaking, paddleboarding, and yoga, allow guests to engage with the beautiful surroundings while maintaining a sense of tranquility.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/Ajk6qIcxE38" frameborder="0" allowfullscreen=""></iframe></div>

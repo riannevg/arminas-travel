@@ -11,6 +11,10 @@ header_image: /images/hotels/onepalmilla/onepalmilla1.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/ZEE2_ZGjNrM" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 One&Only Palmilla is located on the pristine shores of the Baja California Peninsula, just a short drive from the vibrant town of San José del Cabo. This luxurious resort is set on a stunning beachfront with panoramic views of the Sea of Cortez, offering guests an exclusive retreat in an idyllic setting. The location combines the tranquility of its secluded beach with convenient access to the cultural and recreational attractions of San José del Cabo, making it an ideal destination for both relaxation and exploration.
@@ -37,6 +41,3 @@ Dining at One&Only Palmilla is a culinary delight, with several world-class rest
 
 **Exceptional Dining:** The variety of dining venues, featuring gourmet international and local cuisine, ensures a high-quality and memorable culinary experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/ZEE2_ZGjNrM" frameborder="0" allowfullscreen=""></iframe></div>

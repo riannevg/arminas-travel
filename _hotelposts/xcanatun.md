@@ -12,6 +12,10 @@ header_image: /images/hotels/xcanatun/xcanatun3.webp
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/BMVq5whu-xQ" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Xcanatun is located just outside the city of Mérida in the Yucatán Peninsula, set within a beautifully restored 18th-century hacienda. This historic location offers guests a tranquil escape amidst lush gardens and centuries-old architecture, providing a perfect blend of history and luxury. The hotel's proximity to Mérida allows guests to explore the city’s vibrant culture, historic sites, and local markets, while enjoying the peaceful ambiance of the hacienda's surroundings.
@@ -36,6 +40,3 @@ Dining at Xcanatun is a refined experience, with a focus on traditional Yucateca
 
 **Authentic Dining:** The focus on traditional Yucatecan cuisine and local ingredients ensures a memorable and high-quality culinary experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/BMVq5whu-xQ" frameborder="0" allowfullscreen=""></iframe></div>

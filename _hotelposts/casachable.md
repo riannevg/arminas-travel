@@ -11,6 +11,10 @@ header_image: /images/hotels/chablecasa/chablecasa5.jpeg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/yrCURbWUqjM" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Casa Chablé is nestled in the heart of the Sian Ka'an Biosphere Reserve, a UNESCO World Heritage site known for its breathtaking biodiversity and pristine natural beauty. This secluded retreat is located on the Caribbean coast, offering guests a rare opportunity to immerse themselves in one of Mexico’s most protected and ecologically significant environments. The hotel's remote location ensures a truly private and serene escape, away from the hustle and bustle of more populated areas.
@@ -35,6 +39,3 @@ Immersive activities, including guided nature tours and cultural experiences, al
 
 The resort’s focus on gourmet dining, with fresh, local ingredients and traditional Mayan flavors, enhances the immersive experience of the hotel.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/yrCURbWUqjM" frameborder="0" allowfullscreen=""></iframe></div>

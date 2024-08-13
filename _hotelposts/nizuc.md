@@ -11,6 +11,10 @@ header_image: /images/hotels/nizuc/nizuc1.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/7AU9v6SG-ns" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Nizuc Resort & Spa is situated in a serene location on the southern tip of Cancun’s Hotel Zone, offering a tranquil and exclusive beachfront setting. Surrounded by lush mangroves and pristine white sand beaches, the resort provides an intimate escape from the bustling city while still being conveniently close to Cancun’s main attractions. Its secluded location allows guests to enjoy both natural beauty and luxury, making it a perfect retreat for relaxation and rejuvenation.
@@ -35,6 +39,3 @@ Dining at Nizuc Resort & Spa is an exceptional experience with a variety of gour
 
 **Exceptional Dining:** The variety of dining venues, featuring international and local cuisine, ensures a high-quality and memorable culinary experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/7AU9v6SG-ns" frameborder="0" allowfullscreen=""></iframe></div>

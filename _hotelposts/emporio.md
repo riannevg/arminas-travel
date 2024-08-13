@@ -11,6 +11,10 @@ header_image: /images/hotels/emporio/emporio3.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/rX_3uqKVlZY" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Emporio Veracruz is ideally situated along the Gulf Coast in Veracruz, offering guests stunning ocean views and a prime location to explore the city’s vibrant culture. Located near the historic center, the hotel provides easy access to Veracruz’s main attractions, including the Zócalo, the San Juan de Ulúa Fortress, and the bustling local markets. Its beachfront location also allows guests to enjoy direct access to the sandy shores and the warm waters of the Gulf of Mexico.
@@ -33,6 +37,3 @@ Dining at Emporio Veracruz offers a delightful experience with a focus on both l
 
 **Diverse Dining Options:** The restaurant’s focus on both local and international cuisine ensures a varied and satisfying culinary experience with beautiful sea views.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/rX_3uqKVlZY" frameborder="0" allowfullscreen=""></iframe></div>

@@ -11,6 +11,10 @@ header_image: /images/hotels/banyanmyk/banyanmyk3.webp
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/NzBasgZbIHQ" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Nestled within the exclusive Mayakoba complex along Mexico’s Riviera Maya, Banyan Tree Mayakoba offers an unparalleled blend of luxury and natural beauty. The resort is surrounded by lush mangroves, lagoons, and pristine beaches, creating a serene and private environment. Located just minutes from Playa del Carmen, guests have easy access to the region’s cultural attractions, shopping, and vibrant nightlife, while still enjoying the tranquility of a secluded retreat.
@@ -31,6 +35,3 @@ Banyan Tree Mayakoba provides a wealth of activities designed to cater to every 
 
 **Gastronomic Excellence:** The resort’s diverse dining options, including authentic Thai cuisine and fresh seafood, offer a culinary journey that enhances the luxury experience.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/NzBasgZbIHQ" frameborder="0" allowfullscreen=""></iframe></div>

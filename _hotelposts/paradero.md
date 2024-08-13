@@ -12,6 +12,10 @@ header_image: /images/hotels/paradero/paradero3.jpeg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/5IG6W0QNFBU" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Paradero Todos Santos is located in the charming town of Todos Santos, a picturesque destination known for its art, culture, and natural beauty. Situated just a short drive from the Pacific coast, the resort offers stunning views of the surrounding desert landscape and access to pristine beaches. The town’s vibrant arts scene and laid-back atmosphere make it an ideal location for guests seeking a blend of relaxation and cultural exploration.
@@ -36,6 +40,3 @@ Dining at Paradero Todos Santos is a refined experience, with a focus on fresh a
 
 **Refined Dining:** The emphasis on fresh, local ingredients and contemporary cuisine ensures a high-quality and memorable dining experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/5IG6W0QNFBU" frameborder="0" allowfullscreen=""></iframe></div>

@@ -11,6 +11,10 @@ header_image: /images/hotels/ritzcdmx/ritzcdmx2.jpeg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/qD12-NXoyyo" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Ritz-Carlton Mexico City is located in the heart of Mexico City, offering guests unparalleled access to the city’s vibrant cultural and business districts. Situated on the Paseo de la Reforma, one of the city’s most iconic avenues, the hotel provides stunning views of Chapultepec Park and the surrounding skyline. Its central location allows guests to easily explore nearby attractions, including the historic center, museums, and shopping areas, making it an ideal base for both leisure and business travelers.
@@ -35,6 +39,3 @@ Dining at Ritz-Carlton Mexico City is a refined experience with a focus on gourm
 
 **Gourmet Dining:** The emphasis on contemporary international cuisine and the elegant dining setting ensure a high-quality and memorable culinary experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/qD12-NXoyyo" frameborder="0" allowfullscreen=""></iframe></div>

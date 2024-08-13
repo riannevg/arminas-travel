@@ -10,6 +10,9 @@ header_image: /images/hotels/andazcondesa/andazcondesa5.webp
 ## Andaz Condesa: Urban Chic in the Heart of Mexico City
 
 &nbsp;
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://videos.hyatt.com/andaz_mexaz_mexico_city_masthead_video_0423.mp4" frameborder="0" allowfullscreen=""></iframe></div>
 
 ### Location
 
@@ -29,6 +32,3 @@ Andaz Condesa combines luxury with the dynamic spirit of Mexico City. Guests can
 
 **Cultural Immersion:** With its regular art exhibitions and live events, Andaz Condesa offers guests an authentic taste of Mexico City's vibrant culture.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://videos.hyatt.com/andaz_mexaz_mexico_city_masthead_video_0423.mp4" frameborder="0" allowfullscreen=""></iframe></div>

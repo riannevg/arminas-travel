@@ -11,6 +11,10 @@ header_image: /images/hotels/soledad/soledad1.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/CyqTUcJib4I" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Hotel Soledad Morelia is situated in the historic center of Morelia, Mexico, offering guests an exceptional blend of colonial charm and modern comfort. Housed in a beautifully restored 18th-century building, the hotel’s central location provides easy access to the city’s rich cultural and historical attractions, including the stunning Morelia Cathedral and the vibrant Plaza de Armas. Its prime position allows guests to explore the city’s museums, markets, and historic sites on foot, making it an ideal base for experiencing Morelia’s unique heritage.
@@ -35,6 +39,3 @@ Dining at Hotel Soledad Morelia is a delightful experience, with a focus on auth
 
 **Authentic Dining:** The focus on traditional Mexican cuisine and regional specialties ensures a memorable and satisfying culinary experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/CyqTUcJib4I" frameborder="0" allowfullscreen=""></iframe></div>

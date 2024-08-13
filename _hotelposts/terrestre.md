@@ -11,6 +11,10 @@ header_image: /images/hotels/terrestre/terrestre2.png
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/-AttX0KefS0" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Terrestre Puerto Escondido is situated in a lush, tropical setting just outside the vibrant beach town of Puerto Escondido. The hotel’s location offers a unique blend of natural beauty and eco-friendly design, surrounded by verdant landscapes and close to the stunning beaches of the Pacific coast. Guests can enjoy the serene environment while still being within reach of the town’s lively surf scene, markets, and local dining options. Its secluded position provides a tranquil escape with easy access to both natural and cultural attractions.
@@ -35,6 +39,3 @@ Dining at Terrestre Puerto Escondido is a delightful experience, with a focus on
 
 **Fresh and Innovative Dining:** The focus on local ingredients and creative cuisine ensures a memorable and high-quality dining experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/-AttX0KefS0" frameborder="0" allowfullscreen=""></iframe></div>

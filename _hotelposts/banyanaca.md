@@ -11,6 +11,10 @@ header_image: /images/hotels/banyanaca/banyanaca1.webp
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/pi8508awJ80" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Perched on the cliffs of Punta Diamante, Banyan Tree Acapulco offers a secluded and luxurious retreat with breathtaking views of the Pacific Ocean. The hotel is located in one of Acapulco’s most exclusive areas, providing guests with a serene and private environment while still being within easy reach of the city’s lively attractions. The pristine beaches, vibrant nightlife, and historic sites of Acapulco are just a short drive away, making this the perfect base for both relaxation and exploration.
@@ -31,6 +35,3 @@ Banyan Tree Acapulco is designed to provide guests with an immersive experience 
 
 **World-Class Spa:** The Banyan Tree Spa offers a range of holistic treatments, making it a top choice for those seeking relaxation and rejuvenation.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/pi8508awJ80" frameborder="0" allowfullscreen=""></iframe></div>

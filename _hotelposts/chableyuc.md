@@ -12,6 +12,10 @@ header_image: /images/hotels/chableyuc/chableyuc3.jpeg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/FAdZDp4mWiw" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Chablé Yucatán is nestled in the heart of the Yucatán Peninsula, surrounded by lush jungle and ancient cenotes. Located near the historic town of Chocholá, the resort offers a tranquil escape with easy access to the region’s rich cultural and natural attractions. Guests can explore nearby Mayan ruins, including the ancient city of Uxmal, or enjoy the serene environment of the resort's extensive grounds.
@@ -38,6 +42,3 @@ Dining at Chablé Yucatán is a sophisticated experience, with a focus on high-q
 
 **Exceptional Dining Experience:** The focus on contemporary Mexican cuisine with locally sourced ingredients ensures a memorable and sophisticated dining experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/FAdZDp4mWiw" frameborder="0" allowfullscreen=""></iframe></div>

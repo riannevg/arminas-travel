@@ -11,6 +11,10 @@ header_image: /images/hotels/rosewoodsma/rosewoodsma2.webp
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/UNpeflXkglo" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Rosewood San Miguel de Allende is situated in the heart of the charming colonial town of San Miguel de Allende. The hotel’s location provides guests with a unique opportunity to immerse themselves in the town’s rich cultural heritage and vibrant arts scene. Housed in a beautifully restored building, the resort offers a blend of historic elegance and modern luxury, with stunning views of the town’s picturesque streets and surrounding mountains. Its central location allows easy access to local markets, galleries, and historic sites, making it an ideal base for exploring this UNESCO World Heritage site.
@@ -35,6 +39,3 @@ Dining at Rosewood San Miguel de Allende is a sophisticated experience, with a f
 
 **Sophisticated Dining:** The emphasis on local and international cuisine, along with the refined dining settings, ensures a memorable culinary experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/UNpeflXkglo" frameborder="0" allowfullscreen=""></iframe></div>

@@ -11,6 +11,10 @@ header_image: /images/hotels/chablemaroma/chablemaroma5.jpeg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/rrzV_iXip9Y" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Chablé Maroma is set on a pristine stretch of beach along the Riviera Maya, offering guests an unparalleled combination of natural beauty and luxury. Situated just north of Playa del Carmen, this exclusive retreat is enveloped by lush tropical gardens and provides direct access to the soft white sands and crystal-clear waters of the Caribbean Sea. The resort's secluded location allows guests to experience both relaxation and adventure in an exquisite natural setting.
@@ -37,6 +41,3 @@ Dining at Chablé Maroma is a culinary delight, with the resort’s restaurants 
 
 **Gourmet Dining Options:** The hotel’s focus on contemporary Mexican cuisine and fresh, local ingredients ensures a memorable culinary experience with stunning views.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/rrzV_iXip9Y" frameborder="0" allowfullscreen=""></iframe></div>

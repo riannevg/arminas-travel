@@ -12,6 +12,10 @@ header_image: /images/hotels/velasnayarit/velasnayarit5.jpg
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/TzTSeP8sZnY" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Grand Velas Nayarit is set along the stunning coastline of the Riviera Nayarit, offering guests a luxurious beachfront retreat. Situated near the charming town of Nuevo Vallarta, the resort provides breathtaking views of the Pacific Ocean and easy access to the region’s natural beauty and attractions. The hotel's location also allows guests to explore nearby golf courses, marinas, and the vibrant city of Puerto Vallarta, making it an ideal destination for both relaxation and adventure.
@@ -36,6 +40,3 @@ Dining at Grand Velas Nayarit is a culinary journey, with multiple dining option
 
 **Exceptional Dining Options:** The diverse range of gourmet restaurants and bars offers a memorable culinary experience with fresh, local ingredients and innovative dishes.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/TzTSeP8sZnY" frameborder="0" allowfullscreen=""></iframe></div>

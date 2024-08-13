@@ -11,6 +11,10 @@ header_image: /images/hotels/interconcancun/interconcancun1.webp
 
 &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/vzQQG53Y4WQ" frameborder="0" allowfullscreen=""></iframe></div>
+
 ### Location
 
 Presidente InterContinental Cancun is ideally located along the iconic Cancun Hotel Zone, offering guests direct access to pristine white sand beaches and turquoise waters of the Caribbean Sea. The hotel’s central location provides convenient access to Cancun’s vibrant nightlife, shopping centers, and cultural sites, while also offering a serene retreat within its lush gardens and beachfront setting. This prime location makes it an excellent choice for both relaxation and exploration.
@@ -35,6 +39,3 @@ Dining at Presidente InterContinental Cancun is a culinary delight, with several
 
 **Exceptional Dining Experience:** The variety of dining venues, featuring international and Mexican cuisine, ensures a satisfying and high-quality culinary experience.&nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/vzQQG53Y4WQ" frameborder="0" allowfullscreen=""></iframe></div>
