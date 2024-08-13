@@ -409,7 +409,7 @@ a.button:hover{
     z-index:100;
 }
 
-.mobile-menu a:hover, .socials.menu a:hover{
+.mobile-menu a:hover, a:hover{
     color:var(--green);
 }
 
