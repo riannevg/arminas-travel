@@ -10,7 +10,7 @@ layout: default
      
             {% assign posts_in_category = site.tourposts | where: "categories", page.category %}
             {% for post in posts_in_category %}
-            <div class="col-3_sm-4 center padded-1">
+            <div class="col-3_sm-4_xs-6 center padded-1">
             
             <a href="{{post.url}}">
                 <div class="bg-image square" style="background-image:url('{{post.header_image}}')">  </div>
