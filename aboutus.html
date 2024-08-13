@@ -89,7 +89,7 @@ team:
         </div>
     </section>
 
-    <section class="grid-spaceAround-middle center padded-5">
+    <section class="grid-spaceAround-middle center padded-5 flex-flip-sm">
         <div class="col-5_sm-12">
             <div class="bg-image bg-team-2 landscape"></div>
         </div>
@@ -149,7 +149,7 @@ team:
     <div class="padded-1 grid-spaceAround">
 
         {% for person in page.team %}	
-	    <div class="col-2_sm-4 padded-1">
+	    <div class="col-2_sm-6 padded-1">
 			<img src="{{person.profile_image}}" class="profile-image">
             <h3>{{person.name}}</h3>
             <p>{{person.department}}</p>     
