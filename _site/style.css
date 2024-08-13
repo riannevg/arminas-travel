@@ -385,7 +385,7 @@ a.button:hover{
     bottom:60%;
     left:60%;
     right:0;
-    background-color:var(--black);
+    background-color:blue;
 }
 
 .fa-bars{
@@ -394,15 +394,15 @@ a.button:hover{
 }
 
 .fa-bars.active{
-    color:var(--black);
+    color:black;
 }
 
 .mobile-menu a{
     font-family:var(--sans-serif);
     font-size:1rem;
     line-height:1.8rem;
-    background-color:var(--black);
-    color: var(--light);
+    background-color:white;
+    color: blue;
     text-decoration:none;
     display:block;
     text-align:center;
@@ -410,7 +410,7 @@ a.button:hover{
 }
 
 .mobile-menu a:hover, a:hover{
-    color:var(--green);
+    color:grey;
 }
 
 
