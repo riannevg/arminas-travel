@@ -4,7 +4,7 @@ title: Mexico City and Museum of Antropology
 featured: false
 categories:
   - Mexico-City-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/cdmx/cdmx4.jpg
 ---
 ## Mexico City and Museum of Anthropology  
 &nbsp;  

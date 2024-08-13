@@ -3,7 +3,7 @@ layout: exc-layout
 title: Snorkeling & Sailing Cruise
 categories:
   - Los-Cabos-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/loscabos/loscabos9.jpg
 ---
 ## Snorkeling & Sailing Cruise Los Cabos
 

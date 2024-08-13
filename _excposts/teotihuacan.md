@@ -3,7 +3,7 @@ layout: exc-layout
 title: Teotihuacan
 categories:
   - Mexico-City-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/cdmx/teotihuacan.jpg
 ---
 ## Teotihuacan
 

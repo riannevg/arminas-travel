@@ -4,7 +4,7 @@ title: Isla Contoy
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/cancun/cancun3.jpg
 ---
 ## Isla Contoy  
 &nbsp;  

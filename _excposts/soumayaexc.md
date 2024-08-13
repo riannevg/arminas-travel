@@ -3,7 +3,7 @@ layout: exc-layout
 title: Mexico City tour and Soumaya Museum
 categories:
   - Mexico-City-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/cdmx/cdmx4.jpg
 ---
 ## Mexico City Tour and Soumaya Museum
 

@@ -3,7 +3,7 @@ layout: exc-layout
 title: Horse Back Riding
 categories:
   - Los-Cabos-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/loscabos/loscabos8.jpg
 ---
 ## Horseback Riding in Los Cabos
 

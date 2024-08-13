@@ -3,7 +3,7 @@ layout: exc-layout
 title: Los Cabos City Tour
 categories:
   - Los-Cabos-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/loscabos/loscabos2.jpg
 ---
 ## Los Cabos City Tour  
 &nbsp;  

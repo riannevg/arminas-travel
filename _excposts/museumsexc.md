@@ -3,7 +3,7 @@ layout: exc-layout
 title: Museums of Mexico City
 categories:
   - Mexico-City-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/cdmx/cdmx15.jpg
 ---
 ## Museums of Mexico City
 

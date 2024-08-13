@@ -4,7 +4,7 @@ title: Deep Sea Fishing
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/loscabos/loscabos1.jpg
 ---
 ## Deep Sea Fishing Cancun
 

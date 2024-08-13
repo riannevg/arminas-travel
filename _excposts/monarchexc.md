@@ -3,7 +3,7 @@ layout: exc-layout
 title: Monarch Butterfly Reserve
 categories:
   - Mexico-City-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/cdmx/cdmx14.jpg
 ---
 ## Monarch Butterfly Reserve
 

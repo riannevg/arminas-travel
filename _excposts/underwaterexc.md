@@ -4,7 +4,7 @@ title: Underwater Museum
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/cancun/cancun10.jpg
 ---
 ## Underwater Museum (MUSA)
 

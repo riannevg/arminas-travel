@@ -4,7 +4,7 @@ title: Selvatica
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/rivieramaya/selvatica.jpg
 ---
 ## Selvatica
 

@@ -4,8 +4,7 @@ title: Chichen Itza
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
-  - Yucatan-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/yucatan/yucatan2.jpg
 ---
 ## Chichen Itza  
 &nbsp;  

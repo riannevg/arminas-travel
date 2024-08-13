@@ -3,7 +3,7 @@ layout: exc-layout
 title: Puebla & Cholula Day Trip
 categories:
   - Mexico-City-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/puebla/puebla4.jpg
 ---
 ## Puebla & Cholula Day Trip
 

@@ -3,7 +3,7 @@ layout: exc-layout
 title: Sunset Dinner Cruise
 categories:
   - Los-Cabos-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/loscabos/loscabos5.jpg
 ---
 ## Sunset Dinner Cruise Los Cabos
 

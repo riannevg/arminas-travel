@@ -3,7 +3,7 @@ layout: exc-layout
 title: Palaces of Mexico City
 categories:
   - Mexico-City-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/cdmx/cdmx10.jpg
 ---
 ## Palaces of Mexico City
 

@@ -3,7 +3,7 @@ layout: exc-layout
 title: Scuba Diving
 categories:
   - Los-Cabos-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/cancun/cancun6.jpg
 ---
 ## Los Cabos Scuba Diving
 

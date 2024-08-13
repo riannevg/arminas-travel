@@ -4,7 +4,7 @@ title: Fly Fishing
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/cancun/cancun8.jpg
 ---
 ## Fly Fishing at Boca Paila
 

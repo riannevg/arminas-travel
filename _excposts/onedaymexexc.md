@@ -3,7 +3,7 @@ layout: exc-layout
 title: One day in Mexico City
 categories:
   - Mexico-City-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/cdmx/cdmx11.jpg
 ---
 ## One Day in Mexico City
 
