@@ -4,7 +4,7 @@ title: Xel-Ha + Tulum
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/rivieramaya/rivieramaya8.jpg
 ---
 ## Xel-Ha + Tulum
 

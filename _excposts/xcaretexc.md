@@ -4,7 +4,7 @@ title: Xcaret
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/rivieramaya/xcaret.jpg
 ---
 ## Xcaret
 

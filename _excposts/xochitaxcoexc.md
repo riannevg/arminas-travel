@@ -3,7 +3,7 @@ layout: exc-layout
 title: Xochicalco and Taxco
 categories:
   - Mexico-City-Excursions
-header_image: /images/vertical.jpg
+header_image: /images/destinations/cdmx/taxco.jpg
 ---
 ## Xochicalco and Taxco
 
