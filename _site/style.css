@@ -489,10 +489,11 @@ footer h3{
 
     h1, h2{
         font-size:1.8rem;
+        font-weight:400;
     }
 
     h3, h4, h5, h6{
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     }
 
     p{
