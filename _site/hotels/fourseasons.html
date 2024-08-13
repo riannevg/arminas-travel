@@ -47,10 +47,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />       
 
         <!-- My stylesheet -->    
-    <link rel="stylesheet" type="text/css" href="/style.css" />
+        <link rel="stylesheet" type="text/css" href="/style.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-    <!-- Jquery -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
 </head>
 
 <body>
@@ -78,8 +78,14 @@
 
 </header>
 
-    <section class="grid-spaceAround vh-80 bg-header bg-overlay" style="background-image:url('/images/hotels/fourseasonsmex/fourseasonsmex2.jpg')">
+    <section class="grid-spaceAround vh-80 bg-header bg-overlay hide-md" style="background-image:url('/images/hotels/fourseasonsmex/fourseasonsmex2.jpg')">
         <div class="col-12-top right light-text padded-1 padded-r-5">
+            <p class="medium-text header-text"></p>
+        </div>
+    </section>
+
+    <section class="grid-spaceAround vh-80 bg-header bg-overlay show-md" style="background-image:url('/images/hotels/fourseasonsmex/fourseasonsmex2.jpg')">
+        <div class="col-12 padding-t-30 center light-text padded-1 padded-r-5">
             <p class="medium-text header-text"></p>
         </div>
     </section>
@@ -92,7 +98,7 @@
             <a href="/hotels.html">Hotels</a>
             <a href="/aboutus.html">About Us</a>
             <a href="/contact.html">Contact</a>
-            <a href="https://www.arstool.com/Login" class="button" target="_blank"  >ARS</a>        
+            <a href="https://www.arstool.com/Login"target="_blank">ARS</a>        
         </nav> 
     
       
@@ -156,7 +162,7 @@
 
 
     <footer class="grid-spaceAround-top padded-1 bg-blue">
-    <div class="col-4-middle">
+    <div class="col-4_sm-3-middle">
         <img src="/images/logo.png" alt="Arminas Travel">
     </div>
 
@@ -182,7 +188,7 @@
         </a>
     </div>
 
-    <div class="col-3 padded-1">
+    <div class="col-3_sm-5 padded-1">
         <h3>Connect</h3>
         <a href="https://www.facebook.com/arminastravel" target="_blank"><p>Facebook</p></a>
         <a href="https://www.instagram.com/arminastravelmexico/" target="_blank"><p>Instagram</p></a>
@@ -192,10 +198,11 @@
     </div>
 </footer>
 
-<!-- This is the Jquery script cdnjs. Always goes first. -->
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="/path/to/scripts.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="/scripts.js"></script>
+
+
 </body>
 
 </html>

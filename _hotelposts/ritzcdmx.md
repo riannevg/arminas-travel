@@ -4,7 +4,7 @@ title: Ritz Carlton Mexico
 location: Mexico City
 featured: false
 categories:
-  - Mexico-City-Hotels
+  - Mexico-City
 header_image: /images/hotels/ritzcdmx/ritzcdmx2.jpeg
 ---
 ## Ritz-Carlton Mexico City: Elegant Luxury with Stunning City Views

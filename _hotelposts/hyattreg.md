@@ -4,7 +4,7 @@ title: Hyatt Regency Andares
 location: Guadalajara
 featured: false
 categories:
-  - Guadalajara-Hotels
+  - Guadalajara
 header_image: /images/hotels/hyattgdl/hyattgdl5.webp
 ---
 ## Hyatt Regency Guadalajara: Modern Comfort in the Heart of the City

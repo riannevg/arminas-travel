@@ -4,7 +4,7 @@ title: Akalki Hotel
 location: Bacalar
 featured: false
 categories:
-  - Bacalar-Hotels
+  - Bacalar
 header_image: /images/hotels/akalki/akalki2.png
 ---
 ## Akalki: A Tranquil Retreat on the Shores of Bacalar

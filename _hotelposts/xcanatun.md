@@ -4,8 +4,8 @@ title: Hacienda Xcanatun
 location: Merida
 featured: false
 categories:
-  - Merida-Hotels
-  - Yucatan-Hotels
+  - Merida
+  - Yucatan
 header_image: /images/hotels/xcanatun/xcanatun3.webp
 ---
 ## Xcanatun: Historic Elegance in a Serene Hacienda Setting

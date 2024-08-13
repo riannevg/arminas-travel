@@ -4,8 +4,8 @@ title: Susurros del Corazon
 location: Punta Mita
 featured: false
 categories:
-  - Puerto-Vallarta-Hotels
-  - Punta-Mita-Hotels
+  - Puerto-Vallarta
+  - Punta-Mita
 header_image: /images/hotels/susurros/susurros4.jpg
 ---
 ## Susurros del Corazón: Exclusive Coastal Escape with Breathtaking Views

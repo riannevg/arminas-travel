@@ -47,10 +47,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />       
 
         <!-- My stylesheet -->    
-    <link rel="stylesheet" type="text/css" href="/style.css" />
+        <link rel="stylesheet" type="text/css" href="/style.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-    <!-- Jquery -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
 </head>
 
 <body>
@@ -78,8 +78,14 @@
 
 </header>
 
-    <section class="grid-spaceAround vh-80 bg-header bg-overlay" style="background-image:url('/images/horizontal.jpg')">
+    <section class="grid-spaceAround vh-80 bg-header bg-overlay hide-md" style="background-image:url('/images/horizontal.jpg')">
         <div class="col-12-top right light-text padded-1 padded-r-5">
+            <p class="medium-text header-text">Your Gateway to Exclusive<br>Mexican Adventures</p>
+        </div>
+    </section>
+
+    <section class="grid-spaceAround vh-80 bg-header bg-overlay show-md" style="background-image:url('/images/horizontal.jpg')">
+        <div class="col-12 padding-t-30 center light-text padded-1 padded-r-5">
             <p class="medium-text header-text">Your Gateway to Exclusive<br>Mexican Adventures</p>
         </div>
     </section>
@@ -92,7 +98,7 @@
             <a href="/hotels.html">Hotels</a>
             <a href="/aboutus.html">About Us</a>
             <a href="/contact.html">Contact</a>
-            <a href="https://www.arstool.com/Login" class="button" target="_blank"  >ARS</a>        
+            <a href="https://www.arstool.com/Login"target="_blank">ARS</a>        
         </nav> 
     
       
@@ -102,19 +108,19 @@
 <section class="grid-spaceAround-middle padded-5">
     <div class="col-10 grid-spaceAround">
         
-        <div class="col-3 center margin-b-1">
+        <div class="col-4 center padded-1 margin-b-1">
             <a href="/exc/cabosexc" class="button">Los Cabos Excursions</a>
         </div>
         
-        <div class="col-3 center margin-b-1">
+        <div class="col-4 center padded-1 margin-b-1">
             <a href="/exc/cancunexc" class="button">Cancun Excursions</a>
         </div>
         
-        <div class="col-3 center margin-b-1">
+        <div class="col-4 center padded-1 margin-b-1">
             <a href="/exc/mexicoexc" class="button">Mexico City Excursions</a>
         </div>
         
-        <div class="col-3 center margin-b-1">
+        <div class="col-4 center padded-1 margin-b-1">
             <a href="/exc/rivieramayaexc" class="button">Riviera Maya Excursions</a>
         </div>
         
@@ -129,7 +135,7 @@
     <div class="col-11 grid">
     
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/antropologiaexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx4.jpg')"></div>
         <h3>Mexico City and Museum of Antropology</h3>
@@ -137,7 +143,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/basilicateotiexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx6.jpg')"></div>
         <h3>Basilica de Guadalupe and Teotihuacan</h3>
@@ -145,7 +151,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/caboscityexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/loscabos/loscabos2.jpg')"></div>
         <h3>Los Cabos City Tour</h3>
@@ -153,7 +159,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/canopyexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/loscabos/loscabos5.jpg')"></div>
         <h3>Canopy Adventure Tour</h3>
@@ -161,7 +167,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/chichenexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan2.jpg')"></div>
         <h3>Chichen Itza</h3>
@@ -169,7 +175,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/cobaexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun7.jpg')"></div>
         <h3>Coba</h3>
@@ -177,7 +183,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/contoyexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun3.jpg')"></div>
         <h3>Isla Contoy</h3>
@@ -185,7 +191,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/deepseaexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/loscabos/loscabos1.jpg')"></div>
         <h3>Deep Sea Fishing</h3>
@@ -193,7 +199,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/divingexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun6.jpg')"></div>
         <h3>Diving</h3>
@@ -201,7 +207,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/ekbalamexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan1.jpg')"></div>
         <h3>Ek Balam</h3>
@@ -209,7 +215,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/flyfishexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun8.jpg')"></div>
         <h3>Fly Fishing</h3>
@@ -217,7 +223,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/fridaxochiexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx13.jpg')"></div>
         <h3>Frida Kahlo Museum, Leon Trotsky Museum & Xochimilco</h3>
@@ -225,7 +231,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/garrafonexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun1.jpg')"></div>
         <h3>Garrafon</h3>
@@ -233,7 +239,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/horseexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/loscabos/loscabos8.jpg')"></div>
         <h3>Horse Back Riding</h3>
@@ -241,7 +247,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/jungleboatexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun9.jpg')"></div>
         <h3>Jungle Boat</h3>
@@ -249,7 +255,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/lcdivingexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun6.jpg')"></div>
         <h3>Scuba Diving</h3>
@@ -257,7 +263,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/monarchexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx14.jpg')"></div>
         <h3>Monarch Butterfly Reserve</h3>
@@ -265,7 +271,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/museumsexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx15.jpg')"></div>
         <h3>Museums of Mexico City</h3>
@@ -273,7 +279,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/onedaymexexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx11.jpg')"></div>
         <h3>One day in Mexico City</h3>
@@ -281,7 +287,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/palacesexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx10.jpg')"></div>
         <h3>Palaces of Mexico City</h3>
@@ -289,7 +295,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/pueblacholexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/puebla/puebla4.jpg')"></div>
         <h3>Puebla & Cholula Day Trip</h3>
@@ -297,7 +303,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/riosecreto">
         <div class="bg-image square" style="background-image:url('/images/destinations/rivieramaya/riosecreto.jpg')"></div>
         <h3>Rio Secreto</h3>
@@ -305,7 +311,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/selvatica">
         <div class="bg-image square" style="background-image:url('/images/destinations/rivieramaya/selvatica.jpg')"></div>
         <h3>Selvatica</h3>
@@ -313,7 +319,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/siankaanexc">
         <div class="bg-image square" style="background-image:url('/images/hotels/chablecasa/chablecasa1.jpeg')"></div>
         <h3>Sian Ka'an</h3>
@@ -321,7 +327,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/snorkelexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/loscabos/loscabos9.jpg')"></div>
         <h3>Snorkeling & Sailing Cruise</h3>
@@ -329,7 +335,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/soumayaexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx4.jpg')"></div>
         <h3>Mexico City tour and Soumaya Museum</h3>
@@ -337,7 +343,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/sportfishexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/loscabos/loscabos2.jpg')"></div>
         <h3>Sport Fishing</h3>
@@ -345,7 +351,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/sunsetdinnerexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/loscabos/loscabos5.jpg')"></div>
         <h3>Sunset Dinner Cruise</h3>
@@ -353,7 +359,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/teotihuacan">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/teotihuacan.jpg')"></div>
         <h3>Teotihuacan</h3>
@@ -361,7 +367,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/underwaterexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun10.jpg')"></div>
         <h3>Underwater Museum</h3>
@@ -369,7 +375,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/whalesharkexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun11.jpg')"></div>
         <h3>Swimming with whalesharks</h3>
@@ -377,7 +383,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/xcaretexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/rivieramaya/xcaret.jpg')"></div>
         <h3>Xcaret</h3>
@@ -385,7 +391,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/xelhaexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/rivieramaya/rivieramaya8.jpg')"></div>
         <h3>Xel-Ha + Tulum</h3>
@@ -393,7 +399,7 @@
     </a>  
 </div>
         
-            <div class="col-3 padded-1">
+            <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/xochitaxcoexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/taxco.jpg')"></div>
         <h3>Xochicalco and Taxco</h3>
@@ -408,7 +414,7 @@
 
 
     <footer class="grid-spaceAround-top padded-1 bg-blue">
-    <div class="col-4-middle">
+    <div class="col-4_sm-3-middle">
         <img src="/images/logo.png" alt="Arminas Travel">
     </div>
 
@@ -434,7 +440,7 @@
         </a>
     </div>
 
-    <div class="col-3 padded-1">
+    <div class="col-3_sm-5 padded-1">
         <h3>Connect</h3>
         <a href="https://www.facebook.com/arminastravel" target="_blank"><p>Facebook</p></a>
         <a href="https://www.instagram.com/arminastravelmexico/" target="_blank"><p>Instagram</p></a>
@@ -444,10 +450,11 @@
     </div>
 </footer>
 
-<!-- This is the Jquery script cdnjs. Always goes first. -->
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="/path/to/scripts.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="/scripts.js"></script>
+
+
 </body>
 
 </html>

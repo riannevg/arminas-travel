@@ -4,8 +4,8 @@ title: One and Only Mandarina
 location: Punta Mita
 featured: false
 categories:
-  - Puerto-Vallarta-Hotels
-  - Punta-Mita-Hotels
+  - Puerto-Vallarta
+  - Punta-Mita
 header_image: /images/hotels/onemandarina/onemandarina1.webp
 ---
 ## One&Only Mandarina: Ultra-Luxury in a Pristine Natural Setting

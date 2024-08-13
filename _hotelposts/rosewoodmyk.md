@@ -4,7 +4,7 @@ title: Rosewood Mayakoba
 location: Riviera Maya
 featured: true
 categories:
-  - Riviera-Maya-Hotels
+  - Riviera-Maya
 header_image: /images/hotels/rosewoodmyk/rosewoodmyk3.webp
 ---
 ## Rosewood Mayakoba: Sophisticated Luxury in a Tropical Oasis

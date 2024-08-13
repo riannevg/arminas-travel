@@ -4,7 +4,7 @@ title: Presidente Intercontinental
 location: Cancun
 featured: false
 categories:
-  - Cancun-Hotels
+  - Cancun
 header_image: /images/hotels/interconcancun/interconcancun1.webp
 ---
 ## Presidente InterContinental Cancun: Sophisticated Luxury on the Cancun Strip

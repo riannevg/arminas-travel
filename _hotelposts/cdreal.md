@@ -4,7 +4,7 @@ title: Ciudad Real
 location: Palenque
 featured: false
 categories:
-  - Palenque-Hotels
+  - Palenque
 header_image: /images/hotels/ciudadreal/ciudadreal2.jpg
 ---
 ## Hotel Ciudad Real: A Comfortable Gateway to Palenque’s Wonders

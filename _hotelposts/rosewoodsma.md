@@ -4,7 +4,7 @@ title: Rosewood
 location: San Miguel de Allende
 featured: false
 categories:
-  - San-Miguel-Hotels
+  - San-Miguel
 header_image: /images/hotels/rosewoodsma/rosewoodsma2.webp
 ---
 ## Rosewood San Miguel de Allende: Elegant Retreat in a Colonial Gem

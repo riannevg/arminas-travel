@@ -4,7 +4,7 @@ title: Terrestre
 location: Puerto Escondido
 featured: false
 categories:
-  - Puerto-Escondido-Hotels
+  - Puerto-Escondido
 header_image: /images/hotels/terrestre/terrestre2.png
 ---
 ## Terrestre Puerto Escondido: Chic Retreat with a Focus on Sustainability

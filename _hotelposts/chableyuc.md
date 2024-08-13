@@ -4,8 +4,8 @@ title: Chable Yucatan
 location: Chochola
 featured: true
 categories:
-  - Yucatan-Hotels
-  - Merida-Hotels
+  - Yucatan
+  - Merida
 header_image: /images/hotels/chableyuc/chableyuc3.jpeg
 ---
 ## Chablé Yucatán: A Luxurious Sanctuary in the Yucatán Peninsula

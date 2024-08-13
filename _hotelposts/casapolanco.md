@@ -4,7 +4,7 @@ title: Casa Polanco
 location: Mexico City
 featured: false
 categories:
-  - Mexico-City-Hotels
+  - Mexico-City
 header_image: /images/hotels/casapolanco/casapolanco4.jpg
 ---
 ## Casa Polanco: A Sophisticated Oasis in Mexico City

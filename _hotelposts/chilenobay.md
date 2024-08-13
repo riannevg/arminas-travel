@@ -4,7 +4,7 @@ title: Chileno Bay
 location: Los Cabos
 featured: false
 categories:
-  - Los-Cabos-Hotels
+  - Los-Cabos
 header_image: /images/hotels/chilenobay/chilenobay1.webp
 ---
 ## Chileno Bay: A Luxurious Escape in Los Cabos

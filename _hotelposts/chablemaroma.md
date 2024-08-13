@@ -4,7 +4,7 @@ title: Chable Maroma
 location: Riviera Maya
 featured: true
 categories:
-  - Riviera-Maya-Hotels
+  - Riviera-Maya
 header_image: /images/hotels/chablemaroma/chablemaroma5.jpeg
 ---
 ## Chablé Maroma: An Exclusive Haven on the Riviera Maya

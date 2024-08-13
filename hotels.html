@@ -18,7 +18,7 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 <section class="grid-spaceAround-middle">
     <div class="col-10 grid-spaceAround">
         {% for hotelarchive in site.hotelarchives %}
-        <div class="col-3 center margin-b-1">
+        <div class="col-3_sm-4 center margin-b-1">
             <a href="{{hotelarchive.url}}" class="button">{{hotelarchive.category | replace: "-", " "}}</a>
         </div>
         {% endfor %}

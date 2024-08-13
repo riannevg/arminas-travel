@@ -4,7 +4,7 @@ title: Live Aqua
 location: San Miguel de Allende
 featured: false
 categories:
-  - San-Miguel-Hotels
+  - San-Miguel
 header_image: /images/hotels/liveaquasma/liveaquasma1.jpg
 ---
 ## Live Aqua San Miguel de Allende: Sophisticated Sanctuary in a Historic Gem

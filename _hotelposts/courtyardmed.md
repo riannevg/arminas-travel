@@ -4,8 +4,8 @@ title: Courtyard Merida
 location: Merida
 featured: false
 categories:
-  - Merida-Hotels
-  - Yucatan-Hotels
+  - Merida
+  - Yucatan
 header_image: /images/hotels/courtyardmerida/courtyardmer1.jpg
 ---
 ## Courtyard Mérida: A Modern Haven in the Heart of Yucatán

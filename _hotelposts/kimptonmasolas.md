@@ -4,8 +4,8 @@ title: Kimpton Mas Olas
 location: Todos Santos
 featured: false
 categories:
-  - Todos-Santos-Hotels
-  - La-Paz-Hotels
+  - Todos-Santos
+  - La-Paz
 header_image: /images/hotels/kimptonmasolas/kimptonmasolas3.jpeg
 ---
 ## Kimpton Mas Olas: Chic Retreat with a Beachfront Flair

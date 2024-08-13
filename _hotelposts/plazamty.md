@@ -4,7 +4,7 @@ title: Galeria Plaza
 location: Monterrey
 featured: false
 categories:
-  - Monterrey-Hotels
+  - Monterrey
 header_image: /images/hotels/galeriamty/galeriamty1.png
 ---
 ## Galeria Plaza Monterrey: Modern Comfort in the Heart of Monterrey

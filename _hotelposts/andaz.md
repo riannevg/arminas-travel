@@ -4,7 +4,7 @@ title: Andaz Mayakoba
 location: Riviera Maya
 featured: false
 categories:
-  - Riviera-Maya-Hotels
+  - Riviera-Maya
 header_image: /images/hotels/andazmyk/andazmyk8.webp
 ---
 ## Andaz Mayakoba: A Contemporary Oasis in the Riviera Maya

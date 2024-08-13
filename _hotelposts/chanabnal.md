@@ -4,7 +4,7 @@ title: Quinta Chanabnal
 location: Palenque
 featured: false
 categories:
-  - Palenque-Hotels
+  - Palenque
 header_image: /images/hotels/quintachan/quintachan1.jpg
 ---
 ## Chanabnal: A Serene Retreat Amidst Palenque’s Natural Beauty

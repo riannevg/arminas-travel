@@ -4,7 +4,7 @@ title: One and Only Palmilla
 location: Los Cabos
 featured: false
 categories:
-  - Los-Cabos-Hotels
+  - Los-Cabos
 header_image: /images/hotels/onepalmilla/onepalmilla1.jpg
 ---
 ## One&Only Palmilla: Iconic Luxury with Timeless Charm

@@ -4,7 +4,7 @@ title: Banyan Tree Cabo Marquez
 location: Acapulco
 featured: false
 categories:
-  - Acapulco-Hotels
+  - Acapulco
 header_image: /images/hotels/banyanaca/banyanaca1.webp
 ---
 ## Banyan Tree Acapulco: A Luxurious Sanctuary on the Pacific Coast

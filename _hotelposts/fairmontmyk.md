@@ -4,7 +4,7 @@ title: Fairmont Mayakoba
 location: Riviera Maya
 featured: false
 categories:
-  - Riviera-Maya-Hotels
+  - Riviera-Maya
 header_image: /images/hotels/fairmontmyk/fairmontmyk4.webp
 ---
 ## Fairmont Mayakoba: An Exquisite Escape in the Riviera Maya

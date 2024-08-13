@@ -4,7 +4,7 @@ title: Sheraton Soberano
 location: Chihuahua
 featured: false
 categories:
-  - Chihuahua-Hotels
+  - Chihuahua
 header_image: /images/hotels/soberano/soberano4.webp
 ---
 ## Sheraton Chihuahua: Comfort and Convenience in the Heart of Chihuahua

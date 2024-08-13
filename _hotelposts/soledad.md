@@ -4,7 +4,7 @@ title: Hotel de la Soledad
 location: Morelia
 featured: false
 categories:
-  - Morelia-Hotels
+  - Morelia
 header_image: /images/hotels/soledad/soledad1.jpg
 ---
 ## Hotel Soledad Morelia: Elegant Retreat with Historical Charm

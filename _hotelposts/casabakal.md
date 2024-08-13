@@ -4,7 +4,7 @@ title: Casa Bakal
 location: Bacalar
 featured: false
 categories:
-  - Bacalar-Hotels
+  - Bacalar
 header_image: /images/hotels/casabakal/casabakal2.webp
 ---
 ## Casa Bakal: A Charming Boutique Retreat on Bacalar’s Lagoon

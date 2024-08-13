@@ -4,7 +4,7 @@ title: Andaz Condesa
 location: Mexico City
 featured: false
 categories:
-  - Mexico-City-Hotels
+  - Mexico-City
 header_image: /images/hotels/andazcondesa/andazcondesa5.webp
 ---
 ## Andaz Condesa: Urban Chic in the Heart of Mexico City

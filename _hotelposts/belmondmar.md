@@ -4,7 +4,7 @@ title: Belmond Maroma
 location: Riviera Maya
 featured: false
 categories:
-  - Riviera-Maya-Hotels
+  - Riviera-Maya
 header_image: /images/hotels/belmond/belmond4.jpg
 ---
 ## Belmond Maroma: A Timeless Escape in the Riviera Maya

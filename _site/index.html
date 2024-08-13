@@ -47,10 +47,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />       
 
         <!-- My stylesheet -->    
-    <link rel="stylesheet" type="text/css" href="/style.css" />
+        <link rel="stylesheet" type="text/css" href="/style.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-    <!-- Jquery -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
 </head>
 
 <body>
@@ -78,8 +78,14 @@
 
 </header>
 
-    <section class="grid-spaceAround vh-80 bg-header bg-overlay" style="background-image:url('/images/horizontal.jpg')">
+    <section class="grid-spaceAround vh-80 bg-header bg-overlay hide-md" style="background-image:url('/images/horizontal.jpg')">
         <div class="col-12-top right light-text padded-1 padded-r-5">
+            <p class="medium-text header-text">Your Gateway to Exclusive<br>Mexican Adventures</p>
+        </div>
+    </section>
+
+    <section class="grid-spaceAround vh-80 bg-header bg-overlay show-md" style="background-image:url('/images/horizontal.jpg')">
+        <div class="col-12 padding-t-30 center light-text padded-1 padded-r-5">
             <p class="medium-text header-text">Your Gateway to Exclusive<br>Mexican Adventures</p>
         </div>
     </section>
@@ -92,7 +98,7 @@
             <a href="/hotels.html">Hotels</a>
             <a href="/aboutus.html">About Us</a>
             <a href="/contact.html">Contact</a>
-            <a href="https://www.arstool.com/Login" class="button" target="_blank"  >ARS</a>        
+            <a href="https://www.arstool.com/Login"target="_blank">ARS</a>        
         </nav> 
     
       
@@ -101,7 +107,7 @@
     <!-- This is a short text section -->
  <section class="grid-spaceAround center padded-5">   
 
-    <div class="col-8 center"> 
+    <div class="col-8_sm-10 center"> 
          <h1 class="margin-b-2">Arminas Travel, your partner in Mexico</h1>
     </div>
 
@@ -127,7 +133,7 @@
     <h2 class="margin-b-2">Custom-made tours</h2>
 </div>
 
-<p class="col-9 margin-b-2">
+<p class="col-9_sm-11 margin-b-2">
         All our tours are custom-crafted to perfectly match your desires. We tailor each journey to suit your budget, schedule, and group size. Explore our example itineraries to discover the endless possibilities awaiting you across Mexico.
 </p>
 
@@ -136,7 +142,7 @@
             <div class="bg-image square bg-luxminiyuc"></div>
                 <a href="/tours/luxminiyuc" class="tours">
                     <h3 class="tours">Luxury Yucatan</h3>
-                    <p>This 4 day tour presents you the history of the Yucatan Peninsula in luxury hotels.</p>
+                    <p class="hide-sm">This 4 day tour presents you the history of the Yucatan Peninsula in luxury hotels.</p>
                 </a>
             </div>
 
@@ -144,7 +150,7 @@
             <div class="bg-image square bg-5civil"></div>
                 <a href="/tours/5civilizations" class="tours">
                     <h3 class="tours">Five Civilazations</h3>
-                    <p>This 9 day tour takes you to all the highlights of the ancient civilazations in Mexico.</p>
+                    <p class="hide-sm">This 9 day tour takes you to all the highlights of the ancient civilazations in Mexico.</p>
                 </a>
             </div>
 
@@ -152,7 +158,7 @@
             <div class="bg-image square bg-mexicantrio"></div>
                 <a href="/tours/mexicantrio" class="tours">
                     <h3 class="tours">Mexican Trio</h3>
-                    <p>This 6 day tour takes you through colonial Mexico to the beach.</p>
+                    <p class="hide-sm">This 6 day tour takes you through colonial Mexico to the beach.</p>
                 </a>
         </div>
             
@@ -171,7 +177,7 @@
     <h2 class="margin-b-2">Destinations within Mexico</h2>
 </div>
 
- <p class="col-9 margin-b-2">
+ <p class="col-9_sm-11 margin-b-2">
         Mexico has everything you can dream of and more. From spectacular beaches and lush jungles to colonial cities and exquisite gastronomy, Mexico offers adventure, relaxation, celebration, and luxury. Prepare to have all your senses awakened and your soul enriched as you explore the vibrant essence of this incredible country.
 </p>
 
@@ -180,7 +186,7 @@
             <div class="bg-image bg-cdmx square"></div>
                 <a href="/destinations/mexicocity" class="tours">
                     <h3 class="tours">Mexico City</h3>
-                    <p>A vibrant metropolis blending rich history, modern sophistication, and dynamic culture.</p>
+                    <p class="hide-sm">A vibrant metropolis blending rich history, modern sophistication, and dynamic culture.</p>
                 </a>
             </div>
 
@@ -188,7 +194,7 @@
             <div class="bg-image bg-lapaz square"></div>
                 <a href="/destinations/lapaz.md" class="tours">
                     <h3 class="tours">La Paz</h3>
-                    <p>A coastal gem known for its serene beaches, stunning sunsets, and vibrant marine life.</p>
+                    <p class="hide-sm">A coastal gem known for its serene beaches, stunning sunsets, and vibrant marine life.</p>
                 </a>
         </div>
 
@@ -196,7 +202,7 @@
             <div class="bg-image  bg-yucatan square"></div>
                 <a href="/destinations/yucatan.md" class="tours">
                     <h3 class="tours">Yucatan</h3>
-                    <p>A captivating blend of ancient Mayan ruins, stunning cenotes, and rich cultural heritage.</p>
+                    <p class="hide-sm">A captivating blend of ancient Mayan ruins, stunning cenotes, and rich cultural heritage.</p>
                 </a>
         </div>
             
@@ -218,7 +224,7 @@
     <div class="col-8"> 
     <h2 class="margin-b-2">Our favorite hotels</h2>
 </div>    
-<div class="col-9 margin-b-2">
+<div class="col-9_sm-11 margin-b-2">
     <p>
         With hundreds of hotels across Mexico, we have handpicked our favorites just for you! Each of these exceptional hotels offers something truly special, whether it's a unique dining experience, an outstanding sustainability program, or a fantastic kids' club. We're excited to share these treasures with you.</p>
     <p>
@@ -233,7 +239,7 @@
             <div class="bg-image square bg-casapolanco"></div>
             <a href="/hotels/casapolanco" class="tours">
                 <h3 class="tours">Casa Polanco, CDMX</h3>
-                <p>The perfect spot to relax away from the hustle and bustle in the city. This unique property is your home away from home.</p>
+                <p class="hide-sm">The perfect spot to relax away from the hustle and bustle in the city. This unique property is your home away from home.</p>
             </a>
         </div>
     
@@ -241,7 +247,7 @@
             <div class="bg-image square bg-casamalca"></div>
             <a href="/hotels/casamalca" class="tours">
                 <h3 class="tours">Casa Malca, Tulum</h3>
-                <p>Be surrounded by art while enjoying the best beaches in the world in this location full of history. </p>
+                <p class="hide-sm">Be surrounded by art while enjoying the best beaches in the world in this location full of history. </p>
             </a>
         </div>
     
@@ -249,7 +255,7 @@
             <div class="bg-image square bg-chableyucatan"></div>
             <a href="/hotels/chableyuc" class="tours">
                 <h3 class="tours">Chable Yucatan</h3>
-                <p>There is a reason this property has been named the best hotel in the service. The truly personal service and an unparralled decor make this the perfect escape. </p>
+                <p class="hide-sm">There is a reason this property has been named the best hotel in the service. The truly personal service and an unparralled decor make this the perfect escape. </p>
             </a>
         </div>
                 
@@ -266,7 +272,7 @@
 
 
     <footer class="grid-spaceAround-top padded-1 bg-blue">
-    <div class="col-4-middle">
+    <div class="col-4_sm-3-middle">
         <img src="/images/logo.png" alt="Arminas Travel">
     </div>
 
@@ -292,7 +298,7 @@
         </a>
     </div>
 
-    <div class="col-3 padded-1">
+    <div class="col-3_sm-5 padded-1">
         <h3>Connect</h3>
         <a href="https://www.facebook.com/arminastravel" target="_blank"><p>Facebook</p></a>
         <a href="https://www.instagram.com/arminastravelmexico/" target="_blank"><p>Instagram</p></a>
@@ -302,10 +308,11 @@
     </div>
 </footer>
 
-<!-- This is the Jquery script cdnjs. Always goes first. -->
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="/path/to/scripts.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="/scripts.js"></script>
+
+
 </body>
 
 </html>

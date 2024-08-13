@@ -4,7 +4,7 @@ title: Nizuc
 location: Cancun
 featured: true
 categories:
-  - Cancun-Hotels
+  - Cancun
 header_image: /images/hotels/nizuc/nizuc1.jpg
 ---
 ## Nizuc Resort & Spa: Luxury Retreat with Exclusive Elegance

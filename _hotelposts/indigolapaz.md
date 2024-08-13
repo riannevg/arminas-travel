@@ -4,7 +4,7 @@ title: Hotel Indigo Puerto Cortez
 location: La Paz
 featured: false
 categories:
-  - La-Paz-Hotels
+  - La-Paz
 header_image: /images/hotels/indigo/indigo6.webp
 ---
 ## Hotel Indigo La Paz: Stylish Comfort with a Coastal Charm

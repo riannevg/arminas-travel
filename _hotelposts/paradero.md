@@ -4,8 +4,8 @@ title: Paradero
 location: Todos Santos
 featured: false
 categories:
-  - Todos-Santos-Hotels
-  - La-Paz-Hotels
+  - Todos-Santos
+  - La-Paz
 header_image: /images/hotels/paradero/paradero3.jpeg
 ---
 ## Paradero Todos Santos: Boutique Elegance in a Tranquil Setting

@@ -4,7 +4,7 @@ title: Hyatt Ziva
 location: Cancun
 featured: false
 categories:
-  - Cancun-Hotels
+  - Cancun
 header_image: /images/hotels/hyattziva/hyattziva1.webp
 ---
 ## Hyatt Ziva Cancun: An All-Inclusive Paradise on the Cancun Strip

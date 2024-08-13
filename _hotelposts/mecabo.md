@@ -4,7 +4,7 @@ title: Me Cabo
 location: Los Cabos
 featured: false
 categories:
-  - Los-Cabos-Hotels
+  - Los-Cabos
 header_image: /images/hotels/mecabo/mecabo1.jpg
 ---
 ## ME Cabo: Trendy Retreat with a Vibrant Vibe
