@@ -10,7 +10,7 @@ slider_two_image: /images/destinations/yucatan/yucatan2.jpg
 slider_three_image: /images/destinations/cdmx/teotihuacan.jpg
 slider_four_image: /images/destinations/puebla/puebla.jpg
 ---
-## Multi-day Tour from Mexico City to Cancun including Teotihuacan, Puebla, Palenque, Yaxchilan, Campeche, Chichen Itza, and Yucatan
+## Five Civilazations Plus
 
 &nbsp;  
 
@@ -62,11 +62,11 @@ Uncover the mysteries of Palenque, one of the most impressive Mayan archaeologic
 
 Explore the pirate history and colonial charm of Campeche before heading to Uxmal, a masterpiece of Puuc architecture. Visit the Pyramid of the Magician, the Governor's Palace adorned with 365 masks of the rain god Chaak, and the Temple of the Turtles. Continue to Mérida, where you'll spend the night.
 
-### Day 11: Mérida – Chichen Itza – Ek Balam – Cancun
+### Day 11: Mérida – Chichen Itza – Ek Balam – Riviera Maya
 
 Journey through the Yucatán's henequen fields, once the region's economic lifeblood, to reach Chichen Itza, one of the New Seven Wonders of the World. Explore this iconic Mayan-Toltec site, including the Pyramid of Kukulkan, the Great Ball Court, and the observatory. 
 
-Take a refreshing swim in the cenote Ik-Kil, a stunning karst lake, before heading to Ek Balam, an archaeological site known for its recent and revolutionary discoveries. Here, only a small portion of the ancient city has been uncovered, the rest still hidden beneath the jungle. Marvel at the Acropolis, Ball Court, and Temazcal before arriving in Cancun to conclude your tour.
+Take a refreshing swim in the cenote Ik-Kil, a stunning karst lake, before heading to Ek Balam, an archaeological site known for its recent and revolutionary discoveries. Here, only a small portion of the ancient city has been uncovered, the rest still hidden beneath the jungle. Marvel at the Acropolis, Ball Court, and Temazcal before arriving in Riviera Maya to conclude your tour.
 
 
 <div class='map-container'>

@@ -11,7 +11,7 @@ slider_two_image: /images/destinations/yucatan/yucatan1.jpg
 slider_three_image: /images/destinations/yucatan/yucatan3.jpg
 slider_four_image: /images/vertical.jpg
 ---
-## Tour from Cancun for 3 Days
+## Mini Yucatan 2
 
 &nbsp;  
 
@@ -23,9 +23,9 @@ Early in the morning, embark on an adventure to visit Chichen Itza, one of the S
 
 From Merida, travel to Uxmal, one of the most significant archaeological sites of the Mayan culture, alongside Chichen Itza and Tikal. Uxmal, located in the Puuc region, is renowned for its unique architectural style and has been a UNESCO World Heritage Site since 1996. Next, head to the Celestun Biosphere Reserve, a natural haven for around 150 species of birds, reptiles, mammals, and fish, including the Pink Flamingo. Return to Merida for the night.
 
-### Day 3: Merida – Coba – Caverns – Cancun
+### Day 3: Merida – Coba – Caverns – Riviera Maya
 
-Start the day in Merida before heading to a unique stalactite cavern or cenote, known as “eyes of the earth,” which offers fantastic opportunities for diving or snorkeling. Continue to Coba, an intriguing archaeological site surrounded by dense jungle in Quintana Roo. Coba’s ruins are among the region’s top tourist attractions. Return to Cancun to conclude your tour.
+Start the day in Merida before heading to a unique stalactite cavern or cenote, known as “eyes of the earth,” which offers fantastic opportunities for diving or snorkeling. Continue to Coba, an intriguing archaeological site surrounded by dense jungle in Quintana Roo. Coba’s ruins are among the region’s top tourist attractions. Return to Riviera Maya to conclude your tour.
 
 
 <div class='map-container'>

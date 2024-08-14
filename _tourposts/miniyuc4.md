@@ -11,7 +11,7 @@ slider_two_image: /images/destinations/yucatan/yucatan1.jpg
 slider_three_image: /images/destinations/yucatan/yucatan3.jpg
 slider_four_image: /images/vertical.jpg
 ---
-## Multi-Day Tour from Cancun including Ek Balam, Chichen Itza, Palenque, Uxmal, Campeche, Xel-Ha
+## Mini Yucatan 4
 
 &nbsp;  
 
@@ -31,9 +31,9 @@ Begin the day with a tour of Campeche, known for its well-preserved baroque colo
 
 Explore the archaeological site of Palenque, one of the most remarkable Mayan cities. This "City-Gallery" features stone portraits of priests and Emperor Pakal II, as well as the Temple of the Sun and the Cross, and the enigmatic “spaceman” image on Pakal’s sarcophagus. This mystical city, nestled deep in the Chiapas jungle, is surrounded by dense vegetation. Travel to Chetumal for the evening.
 
-### Day 5: Chetumal – Xel-Ha – Cancun
+### Day 5: Chetumal – Xel-Ha – Riviera Maya
 
-Visit Xel-Ha, one of the most beautiful eco-parks in the Riviera Maya, renowned for its natural beauty and water activities. Afterward, return to Cancun to conclude your tour.
+Visit Xel-Ha, one of the most beautiful eco-parks in the Riviera Maya, renowned for its natural beauty and water activities. Afterward, return to Riviera Maya to conclude your tour.
 
 <div class='map-container'>
 

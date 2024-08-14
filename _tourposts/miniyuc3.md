@@ -11,7 +11,7 @@ slider_two_image: /images/destinations/yucatan/yucatan1.jpg
 slider_three_image: /images/destinations/yucatan/yucatan3.jpg
 slider_four_image: /images/vertical.jpg
 ---
-## Multi-Day Tour from Cancun including Ek Balam, Chichen Itza, Palenque, Campeche
+## Mini Yucatan 3
 
 &nbsp;  
 

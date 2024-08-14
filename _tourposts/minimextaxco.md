@@ -10,7 +10,7 @@ slider_two_image: /images/destinations/cdmx/cdmx6.jpg
 slider_three_image: /images/destinations/cdmx/taxco.jpg
 slider_four_image: /images/destinations/cdmx/cdmx13.jpg
 ---
-## Multi-Day Tour from Mexico City
+## Mini Mexico Taxco
 
 &nbsp;  
 

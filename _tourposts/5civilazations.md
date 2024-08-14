@@ -10,7 +10,7 @@ slider_two_image: /images/destinations/oaxaca/oaxaca.jpg
 slider_three_image: /images/destinations/palenque/palenque1.jpg
 slider_four_image: /images/destinations/yucatan/yucatan1.jpg
 ---
-## 9-Day Tour from Mexico City to Cancun
+## Five Civilizations
 
 &nbsp;
 
@@ -42,10 +42,10 @@ Explore the majestic ruins of Palenque, a jewel of the Mayan civilization hidden
 ### Day 8: Campeche – Uxmal – Merida
 Journey through a landscape steeped in history as you visit Uxmal, an exemplary site of Puuc architecture. Discover the unique features of the Pyramid of the Magician and the Governor’s Palace, adorned with hundreds of masks of Chaac, the rain god. Continue to Merida, the capital of Yucatan, where you'll spend the night in this charming colonial city.
 
-### Day 9: Merida – Chichen Itza – Ek Balam – Cancun
+### Day 9: Merida – Chichen Itza – Ek Balam – Riviera Maya
 Travel through the Yucatan’s fields of henequen, once the region's "green gold," to Chichen Itza, one of the New Seven Wonders of the World. Here, the majestic Pyramid of Kukulkan stands as a testament to the advanced knowledge of Mayan astronomers and architects. Explore the sacred cenote Ik-Kil, where you can take a refreshing swim in its crystal-clear waters.
 
-Conclude your tour with a visit to Ek Balam, an archaeological site that has reshaped our understanding of Mayan culture. Uncover the secrets of the Acropolis, the Ball Court, and other structures still emerging from the jungle's grasp. Your journey ends in Cancun, where you can relax and reflect on the incredible sights you've experienced.
+Conclude your tour with a visit to Ek Balam, an archaeological site that has reshaped our understanding of Mayan culture. Uncover the secrets of the Acropolis, the Ball Court, and other structures still emerging from the jungle's grasp. Your journey ends in Riviera Maya, where you can relax and reflect on the incredible sights you've experienced.
 
 
 <div class='map-container'>

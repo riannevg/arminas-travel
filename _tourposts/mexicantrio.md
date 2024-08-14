@@ -9,7 +9,7 @@ slider_two_image: /images/destinations/guadalajara/guadalajara2.jpg
 slider_three_image: /images/destinations/morelia/morelia2.jpg
 slider_four_image: /images/destinations/vallarta/puertovallarta6.jpg
 ---
-## Mexico City to Puerto Vallarta Tour Including Queretaro, Morelia, and Guadalajara
+## Mexican Trio
 
 &nbsp;  
 

@@ -10,7 +10,7 @@ slider_two_image: /images/destinations/bacalar/bacalar5.jpg
 slider_three_image: /images/horizontal.jpg
 slider_four_image: /images/destinations/bacalar/bacalar2.jpg
 ---
-## 11-Day Mexico Tour Including Tajin, Eyipantla Falls, Catemaco, Nanciyaga, Palenque, Bonampak, Laguna Bacalar, and Cancun
+## In the footsteps of Cortes
 
 &nbsp;  
 

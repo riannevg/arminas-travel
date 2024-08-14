@@ -10,7 +10,7 @@ slider_two_image: /images/destinations/chihuahua/chihuahua3.jpg
 slider_three_image: /images/destinations/chihuahua/chihuahua5.jpg
 slider_four_image: /images/destinations/chihuahua/chihuahua4.jpg
 ---
-## Multi-day Tour in the Copper Canyon
+## Large Copper Canyon
 
 &nbsp;  
 

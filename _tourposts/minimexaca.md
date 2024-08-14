@@ -10,7 +10,7 @@ slider_two_image: /images/destinations/cdmx/teotihuacan.jpg
 slider_three_image: /images/destinations/acapulco/acapulco5.jpg
 slider_four_image: /images/destinations/acapulco/acapulco4.jpg
 ---
-## Multi-Day Tour from Mexico City to Acapulco
+## Mini Mexico Acapulco
 
 &nbsp;  
 
