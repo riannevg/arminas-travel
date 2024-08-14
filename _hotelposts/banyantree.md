@@ -35,3 +35,11 @@ Banyan Tree Mayakoba provides a wealth of activities designed to cater to every 
 
 **Gastronomic Excellence:** The resort’s diverse dining options, including authentic Thai cuisine and fresh seafood, offer a culinary journey that enhances the luxury experience.
 
+
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3732.6698448918582!2d-87.03142588876209!3d20.683006799483657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fef5d24ee257%3A0xd4d3962b28fbee68!2sBanyan%20Tree%20Mayakoba!5e0!3m2!1ses!2smx!4v1723603092790!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
+&nbsp;
