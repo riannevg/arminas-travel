@@ -42,3 +42,9 @@ Dining at Susurros del Corazón is a refined experience, with a focus on fresh, 
 
 **Innovative Dining:** The focus on fresh, local ingredients and creative cuisine ensures a memorable and high-quality culinary experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3730.8301029231384!2d-105.48266698876063!3d20.757679196953262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x84216b49b5a1c5ef%3A0xa6d798e69065c78d!2sSusurros%20del%20Coraz%C3%B3n%2C%20Auberge%20Resorts%20Collection!5e0!3m2!1ses!2smx!4v1723603925261!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

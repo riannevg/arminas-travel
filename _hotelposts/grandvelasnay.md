@@ -40,3 +40,9 @@ Dining at Grand Velas Nayarit is a culinary journey, with multiple dining option
 
 **Exceptional Dining Options:** The diverse range of gourmet restaurants and bars offers a memorable culinary experience with fresh, local ingredients and innovative dishes.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1866.0394707684538!2d-105.3019365934584!3d20.707018754137856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842146b9ce435737%3A0xc16ec8df0575b94d!2sGrand%20Velas%20Riviera%20Nayarit!5e0!3m2!1ses!2smx!4v1723603438264!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

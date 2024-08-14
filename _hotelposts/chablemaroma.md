@@ -41,3 +41,10 @@ Dining at Chablé Maroma is a culinary delight, with the resort’s restaurants 
 
 **Gourmet Dining Options:** The hotel’s focus on contemporary Mexican cuisine and fresh, local ingredients ensures a memorable culinary experience with stunning views.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3731.5797557296632!2d-86.9735864514742!3d20.72728294885007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e61dc46916e31%3A0xf62547be87157243!2sChabl%C4%97%20Maroma!5e0!3m2!1ses!2smx!4v1723603238264!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
+&nbsp;

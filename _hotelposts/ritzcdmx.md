@@ -39,3 +39,9 @@ Dining at Ritz-Carlton Mexico City is a refined experience with a focus on gourm
 
 **Gourmet Dining:** The emphasis on contemporary international cuisine and the elegant dining setting ensure a high-quality and memorable culinary experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.7304850799956!2d-99.17833948878615!3d19.424047540877357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fff725887761%3A0xa4a9f1f765141946!2sThe%20Ritz-Carlton%2C%20Mexico%20City!5e0!3m2!1ses!2smx!4v1723603798458!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

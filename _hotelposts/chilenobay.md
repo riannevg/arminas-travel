@@ -39,3 +39,9 @@ Dining at Chileno Bay is a highlight of the guest experience, with the resort of
 
 **Exceptional Dining Experience:** The focus on Mediterranean and Mexican cuisine, with fresh, local ingredients, ensures a memorable and diverse culinary journey.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3674.081483905682!2d-109.8111081887143!3d22.94722601904827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4c2d30216eb7%3A0x9631f03027e4cbea!2sChileno%20Bay%20Resort%20%26%20Residences%2C%20Auberge%20Resorts%20Collection!5e0!3m2!1ses!2smx!4v1723603302611!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

@@ -39,3 +39,11 @@ Chanabnal’s dining options reflect the region’s rich culinary heritage. The 
 
 **Authentic Dining:** The restaurant’s focus on traditional Mexican cuisine and fresh, local ingredients ensures a memorable and authentic culinary experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.118831355982!2d-92.01265108881944!3d17.50183999942781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f2457da6a8828f%3A0xb6ade30e76ecdc30!2sBoutique%20Hotel%20Quinta%20Chanabnal!5e0!3m2!1ses!2smx!4v1723603277126!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
+&nbsp;
+

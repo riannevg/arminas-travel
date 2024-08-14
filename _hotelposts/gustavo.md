@@ -41,3 +41,9 @@ Hotel Gustavo offers a charming dining experience with a focus on local flavors.
 
 **Local Culinary Experience:** The restaurant’s focus on traditional Campechan cuisine provides a delicious and authentic taste of the region.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3752.8714551917615!2d-90.54079808877829!3d19.845391227290932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f833f04ec853a1%3A0x30967e067d6c4ec9!2sHotel%20Boutique%20Casa%20Don%20Gustavo!5e0!3m2!1ses!2smx!4v1723603458697!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

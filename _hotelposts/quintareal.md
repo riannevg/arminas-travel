@@ -39,3 +39,9 @@ Dining at Quinta Real Oaxaca is an elegant affair, with a focus on traditional O
 
 **Gourmet Dining:** The restaurant’s focus on traditional and sophisticated cuisine offers a delightful and memorable dining experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3814.175663521027!2d-96.72565158882644!3d17.064058111970574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c7223ed6e610fb%3A0xc2f3b7e58cadb96e!2sQuinta%20Real%20Oaxaca!5e0!3m2!1ses!2smx!4v1723603780807!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

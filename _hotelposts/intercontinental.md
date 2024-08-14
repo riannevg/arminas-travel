@@ -39,3 +39,9 @@ Dining at Presidente InterContinental Cancun is a culinary delight, with several
 
 **Exceptional Dining Experience:** The variety of dining venues, featuring international and Mexican cuisine, ensures a satisfying and high-quality culinary experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.4276793270383!2d-86.75649258875298!3d21.13537168402638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4c28a32fdfcffb%3A0x298d5230ce21182d!2sPresidente%20Intercontinental%20Canc%C3%BAn%20Resort!5e0!3m2!1ses!2smx!4v1723603541665!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

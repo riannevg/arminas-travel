@@ -37,3 +37,9 @@ Dining at Sheraton Chihuahua is a pleasant experience, with a focus on both loca
 
 **Diverse Dining Options:** The focus on international and local cuisine ensures a satisfying and varied dining experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3500.6579050092596!2d-106.13736028856836!3d28.669960082277914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ea428aa935e64d%3A0x817c1e2f959a5365!2sSheraton%20Chihuahua%20Soberano!5e0!3m2!1ses!2smx!4v1723603879759!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

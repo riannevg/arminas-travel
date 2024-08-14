@@ -35,3 +35,10 @@ At Banyan Tree Puebla, guests can experience a perfect blend of luxury and local
 
 **Cultural Immersion:** From curated art collections to cooking classes, Banyan Tree Puebla offers an immersive experience of local culture and traditions.
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.41654823489!2d-98.19182238879304!3d19.045414752856722!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0e4da4bf447%3A0x37cc61d3d16b1075!2sBanyan%20Tree%20Puebla!5e0!3m2!1ses!2smx!4v1723603070878!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
+&nbsp;

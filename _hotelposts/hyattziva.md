@@ -41,3 +41,9 @@ Dining at Hyatt Ziva Cancun is a highlight of the guest experience, with a diver
 
 **Diverse Dining Options:** The variety of restaurants and bars provides a rich culinary experience, with options ranging from casual beachfront dining to gourmet cuisine.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.4222257021165!2d-86.74469908875298!3d21.135588884018855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4c28a07503798b%3A0x5754071fee7a21aa!2sHotel%20Hyatt%20Ziva%20Cancun!5e0!3m2!1ses!2smx!4v1723603501934!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

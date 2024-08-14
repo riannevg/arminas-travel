@@ -39,3 +39,9 @@ Dining at Nizuc Resort & Spa is an exceptional experience with a variety of gour
 
 **Exceptional Dining:** The variety of dining venues, featuring international and local cuisine, ensures a high-quality and memorable culinary experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7447.921037612943!2d-86.7927632848777!3d21.03426568610094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e825bf4b4c42d%3A0xe07b90a39f74847d!2sNIZUC%20Resort%20%26%20Spa%20-%20Cancun!5e0!3m2!1ses!2smx!4v1723603632977!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

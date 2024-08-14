@@ -37,3 +37,9 @@ Dining at Nututun Palenque is a delightful experience, with a focus on fresh and
 
 **Fresh Dining Options:** The restaurant’s focus on local and international cuisine offers a flavorful and satisfying dining experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15220.816502151294!2d-91.99379965027507!3d17.497766648340445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f24fe93260e147%3A0xf6b47ffd0ca39061!2sHotel%20Nututun%20Palenque!5e0!3m2!1ses!2smx!4v1723603653035!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

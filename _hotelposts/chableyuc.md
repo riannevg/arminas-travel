@@ -42,3 +42,10 @@ Dining at Chablé Yucatán is a sophisticated experience, with a focus on high-q
 
 **Exceptional Dining Experience:** The focus on contemporary Mexican cuisine with locally sourced ingredients ensures a memorable and sophisticated dining experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14897.238158702425!2d-87.73032119924329!3d21.020297068587073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f51f70d79ce56af%3A0xe5c5f2c7976d1511!2s97717%20Chabl%C3%A9%2C%20Yuc.!5e0!3m2!1ses!2smx!4v1723603257128!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
+&nbsp;

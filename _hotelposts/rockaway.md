@@ -39,3 +39,9 @@ Dining at Rockaway Puerto Escondido is a vibrant and enjoyable experience, with 
 
 **Fresh and Flavorful Dining:** The emphasis on local seafood and regional cuisine offers a delightful and authentic culinary experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3838.0795718313425!2d-97.0576441888446!3d15.852414645141408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85b8f82bc255bfcb%3A0x3b1ce0e58f1478f8!2sHOTEL%20ROCKAWAY!5e0!3m2!1ses!2smx!4v1723603826434!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

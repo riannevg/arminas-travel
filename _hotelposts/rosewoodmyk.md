@@ -41,3 +41,9 @@ Dining at Rosewood Mayakoba is a culinary journey, with several world-class rest
 
 **Gourmet Dining:** The focus on fresh, local ingredients and diverse culinary options ensures a memorable and high-quality dining experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3732.5486782718517!2d-87.02271038876201!3d20.687932699317052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e6781daaaaaab%3A0xff5f5ab62e58aff4!2sRosewood%20Mayakoba!5e0!3m2!1ses!2smx!4v1723603843917!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

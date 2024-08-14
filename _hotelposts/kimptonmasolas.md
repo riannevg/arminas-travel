@@ -35,3 +35,10 @@ Dining at Kimpton Mas Olas offers a delightful culinary experience with a focus 
 **Stylish Amenities:** The rooftop pool, spa, and fitness center provide chic and comfortable options for relaxation and wellness.&nbsp;
 
 **Exceptional Dining Experience:** The focus on fresh, local ingredients and stylish presentation ensures a memorable and high-quality culinary experience.&nbsp;
+
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3662.7985016551615!2d-110.19549358870499!3d23.359313603589477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fe65580fb88f%3A0xeaf8e7f611fa9ee9!2sKimpton%20Mas%20Olas%20Resort%20and%20Spa!5e0!3m2!1ses!2smx!4v1723603577199!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

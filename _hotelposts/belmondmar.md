@@ -39,3 +39,12 @@ Belmond Maroma is renowned for its exceptional culinary offerings, which highlig
 
 **Exceptional Dining:** With its focus on contemporary Mexican cuisine and fresh, local ingredients, Belmond Maroma’s restaurants provide a culinary experience that is both authentic and exquisite.
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3731.260779933968!2d-86.96833218876093!3d20.74022169754563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x869bb7fbe5f10ebb%3A0xc53b33bd764641ae!2sMaroma%2C%20A%20Belmond%20Hotel%2C%20Riviera%20Maya!5e0!3m2!1ses!2smx!4v1723603111861!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
+&nbsp;
+
+

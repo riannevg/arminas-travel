@@ -39,3 +39,10 @@ The hotel's restaurant provides a pleasant dining experience with a focus on bot
 
 **Local and International Cuisine:** The restaurant’s menu, featuring both local and international dishes, ensures a satisfying and diverse dining experience during your stay.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3804.8217856371766!2d-91.99691738881921!3d17.516018699016666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f24578b02fd595%3A0x60beb7445a0b5ab3!2sHotel%20Ciudad%20Real%20Palenque!5e0!3m2!1ses!2smx!4v1723603218698!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
+&nbsp;

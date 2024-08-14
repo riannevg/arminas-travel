@@ -39,3 +39,11 @@ Dining at Casa Malca is a highlight of the guest experience, with the hotel's re
 
 **Exceptional Dining Experience:** The dining experience, featuring fresh seafood and creative cocktails, complements the resort’s artistic and luxurious ambiance.&nbsp;
 
+
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3746.0078809907427!2d-87.46635398877277!3d20.133718817838478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4fd7523ecf3d7d%3A0xdc2c22faee6b278b!2sHotel%20Casa%20Malca!5e0!3m2!1ses!2smx!4v1723603175360!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
+&nbsp;

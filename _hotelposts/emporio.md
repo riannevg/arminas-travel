@@ -37,3 +37,9 @@ Dining at Emporio Veracruz offers a delightful experience with a focus on both l
 
 **Diverse Dining Options:** The restaurant’s focus on both local and international cuisine ensures a varied and satisfying culinary experience with beautiful sea views.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3767.8485570421994!2d-96.13670498879023!3d19.201815847934956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c346bef832b359%3A0xb46ba3c7eaf88317!2sHotel%20Emporio%20Veracruz!5e0!3m2!1ses!2smx!4v1723603348221!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

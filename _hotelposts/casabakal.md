@@ -35,3 +35,10 @@ Casa Bakal is designed for relaxation and connection with nature. Guests can sta
 
 **Active Relaxation:** The hotel’s activities, including kayaking, paddleboarding, and yoga, allow guests to engage with the beautiful surroundings while maintaining a sense of tranquility.
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.1124427719133!2d-88.40285828879989!3d18.6589495648588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5bb12abd6fa6bb%3A0xf36c8fc80114453a!2sCasa%20Bakal!5e0!3m2!1ses!2smx!4v1723603131085!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
+&nbsp;

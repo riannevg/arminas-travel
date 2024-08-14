@@ -37,3 +37,9 @@ Dining at Galeria Plaza Monterrey is a pleasant experience with a focus on high-
 
 **Diverse Dining Options:** The restaurant’s focus on international and Mexican cuisine ensures a satisfying and varied dining experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3596.1564886376405!2d-100.32770295063247!3d25.666106754501254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8662bfec7b8c7773%3A0xae94ec77df29dd7d!2sHotel%20Galer%C3%ADa%20Plaza%20Monterrey!5e0!3m2!1ses!2smx!4v1723603759258!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

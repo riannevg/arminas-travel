@@ -35,3 +35,10 @@ The hotel’s restaurant offers a diverse menu that combines local Yucatecan fla
 **Modern Amenities:** The outdoor pool, fitness center, and business facilities provide a comfortable and well-equipped environment for both leisure and business travelers.&nbsp;
 
 **Diverse Dining Options:** The restaurant’s menu, featuring local and international dishes, offers a satisfying and varied culinary experience during your stay.&nbsp;
+
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3725.161284012078!2d-89.62590305143452!3d20.98617103952336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5671dc0d806ae9%3A0x1b5a6944bf586479!2sCourtyard%20Merida%20Downtown!5e0!3m2!1ses!2smx!4v1723603322823!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

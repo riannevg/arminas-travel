@@ -40,3 +40,9 @@ Dining at One&Only Mandarina is an exceptional experience, with several world-cl
 
 **Exceptional Dining:** The variety of dining options, featuring fresh, local ingredients and innovative cuisine, ensures a memorable and high-quality culinary experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3725.368536340375!2d-105.33584135143585!3d20.97785923982429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842123458b805dc5%3A0x715d407eff8e41f1!2sOne%26Only%20Mandarina!5e0!3m2!1ses!2smx!4v1723603677376!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

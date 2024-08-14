@@ -39,3 +39,9 @@ Dining at Palmaia is a gourmet experience with a focus on fresh, organic, and lo
 
 **Gourmet and Organic Dining:** The emphasis on fresh, organic ingredients and diverse culinary options ensures a memorable and health-conscious dining experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3734.7698056561458!2d-87.09881368876377!3d20.597456202372253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e43ee18938189%3A0xcc3dcd5edafb8b99!2zUGFsbWHDr2EsIFRoZSBIb3VzZSBvZiBBw69B!5e0!3m2!1ses!2smx!4v1723603715603!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

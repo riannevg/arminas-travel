@@ -39,3 +39,9 @@ Dining at Kempinski Cancun is an exceptional experience, with several restaurant
 
 **Exceptional Dining Options:** The variety of gourmet restaurants and bars offer a high-quality culinary experience with fresh, locally sourced ingredients.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3722.485553051958!2d-86.77083498875386!3d21.093199685480315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4c284421604f35%3A0x9e160c653ff644c9!2sKempinski%20Hotel%20Canc%C3%BAn!5e0!3m2!1ses!2smx!4v1723603559336!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;

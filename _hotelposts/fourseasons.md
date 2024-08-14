@@ -39,3 +39,9 @@ Dining at Four Seasons Mexico City is an exceptional experience, with the hotel 
 
 **Exceptional Dining Experience:** The diverse dining options, featuring contemporary Mexican cuisine and craft cocktails, ensure a memorable and high-quality culinary experience.&nbsp;
 
+<div class='map-container center'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.750969985781!2d-99.17689378878615!3d19.423162940905637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4eecb66801%3A0x60bfab50fe53fe4f!2sFour%20Seasons%20Hotel%20Mexico%20City!5e0!3m2!1ses!2smx!4v1723603384186!5m2!1ses!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+&nbsp;
