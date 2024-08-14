@@ -5,6 +5,10 @@ featured: false
 categories:
   - Mexico-City-Tours
 header_image: /images/destinations/cdmx/cdmx10.jpg
+slider_one_image: /images/destinations/cdmx/cdmx1.jpg
+slider_two_image: /images/destinations/cdmx/cdmx2.jpg
+slider_three_image: /images/destinations/cdmx/cdmx3.jpg
+slider_four_image: /images/destinations/cdmx/cdmx4.jpg
 ---
 ## 9-Day Tour from Mexico City to Cancun
 

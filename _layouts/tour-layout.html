@@ -1,18 +1,35 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
 
-<section class="grid-spaceAround center padded-5 capped-width blog">
+<body>
+
+    {% include header-slider.html %}
+
+    <section class="grid-spaceAround center padded-5 capped-width blog">
   
-    <div class="col-12 capped-width">  
+        <div class="col-12 capped-width">  
+    
+            {{content}}
+    
+            <a href="/tours.html" class="button">Back to all tours</a>
+        </div>
+    
+        <!-- LINE -->
+        {% include line.html %}  
+    
+    
+    </section>
+    
 
-        {{content}}
+    {% include footer.html %}
 
-        <a href="/tours.html" class="button">Back to all tours</a>
-    </div>
-
-    <!-- LINE -->
-    {% include line.html %}  
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="/scripts.js"></script>
 
 
-</section>
+</body>
+
+</html>
+

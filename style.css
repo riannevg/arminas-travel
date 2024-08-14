@@ -183,6 +183,30 @@ li{
 .bg-team-3{
     background-image:url('/images/team-3.jpg')
 }
+
+/* Slick Slider */
+
+.slider-container{
+    z-index:1;
+}
+
+.slick-next:before, .slick-prev:before {
+    font-family: inherit;
+     font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: black;
+}
+
+
+.slick-dots li button:before {
+    font-size: 10px;
+    width: 10px;
+    color: grey;
+}
+
+
+
 /* post image code */
 
 .image-gallery {

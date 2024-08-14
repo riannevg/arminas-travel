@@ -46,9 +46,21 @@
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />       
 
-        <!-- My stylesheet -->    
-        <link rel="stylesheet" type="text/css" href="/style.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+   
+    <!-- Load jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+     
+   <!-- Slick Slider CSS -->
+   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"/>
+   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css"/>
+
+      <!-- Slick Slider JavaScript -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js" integrity="sha512-HGOnQO9+SP1V92SrtZfjqxxtLmVzqZpjFFekvzZVWoiASSQgSr4cw9Kqd2+l8Llp4Gm0G8GIFJ4ddwZilcdb8A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+    <!-- My stylesheet -->    
+     <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
     
 </head>
@@ -79,12 +91,34 @@
 
 </header>
 
-    <section class="grid-spaceAround vh-80 bg-header bg-overlay hide-md" style="background-image:url('/images/destinations/yucatan/yucatan5.jpg')">
-        <div class="col-12-top right light-text padded-1 padded-r-5">
-            <p class="medium-text header-text"></p>
-        </div>
-    </section>
 
+<!-- slider for header -->
+<section class='slider-container hide-md'>
+  
+    <div class='slider-item'>
+      <div class='bg-image bg-image vh-70 ' style="background-image: url('')"></div>
+    </div>
+    
+    <div class='slider-item '>
+      <div class='bg-image bg-image vh-70 ' style="background-image: url('')"></div>
+    </div>
+    
+    <div class='slider-item '>
+      <div class='bg-image bg-image vh-70 ' style="background-image: url('')"></div>
+    </div>
+    
+    <div class='slider-item '>
+      <div class='bg-image bg-image vh-70 ' style="background-image: url('')"></div>
+    </div>
+    
+</section>
+
+
+    
+
+
+
+<!-- Mobile header -->
     <section class="grid-spaceAround vh-80 bg-header bg-overlay show-md" style="background-image:url('/images/destinations/yucatan/yucatan5.jpg')">
         <div class="col-12 padding-t-30 center light-text padded-1 padded-r-5">
             <p class="medium-text header-text"></p>
@@ -107,9 +141,9 @@
 
     <section class="grid-spaceAround center padded-5 capped-width blog">
   
-    <div class="col-12 capped-width">  
-
-        <h2 id="multi-day-tour-from-cancun-including-ek-balam-chichen-itza-palenque-campeche">Multi-Day Tour from Cancun including Ek Balam, Chichen Itza, Palenque, Campeche</h2>
+        <div class="col-12 capped-width">  
+    
+            <h2 id="multi-day-tour-from-cancun-including-ek-balam-chichen-itza-palenque-campeche">Multi-Day Tour from Cancun including Ek Balam, Chichen Itza, Palenque, Campeche</h2>
 
 <p> </p>
 
@@ -129,20 +163,20 @@
 
 <p>Depart from Campeche in the morning to visit Chichen Itza, one of the Seven New Wonders of the World and a prime representative of Mayan culture. This ancient site, once accessible only to the elite—magicians, scientists, and ball players—features magnificent temples of classical and post-classical Mexico that the Spanish colonizers never saw, as they were abandoned before their arrival. Marvel at the Pyramid of Kukulkan, the ball court, the Observatory, and more. After exploring Chichen Itza, continue to the cenote Ik-Kil for a refreshing swim. Return to Cancun or Riviera Maya to conclude your tour.</p>
 
-
-        <a href="/tours.html" class="button">Back to all tours</a>
-    </div>
-
-    <!-- LINE -->
-    <section class="grid-spaceAround center">
+    
+            <a href="/tours.html" class="button">Back to all tours</a>
+        </div>
+    
+        <!-- LINE -->
+        <section class="grid-spaceAround center">
     <div class="col-8">
         <hr>
     </div>
 </section>  
-
-
-</section>
-
+    
+    
+    </section>
+    
 
     <footer class="grid-spaceAround-top padded-1 bg-blue">
     <div class="col-4_sm-3_xs-12-middle center">
@@ -181,7 +215,7 @@
     </div>
 </footer>
 
-
+    
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="/scripts.js"></script>
 
@@ -189,3 +223,4 @@
 </body>
 
 </html>
+

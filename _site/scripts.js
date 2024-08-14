@@ -15,4 +15,19 @@ $(document).ready(function() {
             }
         }
     });
+
+ // Slick Slider
+
+ $(document).ready(function(){
+    $('.slider-container').slick({
+       autoplay: true,
+       autoplaySpeed: 3000,
+       speed: 1000,
+       arrows: false,
+       dots: true
+    });
+ });
+ 
+
 });
+
