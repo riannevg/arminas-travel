@@ -184,6 +184,10 @@ li{
     background-image:url('/images/team-3.jpg')
 }
 
+.bg-atm{
+    background-image:url('/images/atm.jpg');
+}
+
 /* Slick Slider */
 
 .slider-container{
