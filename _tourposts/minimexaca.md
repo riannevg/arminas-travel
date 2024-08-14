@@ -5,6 +5,10 @@ featured: false
 categories:
   - Mexico-City-Tours
 header_image: /images/destinations/acapulco/acapulco1.jpg
+slider_one_image: /images/destinations/acapulco/acapulco1.jpg
+slider_two_image: /images/destinations/cdmx/teotihuacan.jpg
+slider_three_image: /images/destinations/acapulco/acapulco5.jpg
+slider_four_image: /images/destinations/acapulco/acapulco4.jpg
 ---
 ## Multi-Day Tour from Mexico City to Acapulco
 
@@ -29,3 +33,11 @@ Acapulco, located in Guerrero, is a famous Mexican resort known for its excellen
 ### Day 5: Acapulco – Cacahuamilpa Grottoes – Mexico City
 
 Depart from Acapulco to the Cacahuamilpa Grottoes, renowned for their large stalactites and stalagmites illuminated by colorful lights, creating unique figures. The grottoes are the world’s largest “live” cave system due to ongoing growth and are approximately 2 km long. After exploring, transfer back to Mexico City.
+
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10Kq2hbjI1yyFch4brZACVrhcN2JFDW4&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+
+</div>
+
+&nbsp;

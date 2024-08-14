@@ -6,6 +6,10 @@ categories:
   - Cancun-Tours
   - Riviera-Maya-Tours
 header_image: /images/destinations/yucatan/yucatan5.jpg
+slider_one_image: /images/destinations/yucatan/yucatan2.jpg
+slider_two_image: /images/destinations/yucatan/yucatan1.jpg
+slider_three_image: /images/destinations/yucatan/yucatan3.jpg
+slider_four_image: /images/vertical.jpg
 ---
 ## Multi-Day Tour from Cancun including Ek Balam, Chichen Itza, Palenque, Campeche
 
@@ -26,3 +30,11 @@ Explore the magnificent archaeological site of Palenque, one of the most impress
 ### Day 4: Campeche – Chichen Itza – Cenote – Cancun/Riviera Maya
 
 Depart from Campeche in the morning to visit Chichen Itza, one of the Seven New Wonders of the World and a prime representative of Mayan culture. This ancient site, once accessible only to the elite—magicians, scientists, and ball players—features magnificent temples of classical and post-classical Mexico that the Spanish colonizers never saw, as they were abandoned before their arrival. Marvel at the Pyramid of Kukulkan, the ball court, the Observatory, and more. After exploring Chichen Itza, continue to the cenote Ik-Kil for a refreshing swim. Return to Cancun or Riviera Maya to conclude your tour.
+
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1iGLRzbmZmQdWUnRZf-nEOINq8kBf6X0&ehbc=2E312F&noprof=1" width="800" height="300"></iframe>
+
+</div>
+
+&nbsp;

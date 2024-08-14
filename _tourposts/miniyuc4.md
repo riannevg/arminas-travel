@@ -6,6 +6,10 @@ categories:
   - Cancun-Tours
   - Riviera-Maya-Tours
 header_image: /images/destinations/merida/merida4.jpg
+slider_one_image: /images/destinations/yucatan/yucatan2.jpg
+slider_two_image: /images/destinations/yucatan/yucatan1.jpg
+slider_three_image: /images/destinations/yucatan/yucatan3.jpg
+slider_four_image: /images/vertical.jpg
 ---
 ## Multi-Day Tour from Cancun including Ek Balam, Chichen Itza, Palenque, Uxmal, Campeche, Xel-Ha
 
@@ -31,3 +35,10 @@ Explore the archaeological site of Palenque, one of the most remarkable Mayan ci
 
 Visit Xel-Ha, one of the most beautiful eco-parks in the Riviera Maya, renowned for its natural beauty and water activities. Afterward, return to Cancun to conclude your tour.
 
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_sehZfa-4I5rRELQs0IZ1INVCJW-o8c&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+
+</div>
+
+&nbsp;

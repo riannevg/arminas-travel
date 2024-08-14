@@ -6,6 +6,10 @@ categories:
   - Cancun-Tours
   - Riviera-Maya-Tours
 header_image: /images/destinations/merida/merida8.jpg
+slider_one_image: /images/destinations/merida/merida8.jpg
+slider_two_image: /images/destinations/yucatan/yucatan1.jpg
+slider_three_image: /images/destinations/yucatan/yucatan2.jpg
+slider_four_image: /images/hotels/chableyuc/chableyuc4.jpeg
 ---
 ## Multi-day Tour from Cancun Including Ek Balam, Chichen Itza, Palenque, Uxmal, Campeche, Xel-Ha
 
@@ -31,3 +35,12 @@ Today, explore Merida, the vibrant capital of Yucatán with its bustling markets
 ### Day 4: Chable Yucatán – Chichen Itza – Cenote – Riviera Maya/Tulum/Cancun
 
 After a relaxing morning at Chable Yucatán, we will depart for Chichen Itza, one of the New Seven Wonders of the World. Explore the majestic Pyramid of Kukulkan, the Great Ball Court, and the Observatory, learning about the fascinating history of this ancient city. Following your visit, take a refreshing swim in a nearby cenote, a perfect way to cool off and relax. Our journey concludes with a transfer to the Riviera Maya, Tulum, or Cancun, where you can continue to enjoy your stay or explore additional attractions.
+
+
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1hXO0LcfrxHWuPfMBnQL_REZo9M00a_Q&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+
+</div>
+
+&nbsp;

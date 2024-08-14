@@ -5,6 +5,10 @@ featured: false
 categories:
   - Mexico-City-Tours
 header_image: /images/destinations/bacalar/bacalar5.jpg
+slider_one_image: /images/destinations/cdmx/teotihuacan.jpg
+slider_two_image: /images/destinations/bacalar/bacalar5.jpg
+slider_three_image: /images/horizontal.jpg
+slider_four_image: /images/destinations/bacalar/bacalar2.jpg
 ---
 ## 11-Day Mexico Tour Including Tajin, Eyipantla Falls, Catemaco, Nanciyaga, Palenque, Bonampak, Laguna Bacalar, and Cancun
 
@@ -53,3 +57,11 @@ Depart early for Kohunlich, a significant Mayan city and ceremonial center locat
 ### Day 11: Chetumal – Bacalar Lagoon – Boating – Riviera Maya or Cancun
 
 Explore Bacalar, a “Magic Town” known for its stunning lagoon with seven shades of blue. Ideal for diving, swimming, and snorkeling, Bacalar was founded by the Mayans in 415 D.C. and is the gateway to the Cenote Azul and interesting archaeological sites. Transfer to your hotel in Cancun or Riviera Maya. Riviera Maya, stretching from Cancun to Tulum, offers beautiful Caribbean beaches, turquoise waters, and a fresh ocean breeze. It is the jewel of the Mexican Caribbean.
+
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16TzCEJyfENjzn9FgXuv_YPGCzUGXQkE&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+
+</div>
+
+&nbsp;

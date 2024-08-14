@@ -5,6 +5,10 @@ featured: false
 categories:
   - Mexico-City-Tours
 header_image: /images/destinations/palenque/palenque7.jpg
+slider_one_image: /images/destinations/cdmx/cdmx10.jpg
+slider_two_image: /images/destinations/yucatan/yucatan2.jpg
+slider_three_image: /images/destinations/cdmx/teotihuacan.jpg
+slider_four_image: /images/destinations/puebla/puebla.jpg
 ---
 ## Multi-day Tour from Mexico City to Cancun including Teotihuacan, Puebla, Palenque, Yaxchilan, Campeche, Chichen Itza, and Yucatan
 
@@ -63,3 +67,12 @@ Explore the pirate history and colonial charm of Campeche before heading to Uxma
 Journey through the Yucatán's henequen fields, once the region's economic lifeblood, to reach Chichen Itza, one of the New Seven Wonders of the World. Explore this iconic Mayan-Toltec site, including the Pyramid of Kukulkan, the Great Ball Court, and the observatory. 
 
 Take a refreshing swim in the cenote Ik-Kil, a stunning karst lake, before heading to Ek Balam, an archaeological site known for its recent and revolutionary discoveries. Here, only a small portion of the ancient city has been uncovered, the rest still hidden beneath the jungle. Marvel at the Acropolis, Ball Court, and Temazcal before arriving in Cancun to conclude your tour.
+
+
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=14rALWt7erxhhH8kdmJR-8MzbIAzQsJo&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+
+</div>
+
+&nbsp;

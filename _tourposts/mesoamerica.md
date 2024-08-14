@@ -5,6 +5,10 @@ featured: false
 categories:
   - Mexico-City-Tours
 header_image: /images/destinations/palenque/palenque3.jpg
+slider_one_image: /images/destinations/palenque/palenque3.jpg
+slider_two_image: /images/destinations/cdmx/cdmx10.jpg
+slider_three_image: /images/destinations/cdmx/teotihuacan.jpg
+slider_four_image: /images/destinations/yucatan/yucatan2.jpg
 ---
 ## Multi-Day Tour from Mexico City to Cancun Including Teotihuacan, Puebla, Palenque, Yaxchilan, Campeche, Chichen Itza, and Yucatan
 
@@ -57,3 +61,12 @@ Explore Palenque’s ancient Mayan ruins, including the Temple of the Sun, Templ
 ### Day 12: Campeche – Merida – Chichen Itza – Cancun
 
 Arrive at Chichen Itza, a “Wonder of the New World,” representing Mayan and Toltec culture. Explore the Pyramid of Kukulkan, the ball game field, the observatory, and more. Swim in Ik-Kil cenote, one of the Yucatan’s most beautiful karst lakes. Transfer to Cancun, your final destination.
+
+
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16ZFo-r75ge7rAgQKF93kkjlwPJsuaWs&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+
+</div>
+
+&nbsp;

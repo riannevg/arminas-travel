@@ -6,6 +6,10 @@ categories:
   - Cancun-Tours
   - Riviera-Maya-Tours
 header_image: /images/destinations/yucatan/yucatan4.jpg
+slider_one_image: /images/destinations/yucatan/yucatan2.jpg
+slider_two_image: /images/destinations/yucatan/yucatan1.jpg
+slider_three_image: /images/destinations/yucatan/yucatan3.jpg
+slider_four_image: /images/vertical.jpg
 ---
 ## Tour from Cancun for 3 Days
 
@@ -22,3 +26,12 @@ From Merida, travel to Uxmal, one of the most significant archaeological sites o
 ### Day 3: Merida – Coba – Caverns – Cancun
 
 Start the day in Merida before heading to a unique stalactite cavern or cenote, known as “eyes of the earth,” which offers fantastic opportunities for diving or snorkeling. Continue to Coba, an intriguing archaeological site surrounded by dense jungle in Quintana Roo. Coba’s ruins are among the region’s top tourist attractions. Return to Cancun to conclude your tour.
+
+
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=15Qr2HCRtGZEfjsdCC7SkCEOR1K9HBVg&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+
+</div>
+
+&nbsp;

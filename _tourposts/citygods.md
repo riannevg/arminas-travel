@@ -5,6 +5,10 @@ featured: false
 categories:
   - Mexico-City-Tours
 header_image: /images/destinations/yucatan/yucatan1.jpg
+slider_one_image: /images/destinations/cdmx/teotihuacan.jpg
+slider_two_image: /images/destinations/cdmx/cdmx10.jpg
+slider_three_image: /images/horizontal.jpg
+slider_four_image: /images/destinations/yucatan/yucatan1.jpg
 ---
 ## City of Gods
 
@@ -41,3 +45,12 @@ Depart from Campeche to Uxmal, another ancient Mayan city in the state of Yucata
 ### Day 8: Merida – Chichen Itza – Ek Balam – Cancun
 
 This day features a visit to the Archaeological Zone of Chichen Itza, a very famous Mayan ruins complex with magnificent and enigmatic structures. The site includes the amazing Pyramid of Kukulkan, one of the 7 wonders of the modern world, also known as El Castillo, a huge stepped pyramid dominating the approximately 6.5 square kilometers of this ancient Mayan city. Other spectacular structures include the Ball Court and the Temple of Warriors. The tour continues with a visit to the also fascinating Archaeological Zone of Ek Balam, and concludes with your arrival in Cancun, known worldwide for its beautiful turquoise blue beaches.
+
+
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1D8tHRZ1awBcvFckbw29dfcGPo-sTnj0&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+
+</div>
+
+&nbsp;

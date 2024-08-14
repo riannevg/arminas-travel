@@ -5,6 +5,10 @@ featured: false
 categories:
   - Chihuahua-Tours
 header_image: /images/destinations/chihuahua/chihuahua1.jpg
+slider_one_image: /images/destinations/chihuahua/chihuahua1.jpg
+slider_two_image: /images/destinations/chihuahua/chihuahua3.jpg
+slider_three_image: /images/destinations/chihuahua/chihuahua5.jpg
+slider_four_image: /images/destinations/chihuahua/chihuahua4.jpg
 ---
 ## Multi-day Tour in the Copper Canyon
 
@@ -37,3 +41,12 @@ Transfer to Bahuichivo’s railway station and continue to El Fuerte in the Stat
 ### Day 7: El Fuerte - Los Mochis
 
 In the morning, consider a visit to the El Fuerte River to experience the diverse wildlife of the region, especially the variety of bird species. The river is peaceful and ideal for families. Transfer to Los Mochis Airport (about 2 hours).
+
+
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=18Ryp4o3nvhugxRHnaC2ZwKxq7ir3WPE&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+
+</div>
+
+&nbsp;

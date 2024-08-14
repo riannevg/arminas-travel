@@ -21,8 +21,8 @@ $(document).ready(function() {
  $(document).ready(function(){
     $('.slider-container').slick({
        autoplay: true,
-       autoplaySpeed: 3000,
-       speed: 1000,
+       autoplaySpeed: 2500,
+       speed: 800,
        arrows: false,
        dots: true
     });

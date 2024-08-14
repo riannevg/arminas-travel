@@ -5,6 +5,10 @@ featured: false
 categories:
   - Los-Cabos-Tours
 header_image: /images/destinations/chihuahua/chihuahua7.jpg
+slider_one_image: /images/destinations/loscabos/loscabos4.jpg
+slider_two_image: /images/destinations/chihuahua/chihuahua1.jpg
+slider_three_image: /images/destinations/chihuahua/chihuahua5.jpg
+slider_four_image: /images/destinations/chihuahua/chihuahua7.jpg
 ---
 ## Multi-day Tour from Los Cabos – Todos Santos – The Famous “Hotel California” – La Paz – Los Mochis – El Fuerte – Divisadero – Creel – Mennonites Community - Chihuahua
 
@@ -33,3 +37,12 @@ Today, visit the spectacular and serene Lake Arareko, located 5 km south of Cree
 ### Day 6: Chihuahua
 
 Enjoy a fascinating city tour, including visits to the main square, the cathedral, and the Pancho Villa Museum, dedicated to the famous leader of the Mexican Revolution in 1912 (museum closed on Mondays). The museum houses personal items of Pancho Villa, as well as a large collection of photos and documents that reflect the historical events of that time. Transfer to the airport in the evening.
+
+
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1cQCRwwdoMl0idI0DiOAKZNWvn6SWl44&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+
+</div>
+
+&nbsp;

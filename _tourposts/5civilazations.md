@@ -5,10 +5,10 @@ featured: false
 categories:
   - Mexico-City-Tours
 header_image: /images/destinations/cdmx/cdmx10.jpg
-slider_one_image: /images/destinations/cdmx/cdmx1.jpg
-slider_two_image: /images/destinations/cdmx/cdmx2.jpg
-slider_three_image: /images/destinations/cdmx/cdmx3.jpg
-slider_four_image: /images/destinations/cdmx/cdmx4.jpg
+slider_one_image: /images/destinations/puebla/puebla.jpg
+slider_two_image: /images/destinations/oaxaca/oaxaca.jpg
+slider_three_image: /images/destinations/palenque/palenque1.jpg
+slider_four_image: /images/destinations/yucatan/yucatan1.jpg
 ---
 ## 9-Day Tour from Mexico City to Cancun
 
@@ -46,3 +46,13 @@ Journey through a landscape steeped in history as you visit Uxmal, an exemplary 
 Travel through the Yucatan’s fields of henequen, once the region's "green gold," to Chichen Itza, one of the New Seven Wonders of the World. Here, the majestic Pyramid of Kukulkan stands as a testament to the advanced knowledge of Mayan astronomers and architects. Explore the sacred cenote Ik-Kil, where you can take a refreshing swim in its crystal-clear waters.
 
 Conclude your tour with a visit to Ek Balam, an archaeological site that has reshaped our understanding of Mayan culture. Uncover the secrets of the Acropolis, the Ball Court, and other structures still emerging from the jungle's grasp. Your journey ends in Cancun, where you can relax and reflect on the incredible sights you've experienced.
+
+
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1rk8ohWGYtDf1j1cK56uGo1FLvKqTTOY&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+
+</div>
+
+&nbsp;
+

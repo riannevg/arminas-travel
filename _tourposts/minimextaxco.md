@@ -5,6 +5,10 @@ featured: false
 categories:
   - Mexico-City-Tours
 header_image: /images/destinations/cdmx/cdmx6.jpg
+slider_one_image: /images/destinations/cdmx/teotihuacan.jpg
+slider_two_image: /images/destinations/cdmx/cdmx6.jpg
+slider_three_image: /images/destinations/cdmx/taxco.jpg
+slider_four_image: /images/destinations/cdmx/cdmx13.jpg
 ---
 ## Multi-Day Tour from Mexico City
 
@@ -26,6 +30,13 @@ Today, visit two fascinating museums: the Frida Kahlo Museum and the Trotsky Mus
 
 Taxco is renowned for its colonial architecture and silver production, earning it the title of “Silver City.” Explore the medieval streets and silver shops before heading to the Cacahuamilpa Grottoes. These massive caves are illuminated with colorful lights, creating unique formations. The grottoes, the largest “live” cave system in the world, date back millions of years and extend approximately 2 km. After the tour, transfer back to Mexico City.
 
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1OykDuuHms5MnhhhXZ7pFMMbMAeXNFUk&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+
+</div>
+
+&nbsp;
 
 
 

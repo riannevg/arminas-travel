@@ -6,6 +6,10 @@ categories:
   - Cancun-Tours
   - Riviera-Maya-Tours
 header_image: /images/destinations/yucatan/yucatan2.jpg
+slider_one_image: /images/destinations/yucatan/yucatan2.jpg
+slider_two_image: /images/destinations/yucatan/yucatan1.jpg
+slider_three_image: /images/destinations/yucatan/yucatan3.jpg
+slider_four_image: /images/vertical.jpg
 ---
 ## Multi-Day Tour from Cancun
 
@@ -18,3 +22,11 @@ Depart from Cancun and explore some fascinating caves or cenotes, known as “Ey
 ### Day 2: Merida – Chichen Itza – Ek Balam – Cancun
 
 Travel through fields of henequen, a natural fiber that was once Yucatán’s ancient currency. Visit Chichen Itza, one of the Seven Wonders of the Modern World, and marvel at the grand complex of temples showcasing the splendor of Mayan culture. These temples, including the Pyramid of Kukulcan, the ball court, and the Observatory, were abandoned before the Spanish arrived. You will also visit the Ik Kil cenote, where you can swim in its refreshing waters. Lastly, explore Ek Balam, an important archaeological site with significant discoveries made in recent decades. While only a small portion is visible, you’ll see the Acropolis, the playing field, the Twin buildings, the Observatory, and the Temazcal. Return to Cancun.
+
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1k-V4OAipquUzYVL173ItB2a8vpne75s&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+
+</div>
+
+&nbsp;

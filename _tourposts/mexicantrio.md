@@ -4,6 +4,10 @@ title: Mexican Trio
 categories:
   - Mexico-City-Tours
 header_image: /images/destinations/vallarta/puertovallarta5.jpg
+slider_one_image: /images/destinations/vallarta/puertovallarta5.jpg
+slider_two_image: /images/destinations/guadalajara/guadalajara2.jpg
+slider_three_image: /images/destinations/morelia/morelia2.jpg
+slider_four_image: /images/destinations/vallarta/puertovallarta6.jpg
 ---
 ## Mexico City to Puerto Vallarta Tour Including Queretaro, Morelia, and Guadalajara
 
@@ -32,3 +36,11 @@ Visit Morelia, a city in Michoacan known for its colonial architecture and role 
 ### Day 6: Guadalajara – Tlaquepaque – Tequila – Puerto Vallarta
 
 Guadalajara, the heart of Jalisco, is renowned as the birthplace of Tequila, Mariachis, and Charros. It is one of Mexico’s most important cultural and tourist centers. Known as “La Perla Tapatia,” “La Perla de Occidente,” and “La Ciudad de las Rosas,” it offers excellent national cuisine and traditions. Visit a tequila factory, “Casa Herradura,” an old hacienda with traditions dating back to pre-Hispanic times. Learn about the history of tequila and the cultivation of blue agave. Explore the charming streets of Tequila, the town that gave its name to the drink. Transfer to the Pacific Coast and arrive in Puerto Vallarta to check into your hotel.
+
+<div class='map-container'>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DBKD8Va81DMYU1UInvEQ0W93VBsD-vQ&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+
+</div>
+
+&nbsp;
