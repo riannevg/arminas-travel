@@ -34,6 +34,14 @@ Tulum’s unique combination of serene natural beauty and dynamic party scene ma
 ## Hotels in Tulum & Surroundings
 
 <section class='grid'>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/betulum">
+        <div class="bg-image square" style="background-image:url('/images/hotels/betulum/betulum1.jpg')">  </div>
+        <h3 class='center'>Be Tulum</h3>        
+    </a>  
+</div>
+
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/casamalca">
         <div class="bg-image square" style="background-image:url('/images/hotels/casamalca/casamalca5.png')">  </div>
@@ -45,6 +53,13 @@ Tulum’s unique combination of serene natural beauty and dynamic party scene ma
     <a href="/hotels/casachable">
         <div class="bg-image square" style="background-image:url('/images/hotels/chablecasa/chablecasa5.jpeg')">  </div>
         <h3 class='center'>Casa Chable</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/nomade">
+        <div class="bg-image square" style="background-image:url('/images/hotels/nomade/nomade1.jpg')">  </div>
+        <h3 class='center'>Nomade</h3>        
     </a>  
 </div>
 
