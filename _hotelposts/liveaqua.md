@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-title: Live Aqua
+title: Live Aqua San Miguel de Allende
 location: San Miguel de Allende
 featured: false
 categories:

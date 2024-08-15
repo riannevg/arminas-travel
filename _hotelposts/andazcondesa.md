@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-title: Andaz Condesa
+title: Andaz Mexico City Condesa
 location: Mexico City
 featured: false
 categories:
