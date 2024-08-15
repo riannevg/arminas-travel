@@ -1,13 +1,13 @@
 ---
 layout: hotel-layout
-title: Palmaia House of Aia
+title: Palmaia The House of Aia
 location: Riviera Maya
 featured: false
 categories:
   - Riviera-Maya
 header_image: /images/hotels/palmaia/palmaia3.jpg
 ---
-## Palmaia: The House of Aia: Eco-Luxury with a Holistic Approach
+## Palmaia The House of Aia: The House of Aia: Eco-Luxury with a Holistic Approach
 
 &nbsp;
 

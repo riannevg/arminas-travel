@@ -4,6 +4,7 @@ title: Grand Velas Riviera Nayarit
 location: Nueva Vallarta
 featured: false
 categories:
+  - Nueva-Vallarta
   - Puerto-Vallarta
   - Punta-Mita
 header_image: /images/hotels/velasnayarit/velasnayarit5.jpg

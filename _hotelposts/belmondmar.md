@@ -1,13 +1,13 @@
 ---
 layout: hotel-layout
-title: Belmond Maroma
+title: Maroma, a Belmond Hotel
 location: Riviera Maya
 featured: false
 categories:
   - Riviera-Maya
 header_image: /images/hotels/belmond/belmond4.jpg
 ---
-## Belmond Maroma: A Timeless Escape in the Riviera Maya
+## Maroma, a Belmond Hotel: A Timeless Escape in the Riviera Maya
 
 &nbsp;
 

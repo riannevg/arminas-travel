@@ -73,8 +73,33 @@ team:
 
 {% include line.html %}
 
+<!-- Our team -->
+
+<section class="grid-spaceAround center padded-5 padded-t-0 padded-b-0">   
+  <div class="col-8"> 
+       <h1 class="margin-b-2">Our Team</h1>
+  </div>
+
+  <div class="padded-1 grid-spaceAround">
+
+      {% for person in page.team %}	
+    <div class="col-2_sm-6 padded-1">
+    <img src="{{person.profile_image}}" class="profile-image">
+          <h3>{{person.name}}</h3>
+          <p>{{person.department}}</p>     
+       </div>
+ 
+   {% endfor %}   
+  </div>
+
+</section>
+
+<!-- Line -->
+
+{% include line.html %}
+
 <!-- History -->
-<section class="grid-spaceAround center padded-5">   
+<section class="grid-spaceAround center padded-5 padded-t-0">   
 
     <section class="grid-spaceAround-middle center padded-5">
         <div class="col-5_sm-12">    
@@ -112,7 +137,7 @@ team:
 </section>
 
 <!-- Tradefairs -->
-<section class="grid-spaceAround padded-5">
+<section class="grid-spaceAround-middle padded-5">
   <div class="col-5_sm-12">
     <h3>Trade Fairs</h3>
     <p>These are the fairs were we regularly participate if you want to meet in person!</p>
@@ -135,7 +160,7 @@ team:
     </ul>
   </div>
 
-  <div class="col-5_sm-12">
+  <div class="col-5_sm-12-middle">
     <div class="bg-image bg-atm portrait"></div>
   </div>
 </section>
@@ -144,33 +169,11 @@ team:
 
 {% include line.html %}
 
-<!-- Our team -->
 
-<section class="grid-spaceAround center padded-5">   
-    <div class="col-8"> 
-         <h1 class="margin-b-2">Our Team</h1>
-    </div>
-
-    <div class="padded-1 grid-spaceAround">
-
-        {% for person in page.team %}	
-	    <div class="col-2_sm-6 padded-1">
-			<img src="{{person.profile_image}}" class="profile-image">
-            <h3>{{person.name}}</h3>
-            <p>{{person.department}}</p>     
-       	</div>
-   
-
-   	{% endfor %}
-
-   
-    </div>
-
-</section>
 
 <!-- Highlights -->
 
-<section class="grid-spaceAround center padded-5">   
+<section class="grid-spaceAround center padded-5 padded-t-0">   
   <div class="col-8_sm-12"> 
        <h1 class="margin-b-2">Highlights & Awards</h1>
   </div>
@@ -184,7 +187,7 @@ team:
           </ul>
       </div>  
       <div class="col-5_sm-12">
-          <div class="bg-image bg-calderon landscape"></div>
+          <div class="bg-image bg-tianguis landscape"></div>
       </div>
   </section>
 </section>
