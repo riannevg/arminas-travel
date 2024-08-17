@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mini Mexico Taxco
+tourlocations: Mexico City > Taxco > Mexico City
 featured: false
 categories:
   - Mexico-City-Tours

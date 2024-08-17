@@ -1,6 +1,7 @@
 ---
 layout: exc-layout
-title: Ek Balam 
+title: Ek Balam & Valladolid
+weight: 10
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions

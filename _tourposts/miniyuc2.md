@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mini Yucatan 2
+tourlocations: Cancun > Chichen Itza > Merida > Uxmal > Celestun > Coba > Riviera Maya
 featured: false
 categories:
   - Cancun-Tours

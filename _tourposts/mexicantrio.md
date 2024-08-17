@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mexican Trio
+tourlocations: Mexico City > Queretaro > Morelia > Guadalajara > Puerto Vallarta
 categories:
   - Mexico-City-Tours
 header_image: /images/destinations/vallarta/puertovallarta5.jpg

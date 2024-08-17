@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: In the footsteps of Cortes
+tourlocations: Mexico City > Costa Esmeralda > Veracruz > Catemaco > Villahermosa > Palenque > Chetumal > Riviera Maya
 featured: false
 categories:
   - Mexico-City-Tours

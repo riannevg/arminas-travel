@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mesoamerica
+tourlocations: Mexico City > Oaxaca > Tehuantepec > San Cristobal de las Casas > Atitlan > Flores > Palenque > Campeche > Cancun
 featured: false
 categories:
   - Mexico-City-Tours

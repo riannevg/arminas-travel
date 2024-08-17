@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mini Yucatan 3
+tourlocations: Cancun > Tulum > Coba > Chetumal > Palenque > Campeche > Chichen Itza > Riviera Maya
 featured: false
 categories:
   - Cancun-Tours

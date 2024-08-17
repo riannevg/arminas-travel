@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
-title: Los Cabos to the Copper Canyonn
+title: Los Cabos to the Copper Canyon
+tourlocations: Los Cabos > La Paz > El Fuerte > Divisadero > Creel > Chihuahua
 featured: false
 categories:
   - Los-Cabos-Tours

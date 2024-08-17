@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mini Yucatan 1
+tourlocations: Cancun > Coba > Merida > Chichen Itza > Ek Balam > Riviera Maya
 featured: false
 categories:
   - Cancun-Tours

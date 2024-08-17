@@ -1,6 +1,7 @@
 ---
 layout: exc-layout
-title: Coba
+title: Coba & Cenote
+weight: 11
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions

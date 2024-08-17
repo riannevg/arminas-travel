@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Luxury Mini Yucatan
+tourlocations: Cancun > Valladolid > Hacienda Xcanatun > Chable Yucatan > Riviera Maya
 featured: false
 categories:
   - Cancun-Tours

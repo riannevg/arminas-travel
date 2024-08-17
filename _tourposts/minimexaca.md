@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mini Mexico Acapulco
+tourlocations: Mexico City > Taxo > Cuernavaca > Acapulco > Mexico City
 featured: false
 categories:
   - Mexico-City-Tours

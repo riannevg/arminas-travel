@@ -1,6 +1,7 @@
 ---
 layout: exc-layout
 title: Museums of Mexico City
+weight: 3
 categories:
   - Mexico-City-Excursions
 header_image: /images/destinations/cdmx/cdmx15.jpg
@@ -11,13 +12,11 @@ header_image: /images/destinations/cdmx/cdmx15.jpg
 
 Explore the rich cultural and artistic heritage of Mexico City through its diverse museums. From pre-Hispanic treasures to modern masterpieces, these museums offer a deep dive into Mexico's artistic legacy.
 
-### The Museo Dolores Olmedo
+### Frida Kahlo Museum in Coyoacan, Mexico City
 
-Discover the **Museo Dolores Olmedo**, a treasure trove of Mexican art housed in a beautiful estate in Xochimilco.
+Step into the world of the iconic Mexican painter Frida Kahlo at her former home, known as the "Blue House." This charming residence, where Frida lived with her husband Diego Rivera from 1929 until her death in 1954, remains a time capsule of their lives. The museum preserves the rooms as they were during her lifetime, showcasing personal mementoes, artworks by Frida and Diego, and a collection of 18th and 19th-century Mexican art.
 
-- **History and Collection**: Established in 1994 by the businesswoman Dolores Olmedo, the museum showcases her impressive collection, including works by Frida Kahlo, Diego Rivera, and Angelina Beloff. The museum also features nearly 6,000 pre-Hispanic artifacts, as well as a variety of living animals such as Xoloitzcuintli dogs and peafowls in its gardens.
-
-- **Notable Highlights**: The museum's five-building complex holds up to 150 paintings, predominantly by Diego Rivera, and 25 works by Frida Kahlo, along with their scripts and drawings. The museum's collection is celebrated for its breadth and depth, reflecting Mexico's rich artistic and cultural history.
+Leon Trotsky, the exiled Russian revolutionary, also resided here briefly in 1937. The museum’s collection includes pre-Columbian artifacts and examples of Mexican folk art from Frida's personal collection.
 
 ### Museum of Modern Art
 

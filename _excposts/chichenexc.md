@@ -1,6 +1,7 @@
 ---
 layout: exc-layout
-title: Chichen Itza
+title: Chichen Itza & Valladolid
+weight: 9
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions

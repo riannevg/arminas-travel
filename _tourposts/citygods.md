@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: The City of Gods
+tourlocations: Mexico City > Veracruz > Palenque > Campeche > Merida > Cancun
 featured: false
 categories:
   - Mexico-City-Tours
@@ -18,7 +19,7 @@ slider_four_image: /images/destinations/yucatan/yucatan1.jpg
 
 This incredible tour begins with your arrival in Mexico City, one of the largest and most imposing metropolises in the world. You will be greeted by our staff who will take you to your hotel so you can relax and unwind after a long trip.
 
-### Day 2: Mexico City Tour – Teotihuacan – National Museum of Anthropology (10 Hours)
+### Day 2: Mexico City Tour – Teotihuacan – National Museum of Anthropology 
 
 It will be a day full of emotions, culture, and history as you tour beautiful and interesting places in Mexico City. You will visit the impressive Archaeological Zone of Teotihuacán and its wonderful pyramids, which will surely leave you awestruck by their grandeur. The tour continues with a visit to the emblematic National Museum of Anthropology, one of the most important museums in Mexico and America, boasting at least 22 permanent exhibition rooms. The museum's collection is made up of numerous archaeological and ethnographic pieces from all over Mexico, making it one of the largest museums on the continent.
 

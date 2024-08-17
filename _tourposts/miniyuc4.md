@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mini Yucatan 4
+tourlocations: Cancun > Ek Balam > Chichen Itza > Merida > Uxmal > Campeche > Palenque > Chetumal > Riviera Maya
 featured: false
 categories:
   - Cancun-Tours

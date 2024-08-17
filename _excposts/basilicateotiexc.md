@@ -1,6 +1,7 @@
 ---
 layout: exc-layout
 title: Basilica de Guadalupe and Teotihuacan
+weight: 2
 categories:
   - Mexico-City-Excursions
 header_image: /images/destinations/cdmx/cdmx6.jpg
