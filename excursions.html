@@ -5,7 +5,15 @@ header_image: /images/horizontal.jpg
 header_text: Your Gateway to Exclusive<br>Mexican Adventures
 ---
 
+<!-- TOURS LOOP Section -->
+<section class="grid-spaceAround center margin-t-2">
 
+    <div class="col-8 center">
+   <h2 class="margin-b-1">One-Day Excursions</h2>
+   <p>We offer a large variety of interesting one-day excursions in the main destinations around the country. </p>
+   <p>Below you can see a selection of what we can offer, but we are very flexible and can adapt to your needs and likings. </p>
+</div>
+    </section>
 
 <!-- Hotels grid -->
 <section class="grid-spaceAround-top center padded-5 blog">     
@@ -23,7 +31,7 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 
     <div class="col-10 grid">
     
-        {% for excpost in site.excposts %}
+        {% for excpost in site.excposts%}
             {% include exc-loop.html %}
         {% endfor %}
 
