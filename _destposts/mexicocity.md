@@ -118,13 +118,6 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/excursions/onedaymexexc">
-        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx11.jpg')">  </div>
-        <h3 class='center'>One day in Mexico City </h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/palacesexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx10.jpg')">  </div>
         <h3 class='center'>Palaces of Mexico City</h3>        
@@ -135,20 +128,6 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
     <a href="/excursions/pueblacholexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/puebla/puebla4.jpg')">  </div>
         <h3 class='center'>Puebla & Cholula Day Trip</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/excursions/soumayaexc">
-        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx4.jpg')">  </div>
-        <h3 class='center'>Mexico City tour and Soumaya Museum</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/excursions/teotihuacan">
-        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/teotihuacan.jpg')">  </div>
-        <h3 class='center'>Teotihuacan</h3>        
     </a>  
 </div>
 
