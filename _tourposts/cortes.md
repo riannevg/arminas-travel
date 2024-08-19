@@ -1,7 +1,9 @@
 ---
 layout: tour-layout
 title: In the footsteps of Cortes
-tourlocations: Mexico City > Costa Esmeralda > Veracruz > Catemaco > Villahermosa > Palenque > Chetumal > Riviera Maya
+tourlocations: >-
+  Mexico City > Costa Esmeralda > Veracruz > Catemaco > Villahermosa > Palenque
+  > Chetumal > Riviera Maya
 featured: false
 categories:
   - Mexico-City-Tours
@@ -13,7 +15,7 @@ slider_four_image: /images/destinations/bacalar/bacalar2.jpg
 ---
 ## In the footsteps of Cortes
 
-&nbsp;  
+&nbsp;
 
 ### Day 1: Arrival to Mexico City
 
@@ -22,6 +24,8 @@ Our staff will be waiting at the airport to take you to the comfort of your hote
 ### Day 2: Mexico City Tour – Teotihuacan – National Museum of Anthropology
 
 Mexico City is an impressive metropolis showcasing a unique blend of Indians, Mestizos, Creoles, and Europeans. The city is vibrant with emotions, colors, and spicy flavors. You will explore “The Zocalo,” the main national square, the ruins of the ancient Aztec city Tenochtitlan, and the National Palace. You’ll also see murals by Diego Rivera, depicting Mexico’s pre-Columbian history, colonial period, and Revolution. Visit the National Museum of Anthropology in Chapultepec Park to view archaeological treasures from pre-Hispanic civilizations, including the Toltec, Mexica, Aztec, Zapotec, Mixtec, Olmec, and Maya. Admire the Aztec Calendar Stone before traveling to Teotihuacan, Mexico’s largest archaeological site. Teotihuacan, the sixth largest city in the world in 400 A.D., was mysteriously abandoned 300 years later. Explore the Jaguar Palace, the Pyramids of the Sun and Moon, and the Avenue of the Dead. Return to your hotel.
+
+![](/images/destinations/cdmx/cdmx13.jpg)
 
 ### Day 3: Coyoacan – Frida Kahlo Museum – Xochimilco
 
@@ -35,6 +39,8 @@ Depart for Tajin, a pre-Columbian archaeological site of Totonac origin, famousl
 
 Travel from Costa Esmeralda to the archaeological site of Cempoala, where Hernán Cortés’s ships first landed, marking the beginning of the conquest of Mexico. Explore Quiahuiztlán, a site featured in the film “Apocalypto.” End the day in Veracruz, a historic port city founded in the 16th century. Overnight in Veracruz.
 
+![](/images/destinations/veracruz/veracruz4.jpg)
+
 ### Day 6: Veracruz – Cigar Factory – Eyipantla Falls – Catemaco
 
 Visit TE AMO, a popular cigar factory, to experience Mexican cigars, which some experts consider superior to Cuban ones. Next, visit Eyipantla Falls, featured in “Apocalypto.” Continue to Catemaco, known as the city of shamans and wizards. Overnight in Catemaco.
@@ -46,6 +52,8 @@ Explore Catemaco, located on the shores of a lake surrounded by lush jungle. Vis
 ### Day 8: Villahermosa – Palenque – Misol Ha – Palenque
 
 Travel from Villahermosa to Palenque, a “Magic Town” and paradise for archaeology and nature enthusiasts. Visit the famous archaeological site of Palenque, featuring ancient Mayan ruins such as the Temple of the Sun, Temple of the Cross, and Temple of the Inscriptions, including the tomb of Pakal II. Also visit Misol Ha waterfall. Palenque has been a UNESCO World Heritage site since 1987. Return to your hotel in Palenque.
+
+![](/images/destinations/palenque/palenque8.jpg)
 
 ### Day 9: Palenque – Bonampak – Welib Ha Waterfall – Palenque
 
@@ -59,9 +67,9 @@ Depart early for Kohunlich, a significant Mayan city and ceremonial center locat
 
 Explore Bacalar, a “Magic Town” known for its stunning lagoon with seven shades of blue. Ideal for diving, swimming, and snorkeling, Bacalar was founded by the Mayans in 415 D.C. and is the gateway to the Cenote Azul and interesting archaeological sites. Transfer to your hotel in Cancun or Riviera Maya. Riviera Maya, stretching from Cancun to Tulum, offers beautiful Caribbean beaches, turquoise waters, and a fresh ocean breeze. It is the jewel of the Mexican Caribbean.
 
-<div class='map-container'>
+<div class="map-container">
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16TzCEJyfENjzn9FgXuv_YPGCzUGXQkE&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16TzCEJyfENjzn9FgXuv_YPGCzUGXQkE&amp;ehbc=2E312F&amp;noprof=1" width="800" height="500"></iframe>
 
 </div>
 

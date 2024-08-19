@@ -23,7 +23,7 @@ This incredible tour begins with your arrival in Mexico City, one of the largest
 
 It will be a day full of emotions, culture, and history as you tour beautiful and interesting places in Mexico City. You will visit the impressive Archaeological Zone of Teotihuacán and its wonderful pyramids, which will surely leave you awestruck by their grandeur. The tour continues with a visit to the emblematic National Museum of Anthropology, one of the most important museums in Mexico and America, boasting at least 22 permanent exhibition rooms. The museum’s collection is made up of numerous archaeological and ethnographic pieces from all over Mexico, making it one of the largest museums on the continent.
 
-&nbsp;
+![](/images/destinations/cdmx/teotihuacan.jpg)&nbsp;
 
 ### Day 3: Mexico City – Puebla – Veracruz
 
@@ -37,6 +37,8 @@ From Veracruz, the trip continues to Villahermosa, in Southeast Mexico, home to 
 
 Today, you will visit the impressive Archaeological Zone of Palenque, a UNESCO World Heritage site since 1987, and a very important location belonging to the Mayan culture. The tour also includes a visit to Yaxchilan, another significant ancient city of the Mayan Culture, located on the banks of the Usumacinta River, both in the state of Chiapas. Return to Palenque for the night.
 
+![](/images/destinations/palenque/palenque8.jpg)
+
 ### Day 6: Palenque – Campeche
 
 From Palenque, travel to the beautiful colonial city of Campeche, located on the Gulf of Mexico in the Yucatan Peninsula. Campeche is a walled city with colonial architecture, featuring the spectacular Fort San Miguel, where the Anthropology Museum of Campeche is located.
@@ -44,6 +46,8 @@ From Palenque, travel to the beautiful colonial city of Campeche, located on the
 ### Day 7: Campeche – Uxmal – Merida
 
 Depart from Campeche to Uxmal, another ancient Mayan city in the state of Yucatan, a UNESCO World Heritage site since 1986. Uxmal is home to a very important Archaeological Zone representative of the Puuc culture. The day concludes in Merida, known as the Ciudad Blanca and the capital of Yucatan.
+
+![](/images/destinations/yucatan/yucatan9.jpg)
 
 ### Day 8: Merida – Chichen Itza – Ek Balam – Cancun
 

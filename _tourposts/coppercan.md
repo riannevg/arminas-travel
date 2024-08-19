@@ -1,7 +1,9 @@
 ---
 layout: tour-layout
 title: Large Copper Canyon
-tourlocations: Chihuahua > Creel > Divisadero > Cerocahui > Urique Canyon > El Fuerte > Los Mochis
+tourlocations: >-
+  Chihuahua > Creel > Divisadero > Cerocahui > Urique Canyon > El Fuerte > Los
+  Mochis
 featured: false
 categories:
   - Chihuahua-Tours
@@ -13,7 +15,7 @@ slider_four_image: /images/destinations/chihuahua/chihuahua4.jpg
 ---
 ## Large Copper Canyon
 
-&nbsp;  
+&nbsp;
 
 ### Day 1: Arrival to Chihuahua
 
@@ -21,7 +23,9 @@ Transfer to the hotel. In the afternoon, enjoy a tour of the beautiful city of C
 
 ### Day 2: Chihuahua - Mennonites Community - Creel
 
-Meet at the hotel and start your journey to Creel, one of Mexico's most beautiful “Magic Towns.” The tour continues in Cuauhtemoc, home to one of the largest Mennonite communities. Mennonites are a Protestant group with similarities to Baptists. Explore their houses and sample delicious cheese, freshly baked bread, various jams, cookies, and apple pies—all made by these industrious people. Arrive in Creel and in the afternoon, visit the Cusarare Waterfalls, which includes a 30-minute walk through a beautiful valley.
+Meet at the hotel and start your journey to Creel, one of Mexico’s most beautiful “Magic Towns.” The tour continues in Cuauhtemoc, home to one of the largest Mennonite communities. Mennonites are a Protestant group with similarities to Baptists. Explore their houses and sample delicious cheese, freshly baked bread, various jams, cookies, and apple pies—all made by these industrious people. Arrive in Creel and in the afternoon, visit the Cusarare Waterfalls, which includes a 30-minute walk through a beautiful valley.
+
+![](/images/destinations/chihuahua/chihuahua6.jpg)
 
 ### Day 3: Creel - Aventura Park – Divisadero
 
@@ -30,6 +34,8 @@ After breakfast, visit Arareko Lake and the Monks and Frogs Valleys, and explore
 ### Day 4: Divisadero - Bahuichivo – Cerocahui
 
 Enjoy breakfast and spend a pleasant morning at the hotel, taking in the natural beauty around you. Transfer to the train station for your trip to Bahuichivo. Upon arrival, transfer to Cerocahui to check in at your hotel. In the afternoon, visit local vineyards to taste the best wines of the region and pass by the Jesuit mission.
+
+![](/images/destinations/chihuahua/chihuahua8.jpg)
 
 ### Day 5: Urique Canyon
 
@@ -43,10 +49,9 @@ Transfer to Bahuichivo’s railway station and continue to El Fuerte in the Stat
 
 In the morning, consider a visit to the El Fuerte River to experience the diverse wildlife of the region, especially the variety of bird species. The river is peaceful and ideal for families. Transfer to Los Mochis Airport (about 2 hours).
 
+<div class="map-container">
 
-<div class='map-container'>
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=18Ryp4o3nvhugxRHnaC2ZwKxq7ir3WPE&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=18Ryp4o3nvhugxRHnaC2ZwKxq7ir3WPE&amp;ehbc=2E312F&amp;noprof=1" width="800" height="500"></iframe>
 
 </div>
 
