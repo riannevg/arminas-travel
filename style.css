@@ -416,6 +416,10 @@ header nav a{
     text-transform:uppercase;
 }
 
+a.social{
+    margin:0;
+}
+
 header nav a:hover{
     border-bottom:2px solid #DEEDF6;    
 }
