@@ -13,15 +13,17 @@ slider_four_image: /images/destinations/yucatan/yucatan1.jpg
 ---
 ## City of Gods
 
-&nbsp;  
+&nbsp;
 
 ### Day 1: Arrival to Mexico City - Tour Starts from Transfer from Mexico City Airport to the Hotel (30-40 min)
 
 This incredible tour begins with your arrival in Mexico City, one of the largest and most imposing metropolises in the world. You will be greeted by our staff who will take you to your hotel so you can relax and unwind after a long trip.
 
-### Day 2: Mexico City Tour – Teotihuacan – National Museum of Anthropology 
+### Day 2: Mexico City Tour – Teotihuacan – National Museum of Anthropology
 
-It will be a day full of emotions, culture, and history as you tour beautiful and interesting places in Mexico City. You will visit the impressive Archaeological Zone of Teotihuacán and its wonderful pyramids, which will surely leave you awestruck by their grandeur. The tour continues with a visit to the emblematic National Museum of Anthropology, one of the most important museums in Mexico and America, boasting at least 22 permanent exhibition rooms. The museum's collection is made up of numerous archaeological and ethnographic pieces from all over Mexico, making it one of the largest museums on the continent.
+It will be a day full of emotions, culture, and history as you tour beautiful and interesting places in Mexico City. You will visit the impressive Archaeological Zone of Teotihuacán and its wonderful pyramids, which will surely leave you awestruck by their grandeur. The tour continues with a visit to the emblematic National Museum of Anthropology, one of the most important museums in Mexico and America, boasting at least 22 permanent exhibition rooms. The museum’s collection is made up of numerous archaeological and ethnographic pieces from all over Mexico, making it one of the largest museums on the continent.
+
+&nbsp;
 
 ### Day 3: Mexico City – Puebla – Veracruz
 
@@ -47,10 +49,9 @@ Depart from Campeche to Uxmal, another ancient Mayan city in the state of Yucata
 
 This day features a visit to the Archaeological Zone of Chichen Itza, a very famous Mayan ruins complex with magnificent and enigmatic structures. The site includes the amazing Pyramid of Kukulkan, one of the 7 wonders of the modern world, also known as El Castillo, a huge stepped pyramid dominating the approximately 6.5 square kilometers of this ancient Mayan city. Other spectacular structures include the Ball Court and the Temple of Warriors. The tour continues with a visit to the also fascinating Archaeological Zone of Ek Balam, and concludes with your arrival in Cancun, known worldwide for its beautiful turquoise blue beaches.
 
+<div class="map-container">
 
-<div class='map-container'>
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1D8tHRZ1awBcvFckbw29dfcGPo-sTnj0&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1D8tHRZ1awBcvFckbw29dfcGPo-sTnj0&amp;ehbc=2E312F&amp;noprof=1" width="800" height="500"></iframe>
 
 </div>
 
