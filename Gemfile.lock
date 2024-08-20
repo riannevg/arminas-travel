@@ -64,12 +64,8 @@ GEM
 
 PLATFORMS
   aarch64-linux
-  aarch64-mingw-ucrt
   arm64-darwin
   ruby
-  x86-cygwin
-  x86-mingw-ucrt
-  x86_64-cygwin
   x86_64-darwin
 
 DEPENDENCIES
@@ -78,4 +74,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.3.8
+   2.5.16
