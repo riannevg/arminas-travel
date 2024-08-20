@@ -6,6 +6,7 @@ featured: false
 categories:
   - Riviera-Maya
 header_image: /images/hotels/palmaia/palmaia3.jpg
+position: photo-center
 ---
 ## Palmaia The House of Aia: The House of Aia: Eco-Luxury with a Holistic Approach
 

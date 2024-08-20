@@ -7,6 +7,7 @@ categories:
   - Puerto-Vallarta
   - Punta-Mita
 header_image: /images/hotels/onemandarina/onemandarina1.webp
+position: photo-center
 ---
 ## One&Only Mandarina: Ultra-Luxury in a Pristine Natural Setting
 

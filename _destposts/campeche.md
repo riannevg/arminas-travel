@@ -5,6 +5,7 @@ featured: false
 categories:
   - Campeche
 header_image: /images/destinations/campeche/campeche.jpg
+position: photo-center
 ---
 # **Campeche: A Journey Through Time and Tradition**
 

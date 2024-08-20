@@ -12,6 +12,7 @@ slider_one_image: /images/destinations/palenque/palenque10.jpg
 slider_two_image: /images/destinations/cdmx/cdmx.jpg
 slider_three_image: /images/destinations/cdmx/teotihuacan2.jpg
 slider_four_image: /images/destinations/yucatan/chichen.jpg
+position: photo-center
 ---
 ## Meso America
 

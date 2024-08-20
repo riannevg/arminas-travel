@@ -6,6 +6,7 @@ featured: false
 categories:
   - San-Miguel
 header_image: /images/hotels/liveaquasma/liveaquasma1.jpg
+position: photo-center
 ---
 ## Live Aqua San Miguel de Allende: Sophisticated Sanctuary in a Historic Gem
 

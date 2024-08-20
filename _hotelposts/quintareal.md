@@ -6,6 +6,7 @@ featured: false
 categories:
   - Oaxaca
 header_image: /images/hotels/quintareal/quintareal2.jpg
+position: photo-center
 ---
 ## Quinta Real Oaxaca: Colonial Elegance in the Heart of Oaxaca
 

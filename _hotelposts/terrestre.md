@@ -6,6 +6,7 @@ featured: false
 categories:
   - Puerto-Escondido
 header_image: /images/hotels/terrestre/terrestre2.png
+position: photo-center
 ---
 ## Terrestre Puerto Escondido: Chic Retreat with a Focus on Sustainability
 

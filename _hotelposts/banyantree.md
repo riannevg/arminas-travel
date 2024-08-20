@@ -6,6 +6,7 @@ featured: false
 categories:
   - Riviera-Maya
 header_image: /images/hotels/banyanmyk/banyanmyk3.webp
+position: photo-center
 ---
 ## Banyan Tree Mayakoba: A Sanctuary of Luxury in the Riviera Maya
 

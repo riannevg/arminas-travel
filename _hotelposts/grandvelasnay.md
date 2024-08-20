@@ -8,6 +8,7 @@ categories:
   - Puerto-Vallarta
   - Punta-Mita
 header_image: /images/hotels/velasnayarit/velasnayarit5.jpg
+position: photo-center
 ---
 ## Grand Velas Nayarit: Unparalleled Luxury on the Riviera Nayarit
 

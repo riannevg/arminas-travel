@@ -5,6 +5,7 @@ featured: false
 categories:
   - Oaxaca
 header_image: /images/destinations/oaxaca/oaxaca12.jpg
+position: photo-center
 ---
 # **Oaxaca: A Cultural and Culinary Paradise**
 

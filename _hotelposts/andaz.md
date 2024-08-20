@@ -6,6 +6,7 @@ featured: false
 categories:
   - Riviera-Maya
 header_image: /images/hotels/andazmyk/andazmyk8.webp
+position: photo-center
 ---
 ## Andaz Mayakoba: A Contemporary Oasis in the Riviera Maya
 

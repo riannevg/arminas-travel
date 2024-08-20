@@ -6,6 +6,7 @@ categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
 header_image: /images/destinations/cancun/coba.jpg
+position: photo-center
 ---
 ## Ancient Coba & Cultural Immersion
  &nbsp; 

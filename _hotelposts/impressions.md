@@ -6,6 +6,7 @@ featured: false
 categories:
   - Cancun
 header_image: /images/hotels/impressions/impressions1.webp
+position: photo-center
 ---
 ## Impression Isla Mujeres  
 &nbsp;  

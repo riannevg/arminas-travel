@@ -6,6 +6,7 @@ featured: true
 categories:
   - Cancun
 header_image: /images/hotels/nizuc/nizuc1.jpg
+position: photo-center
 ---
 ## Nizuc Resort & Spa: Luxury Retreat with Exclusive Elegance
 

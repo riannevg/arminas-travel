@@ -12,6 +12,7 @@ slider_one_image: /images/destinations/chihuahua/chihuahua1.jpg
 slider_two_image: /images/destinations/chihuahua/chihuahua3.jpg
 slider_three_image: /images/destinations/chihuahua/chihuahua5.jpg
 slider_four_image: /images/destinations/chihuahua/chihuahua.jpg
+position: photo-center
 ---
 ## Large Copper Canyon
 

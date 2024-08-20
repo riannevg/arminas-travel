@@ -6,6 +6,7 @@ featured: false
 categories:
   - Puerto-Escondido
 header_image: /images/hotels/rockaway/rockaway1.jpg
+position: photo-center
 ---
 ## Rockaway Puerto Escondido: Vibrant Surf Retreat with Coastal Charm
 

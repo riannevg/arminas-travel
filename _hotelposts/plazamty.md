@@ -6,6 +6,7 @@ featured: false
 categories:
   - Monterrey
 header_image: /images/hotels/galeriamty/galeriamty1.png
+position: photo-center
 ---
 ## Galeria Plaza Monterrey: Modern Comfort in the Heart of Monterrey
 

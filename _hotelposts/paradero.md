@@ -7,6 +7,7 @@ categories:
   - Todos-Santos
   - La-Paz
 header_image: /images/hotels/paradero/paradero3.jpeg
+position: photo-center
 ---
 ## Paradero Todos Santos: Boutique Elegance in a Tranquil Setting
 

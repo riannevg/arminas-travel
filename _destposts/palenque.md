@@ -5,6 +5,7 @@ featured: false
 categories:
   - Palenque
 header_image: /images/destinations/palenque/palenque9.jpg
+position: photo-center
 ---
 # **Palenque: A Mystical Journey into Ancient Maya Civilization**
 

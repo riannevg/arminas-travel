@@ -6,6 +6,7 @@ featured: false
 categories:
   - Tulum
 header_image: /images/hotels/casamalca/casamalca5.png
+position: photo-center
 ---
 ## Casa Malca: An Artistic Retreat on Tulum’s Stunning Coastline
 

@@ -7,6 +7,7 @@ categories:
   - Puerto-Vallarta
   - Punta-Mita
 header_image: /images/hotels/susurros/susurros4.jpg
+position: photo-center
 ---
 ## Susurros del Corazón: Exclusive Coastal Escape with Breathtaking Views
 

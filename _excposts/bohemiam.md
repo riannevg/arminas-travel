@@ -6,6 +6,7 @@ categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
 header_image: /images/destinations/cancun/bohemian.jpg
+position: photo-center
 ---
 ## Bohemian Tulum
 &nbsp; 

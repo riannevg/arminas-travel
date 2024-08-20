@@ -10,6 +10,7 @@ slider_one_image: /images/destinations/acapulco/acapulco.jpg
 slider_two_image: /images/destinations/cdmx/teotihuacan2.jpg
 slider_three_image: /images/destinations/acapulco/acapulco5.jpg
 slider_four_image: /images/destinations/acapulco/acapulco4.jpg
+position: photo-center
 ---
 ## Mini Mexico Acapulco
 

@@ -6,6 +6,7 @@ featured: false
 categories:
   - Cancun
 header_image: /images/hotels/kempinski/kempinski3.webp
+position: photo-center
 ---
 ## Kempinski Cancun: Elegant Luxury with Stunning Ocean Views
 

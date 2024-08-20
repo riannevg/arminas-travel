@@ -5,6 +5,7 @@ categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
 header_image: /images/destinations/cancun/cancun1.jpg
+position: photo-center
 ---
 ## Garrafon Parque
 

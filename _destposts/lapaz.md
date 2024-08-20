@@ -5,6 +5,7 @@ featured: true
 categories:
   - La-Paz
 header_image: /images/destinations/lapaz/lapaz8.jpg
+position: photo-center
 ---
 # **La Paz: The Pearl of the Sea of Cortez**
 

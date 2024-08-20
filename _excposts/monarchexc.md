@@ -5,6 +5,7 @@ weight: 8
 categories:
   - Mexico-City-Excursions
 header_image: /images/destinations/cdmx/cdmx14.jpg
+position: photo-center
 ---
 ## Monarch Butterfly Reserve
 

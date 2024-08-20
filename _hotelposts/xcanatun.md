@@ -7,6 +7,7 @@ categories:
   - Merida
   - Yucatan
 header_image: /images/hotels/xcanatun/xcanatun3.webp
+position: photo-center
 ---
 ## Xcanatun: Historic Elegance in a Serene Hacienda Setting
 

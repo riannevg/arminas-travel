@@ -9,6 +9,7 @@ slider_one_image: /images/destinations/vallarta/puertovallarta5.jpg
 slider_two_image: /images/destinations/guadalajara/guadalajara2.jpg
 slider_three_image: /images/destinations/morelia/morelia2.jpg
 slider_four_image: /images/destinations/vallarta/puertovallarta6.jpg
+position: photo-center
 ---
 ## Mexican Trio
 

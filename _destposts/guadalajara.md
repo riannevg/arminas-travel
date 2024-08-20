@@ -4,7 +4,8 @@ name: Guadalajara
 featured: false
 categories:
   - Guadalajara
-header_image: /images/destinations/guadalajara/guadalajara8.jpg
+header_image: /images/dance.jpg
+position: photo-center
 ---
 # **Guadalajara: The Heartbeat of Mexican Culture**
 

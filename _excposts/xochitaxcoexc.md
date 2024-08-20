@@ -5,6 +5,7 @@ weight: 5
 categories:
   - Mexico-City-Excursions
 header_image: /images/destinations/cdmx/taxco.jpg
+position: photo-center
 ---
 ## Xochicalco and Taxco
 

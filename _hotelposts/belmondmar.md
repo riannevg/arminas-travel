@@ -6,6 +6,7 @@ featured: false
 categories:
   - Riviera-Maya
 header_image: /images/hotels/belmond/belmond4.jpg
+position: photo-center
 ---
 ## Maroma, a Belmond Hotel: A Timeless Escape in the Riviera Maya
 

@@ -6,6 +6,7 @@ featured: false
 categories:
   - Palenque
 header_image: /images/hotels/ciudadreal/ciudadreal2.jpg
+position: photo-center
 ---
 ## Hotel Ciudad Real: A Comfortable Gateway to Palenque’s Wonders
 

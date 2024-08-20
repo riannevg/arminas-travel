@@ -5,6 +5,7 @@ weight: 6
 categories:
   - Mexico-City-Excursions
 header_image: /images/destinations/puebla/puebla4.jpg
+position: photo-center
 ---
 ## Puebla & Cholula Day Trip
 

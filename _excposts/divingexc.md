@@ -5,6 +5,7 @@ categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
 header_image: /images/destinations/cancun/cancun6.jpg
+position: photo-center
 ---
 ## Diving in Cancun
 

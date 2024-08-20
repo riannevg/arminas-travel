@@ -5,6 +5,7 @@ featured: false
 categories:
   - San-Miguel-de-Allende
 header_image: /images/destinations/sanmiguel/sanmiguel8.jpg
+position: photo-center
 ---
 # **San Miguel de Allende: A Colonial Jewel of Art and Culture**
 

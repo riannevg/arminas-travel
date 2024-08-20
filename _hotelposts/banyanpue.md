@@ -6,6 +6,7 @@ featured: false
 categories:
   - Puebla
 header_image: /images/hotels/banyanpuebla/banyanpue4.webp
+position: photo-center
 ---
 ## Banyan Tree Puebla: A Historic Haven in the Heart of the City
 

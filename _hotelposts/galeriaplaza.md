@@ -6,6 +6,7 @@ featured: false
 categories:
   - Mexico-City
 header_image: /images/hotels/galeriaplaza/galeriaplaza1.png
+position: photo-center
 ---
 ## Galería Plaza México City: Modern Comfort in a Central Location
 

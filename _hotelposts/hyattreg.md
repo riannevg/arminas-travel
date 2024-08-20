@@ -6,6 +6,7 @@ featured: false
 categories:
   - Guadalajara
 header_image: /images/hotels/hyattgdl/hyattgdl5.webp
+position: photo-center
 ---
 ## Hyatt Regency Guadalajara: Modern Comfort in the Heart of the City
 

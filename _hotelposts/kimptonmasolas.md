@@ -7,6 +7,7 @@ categories:
   - Todos-Santos
   - La-Paz
 header_image: /images/hotels/kimptonmasolas/kimptonmasolas3.jpeg
+position: photo-center
 ---
 ## Kimpton Mas Olas: Chic Retreat with a Beachfront Flair
 

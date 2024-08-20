@@ -6,6 +6,7 @@ featured: false
 categories:
   - Morelia
 header_image: /images/hotels/soledad/soledad1.jpg
+position: photo-center
 ---
 ## Hotel Soledad Morelia: Elegant Retreat with Historical Charm
 

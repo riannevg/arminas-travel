@@ -6,6 +6,7 @@ featured: false
 categories:
   - Campeche
 header_image: /images/hotels/casagustavo/casagustavo4.jpg
+position: photo-center
 ---
 ## Hotel Gustavo Campeche: A Charming Stay in Historic Campeche
 

@@ -6,6 +6,7 @@ featured: false
 categories:
   - Palenque
 header_image: /images/hotels/quintachan/quintachan1.jpg
+position: photo-center
 ---
 ## Chanabnal: A Serene Retreat Amidst Palenque’s Natural Beauty
 

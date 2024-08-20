@@ -6,6 +6,7 @@ featured: false
 categories:
   - Chihuahua
 header_image: /images/hotels/soberano/soberano4.webp
+position: photo-center
 ---
 ## Sheraton Chihuahua: Comfort and Convenience in the Heart of Chihuahua
 

@@ -6,6 +6,7 @@ categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
 header_image: /images/destinations/yucatan/yucatan2.jpg
+position: photo-center
 ---
 ## Chichen Itza  
 &nbsp;  

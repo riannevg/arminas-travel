@@ -5,6 +5,7 @@ featured: false
 categories:
   - Los-Cabos
 header_image: /images/destinations/loscabos/loscabos11.jpg
+position: photo-center
 ---
 # **Los Cabos: Where the Desert Meets the Sea**
 

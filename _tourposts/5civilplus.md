@@ -12,6 +12,7 @@ slider_one_image: /images/destinations/cdmx/cdmx18.jpg
 slider_two_image: /images/destinations/merida/merida10.jpg
 slider_three_image: /images/destinations/cdmx/teotihuacan.jpg
 slider_four_image: /images/destinations/acapulco/acapulco.jpg
+position: photo-center
 ---
 ## Five Civilazations Plus
 

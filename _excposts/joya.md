@@ -6,6 +6,7 @@ categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
 header_image: /images/destinations/cancun/joya.webp
+position: photo-center
 ---
 
 ## Cirque du Soleil Joyá

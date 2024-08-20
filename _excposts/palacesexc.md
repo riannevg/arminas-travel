@@ -5,6 +5,7 @@ weight: 7
 categories:
   - Mexico-City-Excursions
 header_image: /images/destinations/cdmx/cdmx10.jpg
+position: photo-center
 ---
 ## Palaces of Mexico City
 

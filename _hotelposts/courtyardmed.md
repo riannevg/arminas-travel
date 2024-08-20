@@ -7,6 +7,7 @@ categories:
   - Merida
   - Yucatan
 header_image: /images/hotels/courtyardmerida/courtyardmer1.jpg
+position: photo-center
 ---
 ## Courtyard Mérida: A Modern Haven in the Heart of Yucatán
 

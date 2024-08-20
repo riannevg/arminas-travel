@@ -6,6 +6,7 @@ featured: false
 categories:
   - Bacalar
 header_image: /images/hotels/casabakal/casabakal2.webp
+position: photo-center
 ---
 ## Casa Bakal: A Charming Boutique Retreat on Bacalar’s Lagoon
 

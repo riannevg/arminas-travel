@@ -5,6 +5,7 @@ weight: 3
 categories:
   - Mexico-City-Excursions
 header_image: /images/destinations/cdmx/cdmx15.jpg
+position: photo-center
 ---
 ## Museums of Mexico City
 

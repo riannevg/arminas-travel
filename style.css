@@ -145,14 +145,16 @@ li{
 .square{padding-bottom:100%;}
 .landscape{padding-bottom:66%;}
 
-
 .bg-image{
     background-image:url('/images/horizontal.jpg');    
     background-size:cover;
-    background-position:center;
     background-color:lightskyblue;
     background-repeat:no-repeat;    
 }
+
+.photo-top { background-position: top; }
+.photo-bottom { background-position: bottom; }
+.photo-center {background-position:center;}
 
 .bg-cdmx{
     background-image:url('/images/destinations/cdmx/cdmx.jpg')
@@ -430,8 +432,7 @@ a.button:hover{
 
 .bg-header{
     background-image:url('/images/horizontal.jpg');    
-    background-size:cover;
-    background-position:center;
+    background-size:cover;  
     background-color:lightskyblue;
     background-repeat:no-repeat;
     position:relative;

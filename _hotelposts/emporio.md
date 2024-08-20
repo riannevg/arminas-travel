@@ -6,6 +6,7 @@ featured: false
 categories:
   - Veracruz
 header_image: /images/hotels/emporio/emporio3.jpg
+position: photo-center
 ---
 ## Emporio Veracruz: A Sophisticated Stay on the Gulf Coast
 

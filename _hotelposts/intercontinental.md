@@ -6,6 +6,7 @@ featured: false
 categories:
   - Cancun
 header_image: /images/hotels/interconcancun/interconcancun1.webp
+position: photo-center
 ---
 ## Presidente InterContinental Cancun: Sophisticated Luxury on the Cancun Strip
 

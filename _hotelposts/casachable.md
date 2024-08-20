@@ -6,6 +6,7 @@ featured: false
 categories:
   - Tulum
 header_image: /images/hotels/chablecasa/chablecasa5.jpeg
+position: photo-center
 ---
 ## Casa Chablé: An Exclusive Retreat in Sian Ka'an Biosphere Reserve
 

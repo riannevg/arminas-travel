@@ -11,6 +11,7 @@ slider_one_image: /images/destinations/yucatan/chichen.jpg
 slider_two_image: /images/destinations/yucatan/yucatan.jpg
 slider_three_image: /images/destinations/merida/merida14.jpg
 slider_four_image: /images/destinations/merida/merida11.jpg
+position: photo-center
 ---
 ## Mini Yucatan 1
 

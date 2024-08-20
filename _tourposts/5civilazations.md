@@ -12,6 +12,7 @@ slider_one_image: /images/destinations/puebla/cholula.jpg
 slider_two_image: /images/destinations/oaxaca/oaxaca12.jpg
 slider_three_image: /images/destinations/palenque/palenque9.jpg
 slider_four_image: /images/destinations/yucatan/yucatan.jpg
+position: photo-center
 ---
 ## Five Civilizations
 

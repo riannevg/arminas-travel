@@ -12,6 +12,7 @@ slider_one_image: /images/destinations/cdmx/teotihuacan.jpg
 slider_two_image: /images/destinations/bacalar/bacalar.jpg
 slider_three_image: /images/destinations/veracruz/veracruz5.jpg
 slider_four_image: /images/destinations/palenque/palenque9.jpg
+position: photo-center
 ---
 ## In the footsteps of Cortes
 

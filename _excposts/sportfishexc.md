@@ -4,6 +4,7 @@ title: Sport Fishing
 categories:
   - Los-Cabos-Excursions
 header_image: /images/destinations/loscabos/loscabos2.jpg
+position: photo-center
 ---
 ## Sport Fishing Los Cabos
 

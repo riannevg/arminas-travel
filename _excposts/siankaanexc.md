@@ -5,6 +5,7 @@ categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
 header_image: /images/hotels/chablecasa/chablecasa1.jpeg
+position: photo-center
 ---
 ## Sian Ka’an
 

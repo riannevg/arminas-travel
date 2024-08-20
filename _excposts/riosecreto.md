@@ -5,6 +5,7 @@ categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
 header_image: /images/destinations/rivieramaya/riosecreto.jpg
+position: photo-center
 ---
 ## Río Secreto
 

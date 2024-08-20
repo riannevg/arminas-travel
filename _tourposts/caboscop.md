@@ -10,6 +10,7 @@ slider_one_image: /images/destinations/loscabos/loscabos11.jpg
 slider_two_image: /images/destinations/chihuahua/chihuahua1.jpg
 slider_three_image: /images/destinations/chihuahua/chihuahua5.jpg
 slider_four_image: /images/destinations/chihuahua/chihuahua7.jpg
+position: photo-center
 ---
 ## Los Cabos to the Copper Canyon
 

@@ -5,6 +5,7 @@ categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
 header_image: /images/destinations/cancun/cancun3.jpg
+position: photo-center
 ---
 ## Isla Contoy  
 &nbsp;  

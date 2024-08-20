@@ -6,6 +6,7 @@ featured: false
 categories:
   - Tulum-Maya
 header_image: /images/hotels/nomade/nomade1.jpg
+position: photo-center
 ---
 ## Nomade Tulum  
 &nbsp;

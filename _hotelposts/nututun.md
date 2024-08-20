@@ -6,6 +6,7 @@ featured: false
 categories:
   - Palenque
 header_image: /images/hotels/nututun/nututun1.jpg
+position: photo-center
 ---
 ## Nututun Palenque: Tranquil Oasis Near Ancient Ruins
 

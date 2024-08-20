@@ -5,6 +5,7 @@ featured: false
 categories:
   - Monterrey
 header_image: /images/destinations/monterrey/monterrey4.jpg
+position: photo-center
 ---
 # **Monterrey: The Industrial Heart of Northern Mexico**
 

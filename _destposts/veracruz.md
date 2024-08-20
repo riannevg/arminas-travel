@@ -5,6 +5,7 @@ featured: false
 categories:
   - Veracruz
 header_image: /images/destinations/veracruz/veracruz.jpg
+position: photo-center
 ---
 # **Veracruz: A Coastal Gem of History, Culture, and Vibrant Festivities**
 

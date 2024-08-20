@@ -5,6 +5,7 @@ featured: false
 categories:
   - Bacalar
 header_image: /images/destinations/bacalar/bacalar5.jpg
+position: photo-center
 ---
 # **Bacalar: The Lagoon of Seven Colors**
 

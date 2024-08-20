@@ -6,6 +6,7 @@ featured: false
 categories:
   - Los-Cabos
 header_image: /images/hotels/mecabo/mecabo1.jpg
+position: photo-center
 ---
 ## ME Cabo: Trendy Retreat with a Vibrant Vibe
 

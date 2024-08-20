@@ -5,6 +5,7 @@ featured: false
 categories:
   - Chihuahua
 header_image: /images/destinations/chihuahua/chihuahua.jpg
+position: photo-center
 ---
 # **Chihuahua: Where Heritage Meets Adventure**
 

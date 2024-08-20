@@ -5,6 +5,7 @@ weight: 2
 categories:
   - Mexico-City-Excursions
 header_image: /images/destinations/cdmx/cdmx6.jpg
+position: photo-center
 ---
 ## Basilica de Guadalupe and Teotihuacan  
 &nbsp;  

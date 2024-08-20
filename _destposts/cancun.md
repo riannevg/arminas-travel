@@ -5,6 +5,7 @@ featured: false
 categories:
   - Cancun
 header_image: /images/destinations/cancun/cancun14.jpg
+position: photo-center
 ---
 # **Cancun: Paradise Found on Mexico's Caribbean Coast**
 

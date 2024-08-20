@@ -6,6 +6,7 @@ featured: false
 categories:
   - Tulum-Maya
 header_image: /images/hotels/betulum/betulum1.jpg
+position: photo-center
 ---
 ## Be Tulum  
 &nbsp;  

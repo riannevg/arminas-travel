@@ -6,6 +6,7 @@ featured: false
 categories:
   - Bacalar
 header_image: /images/hotels/akalki/akalki2.png
+position: photo-center
 ---
 ## Akalki: A Tranquil Retreat on the Shores of Bacalar
 

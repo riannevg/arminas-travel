@@ -6,6 +6,7 @@ featured: false
 categories:
   - Los-Cabos
 header_image: /images/hotels/onepalmilla/onepalmilla1.jpg
+position: photo-center
 ---
 ## One&Only Palmilla: Iconic Luxury with Timeless Charm
 

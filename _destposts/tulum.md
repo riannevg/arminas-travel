@@ -5,6 +5,7 @@ featured: false
 categories:
   - Tulum
 header_image: /images/destinations/tulum/tulum10.jpg
+position: photo-center
 ---
 # **Tulum: A Fusion of Tranquil Beauty and Vibrant Energy**
 

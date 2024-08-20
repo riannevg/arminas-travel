@@ -6,6 +6,7 @@ featured: true
 categories:
   - Riviera-Maya
 header_image: /images/hotels/rosewoodmyk/rosewoodmyk3.webp
+position: photo-center
 ---
 ## Rosewood Mayakoba: Sophisticated Luxury in a Tropical Oasis
 

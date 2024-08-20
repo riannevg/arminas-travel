@@ -7,6 +7,7 @@ categories:
   - Yucatan
   - Merida
 header_image: /images/hotels/chableyuc/chableyuc3.jpeg
+position: photo-center
 ---
 ## Chablé Yucatán: A Luxurious Sanctuary in the Yucatán Peninsula
 

@@ -5,6 +5,7 @@ featured: true
 categories:
   - Yucatan
 header_image: /images/destinations/yucatan/chichen.jpg
+position: photo-center
 ---
 # **Yucatán State: A Rich Tapestry of Maya Heritage and Natural Wonders**
 

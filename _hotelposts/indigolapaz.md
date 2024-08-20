@@ -6,6 +6,7 @@ featured: false
 categories:
   - La-Paz
 header_image: /images/hotels/indigo/indigo6.webp
+position: photo-center
 ---
 ## Hotel Indigo La Paz: Stylish Comfort with a Coastal Charm
 

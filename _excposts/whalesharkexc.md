@@ -5,6 +5,7 @@ categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
 header_image: /images/destinations/cancun/cancun11.jpg
+position: photo-center
 ---
 ## Swimming with Whale Sharks
 

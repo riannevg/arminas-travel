@@ -6,6 +6,7 @@ featured: false
 categories:
   - Acapulco
 header_image: /images/hotels/banyanaca/banyanaca1.webp
+position: photo-center
 ---
 ## Banyan Tree Acapulco: A Luxurious Sanctuary on the Pacific Coast
 

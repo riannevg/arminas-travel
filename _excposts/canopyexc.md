@@ -4,6 +4,7 @@ title: Canopy Adventure Tour
 categories:
   - Los-Cabos-Excursions
 header_image: /images/destinations/loscabos/loscabos5.jpg
+position: photo-center
 ---
 ## Canopy Adventure Tour  
 &nbsp;  

@@ -5,6 +5,7 @@ featured: true
 categories:
   - Mexico-City
 header_image: /images/destinations/cdmx/cdmx.jpg
+position: photo-center
 ---
 # **Mexico City: A Vibrant Metropolis of History, Culture, and Cuisine**
 

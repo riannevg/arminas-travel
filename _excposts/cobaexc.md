@@ -6,6 +6,7 @@ categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
 header_image: /images/destinations/cancun/cancun7.jpg
+position: photo-center
 ---
 ## Coba  
 &nbsp;  
