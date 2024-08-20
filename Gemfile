@@ -1,4 +1,5 @@
-source "https://rubygems.org"
+# Gemfile
 
-gem "jekyll"
-gem "jekyll-archives"
+source "https://rubygems.org"
+gem "jekyll", "4.2.2"
+gem "webrick"
