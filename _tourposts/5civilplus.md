@@ -7,11 +7,11 @@ tourlocations: >-
 featured: false
 categories:
   - Mexico-City-Tours
-header_image: /images/destinations/palenque/palenque7.jpg
-slider_one_image: /images/destinations/cdmx/cdmx10.jpg
-slider_two_image: /images/destinations/yucatan/yucatan2.jpg
+header_image: /images/destinations/palenque/palenque9.jpg
+slider_one_image: /images/destinations/cdmx/cdmx18.jpg
+slider_two_image: /images/destinations/merida/merida10.jpg
 slider_three_image: /images/destinations/cdmx/teotihuacan.jpg
-slider_four_image: /images/destinations/puebla/puebla.jpg
+slider_four_image: /images/destinations/acapulco/acapulco.jpg
 ---
 ## Five Civilazations Plus
 
@@ -61,7 +61,7 @@ Start your day with a visit to the breathtaking Sumidero Canyon, where you’ll 
 
 Explore the vibrant market and streets of San Cristóbal de las Casas, followed by a visit to the nearby indigenous villages of Zinacantán and San Juan Chamula. In the afternoon, visit the stunning Misol-Ha waterfall before arriving in Palenque for the night.
 
-![](/images/destinations/palenque/palenque8.jpg)
+![](/images/destinations/palenque/palenque9.jpg)
 
 ### Day 9: Palenque – Campeche
 

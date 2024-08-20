@@ -4,7 +4,7 @@ name: Tulum
 featured: false
 categories:
   - Tulum
-header_image: /images/destinations/tulum/tulum4.jpg
+header_image: /images/destinations/tulum/tulum10.jpg
 ---
 # **Tulum: A Fusion of Tranquil Beauty and Vibrant Energy**
 
@@ -24,7 +24,7 @@ Tulum’s beaches are famed for their beauty, with soft white sand and turquoise
 
 In addition to its tranquil offerings, Tulum is also known for its vibrant nightlife. The town’s beach clubs and bars come alive after dark, featuring lively music, dance, and cocktail scenes. Popular spots like Papaya Playa Project and Casa Jaguar offer beachfront parties with DJ sets, bonfires, and a mix of international and local music. Tulum’s nightlife provides a perfect complement to its laid-back daytime activities.
 
-{% include snippets/image-float.html image="/images/destinations/tulum/tulum4.jpg" alt="Tulum" float-direction="left" %}
+{% include snippets/image-float.html image="/images/destinations/tulum/tulum.jpg" alt="Tulum" float-direction="left" %}
 
 **Reasons to Visit**
 

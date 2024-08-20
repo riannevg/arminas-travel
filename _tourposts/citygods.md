@@ -5,11 +5,11 @@ tourlocations: Mexico City > Veracruz > Palenque > Campeche > Merida > Cancun
 featured: false
 categories:
   - Mexico-City-Tours
-header_image: /images/destinations/yucatan/yucatan1.jpg
+header_image: /images/destinations/veracruz/veracruz6.jpg
 slider_one_image: /images/destinations/cdmx/teotihuacan.jpg
-slider_two_image: /images/destinations/cdmx/cdmx10.jpg
-slider_three_image: /images/horizontal.jpg
-slider_four_image: /images/destinations/yucatan/yucatan1.jpg
+slider_two_image: /images/destinations/cdmx/cdmx16.jpg
+slider_three_image: /images/destinations/palenque/palenque9.jpg
+slider_four_image: /images/destinations/yucatan/chichen.jpg
 ---
 ## City of Gods
 

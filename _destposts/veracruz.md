@@ -4,7 +4,7 @@ name: Veracruz
 featured: false
 categories:
   - Veracruz
-header_image: /images/destinations/veracruz/veracruz1.jpg
+header_image: /images/destinations/veracruz/veracruz.jpg
 ---
 # **Veracruz: A Coastal Gem of History, Culture, and Vibrant Festivities**
 
@@ -24,7 +24,7 @@ Veracruz offers a range of activities that cater to different interests. The cit
 
 Cultural enthusiasts will appreciate Veracruz’s vibrant festivals, including the Carnaval de Veracruz, one of the most famous and colorful celebrations in Mexico. This annual event features parades, music, dancing, and elaborate costumes, showcasing the city’s lively spirit and cultural heritage. The city’s traditional music, especially its son jarocho style, is an integral part of Veracruz’s cultural identity and can be enjoyed in local venues and festivals.
 
-{% include snippets/image-float.html image="/images/destinations/veracruz/veracruz3.jpg" alt="Veracruz" float-direction="left" %}
+{% include snippets/image-float.html image="/images/destinations/veracruz/veracruz6.jpg" alt="Veracruz" float-direction="left" %}
 
 **Reasons to Visit**
 

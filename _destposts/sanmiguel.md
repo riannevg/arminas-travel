@@ -4,7 +4,7 @@ name: San Miguel de Allende
 featured: false
 categories:
   - San-Miguel-de-Allende
-header_image: /images/destinations/sanmiguel/sanmiguel6.jpg
+header_image: /images/destinations/sanmiguel/sanmiguel8.jpg
 ---
 # **San Miguel de Allende: A Colonial Jewel of Art and Culture**
 

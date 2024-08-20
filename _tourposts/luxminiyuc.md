@@ -6,10 +6,10 @@ featured: false
 categories:
   - Cancun-Tours
   - Riviera-Maya-Tours
-header_image: /images/destinations/merida/merida8.jpg
-slider_one_image: /images/destinations/merida/merida8.jpg
-slider_two_image: /images/destinations/yucatan/yucatan1.jpg
-slider_three_image: /images/destinations/yucatan/yucatan2.jpg
+header_image: /images/destinations/merida/merida10.jpg
+slider_one_image: /images/destinations/merida/merida10.jpg
+slider_two_image: /images/destinations/yucatan/chichen.jpg
+slider_three_image: /images/destinations/merida/merida12.jpg
 slider_four_image: /images/hotels/chableyuc/chableyuc4.jpeg
 ---
 ## Luxury Mini Yucatan

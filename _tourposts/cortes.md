@@ -7,11 +7,11 @@ tourlocations: >-
 featured: false
 categories:
   - Mexico-City-Tours
-header_image: /images/destinations/bacalar/bacalar5.jpg
+header_image: /images/destinations/bacalar/bacalar.jpg
 slider_one_image: /images/destinations/cdmx/teotihuacan.jpg
-slider_two_image: /images/destinations/bacalar/bacalar5.jpg
-slider_three_image: /images/horizontal.jpg
-slider_four_image: /images/destinations/bacalar/bacalar2.jpg
+slider_two_image: /images/destinations/bacalar/bacalar.jpg
+slider_three_image: /images/destinations/veracruz/veracruz5.jpg
+slider_four_image: /images/destinations/palenque/palenque9.jpg
 ---
 ## In the footsteps of Cortes
 

@@ -6,11 +6,11 @@ featured: false
 categories:
   - Cancun-Tours
   - Riviera-Maya-Tours
-header_image: /images/destinations/yucatan/yucatan2.jpg
-slider_one_image: /images/destinations/yucatan/yucatan2.jpg
-slider_two_image: /images/destinations/yucatan/yucatan1.jpg
-slider_three_image: /images/destinations/yucatan/yucatan3.jpg
-slider_four_image: /images/vertical.jpg
+header_image: /images/destinations/yucatan/chichen.jpg
+slider_one_image: /images/destinations/yucatan/chichen.jpg
+slider_two_image: /images/destinations/yucatan/yucatan.jpg
+slider_three_image: /images/destinations/merida/merida14.jpg
+slider_four_image: /images/destinations/merida/merida11.jpg
 ---
 ## Mini Yucatan 1
 

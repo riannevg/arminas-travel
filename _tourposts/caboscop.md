@@ -5,8 +5,8 @@ tourlocations: Los Cabos > La Paz > El Fuerte > Divisadero > Creel > Chihuahua
 featured: false
 categories:
   - Los-Cabos-Tours
-header_image: /images/destinations/chihuahua/chihuahua7.jpg
-slider_one_image: /images/destinations/loscabos/loscabos4.jpg
+header_image: /images/destinations/chihuahua/chihuahua.jpg
+slider_one_image: /images/destinations/loscabos/loscabos11.jpg
 slider_two_image: /images/destinations/chihuahua/chihuahua1.jpg
 slider_three_image: /images/destinations/chihuahua/chihuahua5.jpg
 slider_four_image: /images/destinations/chihuahua/chihuahua7.jpg

@@ -4,7 +4,7 @@ name: Chihuahua
 featured: false
 categories:
   - Chihuahua
-header_image: /images/destinations/chihuahua/chihuahua7.jpg
+header_image: /images/destinations/chihuahua/chihuahua.jpg
 ---
 # **Chihuahua: Where Heritage Meets Adventure**
 

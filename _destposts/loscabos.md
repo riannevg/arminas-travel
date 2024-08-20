@@ -4,7 +4,7 @@ name: Los Cabos
 featured: false
 categories:
   - Los-Cabos
-header_image: /images/destinations/loscabos/loscabos7.jpg
+header_image: /images/destinations/loscabos/loscabos11.jpg
 ---
 # **Los Cabos: Where the Desert Meets the Sea**
 
@@ -22,7 +22,7 @@ One of Los Cabos’ most iconic landmarks is El Arco, a dramatic rock formation 
 
 Los Cabos is a paradise for outdoor enthusiasts. The region’s waters are teeming with marine life, making it a premier destination for sport fishing, diving, and snorkeling. Whale watching is a seasonal highlight, with humpback and gray whales migrating to the warm waters from December to April. The desert landscape also offers exciting opportunities for land-based adventures, such as off-road tours, horseback riding, and hiking. Golfers will find world-class courses designed by legendary players, offering stunning ocean views.
 
-![Los Cabos](/images/destinations/loscabos/loscabos3.jpg)
+![Los Cabos](/images/destinations/loscabos/loscabos12.jpg)
 
 **Reasons to Visit**
 

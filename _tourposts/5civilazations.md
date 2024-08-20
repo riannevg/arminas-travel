@@ -7,11 +7,11 @@ tourlocations: >-
 featured: false
 categories:
   - Mexico-City-Tours
-header_image: /images/destinations/cdmx/cdmx10.jpg
-slider_one_image: /images/destinations/puebla/puebla.jpg
-slider_two_image: /images/destinations/oaxaca/oaxaca.jpg
-slider_three_image: /images/destinations/palenque/palenque1.jpg
-slider_four_image: /images/destinations/yucatan/yucatan1.jpg
+header_image: /images/destinations/cdmx/cdmx16.jpg
+slider_one_image: /images/destinations/puebla/cholula.jpg
+slider_two_image: /images/destinations/oaxaca/oaxaca12.jpg
+slider_three_image: /images/destinations/palenque/palenque9.jpg
+slider_four_image: /images/destinations/yucatan/yucatan.jpg
 ---
 ## Five Civilizations
 
@@ -45,7 +45,7 @@ Experience the breathtaking beauty of Sumidero Canyon, a natural wonder filled w
 
 Start your day with a tour of San Cristobal de las Casas, known for its vibrant markets and indigenous traditions. Visit the nearby villages of Zinacantán and San Juan Chamula to gain insight into the local way of life. Continue to the stunning Misol-Ha Waterfall, a serene spot amidst the jungle, before arriving in Palenque for an overnight stay.
 
-![](/images/destinations/palenque/palenque8.jpg)
+![](/images/destinations/palenque/palenque10.jpg)
 
 ### Day 7: Palenque – Campeche
 

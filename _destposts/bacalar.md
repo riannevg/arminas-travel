@@ -4,7 +4,7 @@ name: Bacalar
 featured: false
 categories:
   - Bacalar
-header_image: /images/destinations/bacalar/bacalar6.jpg
+header_image: /images/destinations/bacalar/bacalar5.jpg
 ---
 # **Bacalar: The Lagoon of Seven Colors**
 
@@ -20,7 +20,7 @@ The centerpiece of Bacalar is undoubtedly its stunning lagoon, a 42-kilometer st
 
 Bacalar is a haven for water enthusiasts. Kayaking and paddleboarding on the lagoon’s calm waters are popular activities, allowing you to fully appreciate its vibrant colors and serene atmosphere. For a more adventurous experience, explore the underwater caves and tunnels of Cenote Cocalitos. Boat tours are another great way to discover the lagoon’s many wonders, including the famous “Pirate’s Channel,” a narrow waterway that once served as a hideout for pirates.
 
-{% include snippets/image-float.html image="/images/destinations/bacalar/bacalar2.jpg" alt="bacalar" float-direction="left" %}**Reasons to Visit**
+{% include snippets/image-float.html image="/images/destinations/bacalar/bacalar.jpg" alt="bacalar" float-direction="left" %}**Reasons to Visit**
 
 Bacalar’s unspoiled beauty and tranquil ambiance make it an ideal destination for those seeking relaxation and a deeper connection with nature. Its laid-back vibe and friendly locals create a welcoming atmosphere, perfect for unwinding and rejuvenating. The town’s eco-friendly practices and commitment to preserving its natural environment also ensure a sustainable and responsible travel experience. Whether you’re lounging by the lagoon, exploring its historic sites, or indulging in the local cuisine, Bacalar promises a peaceful and unforgettable getaway.
 

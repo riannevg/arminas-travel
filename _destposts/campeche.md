@@ -4,7 +4,7 @@ name: Campeche
 featured: false
 categories:
   - Campeche
-header_image: /images/destinations/campeche/campeche2.jpg
+header_image: /images/destinations/campeche/campeche.jpg
 ---
 # **Campeche: A Journey Through Time and Tradition**
 

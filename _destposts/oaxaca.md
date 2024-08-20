@@ -4,7 +4,7 @@ name: Oaxaca
 featured: false
 categories:
   - Oaxaca
-header_image: /images/destinations/oaxaca/oaxaca7.jpg
+header_image: /images/destinations/oaxaca/oaxaca12.jpg
 ---
 # **Oaxaca: A Cultural and Culinary Paradise**
 
@@ -28,7 +28,7 @@ For a unique adventure, explore the natural wonders surrounding Oaxaca. The Hier
 
 &nbsp;
 
-{% include snippets/image-float.html image="/images/destinations/oaxaca/oaxaca3.jpg" alt="Oaxaca" float-direction="left" %}
+{% include snippets/image-float.html image="/images/destinations/oaxaca/oaxaca11.jpg" alt="Oaxaca" float-direction="left" %}
 
 **Gastronomy**
 

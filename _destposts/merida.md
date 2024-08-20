@@ -4,7 +4,7 @@ name: Merida
 featured: false
 categories:
   - Merida
-header_image: /images/destinations/merida/merida9.jpg
+header_image: /images/destinations/merida/merida12.jpg
 ---
 # **Mérida: The White City of Culture and Tradition**
 
@@ -22,7 +22,7 @@ The historic center of Mérida is a feast for the eyes, with its beautifully pre
 
 Mérida is a cultural hub, offering a variety of activities that celebrate its rich heritage. Explore the bustling Mercado Lucas de Gálvez, where you can find everything from fresh produce to traditional handicrafts. The Gran Museo del Mundo Maya provides a deep dive into Mayan culture, showcasing artifacts and exhibits that span thousands of years. For a unique experience, attend a traditional Yucatecan dance performance at the Teatro Peón Contreras or enjoy the weekly Noche Mexicana festival in Parque Bicentenario.
 
-![Merida](/images/destinations/merida/merida7.jpg)
+![Merida](/images/destinations/merida/merida11.jpg)
 
 **Reasons to Visit**
 

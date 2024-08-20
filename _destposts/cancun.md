@@ -4,7 +4,7 @@ name: Cancun
 featured: false
 categories:
   - Cancun
-header_image: /images/destinations/cancun/cancun2.jpg
+header_image: /images/destinations/cancun/cancun14.jpg
 ---
 # **Cancun: Paradise Found on Mexico's Caribbean Coast**
 
@@ -20,7 +20,7 @@ Cancun’s beaches are its crown jewels, with powdery white sand and crystal-cle
 
 Adventure seekers will find no shortage of thrilling activities in Cancun. Dive into the vibrant underwater world of the Great Mesoamerican Reef, the second-largest coral reef system in the world, teeming with colorful marine life. Snorkeling and scuba diving here are unforgettable experiences. For those who prefer to stay above water, sailing, jet skiing, and parasailing offer exhilarating ways to enjoy the stunning seascape.
 
-![cancun](/images/destinations/cancun/cancun1.jpg)
+![cancun](/images/destinations/cancun/cancun45.jpg)
 
 **Reasons to Visit**
 
