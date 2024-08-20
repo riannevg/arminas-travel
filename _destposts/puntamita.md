@@ -4,7 +4,7 @@ name: Punta Mita
 featured: false
 categories:
   - Punta-Mita
-header_image: /images/destinations/puntamita/puntamita2.jpg
+header_image: /images/destinations/puntamita/puntamita.jpg
 position: photo-center
 ---
 # **Punta Mita: A Luxurious Haven on the Riviera Nayarit**

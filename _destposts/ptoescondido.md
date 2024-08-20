@@ -4,7 +4,7 @@ name: Puerto Escondido
 featured: false
 categories:
   - Puerto-Escondido
-header_image: /images/destinations/puertoescondido/ptoescondido4.jpg
+header_image: /images/destinations/puertoescondido/ptoescondido6.jpg
 position: photo-center
 ---
 # **Puerto Escondido: A Laid-Back Paradise on the Pacific Coast**

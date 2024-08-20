@@ -4,7 +4,7 @@ name: Riviera Maya
 featured: false
 categories:
   - Riviera-Maya
-header_image: /images/destinations/rivieramaya/rivieramaya4.jpg
+header_image: /images/destinations/rivieramaya/rivieramaya.jpg
 position: photo-center
 ---
 # **Riviera Maya: A Journey Through Nature and Culture**

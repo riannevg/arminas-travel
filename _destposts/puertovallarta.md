@@ -4,7 +4,7 @@ name: Puerto Vallarta
 featured: false
 categories:
   - Puerto-Vallarta
-header_image: /images/destinations/vallarta/puertovallarta5.jpg
+header_image: /images/destinations/vallarta/vallarta1.jpg
 position: photo-center
 ---
 # **Puerto Vallarta: A Coastal Paradise of Sun, Sea, and Culture**
