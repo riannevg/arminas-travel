@@ -1,6 +1,7 @@
 ---
 layout: exc-layout
 title: Bohemiam Tulum
+order: 1
 weight: 12
 categories:
   - Cancun-Excursions

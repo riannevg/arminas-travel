@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: In the footsteps of Cortes
+weight: 12
 tourlocations: >-
   Mexico City > Costa Esmeralda > Veracruz > Catemaco > Villahermosa > Palenque
   > Chetumal > Riviera Maya
@@ -14,9 +15,6 @@ slider_three_image: /images/destinations/veracruz/veracruz5.jpg
 slider_four_image: /images/destinations/palenque/palenque9.jpg
 position: photo-center
 ---
-## In the footsteps of Cortes
-
-&nbsp;
 
 ### Day 1: Arrival to Mexico City
 

@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Los Cabos to the Copper Canyon
+weight: 10
 tourlocations: Los Cabos > La Paz > El Fuerte > Divisadero > Creel > Chihuahua
 featured: false
 categories:
@@ -12,9 +13,6 @@ slider_three_image: /images/destinations/chihuahua/chihuahua5.jpg
 slider_four_image: /images/destinations/chihuahua/chihuahua7.jpg
 position: photo-center
 ---
-## Los Cabos to the Copper Canyon
-
-&nbsp;
 
 ### Day 1: Los Cabos – Todos Santos – The Famous “Hotel California” – La Paz
 

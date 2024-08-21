@@ -1,7 +1,7 @@
 ---
 layout: hotel-layout
 title: Palmaia The House of Aia
-location: Riviera Maya
+location: Playa del Carmen
 featured: false
 categories:
   - Riviera-Maya

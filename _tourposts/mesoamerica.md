@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mesoamerica
+weight: 4
 tourlocations: >-
   Mexico City > Oaxaca > Tehuantepec > San Cristobal de las Casas > Atitlan >
   Flores > Palenque > Campeche > Cancun
@@ -14,9 +15,7 @@ slider_three_image: /images/destinations/cdmx/teotihuacan2.jpg
 slider_four_image: /images/destinations/yucatan/chichen.jpg
 position: photo-center
 ---
-## Meso America
 
-&nbsp;
 
 ### Day 1: Arrival to Mexico City
 

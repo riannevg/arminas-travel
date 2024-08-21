@@ -1,7 +1,7 @@
 ---
 layout: exc-layout
 title: Mexico City and Museum of Antropology
-weight: 1
+order: 3
 featured: false
 categories:
   - Mexico-City-Excursions

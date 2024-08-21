@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Five Civilizations
+weight: 1
 tourlocations: >-
   Mexico City > Oaxaca > Tehuantepec > San Cristobal de las Casas > Palenque >
   Campeche > Merida > Riviera Maya
@@ -14,9 +15,6 @@ slider_three_image: /images/destinations/palenque/palenque9.jpg
 slider_four_image: /images/destinations/yucatan/yucatan.jpg
 position: photo-center
 ---
-## Five Civilizations
-
-&nbsp;
 
 ### Day 1: Arrival in Mexico City{% include snippets/image-float.html image="/images/destinations/cdmx/cdmx16.jpg" alt="" float-direction="right" %}
 

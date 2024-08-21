@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Large Copper Canyon
+weight: 11
 tourlocations: >-
   Chihuahua > Creel > Divisadero > Cerocahui > Urique Canyon > El Fuerte > Los
   Mochis
@@ -14,9 +15,6 @@ slider_three_image: /images/destinations/chihuahua/chihuahua5.jpg
 slider_four_image: /images/destinations/chihuahua/chihuahua.jpg
 position: photo-center
 ---
-## Large Copper Canyon
-
-&nbsp;
 
 ### Day 1: Arrival to Chihuahua
 

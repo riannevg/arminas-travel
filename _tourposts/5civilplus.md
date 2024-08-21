@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Five Civilizations Plus
+weight: 2
 tourlocations: >-
   Mexico City > Taxco > Acapulco > Oaxaca > Tehuantepec > San Cristobal de las
   Casas > Palenque > Campeche > Merida > Riviera Maya
@@ -14,9 +15,6 @@ slider_three_image: /images/destinations/cdmx/teotihuacan.jpg
 slider_four_image: /images/destinations/acapulco/acapulco.jpg
 position: photo-center
 ---
-## Five Civilazations Plus
-
-&nbsp;
 
 ### Day 1: Arrival in Mexico City
 

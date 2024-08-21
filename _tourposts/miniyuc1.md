@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mini Yucatan 1
+weight: 6
 tourlocations: Cancun > Coba > Merida > Chichen Itza > Ek Balam > Riviera Maya
 featured: false
 categories:
@@ -13,9 +14,6 @@ slider_three_image: /images/destinations/merida/merida14.jpg
 slider_four_image: /images/destinations/merida/merida11.jpg
 position: photo-center
 ---
-## Mini Yucatan 1
-
-&nbsp;
 
 ### Day 1: Cancun – Caverns – Coba – Merida
 

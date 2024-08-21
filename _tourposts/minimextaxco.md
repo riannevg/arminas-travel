@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mini Mexico Taxco
+weight: 15
 tourlocations: Mexico City > Taxco > Mexico City
 featured: false
 categories:
@@ -12,9 +13,7 @@ slider_three_image: /images/destinations/cdmx/taxco.jpg
 slider_four_image: /images/destinations/cdmx/cdmx13.jpg
 position: photo-center
 ---
-## Mini Mexico Taxco
 
-&nbsp;  
 
 ### Day 1: Arrival to Mexico City
 

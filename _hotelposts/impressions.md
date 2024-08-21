@@ -1,7 +1,7 @@
 ---
 layout: hotel-layout
 title: Impression Isla Mujeres
-location: Cancun
+location: Isla Mujeres
 featured: false
 categories:
   - Cancun

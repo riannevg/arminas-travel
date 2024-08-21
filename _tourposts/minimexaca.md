@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mini Mexico Acapulco
+weight: 14
 tourlocations: Mexico City > Taxo > Cuernavaca > Acapulco > Mexico City
 featured: false
 categories:
@@ -12,9 +13,7 @@ slider_three_image: /images/destinations/acapulco/acapulco5.jpg
 slider_four_image: /images/destinations/acapulco/acapulco4.jpg
 position: photo-center
 ---
-## Mini Mexico Acapulco
-
-&nbsp;  
+ 
 
 ### Day 1: Arrival to Mexico City
 

@@ -4,7 +4,7 @@ name: Morelia
 featured: false
 categories:
   - Morelia
-header_image: /images/destinations/morelia/morelia1.jpg
+header_image: /images/destinations/morelia/morelia6.jpg
 position: photo-center
 ---
 # **Morelia: A Colonial Gem in the Heart of Mexico**

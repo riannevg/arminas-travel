@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mini Yucatan 4
+weight: 9
 tourlocations: >-
   Cancun > Ek Balam > Chichen Itza > Merida > Uxmal > Campeche > Palenque >
   Chetumal > Riviera Maya
@@ -15,9 +16,6 @@ slider_three_image: /images/destinations/yucatan/yucatan8.jpg
 slider_four_image: /images/destinations/merida/merida14.jpg
 position: photo-center
 ---
-## Mini Yucatan 4
-
-&nbsp;
 
 ### Day 1: Cancun – Ek Balam – Chichen Itza – Merida
 

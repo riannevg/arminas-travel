@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mini Yucatan 3
+weight: 8
 tourlocations: >-
   Cancun > Tulum > Coba > Chetumal > Palenque > Campeche > Chichen Itza >
   Riviera Maya
@@ -15,9 +16,6 @@ slider_three_image: /images/destinations/yucatan/yucatan8.jpg
 slider_four_image: /images/destinations/merida/merida14.jpg
 position: photo-center
 ---
-## Mini Yucatan 3
-
-&nbsp;
 
 ### Day 1: Cancun/Riviera Maya – Caverns – Tulum – Coba – Chetumal
 

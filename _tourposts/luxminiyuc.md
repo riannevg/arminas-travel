@@ -1,21 +1,19 @@
 ---
 layout: tour-layout
 title: Luxury Mini Yucatan
+weight: 5
 tourlocations: Cancun > Valladolid > Hacienda Xcanatun > Chable Yucatan > Riviera Maya
 featured: false
 categories:
   - Cancun-Tours
   - Riviera-Maya-Tours
 header_image: /images/destinations/merida/merida10.jpg
-slider_one_image: /images/destinations/merida/merida10.jpg
+slider_one_image: /images/hotels/chableyuc/chableyuc1.jpeg
 slider_two_image: /images/destinations/yucatan/chichen.jpg
 slider_three_image: /images/destinations/merida/merida12.jpg
 slider_four_image: /images/hotels/chableyuc/chableyuc4.jpeg
 position: photo-center
 ---
-## Luxury Mini Yucatan
-
-&nbsp;
 
 ### Day 1: Cancun – Ek Balam with Cenote – Rio Lagartos – Valladolid
 

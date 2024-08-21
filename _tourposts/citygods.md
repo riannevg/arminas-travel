@@ -1,20 +1,18 @@
 ---
 layout: tour-layout
 title: The City of Gods
+weight: 3
 tourlocations: Mexico City > Veracruz > Palenque > Campeche > Merida > Cancun
 featured: false
 categories:
   - Mexico-City-Tours
 header_image: /images/destinations/veracruz/veracruz6.jpg
-slider_one_image: /images/destinations/cdmx/teotihuacan.jpg
+slider_one_image: /images/destinations/cdmx/teotihuacan2.jpg
 slider_two_image: /images/destinations/cdmx/cdmx16.jpg
 slider_three_image: /images/destinations/palenque/palenque9.jpg
 slider_four_image: /images/destinations/yucatan/chichen.jpg
 position: photo-center
 ---
-## City of Gods
-
-&nbsp;
 
 ### Day 1: Arrival to Mexico City - Tour Starts from Transfer from Mexico City Airport to the Hotel (30-40 min)
 

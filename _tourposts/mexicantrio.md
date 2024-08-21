@@ -1,6 +1,7 @@
 ---
 layout: tour-layout
 title: Mexican Trio
+weight: 13
 tourlocations: Mexico City > Queretaro > Morelia > Guadalajara > Puerto Vallarta
 categories:
   - Mexico-City-Tours
@@ -11,9 +12,7 @@ slider_three_image: /images/destinations/morelia/morelia2.jpg
 slider_four_image: /images/destinations/vallarta/puertovallarta6.jpg
 position: photo-center
 ---
-## Mexican Trio
 
-&nbsp;  
 
 ### Day 1: Arrival to Mexico City
 

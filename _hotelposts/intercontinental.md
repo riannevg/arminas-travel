@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-title: Presidente Intercontinental
+title: Presidente Intercontinental Cancun
 location: Cancun
 featured: false
 categories:

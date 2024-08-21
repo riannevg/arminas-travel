@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-title: Nomade
+title: Nomade Tulum
 location: Tulum
 featured: false
 categories:
