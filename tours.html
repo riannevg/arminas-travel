@@ -16,27 +16,15 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 </section>
 
 
-<!-- Categories -->
-<!-- <section class="grid-spaceAround-middle">
-    <div class="col-10 grid-spaceAround">
-        {% for tourarchive in site.tourarchives %}
-        <div class="col-2_sm-4_xs-6 center padded-1 margin-b-1">
-            <a href="{{tourarchive.url}}" class="button">{{tourarchive.title | replace: "-", " "}}</a>
-        </div>
-        {% endfor %}
-    </div>
-</section> -->
-
-
 
 
 <!-- Tours grid -->
 <section class="grid-spaceAround-top center padded-5 blog">     
 
-    <div class="col-2 left border padded-1">
-        <h3>Tours departing from</h3>
+    <div class="col-2_sm-10 left border grid padded-1">
+        <h3 class="padded-1">Tours departing from</h3>
         {% for tourarchive in site.tourarchives %}
-        <div class="col-3_sm-4_xs-6 left margin-b-1">
+        <div class="col-12 left padded-l-1 margin-b-1">
             <a href="{{tourarchive.url}}">&#9634; {{tourarchive.location | replace: "-", " "}}</a>
         </div>
         {% endfor %}

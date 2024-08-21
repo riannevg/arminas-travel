@@ -38,6 +38,7 @@ body, html{
 .padded-1{padding:1rem;}
 .padded-3{padding:3rem;}
 .padded-5{padding:5%;}
+.padded-l-1{padding-left:1rem;}
 .padded-l-5{padding-left:5%;}
 .padded-r-t{padding-right:5%;}
 .padded-t-0{padding-top:0;}
@@ -490,7 +491,7 @@ a.button:hover{
 
 .mobile-menu a{
     font-family:var(--sans-serif);
-    font-size:1.2rem;
+    font-size:1.4rem;
     line-height:2rem;
     font-weight:200;
     background-color:white;
