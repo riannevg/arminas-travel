@@ -550,6 +550,7 @@ footer h3{
 
     .show-sm{display:block;}
     .hide-sm{display:none;}
+
     
     .flex-flip-sm{
         display:flex;
@@ -577,16 +578,20 @@ footer h3{
     }
 
     h1, h2{
-        font-size:1.8rem;
+        font-size:1.5rem;
         font-weight:400;
     }
 
     h3, h4, h5, h6{
-    font-size: 1.2rem;
+    font-size: 1rem;
     }
 
     p{
-        font-size:1.2rem
+        font-size:0.9rem;
+    }
+
+    .blog a h3{
+        font-size:1.2rem;
     }
 
 }
