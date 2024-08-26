@@ -8,8 +8,8 @@ tourlocations: >-
 featured: false
 categories:
   - Mexico-City-Tours
-header_image: /images/destinations/palenque/palenque10.jpg
-slider_one_image: /images/destinations/palenque/palenque10.jpg
+header_image: /images/destinations/tikal.jpg
+slider_one_image: /images/destinations/tikal.jpg
 slider_two_image: /images/destinations/cdmx/cdmx.jpg
 slider_three_image: /images/destinations/cdmx/teotihuacan2.jpg
 slider_four_image: /images/destinations/yucatan/chichen.jpg

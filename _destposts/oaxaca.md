@@ -11,7 +11,7 @@ position: photo-center
 
 &nbsp;
 
-{% include snippets/image-float.html image="/images/destinations/oaxaca/oaxaca5.jpg" alt="Oaxaca" float-direction="right" %}
+{% include snippets/image-float.html image="/images/destinations/oaxaca/oaxaca6.jpg" alt="Oaxaca" float-direction="right" %}
 
 Oaxaca, the capital city of the state with the same name, is a vibrant destination renowned for its rich indigenous heritage, stunning colonial architecture, and exceptional culinary scene. Nestled in the valleys of southern Mexico, Oaxaca offers a unique blend of tradition and modernity. The city’s colorful festivals, bustling markets, and historic landmarks make it an unforgettable experience for any traveler.
 

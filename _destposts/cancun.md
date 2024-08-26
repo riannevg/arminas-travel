@@ -33,7 +33,7 @@ Cancun is more than just a beach destination; it’s a gateway to a myriad of ex
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/hyattziva">
         <div class="bg-image square" style="background-image:url('/images/hotels/hyattziva/hyattziva1.webp')">  </div>
-        <h3 class='center'>Hyatt Ziva</h3>        
+        <h3 class='center'>Hyatt Ziva Cancun</h3>        
     </a>  
 </div>
 
@@ -61,7 +61,14 @@ Cancun is more than just a beach destination; it’s a gateway to a myriad of ex
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/nizuc">
         <div class="bg-image square" style="background-image:url('/images/hotels/nizuc/nizuc1.jpg')">  </div>
-        <h3 class='center'>Nizuc</h3>        
+        <h3 class='center'>Nizuc Resort & Spa</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/sha">
+        <div class="bg-image square" style="background-image:url('/images/hotels/sha/sha2.jpg')">  </div>
+        <h3 class='center'>Sha Wellness Clinic</h3>        
     </a>  
 </div>
 

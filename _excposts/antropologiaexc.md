@@ -5,7 +5,7 @@ order: 3
 featured: false
 categories:
   - Mexico-City-Excursions
-header_image: /images/destinations/cdmx/cdmx4.jpg
+header_image: /images/destinations/cdmx/cdmx10.jpg
 position: photo-center
 ---
 ## Mexico City and Museum of Anthropology  

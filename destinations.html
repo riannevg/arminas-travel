@@ -19,9 +19,20 @@ header_text: Your Gateway to Exclusive<br>Mexican Adventures
 
 
 <!-- DESTINATIONS grid -->
-<section class="grid-spaceAround-top center padded-5 padded-t-1blog">     
+<section class="grid-spaceAround-top center padded-5 blog">     
+
+    <div class="col-2_sm-10 left border grid padded-1">
+        <h3 class="padded-1">Destinations</h3>
+        {% for destarchive in site.destarchives %}
+        <div class="col-12 left padded-l-1 margin-b-1">
+            <a href="{{destarchive.url}}">&#9634; {{destarchive.title | replace: "-", " "}}</a>
+        </div>
+        {% endfor %}
+
+    </div>
+
     
-    <div class="col-11 grid">
+    <div class="col-10 grid">
     
         {% for destpost in site.destposts %}
 

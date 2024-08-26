@@ -37,13 +37,13 @@ San Miguel de Allende’s unique blend of colonial charm, artistic vibrancy, and
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/liveaqua">
         <div class="bg-image square" style="background-image:url('/images/hotels/liveaquasma/liveaquasma1.jpg')">  </div>
-        <h3 class='center'>Live Aqua</h3>        
+        <h3 class='center'>Live Aqua San Miguel de Allende</h3>        
     </a>  
 </div>
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/rosewoodsma">
         <div class="bg-image square" style="background-image:url('/images/hotels/rosewoodsma/rosewoodsma2.webp')">  </div>
-        <h3 class='center'>Rosewood</h3>        
+        <h3 class='center'>Rosewood San Miguel de Allende</h3>        
     </a>  
 </div>
 

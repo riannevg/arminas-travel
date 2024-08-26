@@ -4,7 +4,7 @@ name: Puebla
 featured: false
 categories:
   - Puebla
-header_image: /images/destinations/puebla/puebla7.jpg
+header_image: /images/destinations/puebla/cholula.jpg
 position: photo-center
 ---
 # **Puebla: A City of History, Culture, and Gastronomy**

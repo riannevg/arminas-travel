@@ -4,8 +4,8 @@ name: Todos Santos
 featured: false
 categories:
   - Todos-Santos
-header_image: /images/destinations/todossantos/todossantos8.jpg
-position: photo-center
+header_image: /images/destinations/todossantos/todossantos0.jpg
+position: photo-bottom
 ---
 # **Todos Santos: A Charming Oasis on Mexico's Pacific Coast**
 

@@ -60,7 +60,14 @@ Tulum’s unique combination of serene natural beauty and dynamic party scene ma
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/nomade">
         <div class="bg-image square" style="background-image:url('/images/hotels/nomade/nomade1.jpg')">  </div>
-        <h3 class='center'>Nomade</h3>        
+        <h3 class='center'>Nomade Tulum</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/kanan">
+        <div class="bg-image square" style="background-image:url('/images/hotels/kanan/kanan.jpg')">  </div>
+        <h3 class='center'>Kanan Hotel & Spa</h3>        
     </a>  
 </div>
 

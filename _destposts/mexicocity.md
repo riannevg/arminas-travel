@@ -4,8 +4,8 @@ name: Mexico City
 featured: true
 categories:
   - Mexico-City
-header_image: /images/destinations/cdmx/cdmx.jpg
-position: photo-center
+header_image: /images/destinations/cdmx/cdmx17.jpg
+position: photo-bottom
 ---
 # **Mexico City: A Vibrant Metropolis of History, Culture, and Cuisine**
 

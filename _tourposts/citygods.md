@@ -1,12 +1,12 @@
 ---
 layout: tour-layout
-title: The City of Gods
+title: Cities of the Gods
 weight: 3
 tourlocations: Mexico City > Veracruz > Palenque > Campeche > Merida > Cancun
 featured: false
 categories:
   - Mexico-City-Tours
-header_image: /images/destinations/veracruz/veracruz6.jpg
+header_image: /images/destinations/veracruz/olmecas.webp
 slider_one_image: /images/destinations/cdmx/teotihuacan2.jpg
 slider_two_image: /images/destinations/cdmx/cdmx16.jpg
 slider_three_image: /images/destinations/palenque/palenque9.jpg

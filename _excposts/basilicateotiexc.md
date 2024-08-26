@@ -4,7 +4,7 @@ title: Teotihuacan and Basilica de Guadalupe
 order: 2
 categories:
   - Mexico-City-Excursions
-header_image: /images/destinations/cdmx/cdmx6.jpg
+header_image: /images/destinations/cdmx/teotihuacan.jpg
 position: photo-center
 ---
 ## Teotihuacan and Basilica de Guadalupe 
