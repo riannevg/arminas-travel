@@ -4,7 +4,7 @@ title: Kanan Hotel & Spa
 location: Tulum
 featured: false
 categories:
-  - Tulum-Maya
+  - Tulum
 header_image: /images/hotels/kanan/kanan.jpg
 position: photo-center
 ---

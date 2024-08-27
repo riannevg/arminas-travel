@@ -2,12 +2,13 @@
 layout: hotel-layout
 title: Nomade Tulum
 location: Tulum
-featured: false
+featured: falses
 categories:
-  - Tulum-Maya
+  - Tulum
 header_image: /images/hotels/nomade/nomade1.jpg
 position: photo-center
 ---
+
 ## Nomade Tulum  
 &nbsp;
 

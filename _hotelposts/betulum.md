@@ -4,7 +4,7 @@ title: Be Tulum
 location: Tulum
 featured: false
 categories:
-  - Tulum-Maya
+  - Tulum
 header_image: /images/hotels/betulum/betulum1.jpg
 position: photo-center
 ---

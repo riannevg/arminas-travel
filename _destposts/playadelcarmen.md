@@ -3,7 +3,7 @@ layout: dest-layout
 name: Playa del Carmen
 featured: false
 categories:
-  - Riviera-Maya
+  - Playa-del-Carmen
 header_image: /images/destinations/rivieramaya/rivieramaya4.jpg
 position: photo-center
 ---
