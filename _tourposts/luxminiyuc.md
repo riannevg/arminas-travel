@@ -7,7 +7,7 @@ featured: false
 categories:
   - Cancun-Tours
   - Riviera-Maya-Tours
-header_image: /images/destinations/merida/merida10.jpg
+header_image: /images/hotels/chableyuc/chableyuc1.jpeg
 slider_one_image: /images/hotels/chableyuc/chableyuc1.jpeg
 slider_two_image: /images/destinations/yucatan/chichen.jpg
 slider_three_image: /images/destinations/merida/merida12.jpg
