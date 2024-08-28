@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-title: Hotel Indigo Puerto Cortez
+title: Hotel Indigo Puerta Cortes
 location: La Paz
 featured: false
 categories:
@@ -14,7 +14,7 @@ position: photo-center
 
 ### Location
 
-Hotel Indigo La Paz is located in the heart of La Paz, offering guests a perfect blend of urban convenience and coastal charm. Situated along the beautiful waterfront promenade, the hotel provides stunning views of the Sea of Cortez and easy access to the city’s main attractions, including the Malecón, local markets, and cultural landmarks. Its prime location makes it an ideal base for exploring La Paz’s vibrant atmosphere and natural beauty.
+Hotel Indigo Puerta Cortes is located in the heart of La Paz, offering guests a perfect blend of urban convenience and coastal charm. Situated along the beautiful waterfront promenade, the hotel provides stunning views of the Sea of Cortez and easy access to the city’s main attractions, including the Malecón, local markets, and cultural landmarks. Its prime location makes it an ideal base for exploring La Paz’s vibrant atmosphere and natural beauty.
 
 ![](/images/hotels/indigo/indigo3.jpeg)
 

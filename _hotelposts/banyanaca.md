@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-title: Banyan Tree Cabo Marquez
+title: Banyan Tree Cabo Marques
 location: Acapulco
 featured: false
 categories:
@@ -8,7 +8,7 @@ categories:
 header_image: /images/hotels/banyanaca/banyanaca1.webp
 position: photo-center
 ---
-## Banyan Tree Acapulco: A Luxurious Sanctuary on the Pacific Coast
+## Banyan Tree Cabo Marques: A Luxurious Sanctuary on the Pacific Coast
 
 &nbsp;
 
@@ -18,13 +18,13 @@ position: photo-center
 
 ### Location
 
-Perched on the cliffs of Punta Diamante, Banyan Tree Acapulco offers a secluded and luxurious retreat with breathtaking views of the Pacific Ocean. The hotel is located in one of Acapulco’s most exclusive areas, providing guests with a serene and private environment while still being within easy reach of the city’s lively attractions. The pristine beaches, vibrant nightlife, and historic sites of Acapulco are just a short drive away, making this the perfect base for both relaxation and exploration.
+Perched on the cliffs of Punta Diamante, Banyan Tree Cabo Marques offers a secluded and luxurious retreat with breathtaking views of the Pacific Ocean. The hotel is located in one of Acapulco’s most exclusive areas, providing guests with a serene and private environment while still being within easy reach of the city’s lively attractions. The pristine beaches, vibrant nightlife, and historic sites of Acapulco are just a short drive away, making this the perfect base for both relaxation and exploration.
 
 ![](/images/hotels/banyanaca/banyanaca3.webp)
 
 ### What to Do at the Hotel
 
-Banyan Tree Acapulco is designed to provide guests with an immersive experience of luxury and tranquility. The hotel’s private villas, each with its own plunge pool, offer unparalleled privacy and comfort. Guests can spend their days lounging by the infinity pool, indulging in a rejuvenating spa treatment at the renowned Banyan Tree Spa, or participating in a yoga session with stunning ocean views. The resort also offers a variety of dining options, including gourmet restaurants that serve a blend of local and international cuisine. For those looking to explore, the hotel can arrange private tours of Acapulco’s cultural and natural attractions.
+Banyan Tree Cabo Marques is designed to provide guests with an immersive experience of luxury and tranquility. The hotel’s private villas, each with its own plunge pool, offer unparalleled privacy and comfort. Guests can spend their days lounging by the infinity pool, indulging in a rejuvenating spa treatment at the renowned Banyan Tree Spa, or participating in a yoga session with stunning ocean views. The resort also offers a variety of dining options, including gourmet restaurants that serve a blend of local and international cuisine. For those looking to explore, the hotel can arrange private tours of Acapulco’s cultural and natural attractions.
 
 ![](/images/hotels/banyanaca/banyanaca2.webp)
 

@@ -165,6 +165,7 @@ li{
 .photo-top { background-position: top; }
 .photo-bottom { background-position: bottom; }
 .photo-center {background-position:center;}
+.photo-bottom-center{background-position:bottom center;}
 
 .bg-cdmx{
     background-image:url('/images/destinations/cdmx/cdmx17.jpg')

@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-title: Palmaia The House of Aia
+title: Palmaia The House of AiA
 location: Playa del Carmen
 featured: false
 categories:
@@ -8,7 +8,7 @@ categories:
 header_image: /images/hotels/palmaia/palmaia3.jpg
 position: photo-center
 ---
-## Palmaia The House of Aia: The House of Aia: Eco-Luxury with a Holistic Approach
+## Palmaia The House of AiA: The House of Aia: Eco-Luxury with a Holistic Approach
 
 &nbsp;
 
