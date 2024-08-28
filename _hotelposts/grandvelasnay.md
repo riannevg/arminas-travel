@@ -6,7 +6,6 @@ featured: false
 categories:
   - Nueva-Vallarta
   - Puerto-Vallarta
-  - Punta-Mita
 header_image: /images/hotels/velasnayarit/velasnayarit5.jpg
 position: photo-center
 ---
