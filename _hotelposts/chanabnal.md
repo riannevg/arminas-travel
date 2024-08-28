@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-title: Quinta Chanabnal
+title: Boutique Hotel Quinta Chanabnal
 location: Palenque
 featured: false
 categories:
@@ -8,7 +8,7 @@ categories:
 header_image: /images/hotels/quintachan/quintachan1.jpg
 position: photo-center
 ---
-## Chanabnal: A Serene Retreat Amidst Palenque’s Natural Beauty
+## Boutique Hotel Quinta Chanabnal: A Serene Retreat Amidst Palenque’s Natural Beauty
 
 &nbsp;
 
@@ -18,19 +18,19 @@ position: photo-center
 
 ### Location
 
-Chanabnal is located in the lush jungle surrounding Palenque, offering a serene retreat just a short distance from the famous archaeological site. The hotel's setting amidst verdant rainforest provides guests with a tranquil escape, perfect for immersing themselves in the natural beauty of the region. With easy access to the Palenque ruins and nearby waterfalls, Chanabnal is ideally situated for those looking to explore both the cultural and natural wonders of Chiapas.
+Boutique Hotel Quinta Chanabnal is located in the lush jungle surrounding Palenque, offering a serene retreat just a short distance from the famous archaeological site. The hotel's setting amidst verdant rainforest provides guests with a tranquil escape, perfect for immersing themselves in the natural beauty of the region. With easy access to the Palenque ruins and nearby waterfalls, Chanabnal is ideally situated for those looking to explore both the cultural and natural wonders of Chiapas.
 
 ![](/images/hotels/quintachan/quintachan2.jpg)
 
 ### What to Do at the Hotel
 
-At Chanabnal, guests can enjoy a range of activities designed to connect with the natural surroundings. The hotel’s extensive grounds feature beautifully landscaped gardens and a natural swimming pool, ideal for relaxing after a day of exploration. The on-site spa offers a variety of treatments using local and natural ingredients, enhancing the rejuvenating experience. Chanabnal also provides guided tours to the Palenque archaeological site and other local attractions, ensuring guests can fully experience the rich history and natural beauty of the area.
+At Boutique Hotel Quinta Chanabnal, guests can enjoy a range of activities designed to connect with the natural surroundings. The hotel’s extensive grounds feature beautifully landscaped gardens and a natural swimming pool, ideal for relaxing after a day of exploration. The on-site spa offers a variety of treatments using local and natural ingredients, enhancing the rejuvenating experience. Chanabnal also provides guided tours to the Palenque archaeological site and other local attractions, ensuring guests can fully experience the rich history and natural beauty of the area.
 
 ![](/images/hotels/quintachan/quintachan3.jpg)
 
 ### Dining at Chanabnal
 
-Chanabnal’s dining options reflect the region’s rich culinary heritage. The hotel’s restaurant serves a selection of traditional Mexican dishes, prepared with fresh, locally sourced ingredients. Guests can enjoy their meals in a relaxed and elegant setting, with views of the surrounding jungle. The emphasis on local flavors and seasonal produce ensures a delicious and authentic dining experience, complementing the natural beauty of the hotel’s location.
+Boutique Hotel Quinta Chanabnal's dining options reflect the region’s rich culinary heritage. The hotel’s restaurant serves a selection of traditional Mexican dishes, prepared with fresh, locally sourced ingredients. Guests can enjoy their meals in a relaxed and elegant setting, with views of the surrounding jungle. The emphasis on local flavors and seasonal produce ensures a delicious and authentic dining experience, complementing the natural beauty of the hotel’s location.
 
 ### Why We Recommend This Hotel
 

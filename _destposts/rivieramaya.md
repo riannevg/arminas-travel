@@ -68,7 +68,7 @@ The Riviera Maya is more than a destination; it’s an experience that caters to
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/palmaia">
         <div class="bg-image square" style="background-image:url('/images/hotels/palmaia/palmaia3.jpg')">  </div>
-        <h3 class='center'>Palmaia House of Aia</h3>        
+        <h3 class='center'>Palmaia House of AiA</h3>        
     </a>  
 </div>
 
@@ -79,6 +79,26 @@ The Riviera Maya is more than a destination; it’s an experience that caters to
     </a>  
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/grandvelasrm">
+        <div class="bg-image square" style="background-image:url('/images/hotels/grandvelasrm/grandvelasrm.jpg')">  </div>
+        <h3 class='center'>Grand Velas Riviera Maya</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/etereo">
+        <div class="bg-image square" style="background-image:url('/images/hotels/etereo/etereo.webp')">  </div>
+        <h3 class='center'>Etereo, Auberge Resorts Collection</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/kanai">
+        <div class="bg-image square" style="background-image:url('/images/hotels/kanai/kanai.jpeg')">  </div>
+        <h3 class='center'>St. Regis Kanai Riviera Maya</h3>        
+    </a>  
+</div>
 
 </section>
 

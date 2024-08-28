@@ -39,7 +39,7 @@ Acapulco’s allure lies in its ability to cater to all types of travelers. Its 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/banyanaca">
         <div class="bg-image square" style="background-image:url('/images/hotels/banyanaca/banyanaca1.webp')">  </div>
-        <h3 class='center'>Banyan Tree Acapulco</h3>        
+        <h3 class='center'>Banyan Tree Cabo Marques</h3>        
     </a>  
 </div>
 </section>

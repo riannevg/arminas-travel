@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-title: Casa Gustavo
+title: Casa Don Gustavo
 location: Campeche
 featured: false
 categories:
@@ -8,7 +8,7 @@ categories:
 header_image: /images/hotels/casagustavo/casagustavo4.jpg
 position: photo-center
 ---
-## Hotel Gustavo Campeche: A Charming Stay in Historic Campeche
+## Casa Don Gustavo Campeche: A Charming Stay in Historic Campeche
 
 &nbsp;
 
@@ -18,19 +18,19 @@ position: photo-center
 
 ### Location
 
-Hotel Gustavo is located in the heart of Campeche’s historic center, a UNESCO World Heritage site known for its well-preserved colonial architecture and vibrant cultural scene. The hotel’s central location offers guests easy access to the city’s main attractions, including the Campeche Cathedral, the historic city walls, and the lively local markets. Its proximity to these landmarks allows guests to immerse themselves in the rich history and unique charm of Campeche.
+Casa Don Gustavo is located in the heart of Campeche’s historic center, a UNESCO World Heritage site known for its well-preserved colonial architecture and vibrant cultural scene. The hotel’s central location offers guests easy access to the city’s main attractions, including the Campeche Cathedral, the historic city walls, and the lively local markets. Its proximity to these landmarks allows guests to immerse themselves in the rich history and unique charm of Campeche.
 
 ![](/images/hotels/casagustavo/casagustavo2.jpg)
 
 ### What to Do at the Hotel
 
-Hotel Gustavo provides a range of amenities designed to ensure a comfortable and enjoyable stay. The hotel features a cozy and inviting atmosphere, with well-appointed rooms that offer modern comforts in a historic setting. Guests can start their day with a complimentary breakfast served in the hotel’s dining area. The hotel’s central location makes it easy to explore Campeche’s historic sites, local shops, and dining options. The friendly staff at Hotel Gustavo can assist with arranging local tours and activities to help guests make the most of their visit.
+Casa Don Gustavo provides a range of amenities designed to ensure a comfortable and enjoyable stay. The hotel features a cozy and inviting atmosphere, with well-appointed rooms that offer modern comforts in a historic setting. Guests can start their day with a complimentary breakfast served in the hotel’s dining area. The hotel’s central location makes it easy to explore Campeche’s historic sites, local shops, and dining options. The friendly staff at Hotel Gustavo can assist with arranging local tours and activities to help guests make the most of their visit.
 
 ![](/images/hotels/casagustavo/casagustavo1.jpg)
 
 ### Dining at Hotel Gustavo
 
-Hotel Gustavo offers a charming dining experience with a focus on local flavors. The hotel’s restaurant serves a selection of traditional Campechan cuisine, featuring fresh, locally sourced ingredients. Guests can enjoy a variety of regional dishes in a relaxed and welcoming environment. The hotel’s dining area provides a comfortable setting for enjoying breakfast or a casual meal during the day.
+Casa Don Gustavo offers a charming dining experience with a focus on local flavors. The hotel’s restaurant serves a selection of traditional Campechan cuisine, featuring fresh, locally sourced ingredients. Guests can enjoy a variety of regional dishes in a relaxed and welcoming environment. The hotel’s dining area provides a comfortable setting for enjoying breakfast or a casual meal during the day.
 
 ![](/images/hotels/casagustavo/casagustavo3.jpg)
 
