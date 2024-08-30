@@ -11,7 +11,7 @@ position: photo-center
 ## SHA Wellness Clinic Cancun
 &nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/L1fZciYEPA0' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/R-UhsusuzXs' frameborder='0' allowfullscreen></iframe></div>
 
 
 Nestled in the serene surroundings of Cancun, **SHA Wellness** is a holistic wellness retreat that harmonizes luxury with well-being. This world-renowned resort offers guests a transformative experience focused on health, relaxation, and rejuvenation. SHA combines ancient oriental disciplines with the latest advances in Western medicine to provide a unique, integrative approach to wellness.

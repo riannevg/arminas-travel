@@ -10,11 +10,12 @@ categories:
   - Cancun-Tours
   - Riviera-Maya-Tours
 header_image: /images/destinations/yucatan/yucatan5.jpg
-slider_one_image: /images/destinations/yucatan/chichen.jpg
-slider_two_image: /images/destinations/yucatan/yucatan.jpg
-slider_three_image: /images/destinations/yucatan/yucatan8.jpg
-slider_four_image: /images/destinations/merida/merida14.jpg
-position: photo-center
+slider_one_image: /images/destinations/yucatan/yucatan5.jpg
+slider_two_image: /images/destinations/tulum/tulum12.jpg
+slider_three_image: /images/destinations/palenque/palenque11.jpg
+slider_four_image: /images/destinations/campeche/campeche.jpg
+position-3: photo-bottom
+position-4: photo-center
 ---
 
 ### Day 1: Cancun/Riviera Maya – Caverns – Tulum – Coba – Chetumal

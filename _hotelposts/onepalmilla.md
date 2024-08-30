@@ -5,7 +5,7 @@ location: Los Cabos
 featured: false
 categories:
   - Los-Cabos
-header_image: /images/hotels/onepalmilla/onepalmilla1.jpg
+header_image: /images/hotels/onepalmilla/onepalmilla7.jpg
 position: photo-center
 ---
 ## One&Only Palmilla: Iconic Luxury with Timeless Charm
@@ -26,7 +26,7 @@ One&Only Palmilla is located on the pristine shores of the Baja California Penin
 
 One&Only Palmilla offers a wide range of amenities and activities designed to provide a luxurious and engaging experience. The resort features multiple outdoor pools, including an infinity pool overlooking the ocean, and a private beach area for sunbathing and water activities. Guests can indulge in treatments at the full-service spa, which offers a selection of wellness and beauty therapies. The resort also provides opportunities for golf, with access to the nearby Jack Nicklaus-designed course, as well as various water sports and fitness classes. The concierge team is available to assist with arranging local excursions, including visits to nearby art galleries, historic sites, and nature reserves.
 
-![](/images/hotels/onepalmilla/onepalmilla3.jpg)
+![](/images/hotels/onepalmilla/onepalmilla6.jpg)
 
 ### Dining at One&Only Palmilla
 

@@ -4,8 +4,8 @@ name: Mexico City
 featured: true
 categories:
   - Mexico-City
-header_image: /images/destinations/cdmx/cdmx17.jpg
-position: photo-bottom
+header_image: /images/destinations/cdmx/cdmx18.jpg
+position: photo-center
 ---
 # **Mexico City: A Vibrant Metropolis of History, Culture, and Cuisine**
 
@@ -21,7 +21,7 @@ The historic center of Mexico City, known as Centro Histórico, is a UNESCO Worl
 
 Another must-visit is Chapultepec Park, one of the largest urban parks in the world. Within its vast grounds, you’ll find the Chapultepec Castle, which offers panoramic views of the city, and the renowned Museo Nacional de Antropología, home to an extensive collection of artifacts from Mexico’s diverse indigenous cultures. The trendy neighborhoods of Roma and Condesa are perfect for exploring on foot, with their tree-lined streets, stylish boutiques, and vibrant nightlife.
 
-![Mexico City](/images/destinations/cdmx/cdmx17.jpg)
+![Mexico City](/images/destinations/cdmx/cdmx19.jpg)
 
 **Activities and Adventures**
 
@@ -72,7 +72,7 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/ritzcdmx">
-        <div class="bg-image square" style="background-image:url('/images/hotels/ritzcdmx/ritzcdmx2.jpeg')">  </div>
+        <div class="bg-image square" style="background-image:url('/images/hotels/ritzcdmx/ritz8.jpg')">  </div>
         <h3 class='center'>Ritz Carlton</h3>        
     </a>  
 </div>

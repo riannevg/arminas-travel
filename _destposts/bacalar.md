@@ -36,7 +36,7 @@ Bacalar’s unspoiled beauty and tranquil ambiance make it an ideal destination 
 <section class='grid'>
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/akalki">
-        <div class="bg-image square" style="background-image:url('/images/hotels/akalki/akalki2.png')">  </div>
+        <div class="bg-image square" style="background-image:url('/images/hotels/akalki/akalki7.jpeg')">  </div>
         <h3 class='center'>Akalki Hotel</h3>        
     </a>  
 </div>

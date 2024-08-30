@@ -5,7 +5,7 @@ weight: 13
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
-header_image: /images/destinations/cancun/coba.jpg
+header_image: /images/destinations/tulum/tulum13.jpg
 position: photo-center
 ---
 ## Ancient Coba & Cultural Immersion

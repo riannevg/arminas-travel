@@ -5,7 +5,7 @@ location: Bacalar
 featured: false
 categories:
   - Bacalar
-header_image: /images/hotels/akalki/akalki2.png
+header_image: /images/hotels/akalki/akalki7.jpeg
 position: photo-center
 ---
 ## Akalki: A Tranquil Retreat on the Shores of Bacalar
@@ -24,7 +24,7 @@ Nestled on the pristine shores of the Bacalar Lagoon, also known as the Lagoon o
 
 At Akalki, relaxation and rejuvenation are at the forefront of the guest experience. The hotel’s overwater bungalows provide direct access to the lagoon, where you can start your day with a refreshing swim in the crystal-clear waters. The on-site spa offers a variety of treatments, including massages and wellness therapies that incorporate natural ingredients from the region. For those seeking a deeper connection with nature, the hotel offers guided tours of the lagoon, kayaking, and paddleboarding. Yoga sessions are also available, allowing guests to find inner peace while taking in the breathtaking views of the lagoon.
 
-![](/images/hotels/akalki/akalki5.png)
+![](/images/hotels/akalki/akalki9.jpg)
 
 ### Why We Recommend This Hotel
 

@@ -45,7 +45,7 @@ Tulum’s unique combination of serene natural beauty and dynamic party scene ma
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/casamalca">
-        <div class="bg-image square" style="background-image:url('/images/hotels/casamalca/casamalca5.png')">  </div>
+        <div class="bg-image square" style="background-image:url('/images/hotels/casamalca/casamalca8.jpeg')">  </div>
         <h3 class='center'>Casa Malca</h3>        
     </a>  
 </div>
@@ -71,6 +71,12 @@ Tulum’s unique combination of serene natural beauty and dynamic party scene ma
     </a>  
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/conrad">
+        <div class="bg-image square" style="background-image:url('/images/hotels/conrad/conrad9.jpg')"></div>
+        <h3 class='center'>Conrad Tulum</h3>        
+    </a>  
+</div>
 
 </section>
 

@@ -1,11 +1,11 @@
 ---
 layout: hotel-layout
-title: Maroma, a Belmond Hotel
+title: Maroma, A Belmond Hotel
 location: Riviera Maya
 featured: false
 categories:
   - Riviera-Maya
-header_image: /images/hotels/belmond/belmond4.jpg
+header_image: /images/hotels/belmond/belmond6.jpg
 position: photo-center
 ---
 ## Maroma, a Belmond Hotel: A Timeless Escape in the Riviera Maya
@@ -16,19 +16,21 @@ position: photo-center
 
 <div class="embed-container"><iframe src="https://www.youtube.com/embed/tgD52aO6cM8" frameborder="0" allowfullscreen=""></iframe></div>
 
+&nbsp;
+
 ### Location
 
-Belmond Maroma is located on the stunning white sands of Maroma Beach, one of the most beautiful and tranquil beaches in the Riviera Maya. Surrounded by lush jungle and the turquoise waters of the Caribbean Sea, this luxurious resort offers a serene and secluded environment while being just a short drive from the lively town of Playa del Carmen. The hotel’s location provides the perfect balance between relaxation and access to the cultural and natural wonders of the region.
+Maroma, A Belmond Hotel is located on the stunning white sands of Maroma Beach, one of the most beautiful and tranquil beaches in the Riviera Maya. Surrounded by lush jungle and the turquoise waters of the Caribbean Sea, this luxurious resort offers a serene and secluded environment while being just a short drive from the lively town of Playa del Carmen. The hotel’s location provides the perfect balance between relaxation and access to the cultural and natural wonders of the region.
 
 ![](/images/hotels/belmond/belmond5.jpg)
 
 ### What to Do at the Hotel
 
-At Belmond Maroma, guests can indulge in a range of activities designed to rejuvenate the mind, body, and soul. The resort’s Kinan Spa, inspired by ancient Mayan traditions, offers a variety of holistic treatments that promote healing and relaxation. For those looking to stay active, the resort offers yoga sessions, beach volleyball, and snorkeling in the vibrant coral reefs just offshore. The hotel also organizes guided tours to nearby cenotes and archaeological sites, allowing guests to explore the rich history and natural beauty of the Yucatán Peninsula.
+At Maroma guests can indulge in a range of activities designed to rejuvenate the mind, body, and soul. Maroma Spa by Guerlain is a temple where rituals of purification and rebirth take place. Here, healing experiences and massages are born from the power of nature, celebrating both Maya culture and the French maison’s wellness expertise. For those looking to stay active, the resort offers yoga sessions, beach volleyball, and snorkeling in the vibrant coral reefs just offshore. The hotel also organizes guided tours to nearby cenotes and archaeological sites, allowing guests to explore the rich history and natural beauty of the Yucatán Peninsula.
 
-### Dining at Belmond Maroma
+### Dining at Maroma
 
-Belmond Maroma is renowned for its exceptional culinary offerings, which highlight the flavors of the region. The resort’s signature restaurant, El Sol, serves contemporary Mexican cuisine with a focus on fresh, local ingredients. Guests can enjoy their meals with stunning ocean views, making every dining experience truly memorable. For a more casual setting, the beachfront restaurant, Freddy’s Bar, offers fresh seafood and tropical cocktails, perfect for a laid-back lunch or sunset dinner.
+Discover culinary excellence at Maroma, where tradition meets innovation. Executive Chef Daniel Camacho at Casa Mayor crafts dishes with a sustainable ethos, using 90% local Mexican ingredients. The Michelin-starred chef Curtis Stone introduces his signature flair over open fires at Woodend by Curtis Stone, pairing fresh seafood with Latin marinades against ocean views. Experience creative mixology at Bambuco by Handshake, the legendary speakeasy bar awarded the #1 in North America by 50 Best while Freddy's Bar offers sustainable sips and bites with a beachside vibe. From vibrant ceviches to organic tacos, the gastronomy at Maroma is an homage to the rich flavors and spirits of Mexico
 
 ![](/images/hotels/belmond/belmond2.jpg)
 
@@ -36,9 +38,9 @@ Belmond Maroma is renowned for its exceptional culinary offerings, which highlig
 
 **Pristine Maroma Beach:** The resort’s location on Maroma Beach offers guests access to one of the most beautiful and tranquil beaches in the Riviera Maya.&nbsp;
 
-**Kinan Spa:** The on-site Kinan Spa provides a range of holistic treatments inspired by Mayan traditions, offering a deeply relaxing and rejuvenating experience.&nbsp;
+**Maroma Spa by Guerlain:** The on-site Maroma Spa by Guerlain provides a range of holistic treatments inspired by Mayan traditions, offering a deeply relaxing and rejuvenating experience.&nbsp;
 
-**Exceptional Dining:** With its focus on contemporary Mexican cuisine and fresh, local ingredients, Belmond Maroma’s restaurants provide a culinary experience that is both authentic and exquisite.
+**Exceptional Dining:** With its focus on contemporary Mexican cuisine and fresh, local ingredients, Maroma’s restaurants provide a culinary experience that is both authentic and exquisite.
 
 <div class='map-container center'>
 

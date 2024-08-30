@@ -5,8 +5,8 @@ location: Tulum
 featured: false
 categories:
   - Tulum
-header_image: /images/hotels/casamalca/casamalca5.png
-position: photo-center
+header_image: /images/hotels/casamalca/casamalca8.jpeg
+position: photo-bottom
 ---
 ## Casa Malca: An Artistic Retreat on Tulum’s Stunning Coastline
 
@@ -20,13 +20,13 @@ position: photo-center
 
 Casa Malca is located on Tulum’s breathtaking coastline, offering guests a unique blend of art, luxury, and natural beauty. Positioned on a private stretch of beach, the hotel provides direct access to the Caribbean Sea’s pristine waters and powdery white sands. The tranquil setting is complemented by the lush tropical surroundings and the nearby Sian Ka'an Biosphere Reserve, making it an ideal destination for those seeking both relaxation and adventure.
 
-![](/images/hotels/casamalca/casamalca1.jpg)
+![](/images/hotels/casamalca/casamalca7.jpeg)
 
 ### What to Do at the Hotel
 
 Casa Malca is renowned for its artistic flair and luxurious amenities. Guests can explore the hotel's eclectic art collection, which features works by renowned international and local artists. The resort offers a range of activities, including snorkeling, paddleboarding, and yoga classes on the beach. The private beach area is perfect for lounging or enjoying water sports. For those seeking relaxation, the on-site spa provides a variety of treatments designed to rejuvenate and revitalize. Casa Malca also hosts exclusive events and cultural experiences, adding to the vibrant atmosphere of the resort.
 
-![](/images/hotels/casamalca/casamalca2.png)
+![](/images/hotels/casamalca/casamalca6.jpeg)
 
 ### Dining at Casa Malca
 

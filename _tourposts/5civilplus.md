@@ -10,10 +10,10 @@ categories:
   - Mexico-City-Tours
 header_image: /images/destinations/palenque/palenque9.jpg
 slider_one_image: /images/destinations/cdmx/cdmx18.jpg
-slider_two_image: /images/destinations/merida/merida10.jpg
+slider_two_image: /images/destinations/merida/merida15.jpg
 slider_three_image: /images/destinations/cdmx/teotihuacan.jpg
 slider_four_image: /images/destinations/acapulco/acapulco.jpg
-position: photo-center
+position-2: photo-bottom
 ---
 
 ### Day 1: Arrival in Mexico City

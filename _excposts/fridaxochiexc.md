@@ -4,7 +4,7 @@ title: Frida Kahlo Museum, Leon Trotsky Museum & Xochimilco
 weight: 4
 categories:
   - Mexico-City-Excursions
-header_image: /images/destinations/cdmx/cdmx13.jpg
+header_image: /images/destinations/cdmx/cdmx22.webp
 position: photo-center
 ---
 ## Frida Kahlo Museum, Leon Trotsky Museum & Xochimilco

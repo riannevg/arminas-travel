@@ -4,7 +4,7 @@ title: Garrafon
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
-header_image: /images/destinations/cancun/cancun1.jpg
+header_image: /images/destinations/cancun/garrafon.webp
 position: photo-center
 ---
 ## Garrafon Parque

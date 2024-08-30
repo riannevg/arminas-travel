@@ -6,7 +6,7 @@ featured: false
 categories:
   - Nueva-Vallarta
   - Puerto-Vallarta
-header_image: /images/hotels/velasnayarit/velasnayarit5.jpg
+header_image: /images/hotels/velasnayarit/velasnayarit7.webp
 position: photo-center
 ---
 ## Grand Velas Nayarit: Unparalleled Luxury on the Riviera Nayarit
@@ -21,13 +21,13 @@ position: photo-center
 
 Grand Velas Nayarit is set along the stunning coastline of the Riviera Nayarit, offering guests a luxurious beachfront retreat. Situated near the charming town of Nuevo Vallarta, the resort provides breathtaking views of the Pacific Ocean and easy access to the region’s natural beauty and attractions. The hotel's location also allows guests to explore nearby golf courses, marinas, and the vibrant city of Puerto Vallarta, making it an ideal destination for both relaxation and adventure.
 
-![](/images/hotels/velasnayarit/velasnayarit1.jpg)
+![](/images/hotels/velasnayarit/velasnayarit8.webp)
 
 ### What to Do at the Hotel
 
 Grand Velas Nayarit offers an array of world-class amenities designed for a truly luxurious experience. The resort features expansive pools, including an infinity pool with panoramic ocean views. Guests can indulge in a variety of treatments at the renowned SE Spa, which combines ancient and contemporary techniques to promote relaxation and wellness. For those seeking adventure, the hotel provides opportunities for water sports, including kayaking and paddleboarding. Additionally, the resort’s concierge can assist with arranging excursions to explore the beautiful landscapes and cultural sites of the Riviera Nayarit.
 
-![](/images/hotels/velasnayarit/velasnayarit2.jpg)
+![](/images/hotels/velasnayarit/velasnayarit6.webp)
 
 ### Dining at Grand Velas Nayarit
 

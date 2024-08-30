@@ -1,11 +1,11 @@
 ---
 layout: exc-layout
-title: Ek Balam & Valladolid
+title: Ek Balam & Rio Lagartos
 weight: 10
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
-header_image: /images/destinations/yucatan/yucatan1.jpg
+header_image: /images/destinations/yucatan/riolagartos.jpg
 position: photo-center
 ---
 ## Ek Balam and Rio Lagartos

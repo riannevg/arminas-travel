@@ -7,12 +7,13 @@ featured: false
 categories:
   - Cancun-Tours
   - Riviera-Maya-Tours
-header_image: /images/destinations/yucatan/yucatan4.jpg
-slider_one_image: /images/destinations/yucatan/chichen.jpg
-slider_two_image: /images/destinations/yucatan/yucatan.jpg
-slider_three_image: /images/destinations/yucatan/yucatan6.jpg
-slider_four_image: /images/destinations/merida/merida12.jpg
-position: photo-center
+header_image: /images/destinations/yucatan/uxmal.jpg
+slider_one_image: /images/destinations/yucatan/ekbalam2.jpg
+slider_two_image: /images/destinations/yucatan/ekbalam.jpg
+slider_three_image: /images/destinations/yucatan/yucatan8.jpg
+slider_four_image: /images/destinations/yucatan/yucatan2.jpg
+position-1: photo-bottom
+position-4: photo-bottom
 ---
 
 ### Day 1: Cancun – Chichen Itza – Merida
