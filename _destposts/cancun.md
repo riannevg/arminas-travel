@@ -37,12 +37,7 @@ Cancun is more than just a beach destination; it’s a gateway to a myriad of ex
     </a>  
 </div>
 
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/impressions">
-        <div class="bg-image square" style="background-image:url('/images/hotels/impressions/impressions1.webp')">  </div>
-        <h3 class='center'>Impression Isla Mujeres</h3>        
-    </a>  
-</div>
+
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/intercontinental">
@@ -72,12 +67,21 @@ Cancun is more than just a beach destination; it’s a gateway to a myriad of ex
     </a>  
 </div>
 
-    <div class="col-3_sm-4_xs-6 padded-1">
+ <div class="col-3_sm-4_xs-6 padded-1">
         <a href="/hotels/waldorf">
             <div class="bg-image square" style="background-image:url('/images/hotels/waldorf/waldorf3.jpg')">  </div>
             <h3 class='center'>Walforf Astoria Cancun</h3>        
         </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+        <a href="/hotels/impressions">
+            <div class="bg-image square" style="background-image:url('/images/hotels/impressions/impressions1.webp')">  </div>
+            <h3 class='center'>Impression Isla Mujeres</h3>        
+        </a>  
     </div>
+
+    
 
 </section>
 
