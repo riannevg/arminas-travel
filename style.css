@@ -103,10 +103,6 @@ p{
     margin-bottom:2rem;
 }
 
-/* Text for search box */
-.aa-Input{font-family:var(--sans-serif);}
-.aa-SubmitButton{padding-bottom:1rem;}
-
 
 .tiny-letter{
     font-size:0.5rem;
@@ -155,6 +151,13 @@ ul{
 li{
     margin-bottom:1rem;
 }
+
+/* Search box */
+
+.gsc-input{
+    font-size:1px;
+}
+
 /* Add image styles */
 .portrait{padding-bottom:125%;}
 .square{padding-bottom:100%;}
