@@ -6,7 +6,7 @@ featured: true
 categories:
   - Mexico-City
 header_image: /images/hotels/fourseasonsmex/fourseasonsmex2.jpg
-position: photo-center
+position: photo-bottom
 ---
 ## Four Seasons Mexico City: Sophistication and Comfort in the Heart of the Capital
 
