@@ -5,7 +5,7 @@ location: Riviera Maya
 featured: false
 categories:
   - Riviera-Maya
-header_image: /images/hotels/grandvelasrm/grandvelasrm.jpg
+header_image: /images/hotels/grandvelasrm/grandvelasrm4.jpg
 position: photo-center
 ---
 
@@ -23,17 +23,19 @@ The resort is renowned for its exceptional culinary offerings, with eight signat
 
 Grand Velas Riviera Maya offers spacious suites, each designed with comfort and luxury in mind. The suites feature private terraces with stunning views of the jungle or ocean, large living areas, and premium amenities such as 24-hour in-suite dining, Nespresso machines, and luxurious bathrooms with Jacuzzi tubs.
 
-![](/images/hotels/grandvelasrm/grandvelasrm2.jpg)
+![](/images/hotels/grandvelasrm/grandvelasrm5.jpg)
 
 ### Dining
 
-The resort's culinary scene is one of its highlights, with eight gourmet restaurants that cater to a wide range of tastes. From the innovative Mexican cuisine at Cocina de Autor to the elegant French dishes at Piaf, each dining experience is designed to delight the senses. Guests can also enjoy casual beachfront dining, poolside snacks, and sophisticated cocktail lounges.
+The resort's culinary scene is one of its highlights, with eight gourmet restaurants that cater to a wide range of tastes. From the innovative Mexican cuisine at Cocina de Autor (1 Michelin Star / Forbes 5*) to the elegant French dishes at Piaf, each dining experience is designed to delight the senses. Guests can also enjoy casual beachfront dining, poolside snacks, and sophisticated cocktail lounges.
+
+![](/images/hotels/grandvelasrm/grandvelasrm7.jpg)
 
 ### Activities
 
 Grand Velas Riviera Maya offers a variety of activities to suit every interest. Guests can participate in yoga and meditation sessions, explore the vibrant marine life through snorkeling and diving excursions, or embark on cultural tours to nearby Mayan ruins. The resort also features a state-of-the-art fitness center, multiple infinity pools, and a kids' club that provides entertainment and activities for younger guests.
 
-![](/images/hotels/grandvelasrm/grandvelasrm3.jpg)
+![](/images/hotels/grandvelasrm/grandvelasrm6.jpg)
 
 ### Why We Recommend This Hotel
 
