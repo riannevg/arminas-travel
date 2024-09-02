@@ -7,7 +7,7 @@ categories:
   - Tulum
   - Riviera-Maya
 header_image: /images/hotels/conrad/conrad9.jpg
-position: photo-bottom
+position: photo-center
 ---
 
 ## Conrad Tulum
