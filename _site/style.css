@@ -447,10 +447,19 @@ header nav a:hover{
     border-bottom:2px solid #DEEDF6;    
 }
 
+a.margin-t-1.ars{
+    padding-bottom:0;
+    margin-bottom:-10px;
+}
+
+
 header nav a.ars:hover{
     border-bottom:white;
 }
 
+.ars{
+    margin-top:10px;
+}
 
 
 a.button:hover{
