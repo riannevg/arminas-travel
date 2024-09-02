@@ -13,7 +13,7 @@ position: photo-center
 
 &nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/pLigiZXuyAE' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/7GyG2K5NVrA' frameborder='0' allowfullscreen></iframe></div>
 
 Grand Velas Riviera Maya is a luxury all-inclusive resort nestled in the heart of the Riviera Maya, offering a blend of stunning natural beauty and world-class amenities. Set along the pristine beaches of Playa del Carmen, this resort is divided into three distinct sections, each catering to different guest preferences: Zen Grand for a tranquil jungle experience, Ambassador for family-friendly beachfront luxury, and Grand Class for adults-only exclusivity.
 

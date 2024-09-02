@@ -174,6 +174,7 @@ li{
 .photo-bottom { background-position: bottom; }
 .photo-center {background-position:center;}
 .photo-bottom-center{background-position:bottom center;}
+.photo-center-left{background-position:center left;}
 
 .bg-cdmx{
     background-image:url('/images/destinations/cdmx/cdmx17.jpg')
@@ -439,11 +440,27 @@ header nav a{
     text-transform:uppercase;
 }
 
+header div a{
+    font-size:1.2rem;
+    text-decoration:none;
+    color:inherit;
+    padding:0.5rem;
+    margin:0.5rem;
+    font-family:var(--sans-serif);
+    font-weight:300;
+    text-transform:uppercase;
+}
+
+
 a.social{
     margin:0;
 }
 
 header nav a:hover{
+    border-bottom:2px solid #DEEDF6;    
+}
+
+header div a:hover{
     border-bottom:2px solid #DEEDF6;    
 }
 
@@ -457,10 +474,10 @@ header nav a.ars:hover{
     border-bottom:white;
 }
 
-.ars{
-    margin-top:10px;
+#ars{      
+    margin-bottom:0;
+    line-height:1;
 }
-
 
 a.button:hover{
     border-bottom:1px solid black;}
