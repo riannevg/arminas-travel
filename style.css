@@ -429,6 +429,11 @@ select{
 }
 
 /* Header styles */
+
+header nav{
+    padding-left:0;
+    padding-right:0;
+}
 header nav a{
     font-size:1.2rem;
     text-decoration:none;
