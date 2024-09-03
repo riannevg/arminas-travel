@@ -5,25 +5,27 @@ location: Tulum
 featured: falses
 categories:
   - Tulum
-header_image: /images/hotels/nomade/nomade1.jpg
-position: photo-center
+header_image: /images/hotels/nomade/nomade3.jpg
+position: photo-bottom
 ---
 
 ## Nomade Tulum  
 &nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
-
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/cgHR3TzpEf8" frameborder="0" allowfullscreen=""></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/jwpO7i_nJeY' frameborder='0' allowfullscreen></iframe></div>
 
 
 ### Location  
 Nomade Tulum is a tranquil haven nestled within the lush tropical jungle of Tulum, situated right along the pristine beaches of the Riviera Maya. This bohemian-style retreat blends seamlessly with its natural surroundings, offering guests an immersive experience in the heart of nature while being just a short drive away from Tulum's vibrant town center and the nearby Mayan ruins.  
 &nbsp;
 
+![](/images/hotels/nomade/nomade1.jpg)
+
 ### What to Do at the Hotel  
 At Nomade Tulum, every aspect of your stay is designed to nourish your mind, body, and soul. Start your day with a sunrise yoga session on the beach, followed by a refreshing dip in the turquoise waters. The hotel also offers unique wellness experiences, including sound healing sessions and meditation classes. For those seeking adventure, explore the nearby cenotes or take part in the hotel's organized excursions. Evenings are perfect for enjoying live music under the stars or dining at one of the hotel's exquisite restaurants.  
 &nbsp;
+
+![](/images/hotels/nomade/nomade2.jpg)
 
 ### Why We Recommend This Hotel  
 - **Immersive Wellness Experiences:** Nomade Tulum provides a holistic approach to relaxation with its range of wellness activities designed to rejuvenate guests.  

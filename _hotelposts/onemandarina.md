@@ -6,7 +6,7 @@ featured: false
 categories:
   - Puerto-Vallarta
   - Punta-Mita
-header_image: /images/hotels/onemandarina/onemandarina1.webp
+header_image: /images/hotels/onemandarina/onemandarina7.jpg
 position: photo-center
 ---
 ## One&Only Mandarina: Ultra-Luxury in a Pristine Natural Setting
@@ -21,13 +21,13 @@ position: photo-center
 
 One&Only Mandarina is nestled in the lush, unspoiled landscape of the Riviera Nayarit, offering guests a unique blend of luxury and nature. Located on a secluded stretch of coastline, the resort provides breathtaking views of the Pacific Ocean and surrounding jungle. Its remote setting allows guests to immerse themselves in the natural beauty of the area while enjoying unparalleled privacy and serenity. The resort’s location also provides easy access to nearby attractions, including the charming town of Sayulita and various ecological reserves.
 
-![](/images/hotels/onemandarina/onemandarina2.webp)
+![](/images/hotels/onemandarina/onemandarina8.jpg)
 
 ### What to Do at the Hotel
 
 One&Only Mandarina is designed to offer an array of luxurious and immersive experiences. The resort features multiple outdoor pools, including an infinity pool with stunning ocean views. Guests can unwind at the full-service spa, which offers a range of treatments and therapies inspired by local traditions. The resort also provides a variety of recreational activities, such as guided nature walks, yoga classes, and water sports. For those seeking adventure, the concierge team can arrange excursions to explore nearby rainforests, waterfalls, and surf spots.
 
-![](/images/hotels/onemandarina/onemandarina4.webp)
+![](/images/hotels/onemandarina/onemandarina9.jpg)
 
 ### Dining at One&Only Mandarina
 

@@ -5,7 +5,7 @@ location: Mexico City
 featured: false
 categories:
   - Mexico-City
-header_image: /images/hotels/casapolanco/casapolanco4.jpg
+header_image: /images/hotels/casapolanco/casapolanco9.jpg
 position: photo-center
 ---
 ## Casa Polanco: A Sophisticated Oasis in Mexico City
@@ -20,13 +20,13 @@ position: photo-center
 
 Casa Polanco is situated in one of Mexico City's most upscale neighborhoods, offering guests a luxurious retreat amidst the vibrant energy of the city. Located in the heart of Polanco, the hotel is surrounded by high-end boutiques, fine dining restaurants, and cultural attractions. Its central location provides easy access to key landmarks such as Chapultepec Park, the National Museum of Anthropology, and the lively dining and shopping scene along Presidente Masaryk Avenue.
 
-![](/images/hotels/casapolanco/casapolanco1.jpg)
+![](/images/hotels/casapolanco/casapolanco8.jpg)
 
 ### What to Do at the Hotel
 
 Casa Polanco provides a refined and relaxing experience within Mexico City's bustling environment. Guests can enjoy the hotel’s elegantly designed spaces, including a chic lounge and a rooftop terrace with stunning city views. The on-site spa offers a range of treatments tailored to rejuvenate and refresh after a day of exploring the city. The hotel also features a well-equipped fitness center and a stylish bar where guests can unwind with cocktails or a selection of fine wines. Casa Polanco’s concierge service can assist with arranging personalized city tours, restaurant reservations, and cultural experiences.
 
-![](/images/hotels/casapolanco/casapolanco3.jpg)
+![](/images/hotels/casapolanco/casapolanco7.jpg)
 
 ### Dining at Casa Polanco
 

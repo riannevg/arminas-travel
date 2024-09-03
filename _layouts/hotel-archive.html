@@ -4,11 +4,11 @@ layout: default
 
 <section class="grid-spaceAround-top center padded-5 blog">
     <div class="col-11">
-        <h2 class="center margin-b-1">Our favorite hotels in {{ page.category }}</h2>        
+        <h2 class="center margin-b-1">Our favorite hotels in {{ page.category | replace: "-", " " }}</h2>        
        
         <div class="col-11 padded-1 grid-spaceAround center">
      
-            {% assign posts_in_category = site.hotelposts | where: "categories", page.category %}
+            {% assign posts_in_category = site.hotelposts | where: "categories", page.category  %}
             {% for post in posts_in_category %}
             <div class="col-3_sm-4_xs-6 padded-1">
             

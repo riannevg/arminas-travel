@@ -5,20 +5,29 @@ location: Tulum
 featured: false
 categories:
   - Tulum
-header_image: /images/hotels/betulum/betulum1.jpg
+header_image: /images/hotels/betulum/betulum3.jpg
 position: photo-center
 ---
 ## Be Tulum  
 &nbsp;  
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/4q5QeP0JJ8s' frameborder='0' allowfullscreen></iframe></div>
+
 ### Location  
 &nbsp;  
 Nestled between the lush jungle and the turquoise Caribbean Sea, Be Tulum is an exclusive boutique hotel located in the heart of the Tulum beach zone. This stunning hotel is situated on the pristine white sands of Tulum, just a short distance from the ancient Mayan ruins and the vibrant town center. Surrounded by nature, Be Tulum offers a tranquil retreat where guests can experience the beauty of the Yucatán Peninsula in a serene and luxurious setting.  
+
+![](/images/hotels/betulum/betulum1.jpg)
+
+
 &nbsp;  
 ### What to Do at the Hotel  
 &nbsp;  
 Be Tulum offers a perfect blend of relaxation and adventure. Guests can spend their days lounging by the infinity pool, which overlooks the Caribbean Sea, or take a short walk to the beach to soak up the sun and swim in the crystal-clear waters. The hotel provides complimentary bicycles for exploring the nearby areas, including the Tulum ruins and the lively town. Yoga classes are offered daily, allowing guests to unwind and connect with nature. For those seeking a bit more adventure, the hotel can arrange snorkeling or diving trips in the nearby cenotes or the Mesoamerican Barrier Reef. After a day of exploration, indulge in a spa treatment at the Yäan Wellness Energy Spa, where ancient Mayan healing techniques are combined with modern wellness practices.  
 &nbsp;  
+
+![](/images/hotels/betulum/betulum2.jpg)
+
 ### Why We Recommend This Hotel  
 &nbsp;  
 **Eco-chic design:** Be Tulum seamlessly blends luxury with sustainability, featuring beautifully designed suites that incorporate natural elements like wood, stone, and lush greenery.  
@@ -27,6 +36,8 @@ Be Tulum offers a perfect blend of relaxation and adventure. Guests can spend th
 &nbsp;  
 **Gourmet dining:** The hotel’s restaurant serves exquisite cuisine that highlights local flavors and fresh, organic ingredients, offering a true taste of the region.  
 &nbsp;  
+
+![](/images/hotels/betulum/betulum4.jpg)
 
 ### Restaurants  
 &nbsp;  
