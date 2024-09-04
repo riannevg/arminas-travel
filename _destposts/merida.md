@@ -5,7 +5,7 @@ featured: false
 categories:
   - Merida
 header_image: /images/destinations/merida/merida12.jpg
-position: photo-center
+position: photo-bottom
 ---
 # **Mérida: The White City of Culture and Tradition**
 

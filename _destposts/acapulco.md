@@ -4,8 +4,8 @@ name: Acapulco
 featured: false
 categories:
   - Acapulco
-header_image: /images/destinations/acapulco/acapulco.jpg
-position: photo-center
+header_image: /images/destinations/acapulco/acapulco10.jpg
+position: photo-top-right
 ---
 # **Acapulco: The Timeless Jewel of Mexico’s Pacific Coast**
 

@@ -6,8 +6,8 @@ tourlocations: Mexico City > Taxo > Cuernavaca > Acapulco > Mexico City
 featured: false
 categories:
   - Mexico-City-Tours
-header_image: /images/destinations/acapulco/acapulco.jpg
-slider_one_image: /images/destinations/acapulco/acapulco.jpg
+header_image: /images/destinations/acapulco/acapulco9.jpg
+slider_one_image: /images/destinations/acapulco/acapulco9.jpg
 slider_two_image: /images/destinations/cdmx/teotihuacan2.jpg
 slider_three_image: /images/destinations/acapulco/acapulco5.jpg
 slider_four_image: /images/destinations/acapulco/acapulco4.jpg
