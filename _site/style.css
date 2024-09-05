@@ -666,5 +666,41 @@ footer h3{
         background-color:var(--black);
     }
     
+    footer p{
+        font-size:0.7rem;
+        margin-bottom:1rem;    
+        color:inherit;        
+    }
+    
+    footer a{
+        font-size:0.7rem;
+        text-decoration:none;
+        color:inherit;
+    }
+
+    footer h3{
+        font-size:0.9rem;
+    }
+
+    h1, h2{
+        font-size:1.2rem;
+        font-weight:400;
+    }
+
+    h3, h4, h5, h6{
+    font-size: 0.8rem;
+    }
+
+    p{
+        font-size:0.7rem;
+    }
+
+    .blog a h3{
+        font-size:1.1rem;
+    }
+
+    .header-text{
+        font-size:1.8rem;
+    }
 
 }
