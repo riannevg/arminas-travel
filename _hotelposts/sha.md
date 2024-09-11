@@ -2,6 +2,7 @@
 layout: hotel-layout
 title: Sha Welness Clinic
 location: Cancun
+date: 01-01-05
 featured: false
 categories:
   - Cancun

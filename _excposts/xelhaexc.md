@@ -5,7 +5,7 @@ categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
 header_image: /images/destinations/rivieramaya/rivieramaya8.jpg
-position: photo-center
+position: photo-top
 ---
 ## Xel-Ha + Tulum
 

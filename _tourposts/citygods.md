@@ -8,12 +8,12 @@ featured: false
 categories:
   - Mexico-City-Tours
 header_image: /images/destinations/veracruz/olmecas.webp
-slider_one_image: /images/destinations/cdmx/teotihuacan2.jpg
+slider_one_image: /images/destinations/cdmx/teotihuacan3.jpg
 slider_two_image: /images/destinations/cdmx/cdmx17.jpg
 slider_three_image: /images/destinations/palenque/palenque9.jpg
 slider_four_image: /images/destinations/yucatan/uxmal.jpg
 position-2: photo-bottom
-positon-4: photo-bottom
+position-4: photo-center
 ---
 
 ### Day 1: Arrival to Mexico City - Tour Starts from Transfer from Mexico City Airport to the Hotel (30-40 min)

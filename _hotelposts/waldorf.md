@@ -3,6 +3,7 @@ layout: hotel-layout
 title: Waldorf Astoria Cancun
 location: Cancun
 featured: false
+date: 01-01-06
 categories:
   - Cancun
 header_image: /images/hotels/waldorf/waldorf3.jpg

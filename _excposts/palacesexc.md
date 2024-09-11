@@ -1,7 +1,7 @@
 ---
 layout: exc-layout
 title: Palaces of Mexico City
-weight: 7
+date: 01-01-07
 categories:
   - Mexico-City-Excursions
 header_image: /images/destinations/cdmx/cdmx10.jpg

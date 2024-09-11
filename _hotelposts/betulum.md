@@ -6,7 +6,7 @@ featured: false
 categories:
   - Tulum
 header_image: /images/hotels/betulum/betulum3.jpg
-position: photo-center
+position: photo-bottom
 ---
 ## Be Tulum  
 &nbsp;  

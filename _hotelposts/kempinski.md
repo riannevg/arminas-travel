@@ -2,6 +2,7 @@
 layout: hotel-layout
 title: Kempinski Cancun
 location: Cancun
+date: 01-01-03
 featured: false
 categories:
   - Cancun

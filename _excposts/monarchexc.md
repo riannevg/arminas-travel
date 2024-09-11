@@ -1,7 +1,7 @@
 ---
 layout: exc-layout
 title: Monarch Butterfly Reserve
-weight: 8
+date: 01-01-08
 categories:
   - Mexico-City-Excursions
 header_image: /images/destinations/cdmx/cdmx14.jpg

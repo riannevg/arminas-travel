@@ -2,6 +2,7 @@
 layout: hotel-layout
 title: Nizuc Resort & Spa
 location: Cancun
+date: 01-01-04
 featured: true
 categories:
   - Cancun

@@ -2,6 +2,7 @@
 layout: hotel-layout
 title: Presidente Intercontinental Cancun
 location: Cancun
+date: 01-01-02
 featured: false
 categories:
   - Cancun

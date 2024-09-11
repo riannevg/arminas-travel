@@ -5,7 +5,7 @@ weight: 9
 categories:
   - Cancun-Excursions
   - Riviera-Maya-Excursions
-header_image: /images/destinations/yucatan/yucatan2.jpg
+header_image: /images/destinations/yucatan/chichen3.jpg
 position: photo-center
 ---
 ## Chichen Itza  

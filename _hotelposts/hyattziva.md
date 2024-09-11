@@ -2,6 +2,7 @@
 layout: hotel-layout
 title: Hyatt Ziva Cancun
 location: Cancun
+date: 01-01-08
 featured: false
 categories:
   - Cancun

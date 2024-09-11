@@ -2,6 +2,7 @@
 layout: hotel-layout
 title: Impression Isla Mujeres
 location: Isla Mujeres
+date: 01-01-07
 featured: false
 categories:
   - Cancun

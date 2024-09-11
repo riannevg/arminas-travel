@@ -12,8 +12,8 @@ header_image: /images/destinations/yucatan/uxmal.jpg
 slider_one_image: /images/destinations/yucatan/ekbalam2.jpg
 slider_two_image: /images/destinations/yucatan/ekbalam.jpg
 slider_three_image: /images/destinations/yucatan/yucatan8.jpg
-slider_four_image: /images/destinations/yucatan/yucatan2.jpg
-position-1: photo-bottom
+slider_four_image: /images/destinations/yucatan/chichen3.jpg
+position-1: photo-center
 position-4: photo-bottom
 ---
 

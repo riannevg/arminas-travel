@@ -1,7 +1,7 @@
 ---
 layout: exc-layout
 title: Museums of Mexico City
-weight: 3
+date: 01-01-03
 categories:
   - Mexico-City-Excursions
 header_image: /images/destinations/cdmx/cdmx15.jpg

@@ -8,12 +8,12 @@ featured: false
 categories:
   - Cancun-Tours
   - Riviera-Maya-Tours
-header_image: /images/hotels/chableyuc/chableyuc1.jpeg
-slider_one_image: /images/hotels/chableyuc/chableyuc1.jpeg
+header_image: /images/hotels/chableyuc/chableyuc7.jpeg
+slider_one_image: /images/hotels/chableyuc/chableyuc7.jpeg
 slider_two_image: /images/destinations/yucatan/izamal.jpg
 slider_three_image: /images/destinations/yucatan/ruinas.jpg
 slider_four_image: /images/hotels/chableyuc/chableyuc4.jpeg
-position: photo-center
+position-4: photo-bottom
 ---
 
 ### Day 1: Cancun – Ek Balam with Cenote – Rio Lagartos – Valladolid
