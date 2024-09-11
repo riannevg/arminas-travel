@@ -5,6 +5,7 @@ weight: 2
 tourlocations: >-
   Mexico City > Taxco > Acapulco > Oaxaca > Tehuantepec > San Cristobal de las
   Casas > Palenque > Campeche > Merida > Riviera Maya
+duration: 11 days / 10 nights
 featured: false
 categories:
   - Mexico-City-Tours

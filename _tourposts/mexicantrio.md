@@ -3,6 +3,7 @@ layout: tour-layout
 title: Mexican Trio
 weight: 13
 tourlocations: Mexico City > Queretaro > Morelia > Guadalajara > Puerto Vallarta
+duration: 6 days / 5 nights
 categories:
   - Mexico-City-Tours
 header_image: /images/destinations/guadalajara/guadalajara2.jpg

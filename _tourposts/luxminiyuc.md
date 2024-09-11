@@ -3,6 +3,7 @@ layout: tour-layout
 title: Luxury Mini Yucatan
 weight: 5
 tourlocations: Cancun > Valladolid > Hacienda Xcanatun > Chable Yucatan > Riviera Maya
+duration: 5 days / 4 nights
 featured: false
 categories:
   - Cancun-Tours
@@ -31,9 +32,15 @@ Today, explore Merida, the vibrant capital of Yucatán with its bustling markets
 
 ![](/images/destinations/yucatan/yucatan9.jpg)
 
-### Day 4: Chable Yucatán – Chichen Itza – Cenote – Riviera Maya/Tulum/Cancun
 
-After a relaxing morning at Chable Yucatán, we will depart for Chichen Itza, one of the New Seven Wonders of the World. Explore the majestic Pyramid of Kukulkan, the Great Ball Court, and the Observatory, learning about the fascinating history of this ancient city. Following your visit, take a refreshing swim in a nearby cenote, a perfect way to cool off and relax. Our journey concludes with a transfer to the Riviera Maya, Tulum, or Cancun, where you can continue to enjoy your stay or explore additional attractions.
+### Day 4: Day at leisure at Chable Yucatan
+
+Enjoy a lovely day exploring and relaxing at the beautiful hotel. At <strong>[Chable Yucatán](/hotels/chableyuc),</strong>, guests can immerse themselves in a luxurious wellness retreat surrounded by nature. From rejuvenating spa treatments in a cenote-centered sanctuary to gourmet dining experiences featuring fresh, organic ingredients, the hotel offers a blend of relaxation and culture. Activities include swimming in a private cenote, exploring nearby Mayan archaeological sites, cycling through lush gardens, and participating in yoga or meditation sessions. Chablé Yucatán provides the perfect escape for those seeking serenity, adventure, and authentic Yucatecan experiences.
+
+
+### Day 5: Chable Yucatán – Chichen Itza – Cenote – Riviera Maya/Tulum/Cancun
+
+After a relaxing morning at <strong>[Chable Yucatán](/hotels/chableyuc),</strong>, we will depart for Chichen Itza, one of the New Seven Wonders of the World. Explore the majestic Pyramid of Kukulkan, the Great Ball Court, and the Observatory, learning about the fascinating history of this ancient city. Following your visit, take a refreshing swim in a nearby cenote, a perfect way to cool off and relax. Our journey concludes with a transfer to the Riviera Maya, Tulum, or Cancun, where you can continue to enjoy your stay or explore additional attractions.
 
 ![](/images/hotels/chableyuc/chableyuc6.jpg)
 

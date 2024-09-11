@@ -5,6 +5,7 @@ weight: 8
 tourlocations: >-
   Cancun > Tulum > Coba > Chetumal > Palenque > Campeche > Chichen Itza >
   Riviera Maya
+duration: 4 days / 3 nights
 featured: false
 categories:
   - Cancun-Tours

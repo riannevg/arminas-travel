@@ -42,6 +42,7 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 ## Hotels in Mexico City
 
 <section class='grid'>
+
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/andazcondesa">
         <div class="bg-image square" style="background-image:url('/images/hotels/andazcondesa/andazcondesa5.webp')">  </div>
@@ -144,6 +145,18 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 ## Multi-day tours departing from Mexico City
 
 <section class='grid'>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+        <a href="/tours/luxurymexico">
+            <div class="bg-image square" style="background-image:url('/images/hotels/banyanpuebla/banyanpue3.webp')">  </div>
+            <h3 class='center'>Luxury Mexico</h3>        
+        </a>  
+    </div>
+
+
+
+
+
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/tours/5civilazations">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx10.jpg')">  </div>

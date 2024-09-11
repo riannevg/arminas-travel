@@ -148,6 +148,13 @@ Playa del Carmen's relaxed yet sophisticated vibe appeals to a wide range of tra
     </a>  
 </div>
 
+    <div class="col-3_sm-4_xs-6 padded-1">
+        <a href="/excursions/islamujeres">
+            <div class="bg-image square" style="background-image:url('/images/destinations/cancun/islamujeres.jpg')">  </div>
+            <h3 class='center'>Isla Mujeres</h3>        
+        </a>  
+    </div>
+
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/contoyexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cancun/cancun3.jpg')">  </div>

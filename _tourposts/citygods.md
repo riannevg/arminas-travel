@@ -3,6 +3,7 @@ layout: tour-layout
 title: Cities of the Gods
 weight: 3
 tourlocations: Mexico City > Veracruz > Palenque > Campeche > Merida > Cancun
+duration: 8 days / 7 nights
 featured: false
 categories:
   - Mexico-City-Tours

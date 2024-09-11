@@ -45,7 +45,7 @@ Tulum’s unique combination of serene natural beauty and dynamic party scene ma
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/casamalca">
-        <div class="bg-image square" style="background-image:url('/images/hotels/casamalca/casamalca8.jpeg')">  </div>
+        <div class="bg-image square" style="background-image:url('/images/hotels/casamalca/casamalca3.jpg')">  </div>
         <h3 class='center'>Casa Malca</h3>        
     </a>  
 </div>
@@ -96,6 +96,13 @@ Tulum’s unique combination of serene natural beauty and dynamic party scene ma
         <h3 class='center'>Coba</h3>        
     </a>  
 </div>
+
+    <div class="col-3_sm-4_xs-6 padded-1">
+        <a href="/excursions/islamujeres">
+            <div class="bg-image square" style="background-image:url('/images/destinations/cancun/islamujeres.jpg')">  </div>
+            <h3 class='center'>Isla Mujeres</h3>        
+        </a>  
+    </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/contoyexc">

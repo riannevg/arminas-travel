@@ -5,6 +5,7 @@ weight: 12
 tourlocations: >-
   Mexico City > Costa Esmeralda > Veracruz > Catemaco > Villahermosa > Palenque
   > Chetumal > Riviera Maya
+duration: 11 days / 10 nights
 featured: false
 categories:
   - Mexico-City-Tours

@@ -3,6 +3,7 @@ layout: tour-layout
 title: Los Cabos to the Copper Canyon
 weight: 10
 tourlocations: Los Cabos > La Paz > El Fuerte > Divisadero > Creel > Chihuahua
+duration: 6 days / 5 nights
 featured: false
 categories:
   - Los-Cabos-Tours

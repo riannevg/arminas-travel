@@ -5,6 +5,7 @@ weight: 1
 tourlocations: >-
   Mexico City > Oaxaca > Tehuantepec > San Cristobal de las Casas > Palenque >
   Campeche > Merida > Riviera Maya
+duration: 9 days / 8 nights
 featured: false
 categories:
   - Mexico-City-Tours

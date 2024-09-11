@@ -5,6 +5,7 @@ weight: 11
 tourlocations: >-
   Chihuahua > Creel > Divisadero > Cerocahui > Urique Canyon > El Fuerte > Los
   Mochis
+duration: 7 days / 6 nights
 featured: false
 categories:
   - Chihuahua-Tours

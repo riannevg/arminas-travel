@@ -5,6 +5,7 @@ weight: 4
 tourlocations: >-
   Mexico City > Oaxaca > Tehuantepec > San Cristobal de las Casas > Atitlan >
   Flores > Palenque > Campeche > Cancun
+duration: 12 days / 11 nights
 featured: false
 categories:
   - Mexico-City-Tours

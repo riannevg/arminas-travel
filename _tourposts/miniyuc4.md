@@ -5,6 +5,7 @@ weight: 9
 tourlocations: >-
   Cancun > Ek Balam > Chichen Itza > Merida > Uxmal > Campeche > Palenque >
   Chetumal > Riviera Maya
+duration: 5 days / 4 nights
 featured: false
 categories:
   - Cancun-Tours

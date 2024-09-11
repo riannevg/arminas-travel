@@ -3,6 +3,7 @@ layout: tour-layout
 title: Mini Yucatan 1
 weight: 6
 tourlocations: Cancun > Coba > Merida > Chichen Itza > Ek Balam > Riviera Maya
+duration: 2 days / 1 night
 featured: false
 categories:
   - Cancun-Tours
