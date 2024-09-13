@@ -73,7 +73,7 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/ritzcdmx">
-        <div class="bg-image square" style="background-image:url('/images/hotels/ritzcdmx/ritz8.jpg')">  </div>
+        <div class="bg-image square" style="background-image:url('/images/hotels/ritzcdmx/ritz9.jpg')">  </div>
         <h3 class='center'>Ritz Carlton</h3>        
     </a>  
 </div>

@@ -1,144 +1,57 @@
 ---
 layout: dest-layout
-name: Playa del Carmen
+name: Isla Mujeres
 featured: false
 categories:
-  - Playa-del-Carmen
-header_image: /images/destinations/rivieramaya/rivieramaya4.jpg
-position: photo-center
+  - Isla-Mujeres
+header_image: /images/destinations/cancun/islamujeres.jpg
+position: photo-bottom
 ---
 
-## Playa del Carmen  
-&nbsp;  
+## Isla Mujeres: Tropical vibes in the Caribean
+&nbsp;
 
-Nestled along the stunning Riviera Maya, Playa del Carmen is a vibrant coastal town known for its breathtaking beaches, lively atmosphere, and rich cultural heritage. This charming destination offers a blend of modern luxury and traditional Mexican charm, making it the perfect spot for travelers seeking both relaxation and adventure.
+### Overview  
+Isla Mujeres, located just off the coast of Cancun, is a hidden gem that offers a mix of natural beauty and cultural heritage. Known for its serene beaches, clear turquoise waters, and vibrant marine life, this island is perfect for relaxation and adventure alike. Historically, Isla Mujeres was sacred to the Mayan goddess Ixchel, and visitors can still explore the ruins of a temple dedicated to her at the island’s southernmost tip, Punta Sur. The island combines ancient traditions with modern attractions, making it a must-visit destination in the Mexican Caribbean.
+
+&nbsp;
 
 ### Highlights  
-&nbsp;  
-Playa del Carmen's main attraction is its gorgeous white-sand beaches that stretch for miles along the Caribbean Sea. The crystal-clear waters are ideal for swimming, snorkeling, and diving, while the nearby coral reefs provide opportunities to explore vibrant marine life. Strolling along *La Quinta Avenida* (5th Avenue), you'll discover an array of boutique shops, restaurants, and bars that cater to both tourists and locals. The town's lively nightlife scene includes everything from beachside clubs to cozy lounges.
+- **Playa Norte**: Famous for its powdery white sand and tranquil, shallow waters, Playa Norte is consistently ranked among the best beaches in Mexico. Ideal for swimming, sunbathing, or enjoying a picturesque sunset, it's a haven for those seeking a peaceful retreat.  
+&nbsp;
+- **Snorkeling and Diving**: Isla Mujeres is a paradise for water lovers. Explore the coral reefs brimming with colorful fish or visit the renowned MUSA (Underwater Museum of Art), a unique attraction featuring over 500 submerged sculptures that blend art with environmental conservation.  
+&nbsp;
+- **Punta Sur**: Home to the ancient ruins of a Mayan temple dedicated to Ixchel, the goddess of the moon, fertility, and love. Here, visitors can walk along dramatic cliffs that offer stunning panoramic views of the Caribbean Sea.
 
-For those interested in history, the nearby archaeological sites such as Tulum and Coba offer glimpses into the region's rich Mayan past. Playa del Carmen is also a gateway to the island of Cozumel, which is just a short ferry ride away and offers world-class diving and snorkeling experiences.
+&nbsp;
 
 ### Fun Activities  
-&nbsp;  
-- **Beach Time**: Relax on the soft sands of Playa del Carmen's beaches or indulge in water sports like paddleboarding and jet skiing.  
-&nbsp;  
-- **Cenotes**: Explore the unique cenotes in the region—natural sinkholes filled with crystal-clear freshwater—perfect for swimming and diving.  
-&nbsp;  
-- **Adventure Parks**: Spend the day at nearby eco-adventure parks such as Xcaret or Xplor, where you can zip-line through the jungle, swim in underground rivers, and experience traditional Mexican performances.  
-&nbsp;  
-- **Day Trips**: Take a short trip to the nearby ancient ruins of Tulum or enjoy a scenic ferry ride to Cozumel for some of the best snorkeling and diving in the region.  
+- **Explore by Golf Cart**: The best way to get around the island is by renting a golf cart. Explore charming local shops, discover hidden beaches, or stop for fresh seafood at a seaside restaurant.  
+&nbsp;
+- **Snorkeling Tours**: Take a guided tour to the best snorkeling spots around the island, including the vibrant coral reefs and the famous MUSA underwater sculptures.  
+&nbsp;
+- **Swim with Whale Sharks**: Between May and September, Isla Mujeres offers the rare opportunity to swim with majestic whale sharks in their natural habitat.
 
-### Why Travel to Playa del Carmen?  
-&nbsp;  
-Playa del Carmen's relaxed yet sophisticated vibe appeals to a wide range of travelers, from those seeking luxury resorts and spas to adventure enthusiasts looking to explore the natural wonders of the region. The town offers the perfect blend of beach relaxation, vibrant culture, and exhilarating activities. Whether you're sipping cocktails at a beach bar, shopping along 5th Avenue, or diving into the depths of a cenote, Playa del Carmen offers a truly unforgettable experience.
+&nbsp;
 
-## Hotels in and around Playa del Carmen
+### Why Travel to Isla Mujeres?  
+Isla Mujeres is the perfect blend of natural beauty, cultural richness, and laid-back island life. Whether you’re lounging on Playa Norte, snorkeling in the crystal-clear waters, or learning about the island’s deep connection to the ancient Mayan civilization, Isla Mujeres offers an unforgettable escape from the everyday.
 
+&nbsp;
+
+
+## Hotels in Isla Mujeres
 <section class='grid'>
 <div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/andaz">
-        <div class="bg-image square" style="background-image:url('/images/hotels/andazmyk/andazmyk8.webp')">  </div>
-        <h3 class='center'>Andaz Mayakoba</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/banyantree">
-        <div class="bg-image square" style="background-image:url('/images/hotels/banyanmyk/banyanmyk4.jpg')">  </div>
-        <h3 class='center'>Banyan Tree Mayakoba</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/belmondmar">
-        <div class="bg-image square" style="background-image:url('/images/hotels/belmond/belmond6.jpg')">  </div>
-        <h3 class='center'>Belmond Maroma</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/chablemaroma">
-        <div class="bg-image square" style="background-image:url('/images/hotels/chablemaroma/chablemaroma5.jpeg')">  </div>
-        <h3 class='center'>Chable Maroma</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/fairmontmyk">
-        <div class="bg-image square" style="background-image:url('/images/hotels/fairmontmyk/fairmontmyk4.webp')">  </div>
-        <h3 class='center'>Fairmont Mayakoba</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/palmaia">
-        <div class="bg-image square" style="background-image:url('/images/hotels/palmaia/palmaia3.jpg')">  </div>
-        <h3 class='center'>Palmaia House of AiA</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/mahekal">
-        <div class="bg-image square" style="background-image:url('/images/hotels/mahekal/mahekal1.jpg')"></div>
-        <h3 class="center">Mahekal Beach Resort</h3>
-    </a>
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/rosewoodmyk">
-        <div class="bg-image square" style="background-image:url('/images/hotels/rosewoodmyk/rosewoodmyk3.webp')">  </div>
-        <h3 class='center'>Rosewood Mayakoba</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/grandvelasrm">
-        <div class="bg-image square" style="background-image:url('/images/hotels/grandvelasrm/grandvelasrm.jpg')">  </div>
-        <h3 class='center'>Grand Velas Riviera Maya</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/etereo">
-        <div class="bg-image square" style="background-image:url('/images/hotels/etereo/etereo.webp')">  </div>
-        <h3 class='center'>Etereo, Auberge Resorts Collection</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/stregiskanai">
-        <div class="bg-image square" style="background-image:url('/images/hotels/kanai/kanai.jpeg')">  </div>
-        <h3 class='center'>St. Regis Kanai Riviera Maya</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/xcaretmex">
-        <div class="bg-image square" style="background-image:url('/images/hotels/xcaretmex/hxm3.jpg')">  </div>
-        <h3 class='center'>Hotel Xcaret Mexico</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/xcaretarte">
-        <div class="bg-image square" style="background-image:url('/images/hotels/xcaretarte/hxa1.jpg')">  </div>
-        <h3 class='center'>Hotel Xcaret Arte</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/casadlplaya">
-        <div class="bg-image square" style="background-image:url('/images/hotels/casadlplaya/cdlp1.webp')">  </div>
-        <h3 class='center'>La Casa de la Playa</h3>        
-    </a>  
-</div>
-
+        <a href="/hotels/impressions">
+            <div class="bg-image square" style="background-image:url('/images/hotels/impressions/impressions1.webp')">  </div>
+            <h3 class='center'>Impression Isla Mujeres</h3>        
+        </a>  
+    </div>
 
 </section>
 
-
-## Excursions in and around Playa del Carmen
+## Excursions in and around Isla Mujeres
 
 <section class='grid'>
 <div class="col-3_sm-4_xs-6 padded-1">
@@ -155,7 +68,7 @@ Playa del Carmen's relaxed yet sophisticated vibe appeals to a wide range of tra
     </a>  
 </div>
 
-    <div class="col-3_sm-4_xs-6 padded-1">
+<div class="col-3_sm-4_xs-6 padded-1">
         <a href="/excursions/islamujeres">
             <div class="bg-image square" style="background-image:url('/images/destinations/cancun/islamujeres.jpg')">  </div>
             <h3 class='center'>Isla Mujeres</h3>        
@@ -276,7 +189,7 @@ Playa del Carmen's relaxed yet sophisticated vibe appeals to a wide range of tra
 
 </section>
 
-## Multi-day tours departing from Playa de Carmen
+## Multi-day tours departing from Isla Mujeres & Cancun
 
 <section class='grid'>
 <div class="col-3_sm-4_xs-6 padded-1">
