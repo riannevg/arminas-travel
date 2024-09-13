@@ -5,6 +5,7 @@ location: Riviera Maya
 featured: false
 categories:
   - Riviera-Maya
+  - Playa-del-Carmen
 header_image: /images/hotels/grandvelasrm/grandvelasrm4.jpg
 position: photo-center
 ---

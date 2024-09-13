@@ -5,6 +5,7 @@ location: Riviera Maya
 featured: true
 categories:
   - Riviera-Maya
+  - Playa-del-Carmen
 header_image: /images/hotels/chablemaroma/chablemaroma5.jpeg
 position: photo-center
 ---

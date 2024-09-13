@@ -5,7 +5,7 @@ location: Isla Mujeres
 date: 01-01-07
 featured: false
 categories:
-  - Cancun
+  - Isla-Mujeres
 header_image: /images/hotels/impressions/impressions1.webp
 position: photo-center
 ---
