@@ -78,6 +78,15 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
     </a>  
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/presintercon">
+        <div class="bg-image square" style="background-image:url('/images/hotels/presidentecdmx/presinter4.webp')"></div>
+        <h3 class="center">Presidente InterContinental Mexico City</h3>
+    </a>
+</div>
+
+
+
 </section>
 
 

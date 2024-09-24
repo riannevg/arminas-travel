@@ -301,6 +301,13 @@ Playa del Carmen's relaxed yet sophisticated vibe appeals to a wide range of tra
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/tours/magicchable">
+        <div class="bg-image square" style="background-image:url('/images/tours/magic2.png')">  </div>
+        <h3 class='center'>Magic Chable</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
     <a href="/tours/miniyuc1">
         <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan2.jpg')">  </div>
         <h3 class='center'>Mini Yucatan 1</h3>        
