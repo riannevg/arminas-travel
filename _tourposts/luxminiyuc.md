@@ -20,11 +20,13 @@ position-4: photo-bottom
 
 Your adventure begins in Cancun, where we will journey to the fascinating archaeological site of Ek Balam. Explore this ancient Mayan city, renowned for its impressive Acropolis, Ball Game Court, and the Twin Buildings. The lush jungle still conceals much of the site, offering a glimpse into the grandeur of Mayan civilization. Next, we’ll visit a stunning cenote, a natural sinkhole perfect for a refreshing swim. Continuing our journey, we head to Rio Lagartos, famous for its vibrant wildlife and beautiful landscapes. Finally, we will arrive in Valladolid, where you’ll stay at the luxurious <strong>[Boutique Hotel Oriundo](/hotels/oriundo),</strong> known for their serene settings and excellent amenities.
 
-![](/images/destinations/yucatan/yucatan8.jpg)
+![](/images/tours/cenote.jpg)
 
 ### Day 2: City Tour Valladolid – Izamal – Hacienda Xcanatun
 
 Start your day with a guided tour of Valladolid, a charming colonial city with colorful streets and rich history. Then, we’ll travel to Izamal, a town famed for its yellow-painted buildings and ancient Mayan ruins. This “City of Hills” offers a unique blend of history and culture. Our journey continues to the <strong>[Hacienda Xcanatun](/hotels/xcanatun),</strong> where you will experience the luxury and elegance of this historic estate, surrounded by beautiful gardens and a tranquil atmosphere.
+
+![](/images/tours/ekbalam.jpg)
 
 ### Day 3: City Tour Merida – Uxmal – Chable Yucatán
 

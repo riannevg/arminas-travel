@@ -7,8 +7,8 @@ duration: 6 days / 5 nights
 featured: false
 categories:
   - Mexico-City-Tours
-header_image: /images/hotels/banyanpuebla/banyanpue3.webp
-slider_one_image: /images/hotels/banyanpuebla/banyanpue3.webp
+header_image: /images/destinations/puebla/cholula.jpg
+slider_one_image: /images/destinations/puebla/cholula.jpg
 slider_two_image: /images/destinations/cdmx/teotihuacan.jpg
 slider_three_image: /images/hotels/ritzcdmx/ritzcdmx4.jpeg
 slider_four_image: /images/destinations/puebla/puebla9.jpg
