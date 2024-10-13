@@ -3,7 +3,7 @@ layout: tour-layout
 title: Cities of the Gods
 weight: 3
 tourlocations: Mexico City > Veracruz > Palenque > Campeche > Merida > Cancun
-duration: 8 days / 7 nights
+duration: 7 days / 6 nights
 featured: false
 categories:
   - Mexico-City-Tours
@@ -34,23 +34,19 @@ From Mexico City, embark on an interesting journey to the beautiful city of Pueb
 
 From Veracruz, the trip continues to Villahermosa, in Southeast Mexico, home to the renowned La Venta Park-Museum, which houses important collections of pieces from the Olmec culture. The adventure continues until you reach the “Magic Town” of Palenque, one of the most remarkable cities of the Mayan world, and an incredible destination for those who love archaeology, history, and nature, all combined in one site.
 
-### Day 5: Palenque – Yaxchilan – Palenque
-
-Today, you will visit the impressive Archaeological Zone of Palenque, a UNESCO World Heritage site since 1987, and a very important location belonging to the Mayan culture. The tour also includes a visit to Yaxchilan, another significant ancient city of the Mayan Culture, located on the banks of the Usumacinta River, both in the state of Chiapas. Return to Palenque for the night.
-
 ![](/images/destinations/palenque/palenque8.jpg)
 
-### Day 6: Palenque – Campeche
+### Day 5: Palenque – Campeche
 
 From Palenque, travel to the beautiful colonial city of Campeche, located on the Gulf of Mexico in the Yucatan Peninsula. Campeche is a walled city with colonial architecture, featuring the spectacular Fort San Miguel, where the Anthropology Museum of Campeche is located.
 
-### Day 7: Campeche – Uxmal – Merida
+### Day 6: Campeche – Uxmal – Merida
 
 Depart from Campeche to Uxmal, another ancient Mayan city in the state of Yucatan, a UNESCO World Heritage site since 1986. Uxmal is home to a very important Archaeological Zone representative of the Puuc culture. The day concludes in Merida, known as the Ciudad Blanca and the capital of Yucatan.
 
 ![](/images/destinations/yucatan/yucatan9.jpg)
 
-### Day 8: Merida – Chichen Itza – Ek Balam – Cancun
+### Day 7: Merida – Chichen Itza – Ek Balam – Cancun
 
 This day features a visit to the Archaeological Zone of Chichen Itza, a very famous Mayan ruins complex with magnificent and enigmatic structures. The site includes the amazing Pyramid of Kukulkan, one of the 7 wonders of the modern world, also known as El Castillo, a huge stepped pyramid dominating the approximately 6.5 square kilometers of this ancient Mayan city. Other spectacular structures include the Ball Court and the Temple of Warriors. The tour continues with a visit to the also fascinating Archaeological Zone of Ek Balam, and concludes with your arrival in Cancun, known worldwide for its beautiful turquoise blue beaches.
 
