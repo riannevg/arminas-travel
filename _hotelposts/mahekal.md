@@ -4,8 +4,8 @@ title: Mahekal Beach Resort
 location: Playa del Carmen
 featured: false
 categories:
-  - Riviera-Maya
   - Playa-del-Carmen
+  - Riviera-Maya
 header_image: /images/hotels/mahekal/mahekal1.jpg
 position: photo-center
 ---

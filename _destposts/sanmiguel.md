@@ -47,4 +47,18 @@ San Miguel de Allende’s unique blend of colonial charm, artistic vibrancy, and
     </a>  
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/lotel">
+        <div class="bg-image square" style="background-image:url('/images/hotels/lotel/lotel1.jpg')"></div>
+        <h3 class='center'>L'Otel Casa Arca</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/numu">
+        <div class="bg-image square" style="background-image:url('/images/hotels/numu/numu1.jpg')"></div>
+        <h3 class='center'>Numu Boutique Hotel</h3>        
+    </a>  
+</div>
+
 </section>

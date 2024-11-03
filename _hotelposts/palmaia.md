@@ -4,8 +4,8 @@ title: Palmaia The House of AiA
 location: Playa del Carmen
 featured: false
 categories:
-  - Riviera-Maya
   - Playa-del-Carmen
+  - Riviera-Maya
 header_image: /images/hotels/palmaia/palmaia3.jpg
 position: photo-center
 ---

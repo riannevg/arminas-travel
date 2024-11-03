@@ -68,7 +68,8 @@ The Riviera Maya is more than a destination; it’s an experience that caters to
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/palmaia">
         <div class="bg-image square" style="background-image:url('/images/hotels/palmaia/palmaia3.jpg')">  </div>
-        <h3 class='center'>Palmaia House of AiA</h3>        
+        <h3 class='center'>Palmaia House of AiA</h3> 
+        <p>Playa del Carmen</p>       
     </a>  
 </div>
 
@@ -128,6 +129,31 @@ The Riviera Maya is more than a destination; it’s an experience that caters to
     </a>  
 </div>
 
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/mahekal">
+        <div class="bg-image square" style="background-image:url('/images/hotels/mahekal/mahekal1.jpg')"></div>
+        <h3 class="center">Mahekal Beach Resort</h3>
+        <p class='center'>Playa del Carmen</p> 
+    </a>
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/fivesdowntown">
+        <div class="bg-image square" style="background-image:url('/images/hotels/fivesdowntown/fivesdowntown1.jpg')" ></div>
+        <h3 class="center">The Fives Downtown Hotel</h3>
+        <p class="center">Playa del Carmen</p>
+    </a>
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/fivesbeach">
+        <div class="bg-image square" style="background-image:url('/images/hotels/fivesbeach/fivesbeach3.jpg')" ></div>
+        <h3 class="center"> The Fives Beach Hotel</h3>
+        <p class="center"> Playa del Carmen</p>
+    </a>
+</div>
+
 </section>
 
 
@@ -148,7 +174,7 @@ The Riviera Maya is more than a destination; it’s an experience that caters to
     </a>  
 </div>
 
-    <div class="col-3_sm-4_xs-6 padded-1">
+<div class="col-3_sm-4_xs-6 padded-1">
         <a href="/excursions/islamujeres">
             <div class="bg-image square" style="background-image:url('/images/destinations/cancun/islamujeres.jpg')">  </div>
             <h3 class='center'>Isla Mujeres</h3>        

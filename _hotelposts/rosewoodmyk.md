@@ -5,7 +5,6 @@ location: Riviera Maya
 featured: true
 categories:
   - Riviera-Maya
-  - Playa-del-Carmen
 header_image: /images/hotels/rosewoodmyk/rosewoodmyk3.webp
 position: photo-center
 ---

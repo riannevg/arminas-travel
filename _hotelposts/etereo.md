@@ -5,7 +5,6 @@ location: Riviera Maya
 featured: false
 categories:
   - Riviera-Maya
-  - Playa-del-Carmen
 header_image: /images/hotels/etereo/etereo.webp
 position: photo-center
 ---
