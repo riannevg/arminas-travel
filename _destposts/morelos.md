@@ -7,9 +7,6 @@ categories:
 header_image: /images/destinations/morelos/morelos3.jpg
 position: photo-center
 ---
-## Discover Morelos, Mexico  
-
-&nbsp;  
 
 {% include snippets/image-float.html image="/images/destinations/morelos/morelos1.jpg" alt="Morelos" float-direction="right" %}
 
@@ -58,5 +55,11 @@ In summary, Morelos invites travelers to immerse themselves in a blend of advent
     </a>  
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/anticavilla">
+        <div class="bg-image square" style="background-image:url('/images/hotels/anticavilla/anticavilla3.jpg')">  </div>
+        <h3 class='center'>Anticavilla Hotel & Spa</h3>        
+    </a>  
+</div>
 
 </section>

@@ -24,7 +24,7 @@ Casona Roma is ideally located in the trendy Roma neighborhood, known for its hi
 ![](/images/hotels/casonaroma/casonaroma3.jpg)
 
 ### Dining Options on Property  
-The hotel features an inviting on-site café where guests can start their day with a delicious breakfast featuring fresh, local ingredients. Throughout the day, enjoy a selection of artisanal coffee, pastries, and light bites in a relaxed setting. For lunch and dinner, explore the many dining options available within walking distance, including local taquerias, upscale restaurants, and trendy bars, showcasing the diverse flavors of Mexican cuisine.
+The hotel features an a large variety of dining options on property. From the first Matcha Room in Mexico City to the famous Mexican sushi Suchi, a fusion of Japan and Mexico. In total 7 different outlets are found in the hotel, where guests and locals can enjoy an unique cuisine. 
 
 ### Why We Recommend This Hotel  
 - **Stylish Boutique Atmosphere:** Casona Roma blends modern comfort with historical charm, offering thoughtfully designed rooms and inviting common areas that reflect the artistic spirit of the neighborhood.  
