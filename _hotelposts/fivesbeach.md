@@ -13,8 +13,6 @@ position: photo-center
 
 &nbsp;  
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/15yKV5Srbd0' frameborder='0' allowfullscreen></iframe></div>
-
 ### What to Do at The Fives Beach Hotel  
 At The Fives Beach Hotel, guests are invited to indulge in a variety of luxurious experiences. Spend your days lounging on the pristine white sand beach or relaxing by one of the resort's sparkling pools. For those seeking adventure, the hotel offers a range of water sports, including snorkeling, kayaking, and paddleboarding. Guests can also pamper themselves at the on-site spa, which features a selection of rejuvenating treatments and therapies. In the evenings, enjoy live entertainment, themed dinners, or simply unwind with a cocktail while watching the sunset over the Caribbean Sea.
 
