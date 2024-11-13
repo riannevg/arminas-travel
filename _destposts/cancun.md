@@ -107,8 +107,7 @@ world.
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/slsplaya">
         <div class="bg-image square" style="background-image:url('/images/hotels/sls/slsplaya1.webp')" ></div>
-            <h3 class="center">SLS Playa Mujeres</h3>
-        
+            <h3 class="center">SLS Playa Mujeres</h3>        
     </a>
 </div>
 
