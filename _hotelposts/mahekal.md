@@ -13,7 +13,7 @@ position: photo-center
 ##  Mahekal Beach Resort
 &nbsp;  
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/o3UgxDRBpbI' frameborder='0' allowfullscreen></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/932566398?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Mahekal Beach Resort"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ### Overview  
 Nestled along the pristine beaches of Playa del Carmen, Hotel Mahekal offers an enchanting blend of rustic charm and modern luxury. With its palapa-style bungalows and lush tropical surroundings, the hotel provides an intimate escape that feels far from the ordinary. Guests can relax in cozy beachfront or garden rooms, each designed to harmonize with nature while offering all the comforts of modern amenities. The property boasts four swimming pools, a full-service spa, and easy access to the vibrant attractions of Playa del Carmen, making it an ideal destination for both relaxation and adventure.  
