@@ -70,11 +70,5 @@ Yucatán State offers a compelling blend of historical intrigue, cultural richne
     </a>  
 </div>
 
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/adoro">
-        <div class="bg-image square" style="background-image:url('/images/hotels/adoro/adoro3.jpg')">  </div>
-        <h3 class='center'>Adoro Hotel Boutique </h3>        
-    </a>  
-</div>
 
 </section>

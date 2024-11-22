@@ -1,7 +1,7 @@
 ---
 layout: hotel-layout
 title: Anticavilla Hotel & Spa
-location: Morelos
+location: Cuernavaca
 featured: false
 categories:
   - Morelos

@@ -1,45 +1,55 @@
 ---
 layout: hotel-layout
 title: Amomoxtli
-location: Morelos
+location: Tepoztlan
 featured: false
 categories:
   - Morelos
 header_image: /images/hotels/amomoxtli/amomoxtli1.jpg
 position: photo-center
 ---
-## Hotel Amomoxtli – A Nature-Inspired Retreat in Tulum  
+## Hotel Amomoxtli – A Nature-Inspired Retreat in Tepoztlan  
 
 &nbsp;  
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/8sdWH21UY3A' frameborder='0' allowfullscreen></iframe></div>
 
 ### What to Do at Hotel Amomoxtli  
-Hotel Amomoxtli invites guests to embrace the natural beauty of Tulum with its serene and eco-friendly design. Spend your days lounging by the stunning outdoor pool surrounded by lush gardens, or indulge in relaxing spa treatments that incorporate local traditions and natural ingredients. The hotel also offers a variety of activities, including yoga classes and guided excursions to explore Tulum’s breathtaking beaches and cenotes. In the evenings, gather around the fire pit to enjoy the starry skies while sipping on refreshing cocktails.
+Nestled in the mystical town of Tepoztlán, Hotel Amomoxtli is a serene haven surrounded by lush gardens and awe-inspiring views of the Tepozteco mountains. This boutique hotel offers a harmonious blend of rustic charm and luxury, designed to immerse guests in the natural beauty and spiritual energy of the region. Whether you’re seeking relaxation, cultural exploration, or a rejuvenating retreat, Amomoxtli provides an unforgettable escape.  
+
 
 ![](/images/hotels/amomoxtli/amomoxtli2.jpg)
 
 ### Location  
-Nestled in a tranquil area of Tulum, Hotel Amomoxtli is ideally situated just a short distance from the vibrant town center and pristine beaches. Guests can easily explore the local culture, visiting nearby markets, shops, and art galleries. The hotel’s location also provides convenient access to the ancient ruins of Tulum and the stunning natural landscapes that make this area so enchanting.
+Located just an hour and a half from Mexico City, Hotel Amomoxtli sits in the heart of Tepoztlán, a town famed for its vibrant market, pre-Hispanic history, and unique energy. The hotel’s prime location allows guests to enjoy stunning vistas of the surrounding mountains while being close to the town’s main attractions, including the Tepozteco Pyramid and the lively artisan market.  
+
 
 ![](/images/hotels/amomoxtli/amomoxtli3.jpg)
 
-### Dining Options on Property  
-The on-site dining experience at Hotel Amomoxtli showcases the rich flavors of Mexican cuisine, featuring a menu crafted from fresh, locally sourced ingredients. Guests can enjoy a variety of dishes inspired by traditional recipes, all served in a relaxed and inviting atmosphere. The restaurant also offers vegetarian and vegan options, ensuring there’s something for everyone. Enjoy your meals al fresco, surrounded by the beauty of Tulum's natural surroundings.
+### What to do
+Hotel Amomoxtli offers a curated selection of activities designed to help guests connect with the area’s natural beauty and cultural heritage. Enjoy a morning yoga session with a view of the mountains or unwind at the serene spa, where treatments use traditional Mexican ingredients. Take a guided hike up the Tepozteco mountain or explore the charming streets of Tepoztlán, known for its local crafts and delicious cuisine. For a deeper connection to the region, participate in a **temazcal ceremony**, a traditional sweat lodge ritual that cleanses both body and soul.  
+
 
 ![](/images/hotels/amomoxtli/amomoxtli4.jpg)
 
 ### Why We Recommend This Hotel  
-- **Eco-Conscious Design:** Hotel Amomoxtli is dedicated to sustainability, offering an eco-friendly retreat that harmonizes with Tulum’s natural environment.  
+- **Spiritual and Rejuvenating Atmosphere**  
+ Amomoxtli provides a tranquil setting that captures the magical essence of Tepoztlán, perfect for relaxation and renewal. &nbsp;  
 &nbsp;  
 
-- **Relaxing Atmosphere:** With its peaceful setting and focus on wellness, the hotel provides a serene escape for guests looking to unwind and rejuvenate.  
+- **Seamless Connection to Nature**  
+The hotel’s lush gardens and panoramic views create an immersive experience in one of Mexico’s most beautiful landscapes. &nbsp;   
 &nbsp;  
 
-- **Culinary Excellence:** The emphasis on fresh, local ingredients allows guests to savor authentic Mexican flavors in a delightful dining experience.  
+- **Authentic Local Experiences**  
+From traditional temazcal ceremonies to locally inspired spa treatments, Amomoxtli celebrates the rich culture of Tepoztlán.  
 &nbsp;  
 
+### Dining Options  
+Dining at Amomoxtli is a celebration of Mexican flavors and fresh, local ingredients. The hotel’s restaurant serves a menu inspired by regional traditions, offering dishes made with seasonal produce and herbs from their own garden. Enjoy meals al fresco with breathtaking views of the mountains, making every dining experience a feast for both the palate and the senses.  
 
+### Summary  
+Hotel Amomoxtli is an enchanting retreat in Tepoztlán, blending luxury, culture, and nature in perfect harmony. Whether you’re exploring the magical surroundings, indulging in wellness treatments, or savoring exquisite cuisine, Amomoxtli provides a deeply memorable escape in one of Mexico’s most spiritual destinations.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3772.773565188329!2d-99.08939222437952!3d18.985605054803326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0ca262cdf1c1%3A0x916349890cea0df1!2sAmomoxtli!5e0!3m2!1ses!2ses!4v1730639210439!5m2!1ses!2ses" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
