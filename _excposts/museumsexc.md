@@ -45,5 +45,5 @@ Experience the **Museo Soumaya**, a private museum that offers free admission an
 
 These museums offer a fascinating glimpse into the artistic and historical richness of Mexico City, making them essential stops for any art enthusiast or cultural explorer.
 
-![exhibtition](/images/destinations/cdmx/cdmx25.jpg)
+![exhibtition](/images/destinations/cdmx/cdmx2.jpg)
 

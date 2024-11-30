@@ -26,7 +26,7 @@ Today, Xcaret offers a captivating array of attractions that showcase both the a
 - **Tropical Bird Farm**: Visit a vibrant farm where you can see and learn about a variety of exotic birds native to the region.
 - **Beach and Crystal Water Caves**: Relax on the pristine beach or explore the famous crystal-clear water caves, offering a unique and refreshing experience.
 
-![xcaret](/images/tours/xcaret1.webp)
++
 
 ### Eco-Archaeological Adventure
 
