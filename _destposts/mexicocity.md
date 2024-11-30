@@ -19,6 +19,8 @@ Mexico City, the sprawling capital of Mexico, is a dynamic metropolis that seaml
 
 The historic center of Mexico City, known as Centro Histórico, is a UNESCO World Heritage site filled with magnificent architecture and historical treasures. The Zócalo, one of the largest public squares in the world, is surrounded by significant landmarks such as the Metropolitan Cathedral and the National Palace, which houses Diego Rivera’s famous murals. A short walk away is the Templo Mayor, an ancient Aztec temple complex that offers a fascinating glimpse into the city’s pre-Hispanic past.
 
+![Mexico City](/images/destinations/cdmx/cdmx23.jpg)
+
 Another must-visit is Chapultepec Park, one of the largest urban parks in the world. Within its vast grounds, you’ll find the Chapultepec Castle, which offers panoramic views of the city, and the renowned Museo Nacional de Antropología, home to an extensive collection of artifacts from Mexico’s diverse indigenous cultures. The trendy neighborhoods of Roma and Condesa are perfect for exploring on foot, with their tree-lined streets, stylish boutiques, and vibrant nightlife.
 
 ![Mexico City](/images/destinations/cdmx/cdmx19.jpg)
@@ -29,15 +31,23 @@ Mexico City offers a wealth of activities to suit all interests. Art enthusiasts
 
 The city’s markets are a sensory delight, offering a taste of local life and flavors. The Mercado de la Merced and Mercado de San Juan are bustling hubs where you can find everything from exotic fruits and spices to gourmet ingredients and artisanal crafts. For a more relaxed outing, take a boat ride along the canals of Xochimilco, a UNESCO World Heritage site, where you can enjoy traditional music and food aboard colorful trajineras.
 
+{% include snippets/image-float.html image="/images/destinations/cdmx/cdmx24.jpg" alt="Mexico City" float-direction="left" %}
+
+
+
 **Gastronomy**
 
 Mexico City is a gastronomic paradise, renowned for its diverse and innovative culinary scene. From street food to fine dining, the city offers a culinary journey that reflects its rich cultural heritage. Street food is an essential part of the experience, with tacos al pastor, tamales, and tlacoyos being just a few of the must-try delights. Visit the famous Mercado Roma, a gourmet food market, to sample a variety of local and international dishes.
 
 For fine dining, Mexico City is home to some of the best restaurants in the world. Pujol, led by chef Enrique Olvera, offers a modern take on traditional Mexican flavors, while Quintonil, helmed by chef Jorge Vallejo, showcases contemporary Mexican cuisine with a focus on seasonal ingredients. Don’t miss the chance to try mezcal and tequila at one of the city’s many trendy bars, where expert mixologists craft innovative cocktails that highlight these iconic spirits.
 
+![Mexico City](/images/destinations/cdmx/cdmx26.jpg)
+
 **Reasons to Visit**
 
 Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions make it a destination like no other. The city’s warm and welcoming locals, known as chilangos, add to its charm, making visitors feel at home. Whether you’re exploring its ancient ruins, enjoying its cutting-edge art scene, or indulging in its world-class cuisine, Mexico City offers an unforgettable experience that captivates all who visit.
+
+
 
 ## Hotels in Mexico City
 

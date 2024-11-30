@@ -20,7 +20,12 @@ Discover the allure of Tulum, an ancient Mayan city perched along the stunning C
 
 Step into the Azulik Uh May Museum, a one-of-a-kind cultural sanctuary nestled deep in the jungle of Tulum. This visionary space harmoniously combines art, nature, and architecture to create a surreal, immersive experience. Built from organic materials and fully integrated into its surroundings, the museum features avant-garde art exhibitions, thought-provoking installations, and tranquil areas for meditation. It’s an otherworldly place where creativity and nature coexist.
 
+![Tankah](/images/destinations/tulum/tankah2.jpg)
+
 # The Village of Tankah
  &nbsp; 
 
 Just a short distance from Tulum lies the serene village of Tankah, a hidden gem where nature and tradition thrive together. Surrounded by lush jungle, Tankah is famous for its pristine cenotes, offering crystal-clear waters perfect for swimming, kayaking, and even ziplining. Visitors also have the chance to experience local culture firsthand by sampling authentic cuisine, engaging with the descendants of the Mayans, and learning about their way of life in this picturesque setting.
+
+
+![Tankah](/images/destinations/tulum/tankah1.jpg)

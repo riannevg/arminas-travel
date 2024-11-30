@@ -14,6 +14,8 @@ position: photo-bottom
 ### Overview  
 Isla Mujeres, located just off the coast of Cancun, is a hidden gem that offers a mix of natural beauty and cultural heritage. Known for its serene beaches, clear turquoise waters, and vibrant marine life, this island is perfect for relaxation and adventure alike. Historically, Isla Mujeres was sacred to the Mayan goddess Ixchel, and visitors can still explore the ruins of a temple dedicated to her at the island’s southernmost tip, Punta Sur. The island combines ancient traditions with modern attractions, making it a must-visit destination in the Mexican Caribbean.
 
+![Isla Mujeres](/images/tours/isla2.jpg)
+
 &nbsp;
 
 ### Highlights  
@@ -23,7 +25,11 @@ Isla Mujeres, located just off the coast of Cancun, is a hidden gem that offers 
 &nbsp;
 - **Punta Sur**: Home to the ancient ruins of a Mayan temple dedicated to Ixchel, the goddess of the moon, fertility, and love. Here, visitors can walk along dramatic cliffs that offer stunning panoramic views of the Caribbean Sea.
 
+![Isla Mujeres](/images/tours/isla3.jpg)
+
 &nbsp;
+
+{% include snippets/image-float.html image="/images/tours/isla4.jpg" alt="Isla Mujeres" float-direction="right" %}
 
 ### Fun Activities  
 - **Explore by Golf Cart**: The best way to get around the island is by renting a golf cart. Explore charming local shops, discover hidden beaches, or stop for fresh seafood at a seaside restaurant.  
@@ -33,6 +39,7 @@ Isla Mujeres, located just off the coast of Cancun, is a hidden gem that offers 
 - **Swim with Whale Sharks**: Between May and September, Isla Mujeres offers the rare opportunity to swim with majestic whale sharks in their natural habitat.
 
 &nbsp;
+
 
 ### Why Travel to Isla Mujeres?  
 Isla Mujeres is the perfect blend of natural beauty, cultural richness, and laid-back island life. Whether you’re lounging on Playa Norte, snorkeling in the crystal-clear waters, or learning about the island’s deep connection to the ancient Mayan civilization, Isla Mujeres offers an unforgettable escape from the everyday.
