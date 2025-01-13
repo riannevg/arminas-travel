@@ -21,12 +21,6 @@ Step into the world of the iconic Mexican painter Frida Kahlo at her former home
 
 Leon Trotsky, the exiled Russian revolutionary, also resided here briefly in 1937. The museum’s collection includes pre-Columbian artifacts and examples of Mexican folk art from Frida's personal collection.
 
-### Leon Trotsky Museum
-
-Visit the Leon Trotsky Museum, located in the historic district of Coyoacan. This site provides insight into the life of Trotsky during his years in exile in Mexico. The museum houses a collection of artifacts and exhibits related to his revolutionary activities and his stay in Mexico.
-
-![Leon Trotsky Museum](/images/destinations/cdmx/leon.jpg)
-
 ### Xochimilco
 
 Experience the picturesque floating gardens of Xochimilco, just an hour south of Mexico City’s historical center. Glide through the ancient canals on a colorful flat-bottomed boat, marveling at the ingenious agricultural system developed by the Aztecs. This system of floating gardens, or "chinampas," was crucial for sustaining the Aztec capital.

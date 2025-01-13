@@ -1,6 +1,6 @@
 ---
 layout: exc-layout
-title: Mexico City and Museum of Antropology
+title: City Tour Mexico City and Museum of Antropology
 date: 01-01-02
 featured: false
 categories:
