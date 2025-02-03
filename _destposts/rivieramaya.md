@@ -30,12 +30,12 @@ The Riviera Maya is more than a destination; it’s an experience that caters to
 ## Hotels in Riviera Maya
 
 <section class='grid'>
-<div class="col-3_sm-4_xs-6 padded-1">
+<!-- <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/andaz">
         <div class="bg-image square" style="background-image:url('/images/hotels/andazmyk/andazmyk8.webp')">  </div>
         <h3 class='center'>Andaz Mayakoba</h3>        
     </a>  
-</div>
+</div> -->
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/banyantree">
