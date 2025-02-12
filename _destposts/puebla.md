@@ -61,4 +61,10 @@ Puebla’s rich cultural heritage, stunning architecture, and exceptional cuisin
     </a>  
 </div>
 
+<div class='map-container center margin-1'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d120689.12731697233!2d-98.27458376048313!3d19.04019120512156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc0bd5ebc7a3b%3A0x48a6461de494ad95!2sHeroica%20Puebla%20de%20Zaragoza%2C%20Pue.%2C%20M%C3%A9xico!5e0!3m2!1ses!2ses!4v1739389801235!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
 </section>

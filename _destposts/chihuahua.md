@@ -67,4 +67,10 @@ unforgettable experience.
         <h3 class='center'>Large Copper Canyon</h3>        
     </a>  
 </div>
+
+<div class='map-container center margin-1'>
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224026.27756698045!2d-106.22180698723173!3d28.677362042307934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86ea449d5d484033%3A0xb7f1a7a706dd1d7b!2sChihuahua%2C%20Chih.%2C%20M%C3%A9xico!5e0!3m2!1ses!2ses!4v1739389099650!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 </section>

@@ -37,4 +37,10 @@ Monterrey’s blend of urban sophistication and natural beauty makes it a compel
     </a>  
 </div>
 
+<div class='map-container center margin-1'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d230187.0555347123!2d-100.47381183872125!3d25.648984779729815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86629531b437f8f5%3A0xa3d3d3ca6ac89894!2sMonterrey%2C%20N.L.%2C%20M%C3%A9xico!5e0!3m2!1ses!2ses!4v1739389499576!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
 </section>

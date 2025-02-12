@@ -56,4 +56,10 @@ Todos Santos stands out for its blend of artistic flair, historic charm, and nat
     </a>  
 </div>
 
+<div class='map-container center margin-1'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29280.212337634235!2d-110.25658792024414!3d23.459507066168662!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af03fe2b270ad7%3A0xf1a22fb71b5d13ea!2sTodos%20Santos%2C%20B.C.S.%2C%20M%C3%A9xico!5e0!3m2!1ses!2ses!4v1739390004543!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
 </section>

@@ -333,4 +333,10 @@ The Riviera Maya is more than a destination; it’s an experience that caters to
     </a>  
 </div>
 
+<div class='map-container center margin-1'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d957618.9647174937!2d-87.7350846333442!3d20.354046393802562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4e4d76264b36e3%3A0x7db660e55fb2bd60!2sRiviera%20Maya%2C%20Q.R.%2C%20M%C3%A9xico!5e0!3m2!1ses!2ses!4v1739389930750!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
 </section>

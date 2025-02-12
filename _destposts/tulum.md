@@ -270,4 +270,10 @@ Tulum’s unique combination of serene natural beauty and dynamic party scene ma
     </a>  
 </div>
 
+<div class='map-container center margin-1'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59919.594724141076!2d-87.50526122168708!3d20.176780119892907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4fd40310e42a4b%3A0xeedc0db93ff9ab7!2zVHVsdW0sIFEuUi4sIE3DqXhpY28!5e0!3m2!1ses!2ses!4v1739390045469!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
 </section>

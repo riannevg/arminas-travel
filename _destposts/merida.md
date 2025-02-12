@@ -66,6 +66,10 @@ Mérida’s warm, welcoming atmosphere and rich cultural offerings make it a mus
         <h3 class='center'>Hotel Cigno </h3>        
     </a>  
 </div>
-s
+
+<div class='map-container center margin-1'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119205.28416526047!2d-89.710922516091!3d20.986016819231274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f56715cab450d17%3A0x5dfc155715abeb09!2zTcOpcmlkYSwgWXVjLiwgTcOpeGljbw!5e0!3m2!1ses!2ses!4v1739389418472!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 </section>

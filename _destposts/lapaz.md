@@ -74,4 +74,10 @@ offers a memorable experience that perfectly blends relaxation and adventure.
     </a>  
 </div>
 
+<div class='map-container center margin-1'>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d116531.06618558484!2d-110.3905656344002!3d24.115705289908753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86afd2def5da1057%3A0x4875d2e8c0f1a3b6!2sLa%20Paz%2C%20B.C.S.%2C%20M%C3%A9xico!5e0!3m2!1ses!2ses!4v1739389334854!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
 </section>
