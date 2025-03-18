@@ -15,7 +15,7 @@ position: photo-center
 &nbsp;
 
 ### Introduction
-**Las Brisas Mérida** is a newly unveiled boutique hotel that blends contemporary luxury with the rich cultural heritage of Yucatán. Opened in early 2025, this exclusive property offers guests an intimate and sophisticated retreat in the heart of Mérida. :contentReference[oaicite:0]{index=0}
+**Las Brisas Mérida** is a newly unveiled boutique hotel that blends contemporary luxury with the rich cultural heritage of Yucatán. Opened in early 2025, this exclusive property offers guests an intimate and sophisticated retreat in the heart of Mérida. 
 
 ### Location
 Situated on **Avenida Colón**, Las Brisas Mérida enjoys a prime location just steps away from the **Yucatán International Convention Center** and the iconic **Paseo de Montejo**, Mérida's main boulevard. The hotel is approximately a 20-minute drive from **Mérida International Airport**, making it easily accessible for both business and leisure travelers. 
