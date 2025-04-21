@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-title: Waldorf Astoria Cancun
+title: Waldorf Astoria Riviera Maya
 location: Cancun
 featured: false
 date: 01-01-06

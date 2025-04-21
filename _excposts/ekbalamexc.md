@@ -25,17 +25,21 @@ Embark on a journey through the ruins of Ek Balam, where you can admire the gran
 - **The Twin Buildings**: Marvel at these unique structures, characterized by their twin towers and intricate designs.
 - **The Observatory**: Observe the ancient Maya's advanced knowledge of astronomy.
 
-![Ek Balam](/images/tours/ekbalam2.jpg)
+
+### Swim in a cenote
+
+A cenote is a natural sinkhole filled with freshwater, formed when limestone bedrock collapses to reveal the groundwater beneath. These magical pools, found mainly in Mexico's Yucatán Peninsula, were considered sacred by the ancient Maya. After visiting Ek Balam ruins you will go to a cenote where you can have a refreshing dip in the water. 
+
+![Ek Balam](/images/tours/ekbalam4.jpg)
 
 ### Explore Rio Lagartos
 
 After your visit to Ek Balam, head to Rio Lagartos, a stunning natural reserve famous for its vibrant pink flamingos. This region boasts the world's largest nesting grounds for these magnificent birds, providing an unparalleled bird-watching experience. Take a boat tour through the serene waters of Rio Lagartos to witness:
 
-![Ek Balam](/images/tours/ekbalam3.jpg)
+![Ek Balam](/images/destinations/yucatan/riolagartos3.jpg)
 
 - **Flamingo Sightings**: Get up close to large flocks of flamingos, which are a spectacular sight against the backdrop of the lagoon.
 - **Unique Wildlife**: In addition to flamingos, keep an eye out for other wildlife including crocodiles, herons, and various species of fish.
 
 Immerse yourself in the beauty and history of Ek Balam and Rio Lagartos for a memorable day of exploration and discovery.
 
-![Ek Balam](/images/tours/ekbalam4.jpg)

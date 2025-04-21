@@ -5,7 +5,7 @@ location: Acapulco
 featured: false
 categories:
   - Acapulco
-header_image: /images/hotels/banyanaca/banyanaca1.webp
+header_image: /images/hotels/banyanaca/banyanaca3.jpg
 position: photo-center
 ---
 ## Banyan Tree Cabo Marques: A Luxurious Sanctuary on the Pacific Coast
@@ -20,13 +20,13 @@ position: photo-center
 
 Perched on the cliffs of Punta Diamante, Banyan Tree Cabo Marques offers a secluded and luxurious retreat with breathtaking views of the Pacific Ocean. The hotel is located in one of Acapulco’s most exclusive areas, providing guests with a serene and private environment while still being within easy reach of the city’s lively attractions. The pristine beaches, vibrant nightlife, and historic sites of Acapulco are just a short drive away, making this the perfect base for both relaxation and exploration.
 
-![](/images/hotels/banyanaca/banyanaca3.webp)
+![](/images/hotels/banyanaca/banyanaca1.jpg)
 
 ### What to Do at the Hotel
 
 Banyan Tree Cabo Marques is designed to provide guests with an immersive experience of luxury and tranquility. The hotel’s private villas, each with its own plunge pool, offer unparalleled privacy and comfort. Guests can spend their days lounging by the infinity pool, indulging in a rejuvenating spa treatment at the renowned Banyan Tree Spa, or participating in a yoga session with stunning ocean views. The resort also offers a variety of dining options, including gourmet restaurants that serve a blend of local and international cuisine. For those looking to explore, the hotel can arrange private tours of Acapulco’s cultural and natural attractions.
 
-![](/images/hotels/banyanaca/banyanaca2.webp)
+![](/images/hotels/banyanaca/banyanaca2.jpg)
 
 ### Why We Recommend This Hotel
 
@@ -35,6 +35,8 @@ Banyan Tree Cabo Marques is designed to provide guests with an immersive experie
 **Private Villas with Plunge Pools:** Each villa comes with its own plunge pool, providing guests with an intimate and luxurious experience.&nbsp;
 
 **World-Class Spa:** The Banyan Tree Spa offers a range of holistic treatments, making it a top choice for those seeking relaxation and rejuvenation.
+
+![](/images/hotels/banyanaca/banyanaca4.jpg)
 
 <div class='map-container center'>
 

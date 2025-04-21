@@ -116,6 +116,13 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
     </a>
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/marquisreforma">
+        <div class="bg-image square" style="background-image:url('/images/hotels/marquisreforma/marquisreforma2.jpg')"></div>
+        <h3 class="center">Marquis Reforma</h3>
+    </a>
+</div>
+
 
 </section>
 

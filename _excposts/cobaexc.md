@@ -22,3 +22,9 @@ Step into a living Mayan village, where you’ll meet the descendants of this an
 ### Adventure Awaits
 
 Paddle across a serene lagoon, rappel down a thrilling descent, and swim in the crystal-clear waters of ancient cenotes. Feel the rush of adrenaline as you soar above the Mayan Jungle on a zip-line, all while surrounded by the timeless beauty of the Yucatan Peninsula.
+
+### Swim in a cenote
+
+A cenote is a natural sinkhole filled with freshwater, formed when limestone bedrock collapses to reveal the groundwater beneath. These magical pools, found mainly in Mexico's Yucatán Peninsula, were considered sacred by the ancient Maya. After visiting Coba you will go to a cenote where you can have a refreshing dip in the water. 
+
+![Cenote](/images/tours/ekbalam2.jpg)

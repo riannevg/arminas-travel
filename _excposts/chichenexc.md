@@ -11,22 +11,18 @@ position: photo-center
 ## Chichen Itza  
 &nbsp;  
 
-### The Sacred City of the Itza
+During your tour today we will visit one of the new 7 world wonders, Chichen Itza, the archeological site. 
 
-Chichen Itza, meaning “Mouth of the well of the Itza,” is a renowned archaeological site located 75 miles east of Merida in the Yucatan Peninsula. Once a sacred city, Chichen Itza is one of the most significant Maya cultural sites, covering an area of approximately six square miles. While many of its structures are now mounds, over thirty buildings remain visible to tourists.
+Step into the awe-inspiring world of Chichén Itzá, one of the New Seven Wonders of the World. This ancient Maya city is home to the iconic Kukulkán Pyramid, an architectural masterpiece that showcases the Maya's incredible knowledge of astronomy and engineering. As you walk through the expansive site, discover sacred temples, the impressive ball court, and intricate stone carvings that tell stories of a powerful civilization. A visit to Chichén Itzá is a journey back in time—and a must-see highlight of any trip to the Yucatán.
 
-### Two Eras of Architecture
+### Swim in a cenote
 
-The site is divided into two architectural groups. The first belongs to the Classic Maya Period (7th-10th centuries A.D.), during which Chichen Itza thrived as a ceremonial center. The second group, from the Maya-Toltec Period (10th-13th centuries A.D.), includes iconic structures like the Sacred Well and other remarkable ruins.
+A cenote is a natural sinkhole filled with freshwater, formed when limestone bedrock collapses to reveal the groundwater beneath. These magical pools, found mainly in Mexico's Yucatán Peninsula, were considered sacred by the ancient Maya. After visiting Chichen Itza  you will go to a cenote where you can have a refreshing dip in the water. 
 
-### Flourishing of the Arts
+![Cenote](/images/tours/ekbalam2.jpg)
 
-During the Classic Period’s Central Phase (625-800 A.D.), Chichen Itza became a prominent religious center. Structures like the Red House, Nunnery, Church, and Temple of the Three Lintels were built, showcasing the city's significance in arts and sciences. However, by the end of the 7th century, the Itza people abandoned the city, returning only in the 10th century A.D.
+### Visit colonial town Valladolid
 
-### The Toltec Alliance
+Discover the charm of Valladolid, a picturesque colonial town in the heart of the Yucatán Peninsula. In just two hours, you can wander through its colorful streets, admire the 16th-century San Servacio Cathedral, and soak up the vibrant atmosphere of the main square. Explore local boutiques and artisan shops for handmade crafts, or savor a traditional snack like marquesitas or panuchos at one of the nearby cafés. With its rich history, elegant architecture, and welcoming vibe, Valladolid offers the perfect cultural pause on your journey.
 
-Around 1000 A.D., the Itza allied with the Xio and Cocom tribes, leading to the construction of grand buildings influenced by Toltec art. This era saw the rise of Kukulkan’s Pyramid, the Temple of the Warriors, and the Group of a Thousand Columns. The Toltec influence also brought about large-scale human sacrifices, particularly at the Cenote of Sacrifice.
-
-### Kukulkan’s Pyramid
-
-The most iconic structure is Kukulkan’s Pyramid, also known as El Castillo. This 75-foot-tall pyramid was built for astronomical purposes. During the equinoxes, the play of light creates the illusion of a serpent descending the pyramid, symbolizing the descent of Kukulkan, the feathered serpent deity.
+![Valladolid](/images/destinations/yucatan/valladolid.jpg)
