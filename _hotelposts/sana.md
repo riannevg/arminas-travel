@@ -5,12 +5,8 @@ location: Tulum
 featured: false
 categories:
   - Tulum
-header_image: /images/hotels/sana/sana5.jpg
+header_image: /images/hotels/sana/sana6.jpg
 position: photo-bottom
----
-
-Great! Here's a tailored text for **Sana Tulum Beachfront Boutique Hotel** in your preferred format and style:
-
 ---
 
 ## Sana Tulum Beachfront Boutique Hotel  
@@ -47,7 +43,7 @@ Wake up to sunrise yoga overlooking the Caribbean Sea, or enjoy a leisurely padd
 
 **Ideal for romantic getaways and mindful travellers** — The atmosphere is tranquil and rejuvenating, perfect for couples or solo travellers seeking authenticity and connection.  
 
-![](/images/hotels/sana/sana6.jpg)
+![](/images/hotels/sana/sana5.jpg)
 
 ### Dining Options
 
@@ -55,4 +51,4 @@ Sana Tulum’s beachfront restaurant embraces the flavours of the Yucatán with 
 
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3745.927967916181!2d-87.4659535243581!3d20.137052517806556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4fd71f1e4f4f6d%3A0x4322d77c18b2948f!2sSana%20Tulum%20-%20Beachfront%20Boutique%20Hotel%20%26%20Beach-club!5e0!3m2!1sen!2ses!4v1747567631595!5m2!1sen!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3745.927967916181!2d-87.4659535243581!3d20.137052517806556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f4fd71f1e4f4f6d%3A0x4322d77c18b2948f!2sSana%20Tulum%20-%20Beachfront%20Boutique%20Hotel%20%26%20Beach-club!5e0!3m2!1sen!2ses!4v1747567631595!5m2!1sen!2ses" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
