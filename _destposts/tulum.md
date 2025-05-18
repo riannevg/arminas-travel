@@ -92,6 +92,14 @@ Tulum’s unique combination of serene natural beauty and dynamic party scene ma
     </a>  
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/sana">
+        <div class="bg-image square" style="background-image:url('/images/hotels/sana/sana5.jpg')"></div>
+        <h3 class='center'>Sana Tulum Beach Resort</h3>        
+    </a>  
+</div>
+
+
 </section>
 
 ## Excursions in and around Tulum
