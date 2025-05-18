@@ -7,7 +7,7 @@ duration: 3 days / 2 nights
 featured: false
 categories:
   - Merida-Tours
-header_image: /images/destinations/yucatan/uxmal.jpg
+header_image: /images/destinations/merida/merida12.jpg
 slider_one_image: /images/destinations/yucatan/ekbalam2.jpg
 slider_two_image: /images/destinations/yucatan/ekbalam.jpg
 slider_three_image: /images/destinations/yucatan/yucatan8.jpg
