@@ -10,9 +10,9 @@ categories:
   - Merida-Tours
 header_image: /images/destinations/yucatan/valladolid.jpg
 slider_one_image: /images/destinations/yucatan/yucatan5.jpg
-slider_two_image: /images/destinations/tulum/tulum12.jpg
+slider_two_image: /images/destinations/merida/merida12.jpg
 slider_three_image: /images/destinations/yucatan/chichen2.jpg
-slider_four_image: /images/destinations/yucatan/yucatan9.jpg
+slider_four_image: /images/destinations/yucatan/yucatan8.jpg
 ---
 
 ### Day 1: Arrival in Mérida & City Tour
@@ -27,7 +27,7 @@ Begin the day with a visit to Uxmal, a UNESCO World Heritage Site renowned for i
 
 In the afternoon, journey to Celestún, a tranquil fishing village nestled within a biosphere reserve. Enjoy a boat tour through the mangroves, where you'll witness flocks of pink flamingos and diverse wildlife in their natural habitat.
 
-![](/images/destinations/yucatan9.jpg)
+![](/images/destinations/yucatan/yucatan9.jpg)
 
 ### Day 3: Chichén Itzá, Cenote Swim & Valladolid
 
@@ -37,7 +37,7 @@ Afterward, refresh with a swim in a nearby cenote, a natural sinkhole with cryst
 
 Continue to Valladolid, a charming colonial town with colorful facades and a relaxed atmosphere. Enjoy an evening at leisure and overnight stay in this picturesque setting.
 
-![](/images/destinations/yucatan8.jpg)
+![](/images/destinations/yucatan/chichen2.jpg)
 
 ### Day 4: Ek Balam, Cenote Experience & Arrival at the Coast
 
