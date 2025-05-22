@@ -7,10 +7,10 @@ duration: 3 days / 2 nights
 featured: false
 categories:
   - Merida-Tours
-header_image: /images/destinations/merida/merida12.jpg
-slider_one_image: /images/destinations/yucatan/ekbalam2.jpg
-slider_two_image: /images/destinations/yucatan/ekbalam.jpg
-slider_three_image: /images/destinations/yucatan/yucatan8.jpg
+header_image: /images/destinations/yucatan/yucatan19.jpg
+slider_one_image: /images/destinations/yucatan/yucatan28.jpg
+slider_two_image: /images/destinations/yucatan/yucatan26.jpg
+slider_three_image: /images/destinations/yucatan/yucatan23.jpg
 slider_four_image: /images/destinations/yucatan/chichen3.jpg
 position-1: photo-center
 position-4: photo-bottom
@@ -21,7 +21,7 @@ position-4: photo-bottom
 
 Begin your journey in Mérida, the vibrant capital of Yucatán. After arrival, enjoy a guided city tour that reveals the architectural beauty and rich heritage of this historic city. Discover colonial mansions, explore bustling local markets, and admire the grandeur of Paseo de Montejo and the city’s charming main square. The perfect introduction to the cultural soul of the peninsula.
 
-![](/images/destinations/merida/merida10.jpg)
+![](/images/destinations/yucatan/yucatan13.jpg)
 
 ### Day 2: Ancient Uxmal & the Flamingos of Celestún
 
@@ -29,7 +29,7 @@ Step back in time with a visit to Uxmal, a UNESCO World Heritage Site renowned f
 
 In the afternoon, head west to Celestún, a tranquil nature reserve and coastal fishing village. Enjoy a boat tour through the mangroves, where you’ll witness vibrant wildlife—especially the flocks of pink flamingos that call this biosphere home. A serene contrast to the ruins of the morning.
 
-![](/images/destinations/yucatan/yucatan9.jpg)
+![](/images/destinations/yucatan/yucatan19.jpg)
 
 ### Day 3: Chichén Itzá, Cenote Swim & Valladolid
 

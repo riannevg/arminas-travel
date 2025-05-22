@@ -1,6 +1,6 @@
 ---
 layout: exc-layout
-title: Frida Kahlo Museum & Xochimilco
+title: Frida Kahlo Museum, Xochimilco & Coyoacan Food Tour
 date: 01-01-04
 categories:
   - Mexico-City-Excursions
@@ -30,3 +30,11 @@ During the boat ride, visit the enigmatic Island of the Dolls, a unique attracti
 Discover the artistic legacy of Frida Kahlo, the historical significance of Leon Trotsky, and the scenic beauty of Xochimilco on this comprehensive cultural tour.
 
 ![XOCHIMILCO](/images/destinations/cdmx/cdmx3.jpg)
+
+### Coyoacan Food Tour
+
+Dive into the colorful, artistic heart of Mexico City with a culinary experience that delights every sense. Set in the charming neighborhood of Coyoacán—famous for its cultural legacy and creative energy—this journey invites you to taste the most iconic and beloved flavors of Mexico. Wander through lively markets, uncover hidden local eateries, and savor everything from timeless street bites to inventive modern cuisine. Each tasting is a delicious expression of Coyoacán’s unique character and flavor.
+
+
+
+![Food Tour Coyoacan](/images/destinations/cdmx/foodtour1.jpg)

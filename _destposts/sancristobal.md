@@ -4,7 +4,7 @@ name: San Cristobal de las Casas
 featured: false
 categories:
   - San-Cristobal
-header_image: /images/destinations/sancristobal/sancristobal1.jpg
+header_image: /images/destinations/sancristobal/sancristobal5.jpg
 position: photo-center
 ---
 

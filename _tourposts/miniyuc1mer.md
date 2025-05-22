@@ -7,12 +7,12 @@ duration: 2 days / 1 night
 featured: false
 categories:
   - Merida-Tours
-header_image: /images/destinations/merida/merida15.jpg
-slider_one_image: /images/destinations/yucatan/chichen.jpg
+header_image: /images/destinations/yucatan/valladolid.jpg
+slider_one_image: /images/destinations/yucatan/yucatan14.jpg
 slider_two_image: /images/destinations/yucatan/yucatan.jpg
-slider_three_image: /images/destinations/merida/merida14.jpg
-slider_four_image: /images/destinations/merida/merida11.jpg
-position-1: 
+slider_three_image: /images/destinations/merida/merida15.jpg
+slider_four_image: /images/destinations/merida/merida14.jpg
+position-1: photo-bottom
 position-2:
 position-3: photo-top
 position-4:
@@ -22,7 +22,7 @@ position-4:
 
 Welcome to Mérida, the cultural heart of the Yucatán Peninsula. Upon arrival, immerse yourself in the city’s charm with a guided tour through its picturesque streets. Admire the grandeur of colonial mansions, the lively Plaza Grande, and the iconic Paseo de Montejo—lined with elegant 19th-century architecture. Discover the city's blend of Mayan heritage and European elegance, brought to life by local traditions, vibrant markets, and the warm spirit of Yucatán hospitality.
 
-![](/images/destinations/merida/merida10.jpg)
+![](/images/destinations/merida/merida11.jpg)
 
 ### Day 2: Merida – Chichen Itza – Valladolid– Riviera Maya
 

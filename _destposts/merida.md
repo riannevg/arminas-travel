@@ -74,34 +74,48 @@ Mérida’s warm, welcoming atmosphere and rich cultural offerings make it a mus
     </a>  
 </div>
 
+</section>
 
-<h2 class="margin-b-2">Tours departing from Merida</h2>
+<h2>Excursions departing from Merida</h2>
+
+<section class='grid'>
+
+    <div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/celestun">
+        <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan28.jpg')">  </div>
+        <h3 class='center'>Uxmal & Celestun</h3>        
+    </a>  
+    </div>
+
+</section>
+
+
+<h2>Multi-day tours departing from Merida</h2>
 
 <section class='grid'>
 
     <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/tours/miniyuc1mer">
-        <div class="bg-image square" style="background-image:url('/images/destinations/merida/merida15.jpg')">  </div>
+        <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/valladolid.jpg')">  </div>
         <h3 class='center'>Mini Yucatan 1 from Merida</h3>        
     </a>  
     </div>
 
-
     <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/tours/miniyuc2mer">
-        <div class="bg-image square" style="background-image:url('/images/destinations/merida/merida12.jpg')">  </div>
+        <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan19.jpg')">  </div>
         <h3 class='center'>Mini Yucatan 2 from Merida</h3>        
     </a>  
     </div>
 
     <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/tours/miniyuc3mer">
-        <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/valladolid.jpg')">  </div>
+        <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan26.jpg')">  </div>
         <h3 class='center'>Mini Yucatan 3 from Merida</h3>        
     </a>  
     </div>
 
-</section>
+
 
 <div class='map-container center margin-1'>
 

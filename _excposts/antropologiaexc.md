@@ -1,6 +1,6 @@
 ---
 layout: exc-layout
-title: City Tour Mexico City and Museum of Antropology
+title: City Tour Mexico City and Museum of Anthropology 
 date: 01-01-02
 featured: false
 categories:
@@ -34,3 +34,6 @@ Take in the sights of Paseo de la Reforma, the city's main avenue, lined with hi
 Your visit wouldn’t be complete without exploring the National Museum of Anthropology, considered the finest archaeological museum in the world. Spread over more than 10,000 square meters, it features 26 exhibition halls where you can marvel at thousands of artifacts. From burial tombs and giant Olmec stone heads to the famous Aztec Calendar Stone and a reconstructed Mayan temple, the museum is a treasure trove of Mexico’s ancient civilizations.
 
 ![Museo de Antropologia](/images/destinations/cdmx/antro1.jpg)
+
+
+

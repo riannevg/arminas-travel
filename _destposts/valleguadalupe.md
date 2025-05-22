@@ -4,7 +4,7 @@ name: Valle de Guadalupe
 featured: false
 categories:
   - Valle Guadalupe
-header_image: /images/destinations/valleguadalupe/valleguadalupe3.webp
+header_image: /images/destinations/valleguadalupe/valleguadalupe4.jpg
 position: photo-center
 ---
 
