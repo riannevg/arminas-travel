@@ -133,7 +133,14 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/antropologiaexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx4.jpg')">  </div>
-        <h3 class='center'>Mexico City and Museum of Antropology</h3>        
+        <h3 class='center'>Mexico City and Museum of Anthropology</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/antopolcityfood">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/antro2.jpg')">  </div>
+        <h3 class='center'>Mexico City Tour, Museum of Anthropology and Food Tour</h3>        
     </a>  
 </div>
 
@@ -147,7 +154,21 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/fridaxochiexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx13.jpg')">  </div>
-        <h3 class='center'>Frida Kahlo Museum, Leon Trotsky Museum & Xochimilco </h3>        
+        <h3 class='center'>Frida Kahlo Museum & Xochimilco </h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/fridafood">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx3.jpg')">  </div>
+        <h3 class='center'>Frida Kahlo Museum, Xochimilco & Food Tour </h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/gastronomic">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/foodtour8.jpg')">  </div>
+        <h3 class='center'>Gastronomic tour of Mexico City </h3>        
     </a>  
 </div>
 
@@ -183,6 +204,13 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
     <a href="/excursions/xochitaxcoexc">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/taxco.jpg')">  </div>
         <h3 class='center'>Xochicalco and Taxco</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/mushroom">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/mushroom6.jpg')">  </div>
+        <h3 class='center'>Mushroom foraging</h3>        
     </a>  
 </div>
 
