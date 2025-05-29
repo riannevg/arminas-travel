@@ -4,11 +4,11 @@ title: Mushroom Foraging
 date: 01-01-07
 categories:
   - Mexico-City-Excursions
-header_image: /images/destinations/cdmx/mushroom6.jpg
+header_image: /images/destinations/cdmx/mushroom8.jpg
 position: photo-center
 ---
 ## Mushroom Foraging with the Mazahua
-**Seasonal experience: June to October**
+**Seasonal experience: June to November**
 
 &nbsp;
 

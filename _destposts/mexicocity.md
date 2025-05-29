@@ -168,7 +168,7 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/gastronomic">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/foodtour8.jpg')">  </div>
-        <h3 class='center'>Gastronomic tour of Mexico City </h3>        
+        <h3 class='center'>Gastronomic Capital </h3>        
     </a>  
 </div>
 

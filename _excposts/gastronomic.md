@@ -1,13 +1,13 @@
 ---
 layout: exc-layout
-title: Tour of the Gastronomic Capitol Mexico City
+title: Gastronomic Capital
 date: 01-01-07
 categories:
   - Mexico-City-Excursions
 header_image: /images/destinations/cdmx/foodtour8.jpg
 position: photo-center
 ---
-## Tour of the Gastronomic Capitol Mexico City
+## Gastronomic Capital
 
 &nbsp;
 
