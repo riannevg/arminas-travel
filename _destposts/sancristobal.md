@@ -62,3 +62,16 @@ It’s not just a stop on the map—it’s a place that stays with you.  
     </div>
 
     </section> -->
+
+## Multi-day tours departing from San Cristobal de las Casas
+
+<section class='grid'>
+
+    <div class="col-3_sm-4_xs-6 padded-1">
+        <a href="/tours/magicalchiapas">
+            <div class="bg-image square" style="background-image:url('/images/destinations/chiapas/sancristobal6.jpg')">  </div>
+            <h3 class='center'>Magical Chiapas</h3>        
+        </a>  
+    </div>
+
+    </section>

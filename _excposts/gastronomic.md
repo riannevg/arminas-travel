@@ -30,3 +30,5 @@ Each of the eight food and drink tastings reveals a different facet of Mexico’
 With a bottle of water in hand and your appetite ready, this tour offers not just a taste of food, but a deep, sensory dive into the living history of Mexico City. Come hungry—leave enchanted.
 
 ![Food Tour](/images/destinations/cdmx/foodtour3.jpg)
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/GVsWZMHJFL0' frameborder='0' allowfullscreen></iframe></div>
