@@ -45,16 +45,21 @@ cuisine, Bacalar offers a peaceful and memorable getaway.
 &nbsp;  
 &nbsp;  
 
+## Hotels in Bacalar
 
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/bocadeagua/">
+            <div class="bg-image square" style="background-image:url('/images/hotels/bocadeagua/bocadeagua5.jpg');"></div>
+            <h3 class='center'>Boca de Agua</h3>        
+        </a>  
+</div>
 
+<div class='map-container center margin-1'>
 
-
-
-    <div class='map-container center margin-1'>
-
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30238.747130166306!2d-88.41993862725536!3d18.671022384227285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5bb13e302c19f9%3A0x11cedc7f2bd0e608!2sBacalar%2C%20Q.R.%2C%20M%C3%A9xico!5e0!3m2!1ses!2ses!4v1739388976768!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30238.747130166306!2d-88.41993862725536!3d18.671022384227285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5bb13e302c19f9%3A0x11cedc7f2bd0e608!2sBacalar%2C%20Q.R.%2C%20M%C3%A9xico!5e0!3m2!1ses!2ses!4v1739388976768!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         
-    </div>
+  </div>
 
 
 </section>
