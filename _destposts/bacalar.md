@@ -48,22 +48,7 @@ cuisine, Bacalar offers a peaceful and memorable getaway.
 
 
 
-## Hotels in Bacalar
 
-<section class='grid'>
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/akalki">
-        <div class="bg-image square" style="background-image:url('/images/hotels/akalki/akalki7.jpeg')">  </div>
-        <h3 class='center'>Akalki Hotel</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/casabakal">
-        <div class="bg-image square" style="background-image:url('/images/hotels/casabakal/casabakal2.webp')">  </div>
-        <h3 class='center'>Casa Bakal</h3>        
-    </a>  
-</div>
 
     <div class='map-container center margin-1'>
 

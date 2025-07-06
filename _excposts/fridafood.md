@@ -7,8 +7,7 @@ categories:
 header_image: /images/destinations/cdmx/cdmx3.jpg
 position: photo-center
 ---
-## Frida Kahlo Museum & Xochimilco
-
+## Frida Kahlo Museum, Xochimilco & Coyoacan Food Tour
 &nbsp;
 
 Explore the vibrant districts of Coyoacan and Xochimilco in Mexico City, known for their rich cultural and historical significance. This immersive tour takes you through the lives of two intriguing figures and offers a unique glimpse into the city's past.

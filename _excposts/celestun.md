@@ -21,4 +21,4 @@ The day begins with a visit to Uxmal, one of the most majestic archaeological si
 
 In the afternoon, the tour continues to Celestún, a coastal biosphere reserve renowned for its extraordinary biodiversity and tranquil natural beauty. Here, you’ll embark on a boat journey through the mangroves, where you may observe colonies of vibrant pink flamingos and a variety of native and migratory birds. The calm waters and unspoiled surroundings offer a peaceful contrast to the grandeur of Uxmal. With a chance to spot wildlife in its natural habitat and even enjoy a swim in the freshwater springs, Celestún provides a refreshing and memorable end to this journey through culture and nature.
 
-![Celestun](/images/destinations/yucatan/yucatan22.jpg)
+![Celestun](/images/destinations/yucatan/yucatan19.jpg)

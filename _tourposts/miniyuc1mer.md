@@ -9,7 +9,7 @@ categories:
   - Merida-Tours
 header_image: /images/destinations/yucatan/valladolid.jpg
 slider_one_image: /images/destinations/yucatan/yucatan14.jpg
-slider_two_image: /images/destinations/yucatan/yucatan.jpg
+slider_two_image: /images/destinations/yucatan/yucatan26.jpg
 slider_three_image: /images/destinations/merida/merida15.jpg
 slider_four_image: /images/destinations/merida/merida14.jpg
 position-1: photo-bottom

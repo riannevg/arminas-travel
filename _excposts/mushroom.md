@@ -4,7 +4,7 @@ title: Mushroom Foraging
 date: 01-01-07
 categories:
   - Mexico-City-Excursions
-header_image: /images/destinations/cdmx/mushroom8.jpg
+header_image: /images/destinations/cdmx/mushroom9.jpg
 position: photo-center
 ---
 ## Mushroom Foraging with the Mazahua
@@ -16,6 +16,8 @@ position: photo-center
 
 Step into the heart of Mazahua territory for a rare, immersive day in nature and culture. This unique experience takes you into the highland forests of central Mexico (Valle de Bravo), where you'll join a Mazahua community member for a guided hike through their ancestral lands.
 The Mazahua are one of the largest Indigenous groups in central Mexico, known for their deep connection to the land, vibrant textiles, and strong traditions of herbal medicine and sustainable agriculture. During the hike, your guide will share ancient knowledge of the region’s flora, including medicinal plants and edible mushrooms.
+
+![Mushroom Foraging](/images/destinations/cdmx/mushroom8.jpg)
 
 During our forest hike, we’ll have the unique opportunity to search for a variety of edible wild mushrooms that grow in the highland forests of Valle de Bravo.
 

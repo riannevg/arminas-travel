@@ -58,13 +58,6 @@ Oaxaca’s captivating blend of cultural richness, historical depth, and culinar
     </a>  
 </div>
 
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/majagua">
-        <div class="bg-image square" style="background-image:url('/images/hotels/majagua/majagua4.jpg')">  </div>
-        <h3 class='center'>Majagua Hotel Boutique</h3>        
-    </a>  
-</div>
-
 <div class='map-container center margin-1'>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122032.1927983919!2d-96.8090039998532!3d17.09679863390738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c7221b8344be7d%3A0x9ad3a00f0440b253!2sZona%20Metropolitana%20de%20Oaxaca%2C%20Oax.%2C%20M%C3%A9xico!5e0!3m2!1ses!2ses!4v1739389615187!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

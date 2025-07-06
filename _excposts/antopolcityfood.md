@@ -1,6 +1,6 @@
 ---
 layout: exc-layout
-title: City Tour Mexico City, Museum of Anthropology & Food Tour
+title: City Tour Mexico City, Museum of Anthropology & Taco Tour
 date: 01-01-03
 featured: false
 categories:
@@ -8,7 +8,7 @@ categories:
 header_image: /images/destinations/cdmx/antro2.jpg
 position: photo-center
 ---
-## Mexico City and Museum of Anthropology  
+## City Tour Mexico City, Museum of Anthropology & Taco Tour
 &nbsp;  
 
 ### Discovering the Heart of Mexico City

@@ -110,13 +110,6 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/vuestro">
-        <div class="bg-image square" style="background-image:url('/images/hotels/vuestro/vuestro3.jpg')"></div>
-        <h3 class="center">Vuestro Querido Hotel</h3>
-    </a>
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/marquisreforma">
         <div class="bg-image square" style="background-image:url('/images/hotels/marquisreforma/marquisreforma2.jpg')"></div>
         <h3 class="center">Marquis Reforma</h3>
@@ -161,16 +154,10 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/fridafood">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx3.jpg')">  </div>
-        <h3 class='center'>Frida Kahlo Museum, Xochimilco & Food Tour </h3>        
+        <h3 class='center'>Frida Kahlo Museum, Xochimilco & Taco Tour </h3>        
     </a>  
 </div>
 
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/excursions/gastronomic">
-        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/foodtour8.jpg')">  </div>
-        <h3 class='center'>Gastronomic Capital </h3>        
-    </a>  
-</div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/monarchexc">
@@ -209,7 +196,7 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/mushroom">
-        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/mushroom6.jpg')">  </div>
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/mushroom9.jpg')">  </div>
         <h3 class='center'>Mushroom foraging</h3>        
     </a>  
 </div>
