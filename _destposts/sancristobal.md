@@ -37,31 +37,28 @@ The cool mountain climate, bohemian energy, and surrounding natural beauty make 
 
 It’s not just a stop on the map—it’s a place that stays with you.  
 
-<!-- **Hotels in San Cristobal de las Casas**
+## Hotels in San Cristobal de las Casas
 
 <section class='grid'>
+
 <div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/andazcondesa">
-        <div class="bg-image square" style="background-image:url('/images/hotels/andazcondesa/andazcondesa6.jpg')">  </div>
-        <h3 class='center'>Andaz Condesa</h3>        
+    <a href="/hotels/bo/">
+        <div class="bg-image square" style="background-image:url('/images/hotels/bo/bo5.jpg')">  </div>
+        <h3 class='center'>Hotel Bo</h3>        
+    </a>  
+</div>
+
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/cdrealsc/">
+        <div class="bg-image square" style="background-image:url('/images/hotels/cdrealsc/cdrealsc3.jpeg')">  </div>
+        <h3 class='center'>Ciudad Real San Cristobal</h3>        
     </a>  
 </div>
 
 
 </section>
 
-**Multi-day tours departing from San Cristobal de las Casas**
-
-<section class='grid'>
-
-    <div class="col-3_sm-4_xs-6 padded-1">
-        <a href="/tours/luxurymexico">
-            <div class="bg-image square" style="background-image:url('/images/hotels/banyanpuebla/banyanpue3.webp')">  </div>
-            <h3 class='center'>Luxury Mexico</h3>        
-        </a>  
-    </div>
-
-    </section> -->
 
 ## Multi-day tours departing from San Cristobal de las Casas
 
