@@ -47,6 +47,13 @@ Puebla’s rich cultural heritage, stunning architecture, and exceptional cuisin
     </a>  
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/cartesiano">
+        <div class="bg-image square" style="background-image:url('/images/hotels/cartesiano/cartesiano1.jpg')"></div>
+        <h3 class='center'>Cartesiano Boutique & Wellness</h3>        
+    </a>  
+</div>
+
 
 </section>
 
