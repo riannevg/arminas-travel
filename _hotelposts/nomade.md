@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-title: Nomade Tulum
+title: Nomade Temple Tulum
 location: Tulum
 featured: falses
 categories:
@@ -9,26 +9,26 @@ header_image: /images/hotels/nomade/nomade3.jpg
 position: photo-bottom
 ---
 
-## Nomade Tulum  
+## Nomade Temple Tulum  
 &nbsp;
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/jwpO7i_nJeY' frameborder='0' allowfullscreen></iframe></div>
 
 
 ### Location  
-Nomade Tulum is a tranquil haven nestled within the lush tropical jungle of Tulum, situated right along the pristine beaches of the Riviera Maya. This bohemian-style retreat blends seamlessly with its natural surroundings, offering guests an immersive experience in the heart of nature while being just a short drive away from Tulum's vibrant town center and the nearby Mayan ruins.  
+Nomade Temple Tulum is a tranquil haven nestled within the lush tropical jungle of Tulum, situated right along the pristine beaches of the Riviera Maya. This bohemian-style retreat blends seamlessly with its natural surroundings, offering guests an immersive experience in the heart of nature while being just a short drive away from Tulum's vibrant town center and the nearby Mayan ruins.  
 &nbsp;
 
 ![](/images/hotels/nomade/nomade1.jpg)
 
 ### What to Do at the Hotel  
-At Nomade Tulum, every aspect of your stay is designed to nourish your mind, body, and soul. Start your day with a sunrise yoga session on the beach, followed by a refreshing dip in the turquoise waters. The hotel also offers unique wellness experiences, including sound healing sessions and meditation classes. For those seeking adventure, explore the nearby cenotes or take part in the hotel's organized excursions. Evenings are perfect for enjoying live music under the stars or dining at one of the hotel's exquisite restaurants.  
+At Nomade Temple Tulum, every aspect of your stay is designed to nourish your mind, body, and soul. Start your day with a sunrise yoga session on the beach, followed by a refreshing dip in the turquoise waters. The hotel also offers unique wellness experiences, including sound healing sessions and meditation classes. For those seeking adventure, explore the nearby cenotes or take part in the hotel's organized excursions. Evenings are perfect for enjoying live music under the stars or dining at one of the hotel's exquisite restaurants.  
 &nbsp;
 
 ![](/images/hotels/nomade/nomade2.jpg)
 
 ### Why We Recommend This Hotel  
-- **Immersive Wellness Experiences:** Nomade Tulum provides a holistic approach to relaxation with its range of wellness activities designed to rejuvenate guests.  
+- **Immersive Wellness Experiences:** Nomade Temple Tulum provides a holistic approach to relaxation with its range of wellness activities designed to rejuvenate guests.  
 &nbsp;
 - **Eco-Chic Design:** The hotel’s design emphasizes sustainability, featuring natural materials and an organic aesthetic that harmonizes with the surrounding environment.  
 &nbsp;
@@ -36,7 +36,7 @@ At Nomade Tulum, every aspect of your stay is designed to nourish your mind, bod
 &nbsp;
 
 ### Restaurants  
-Nomade Tulum’s culinary offerings are as eclectic as its atmosphere. At Macondo, enjoy a plant-based menu inspired by global flavors, served in a beautifully designed space. La Popular, the hotel’s beachside restaurant, focuses on fresh seafood and traditional Mexican dishes, perfect for a laid-back meal with your toes in the sand. Each dining experience is thoughtfully curated to complement the hotel’s ethos of mindful living.  
+Nomade Temple Tulum’s culinary offerings are as eclectic as its atmosphere. At Macondo, enjoy a plant-based menu inspired by global flavors, served in a beautifully designed space. La Popular, the hotel’s beachside restaurant, focuses on fresh seafood and traditional Mexican dishes, perfect for a laid-back meal with your toes in the sand. Each dining experience is thoughtfully curated to complement the hotel’s ethos of mindful living.  
 &nbsp;
 
 <div class='map-container center'>
