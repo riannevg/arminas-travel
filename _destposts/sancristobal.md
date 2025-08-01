@@ -70,12 +70,6 @@ It’s not just a stop on the map—it’s a place that stays with you.  
             <h3 class='center'>Magical Chiapas</h3>        
         </a>  
     </div>
-
-       <div class="col-3_sm-4_xs-6 padded-1">
-        <a href="/tours/pakalroute">
-            <div class="bg-image square" style="background-image:url('/images/destinations/chiapas/chiapas13.jpg')">  </div>
-            <h3 class='center'>Pakal Route</h3>        
-        </a>  
-    </div>
+     
 
     </section>
