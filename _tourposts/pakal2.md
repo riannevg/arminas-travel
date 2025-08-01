@@ -6,7 +6,6 @@ tourlocations: Villahermosa > Palenque > Agua Azul > Palenque > Villahermosa
 duration: 3 days / 2 nights
 featured: false
 categories:
-  - San-Cristobal-Tours
   - Palenque-Tours
 header_image: /images/destinations/palenque/palenque11.jpg
 slider_one_image: /images/destinations/palenque/palenque11.jpg
@@ -16,7 +15,7 @@ slider_four_image: /images/destinations/chiapas/chiapas13.jpg
 position-2: photo-bottom
 position-4: photo-center
 ---
-## Pakal Tour
+## Pakal Route
  
 Follow the footsteps of great Maya rulers through the heart of the Chiapas rainforest. The Pakal Tour invites you to uncover ancient cities hidden beneath jungle canopies, bathe in the turquoise waters of cascading rivers, and witness the enduring legacy of one of Mesoamerica’s most fascinating civilisations. From Palenque to the depths of the Lacandon jungle, this journey is rich in mystery, beauty, and adventure.
 
