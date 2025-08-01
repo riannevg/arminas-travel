@@ -57,6 +57,23 @@ Palenque’s blend of historical grandeur and natural beauty creates a unique tr
     </a>  
 </div>
 
+<h2 class="margin-b-2 padding-t-30">Tours starting from Palenque</h2>
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/_tourposts/pakal2.md">
+        <div class="bg-image square" style="background-image:url('/images/destinations/palenque/palenque11.jpg')">  </div>
+        <h3 class='center'>Pakal Route (2 nights)</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/_tourposts/pakalroute.md">
+        <div class="bg-image square" style="background-image:url('/images/destinations/chiapas/chiapas13.jpg')">  </div>
+        <h3 class='center'>Pakal Route (3 nights)</h3>        
+    </a>  
+</div>
+
+
 <div class='map-container center margin-1'>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60873.58928524561!2d-92.02475818548982!3d17.526629744509716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f24f4600da3b29%3A0xd16acd73739973f1!2s29960%20Palenque%2C%20Chis.%2C%20M%C3%A9xico!5e0!3m2!1ses!2ses!4v1739389659420!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
