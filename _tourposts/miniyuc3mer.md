@@ -38,7 +38,7 @@ Afterward, refresh with a swim in a nearby cenote, a natural sinkhole with cryst
 
 Continue to Valladolid, a charming colonial town with colorful facades and a relaxed atmosphere. Enjoy an evening at leisure and overnight stay in this picturesque setting.
 
-![](/images/destinations/yucatan/chichen2.jpg)
+![](/images/destinations/yucatan/valladolid5.jpg)
 
 ### Day 4: Ek Balam, Cenote Experience & Arrival at the Coast
 

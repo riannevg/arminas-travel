@@ -34,6 +34,8 @@ Later, stroll through Valladolid, a charming colonial town brimming with colourf
 
 Conclude your adventure with a transfer to your selected hotel in Cancún or the Riviera Maya, filled with unforgettable memories of culture, nature, and discovery.
 
+![](/images/destinations/yucatan/valladolid3.jpg)
+
 <div class="map-container">
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1AUk7XnPgny5uilD7q0c3ts5PbZK7mhE&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>

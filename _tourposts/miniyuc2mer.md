@@ -39,6 +39,8 @@ Afterwards, refresh with a swim in a cenote, one of the Yucatán’s mystical un
 
 Continue to Valladolid, a picturesque colonial town known for its colourful streets and peaceful squares. Stroll through the historic centre before concluding your journey with a transfer to Cancún, Riviera Maya, or Tulum.
 
+![](/images/destinations/yucatan/valladolid4.jpg)
+
 <div class="map-container">
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1psZ1WXaS_o1uYcjkvFct-7H2RYM8dAQ&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>

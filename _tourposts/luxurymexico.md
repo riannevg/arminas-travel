@@ -2,7 +2,7 @@
 layout: tour-layout
 title: Luxury Mexico
 weight: 6
-tourlocations: Cancun > Valladolid > Hacienda Xcanatun > Chable Yucatan > Riviera Maya
+tourlocations: Mexico City > Teotihuacan > Cholula > Puebla > Mexico City
 duration: 6 days / 5 nights
 featured: false
 categories:
