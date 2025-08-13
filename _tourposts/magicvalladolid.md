@@ -3,7 +3,7 @@ layout: tour-layout
 title: Magic Valladolid
 weight: 6
 tourlocations: Cancun > Ek Balam > Valladolid > Coba > Sfer Ik > Riviera Maya
-duration: 10 days / 9 nights
+duration: 2 days / 1 night
 featured: false
 categories:
   - Cancun-Tours
