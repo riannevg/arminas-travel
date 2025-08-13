@@ -1,4 +1,5 @@
 ---
+title: Acapulco
 layout: dest-layout
 name: Acapulco
 featured: false

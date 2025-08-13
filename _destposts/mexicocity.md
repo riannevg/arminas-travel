@@ -1,4 +1,5 @@
 ---
+title: Mexico City
 layout: dest-layout
 name: Mexico City
 featured: true

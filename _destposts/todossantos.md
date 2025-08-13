@@ -1,4 +1,5 @@
 ---
+title: Todos Santos
 layout: dest-layout
 name: Todos Santos
 featured: false

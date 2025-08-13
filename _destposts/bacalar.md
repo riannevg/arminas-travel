@@ -1,4 +1,5 @@
 ---
+title: Bacalar
 layout: dest-layout
 name: Bacalar
 featured: false

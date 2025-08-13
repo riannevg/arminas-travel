@@ -1,4 +1,5 @@
 ---
+title: Riviera Maya
 layout: dest-layout
 name: Riviera Maya
 featured: false

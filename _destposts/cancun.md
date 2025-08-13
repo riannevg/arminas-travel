@@ -1,4 +1,5 @@
 ---
+title: Cancun
 layout: dest-layout
 name: Cancun
 featured: false

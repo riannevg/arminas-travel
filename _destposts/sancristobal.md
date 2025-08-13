@@ -1,4 +1,5 @@
 ---
+title: San Cristobal de las Casas
 layout: dest-layout
 name: San Cristobal de las Casas
 featured: false

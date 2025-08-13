@@ -1,4 +1,5 @@
 ---
+title: Punta Mita
 layout: dest-layout
 name: Punta Mita
 featured: false

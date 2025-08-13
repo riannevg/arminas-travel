@@ -1,4 +1,5 @@
 ---
+title: Puerto Vallarta
 layout: dest-layout
 name: Puerto Vallarta / Nueva Vallarta
 featured: false

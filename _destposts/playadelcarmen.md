@@ -1,4 +1,5 @@
 ---
+title: Playa del Carmen
 layout: dest-layout
 name: Playa del Carmen
 featured: false

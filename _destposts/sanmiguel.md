@@ -1,4 +1,5 @@
 ---
+title: San Miguel de Allende
 layout: dest-layout
 name: San Miguel de Allende
 featured: false

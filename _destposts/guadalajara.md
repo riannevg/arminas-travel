@@ -1,4 +1,5 @@
 ---
+title: Guadalajara
 layout: dest-layout
 name: Guadalajara
 featured: false

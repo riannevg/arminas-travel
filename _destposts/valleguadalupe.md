@@ -1,4 +1,5 @@
 ---
+title: Valle de Guadalupe
 layout: dest-layout
 name: Valle de Guadalupe
 featured: false

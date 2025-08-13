@@ -1,4 +1,5 @@
 ---
+title: Chihuahua
 layout: dest-layout
 name: Chihuahua
 featured: false

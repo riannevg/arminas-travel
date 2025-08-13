@@ -1,4 +1,5 @@
 ---
+title: Monterrey
 layout: dest-layout
 name: Monterrey
 featured: false

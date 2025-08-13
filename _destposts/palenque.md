@@ -1,4 +1,5 @@
 ---
+title: Palenque
 layout: dest-layout
 name: Palenque
 featured: false

@@ -1,4 +1,5 @@
 ---
+title: Isla Holbox
 layout: dest-layout
 name: Isla Holbox
 featured: false

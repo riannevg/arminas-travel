@@ -1,4 +1,5 @@
 ---
+title: Morelia
 layout: dest-layout
 name: Morelia
 featured: false

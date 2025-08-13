@@ -1,4 +1,5 @@
 ---
+title: Yucatan
 layout: dest-layout
 name: Yucatan
 featured: true

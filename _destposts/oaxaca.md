@@ -1,4 +1,5 @@
 ---
+title: Oaxaca
 layout: dest-layout
 name: Oaxaca
 featured: false

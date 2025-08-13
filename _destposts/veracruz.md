@@ -1,4 +1,5 @@
 ---
+title: Veracruz
 layout: dest-layout
 name: Veracruz
 featured: false

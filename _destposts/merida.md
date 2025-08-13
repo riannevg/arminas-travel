@@ -1,4 +1,5 @@
 ---
+title: Merida
 layout: dest-layout
 name: Merida
 featured: false

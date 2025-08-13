@@ -1,4 +1,5 @@
 ---
+title: La Paz
 layout: dest-layout
 name: La Paz
 featured: true

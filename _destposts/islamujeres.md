@@ -1,4 +1,5 @@
 ---
+title: Isla Mujeres
 layout: dest-layout
 name: Isla Mujeres
 featured: false

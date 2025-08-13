@@ -1,4 +1,5 @@
 ---
+title: Morelos
 layout: dest-layout
 name: Morelos
 featured: false

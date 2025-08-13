@@ -1,4 +1,5 @@
 ---
+title: Puerto Escondido
 layout: dest-layout
 name: Puerto Escondido
 featured: false

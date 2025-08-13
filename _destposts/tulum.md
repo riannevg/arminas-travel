@@ -1,4 +1,5 @@
 ---
+title: Tulum
 layout: dest-layout
 name: Tulum
 featured: false

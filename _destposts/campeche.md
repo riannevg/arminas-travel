@@ -1,4 +1,5 @@
 ---
+title: Campeche
 layout: dest-layout
 name: Campeche
 featured: false

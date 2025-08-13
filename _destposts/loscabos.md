@@ -1,4 +1,5 @@
 ---
+title: Los Cabos
 layout: dest-layout
 name: Los Cabos
 featured: false

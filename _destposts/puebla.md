@@ -1,4 +1,5 @@
 ---
+title: Puebla
 layout: dest-layout
 name: Puebla
 featured: false
