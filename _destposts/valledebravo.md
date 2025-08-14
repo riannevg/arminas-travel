@@ -40,7 +40,7 @@ Valle de Bravo is a rare destination where **nature, culture, and adventure meet
             <h3 class='center'>Santuario Valle de Bravo</h3>
         </a>  
     </div>
-
+</section>
 ## Excursions departing from Valle de Bravo
 
 <section class='grid'>
