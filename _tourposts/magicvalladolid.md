@@ -21,14 +21,14 @@ position-4: photo-center
 ## Magic Valladolid
 
 
-### Day 1 – Cancún to Valladolid: Ek Balam, Cenote, and Río Secreto  
+### Day 1 – Cancún to Valladolid: Ek Balam, Cenote, and Río Lagartos  
 &nbsp;  
 
 Your adventure begins with a journey deep into the heart of the ancient Mayan world. At **Ek Balam**, step into an archaeological gem where soaring stone structures emerge from the jungle canopy. Wander through intricately carved temples, then climb the magnificent Acropolis for sweeping views over an endless expanse of emerald green.  
 
 After exploring the ruins, cool off in the refreshing embrace of a **hidden cenote** nearby, where crystal-clear turquoise waters glisten under shafts of sunlight and limestone walls echo with centuries of history.  
 
-In the afternoon, venture underground into the spellbinding world of **Río Secreto**. Guided by experts, you will wade through shallow waters and gaze up at delicate formations of stalactites and stalagmites, illuminated in soft golden light — a surreal reminder of nature’s artistry.  
+In the afternoon, head north to **Río Lagartos**, a serene fishing village on the edge of a protected natural reserve. Glide across calm waters on a private boat tour, spotting graceful flamingos, pelicans, and other exotic birds in their natural habitat. Marvel at the shimmering pink hues of the famous salt lagoons, a spectacular natural phenomenon that makes for unforgettable photographs.    
 
 As evening approaches, you will arrive in the charming colonial city of **Valladolid**, where pastel façades, cobbled streets, and leafy plazas invite you to slow down and soak up the atmosphere.  
 
