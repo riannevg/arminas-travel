@@ -41,7 +41,7 @@ Valle de Bravo is a rare destination where **nature, culture, and adventure meet
         </a>  
     </div>
 
-<h2 class="margin-b-2">Excursions departing from Valle de Bravo</h2>
+## Excursions departing from Valle de Bravo
 
 <section class='grid'>
 <div class="col-3_sm-4_xs-6 padded-1">
