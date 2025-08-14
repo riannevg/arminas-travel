@@ -41,6 +41,17 @@ Valle de Bravo is a rare destination where **nature, culture, and adventure meet
         </a>  
     </div>
 
+<h2 class="margin-b-2">Excursions departing from Valle de Bravo</h2>
+
+<section class='grid'>
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/mushroom">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/mushroom9.jpg')">  </div>
+        <h3 class='center'>Mushroom Foraging</h3>        
+    </a>  
+</div>
+
+
 <div class='map-container center margin-1'>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60292.80037324009!2d-100.16966882508709!3d19.18209388396045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cd63813218f41f%3A0xb687c3a1fb52897c!2zVmFsbGUgZGUgQnJhdm8sIE3DqXguLCBNw6l4aWNv!5e0!3m2!1ses!2ses!4v1755166058802!5m2!1ses!2ses" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
