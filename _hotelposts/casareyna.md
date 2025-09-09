@@ -5,7 +5,7 @@ location: Puebla
 featured: false
 categories:
   - Puebla
-header_image: /images/hotels/casareyna/casareyna4.jpg
+header_image: /images/hotels/casareyna/casareyna5.jpg
 position: photo-center
 ---
 
@@ -40,7 +40,7 @@ Thoughtful personal service – Staff go beyond expectations, offering warm, att
 Walking distance to everything – Museums, churches, markets, and restaurants are all within easy reach, allowing for effortless discovery. &nbsp;  
 &nbsp;  
 
-![](/images/hotels/casareyna/casareyna5.jpg)
+![](/images/hotels/casareyna/casareyna4.jpg)
 
 ### Dining Options  
 Casa Reyna’s restaurant is considered one of the best in Puebla, frequented by locals and travellers alike. Guests can enjoy traditional dishes like chile en nogada, escamoles, and mole poblano in a sophisticated yet cosy setting. A glass of mezcal or Puebla’s signature Pasita liqueur makes the perfect end to a flavourful evening.  

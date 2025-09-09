@@ -50,7 +50,7 @@ Puebla’s rich cultural heritage, stunning architecture, and exceptional cuisin
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/casareyna">
-        <div class="bg-image square" style="background-image:url('/images/hotels/casareyna/casareyna4.jpg')"></div>
+        <div class="bg-image square" style="background-image:url('/images/hotels/casareyna/casareyna5.jpg')"></div>
         <h3 class='center'>Casa Reyna</h3>        
     </a>  
 </div>
