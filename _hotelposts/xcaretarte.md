@@ -13,7 +13,7 @@ position: photo-center
 
 &nbsp;
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/tbEi9Pb-s6E' frameborder='0' allowfullscreen></iframe></div>
+<!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/tbEi9Pb-s6E' frameborder='0' allowfullscreen></iframe></div> -->
 
 ### Overview
 Hotel Xcaret Arte is an all-inclusive, adults-only resort located in the stunning Riviera Maya. This luxurious property is a tribute to Mexican art and culture, offering a sophisticated and immersive experience for guests. The hotel combines contemporary design with traditional Mexican craftsmanship, creating a vibrant atmosphere that celebrates the country’s rich artistic heritage. Nestled between the Caribbean Sea and lush jungle, Hotel Xcaret Arte provides guests with a serene and inspiring environment.

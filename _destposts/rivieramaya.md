@@ -41,28 +41,32 @@ The Riviera Maya is more than a destination; it’s an experience that caters to
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/banyantree">
         <div class="bg-image square" style="background-image:url('/images/hotels/banyanmyk/banyanmyk5.jpg')">  </div>
-        <h3 class='center'>Banyan Tree Mayakoba</h3>        
+        <h3 class='center'>Banyan Tree Mayakoba</h3>   
+        <p class="center"> Riviera Maya</p>     
     </a>  
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/belmondmar">
         <div class="bg-image square" style="background-image:url('/images/hotels/belmond/belmond6.jpg')">  </div>
-        <h3 class='center'>Belmond Maroma</h3>        
+        <h3 class='center'>Belmond Maroma</h3>  
+        <p class="center"> Riviera Maya</p>      
     </a>  
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/chablemaroma">
         <div class="bg-image square" style="background-image:url('/images/hotels/chablemaroma/chablemaroma5.jpeg')">  </div>
-        <h3 class='center'>Chable Maroma</h3>        
+        <h3 class='center'>Chable Maroma</h3>  
+        <p class="center"> Riviera Maya</p>      
     </a>  
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/fairmontmyk">
         <div class="bg-image square" style="background-image:url('/images/hotels/fairmontmyk/fairmontmyk4.webp')">  </div>
-        <h3 class='center'>Fairmont Mayakoba</h3>        
+        <h3 class='center'>Fairmont Mayakoba</h3>   
+        <p class="center"> Riviera Maya</p>     
     </a>  
 </div>
 
@@ -77,56 +81,64 @@ The Riviera Maya is more than a destination; it’s an experience that caters to
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/rosewoodmyk">
         <div class="bg-image square" style="background-image:url('/images/hotels/rosewoodmyk/rosewoodmyk3.webp')">  </div>
-        <h3 class='center'>Rosewood Mayakoba</h3>        
+        <h3 class='center'>Rosewood Mayakoba</h3> 
+        <p class="center"> Riviera Maya</p>       
     </a>  
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/grandvelasrm">
         <div class="bg-image square" style="background-image:url('/images/hotels/grandvelasrm/grandvelasrm.jpg')">  </div>
-        <h3 class='center'>Grand Velas Riviera Maya</h3>        
+        <h3 class='center'>Grand Velas Riviera Maya</h3>  
+        <p class="center"> Riviera Maya</p>      
     </a>  
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/etereo">
         <div class="bg-image square" style="background-image:url('/images/hotels/etereo/etereo.webp')">  </div>
-        <h3 class='center'>Etereo, Auberge Resorts Collection</h3>        
+        <h3 class='center'>Etereo, Auberge Resorts Collection</h3>   
+        <p class="center"> Riviera Maya</p>     
     </a>  
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/stregiskanai">
         <div class="bg-image square" style="background-image:url('/images/hotels/kanai/kanai.jpeg')">  </div>
-        <h3 class='center'>St. Regis Kanai Riviera Maya</h3>        
+        <h3 class='center'>St. Regis Kanai Riviera Maya</h3>  
+        <p class="center"> Riviera Maya</p>      
     </a>  
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/xcaretmex">
         <div class="bg-image square" style="background-image:url('/images/hotels/xcaretmex/hxm3.jpg')">  </div>
-        <h3 class='center'>Hotel Xcaret Mexico</h3>        
+        <h3 class='center'>Hotel Xcaret Mexico</h3>   
+        <p class="center"> Riviera Maya</p>     
     </a>  
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/xcaretarte">
         <div class="bg-image square" style="background-image:url('/images/hotels/xcaretarte/hxa1.jpg')">  </div>
-        <h3 class='center'>Hotel Xcaret Arte</h3>        
+        <h3 class='center'>Hotel Xcaret Arte</h3>    
+        <p class="center"> Riviera Maya</p>    
     </a>  
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/casadlplaya">
         <div class="bg-image square" style="background-image:url('/images/hotels/casadlplaya/cdlp1.webp')">  </div>
-        <h3 class='center'>La Casa de la Playa</h3>        
+        <h3 class='center'>La Casa de la Playa</h3>  
+        <p class="center"> Riviera Maya</p>      
     </a>  
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/conrad">
         <div class="bg-image square" style="background-image:url('/images/hotels/conrad/conrad9.jpg')"></div>
-        <h3 class='center'>Conrad Tulum</h3>        
+        <h3 class='center'>Conrad Tulum</h3>    
+        <p class="center"> Riviera Maya</p>    
     </a>  
 </div>
 
@@ -154,6 +166,16 @@ The Riviera Maya is more than a destination; it’s an experience that caters to
         <p class="center"> Playa del Carmen</p>
     </a>
 </div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/editionkanai">
+        <div class="bg-image square" style="background-image:url('/images/hotels/editionkanai/editionkanai1.jpg')" ></div>
+        <h3 class="center"> The Riviera Maya Edition Kanai</h3>
+        <p class="center"> Riviera Maya</p>
+    </a>
+</div>
+
+
 
 </section>
 

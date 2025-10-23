@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-title: Etereo, Auberge Resorts Collection
+title: Etereo Kanai, Auberge Resorts Collection
 location: Riviera Maya
 featured: false
 categories:
@@ -9,7 +9,7 @@ header_image: /images/hotels/etereo/etereo.webp
 position: photo-center
 ---
 
-## Etéreo, Auberge Resorts Collection
+## Etéreo Kanai, Auberge Resorts Collection
 
 &nbsp;
 
