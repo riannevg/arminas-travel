@@ -6,7 +6,7 @@ date: 01-01-04
 featured: true
 categories:
   - Cancun
-header_image: /images/hotels/garzablanca/garzablanca2.jpg
+header_image: /images/hotels/garzablanca/garzablanca1.jpg
 position: photo-center
 ---
 ## Garza Blanca Resort & Spa, Cancún &nbsp;
