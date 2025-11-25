@@ -11,6 +11,8 @@ position: photo-center
 ---
 ## Garza Blanca Resort & Spa, Cancún &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/zgGVxC97_sA' frameborder='0' allowfullscreen></iframe></div>
+
 ### Introduction  
 Garza Blanca Resort & Spa Cancún is a sanctuary of tropical elegance, perched along the pristine white sands of the Caribbean. Known for its luxurious suites, sophisticated design, and exceptional service, the resort offers a seamless blend of relaxation, wellness, and culinary excellence, making it a top choice for discerning travellers seeking both comfort and style.  
 

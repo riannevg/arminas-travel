@@ -12,6 +12,8 @@ position: photo-center
 
 ## Hotel Mousai, Cancún &nbsp;
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/kJhRidgwKdc' frameborder='0' allowfullscreen></iframe></div>
+
 ### Introduction  
 Perched above the shimmering Caribbean Sea, Hotel Mousai Cancún is the epitome of contemporary luxury for adults seeking sophistication, style, and breathtaking views. This all-suite, all-inclusive resort blends modern design with vibrant Mexican culture, offering an exclusive, elevated experience where indulgence meets artful minimalism.  
 
