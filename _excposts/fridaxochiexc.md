@@ -25,8 +25,6 @@ Leon Trotsky, the exiled Russian revolutionary, also resided here briefly in 193
 
 Experience the picturesque floating gardens of Xochimilco, just an hour south of Mexico City’s historical center. Glide through the ancient canals on a colorful flat-bottomed boat, marveling at the ingenious agricultural system developed by the Aztecs. This system of floating gardens, or "chinampas," was crucial for sustaining the Aztec capital.
 
-During the boat ride, visit the enigmatic Island of the Dolls, a unique attraction with its own eerie charm. Enjoy a traditional Mexican lunch on the boat (included in the tour price, with drinks available for purchase). 
-
 Discover the artistic legacy of Frida Kahlo, the historical significance of Leon Trotsky, and the scenic beauty of Xochimilco on this comprehensive cultural tour.
 
 ![XOCHIMILCO](/images/destinations/cdmx/cdmx3.jpg)
