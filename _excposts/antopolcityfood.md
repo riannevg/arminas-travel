@@ -19,7 +19,7 @@ Mexico City is a metropolis of contrasts, where ancient history meets modern vib
 
 ### Exploring Tenochtitlan and the Zócalo
 
-Begin your journey at the historic center of the city, Tenochtitlan, and the Plaza de la Constitución, more commonly known as the Zócalo. Here, you’ll find iconic government buildings and the majestic Cathedral. At the National Palace, the seat of the Federal Executive Power, explore the staircase of the Empress, the Presidential balcony, and the central and back patios. Admire the vibrant murals by Diego Rivera, which depict the rich tapestry of Mexico's history.
+Begin your journey at the historic center of the city, Tenochtitlan, and the Plaza de la Constitución, more commonly known as the Zócalo. Here, you’ll find iconic government buildings and the majestic Cathedral. Admire the vibrant murals by Diego Rivera, which depict the rich tapestry of Mexico's history.
 
 Next, be captivated by the grandeur of the Cathedral, with its Altar of the Kings, the Archangel, Pinnacle, Metropolitan Sacrarium, and the Altar of Forgiveness.
 
