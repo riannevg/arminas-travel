@@ -31,7 +31,7 @@ In the afternoon, head west to Celestún, a tranquil nature reserve and coastal 
 
 ![](/images/destinations/yucatan/yucatan19.jpg)
 
-### Day 3: Chichén Itzá, Cenote Swim & Valladolid
+### Day 3: Chichén Itzá, Cenote Swim & Valladolid - Finish in Cancun or Riviera Maya.
 
 Depart Mérida and travel to the iconic Chichén Itzá, one of the New Seven Wonders of the World. Marvel at the Pyramid of Kukulcán and the ancient city’s impressive astronomical and ceremonial structures.
 
