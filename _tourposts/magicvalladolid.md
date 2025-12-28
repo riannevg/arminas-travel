@@ -46,3 +46,11 @@ In the afternoon, arrive in **Tulum** to visit **Sfer Ik**, a striking art space
 The day concludes with your arrival at a luxurious **Riviera Maya beachfront hotel**, where the Caribbean breeze, gentle waves, and refined comforts set the scene for a perfect evening.  
 
 ![](/images/destinations/yucatan/valladolid2.jpg)
+
+<div class="map-container">
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1E2L5EimkN-HcSk0yj0r0HIS4iqPP3o0&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+
+</div>
+
+&nbsp;

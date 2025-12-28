@@ -237,6 +237,10 @@ li{
     background-image:url('/images/atm.jpg');
 }
 
+.bg-feria{
+    background-image:url('/images/feria.jpg');
+}
+
 /* Slick Slider */
 
 .slider-container{
