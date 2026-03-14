@@ -12,6 +12,7 @@ slider_one_image: /images/destinations/palenque/palenque10.jpg
 slider_two_image: /images/destinations/chiapas/aguaazul5.jpg
 slider_three_image: /images/destinations/palenque/palenque11.jpg
 slider_four_image: /images/destinations/chiapas/aguaazul8.jpg
+position-1: photo-bottom
 position-3: photo-bottom
 ---
 ## Pakal Route
