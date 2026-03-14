@@ -7,11 +7,11 @@ duration: 4 days / 3 nights
 featured: false
 categories:
   - Palenque-Tours
-header_image: /images/destinations/chiapas/chiapas13.jpg
-slider_one_image: /images/destinations/chiapas/chiapas13.jpg
-slider_two_image: /images/destinations/palenque/palenque10.jpg
-slider_three_image: /images/destinations/palenque/palenque9.jpg
-slider_four_image: /images/destinations/chiapas/chiapas2.jpg
+header_image: /images/destinations/chiapas/bonampak1.jpg
+slider_one_image: /images/destinations/chiapas/bonampak1.jpg
+slider_two_image: /images/destinations/chiapas/yaxchilan6.jpg
+slider_three_image: /images/destinations/chiapas/yaxchilan9.jpg
+slider_four_image: /images/destinations/chiapas/aguaazul1.jpg
 position-2: photo-bottom
 position-4: photo-center
 ---
@@ -33,7 +33,7 @@ Explore its royal tombs, ancient plazas, and intricate carvings that still whisp
 Later, cool off at Agua Azul, where cascades of shimmering turquoise water flow through the forest like a sacred river.
 Overnight in Palenque.
 
-![Pakal Tour](/images/destinations/chiapas/chiapas15.jpg)
+![Pakal Tour](/images/destinations/chiapas/bonampak7.jpg)
 
 ### Day 3 – Yaxchilán & Bonampak: Stories Etched in Stone
 Venture deeper into the Lacandon jungle to discover Yaxchilán—reachable only by boat along the Usumacinta River.
@@ -42,7 +42,7 @@ Then, travel to Bonampak, where extraordinary murals depict royal ceremonies, mu
 It’s a day of immersion in the untamed heart of the Maya world.
 Overnight in Palenque.
 
-![Pakal Tour](/images/destinations/chiapas/chiapas2.jpg)
+![Pakal Tour](/images/destinations/chiapas/yaxhilan2.jpg)
 
 ### Day 4 – Farewell to Chiapas
 After breakfast, journey back to Villahermosa for your departure.

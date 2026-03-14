@@ -10,8 +10,8 @@ categories:
 header_image: /images/destinations/chiapas/sancristobal6.jpg
 slider_one_image: /images/destinations/chiapas/sancristobal6.jpg
 slider_two_image: /images/destinations/chiapas/tuxtla2.jpg
-slider_three_image: /images/destinations/chiapas/chiapas3.jpg
-slider_four_image: /images/destinations/chiapas/chiapas2.jpg
+slider_three_image: /images/destinations/chiapas/aguaazul5.jpg
+slider_four_image: /images/destinations/chiapas/canon3.jpg
 position-4: photo-center
 ---
 

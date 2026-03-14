@@ -7,13 +7,12 @@ duration: 3 days / 2 nights
 featured: false
 categories:
   - Palenque-Tours
-header_image: /images/destinations/palenque/palenque11.jpg
-slider_one_image: /images/destinations/palenque/palenque11.jpg
-slider_two_image: /images/destinations/palenque/palenque1.jpg
-slider_three_image: /images/destinations/palenque/palenque9.jpg
-slider_four_image: /images/destinations/chiapas/chiapas13.jpg
-position-2: photo-bottom
-position-4: photo-center
+header_image: /images/destinations/palenque/palenque10.jpg
+slider_one_image: /images/destinations/palenque/palenque10.jpg
+slider_two_image: /images/destinations/chiapas/aguaazul5.jpg
+slider_three_image: /images/destinations/palenque/palenque11.jpg
+slider_four_image: /images/destinations/chiapas/aguaazul8.jpg
+position-3: photo-bottom
 ---
 ## Pakal Route
  
@@ -33,7 +32,7 @@ Explore its royal tombs, ancient plazas, and intricate carvings that still whisp
 Later, cool off at Agua Azul, where cascades of shimmering turquoise water flow through the forest like a sacred river.
 Overnight in Palenque.
 
-![Pakal Tour](/images/destinations/chiapas/chiapas15.jpg)
+![Pakal Tour](/images/destinations/chiapas/aguaazul4.jpg)
 
 ### Day 3 – Farewell to Chiapas
 After breakfast, journey back to Villahermosa for your departure.
