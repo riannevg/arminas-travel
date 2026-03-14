@@ -10,7 +10,7 @@ categories:
 header_image: /images/destinations/chiapas/chiapas13.jpg
 slider_one_image: /images/destinations/chiapas/chiapas13.jpg
 slider_two_image: /images/destinations/palenque/palenque10.jpg
-slider_three_image: /images/destinations/palenque/palenque9.jpg
+slider_three_image: /images/destinations/palenque/bonampak2.jpg
 slider_four_image: /images/destinations/chiapas/chiapas2.jpg
 position-2: photo-bottom
 position-4: photo-center
@@ -42,7 +42,7 @@ Then, travel to Bonampak, where extraordinary murals depict royal ceremonies, mu
 It’s a day of immersion in the untamed heart of the Maya world.
 Overnight in Palenque.
 
-![Pakal Tour](/images/destinations/chiapas/chiapas2.jpg)
+![Pakal Tour](/images/destinations/chiapas/bonampak11.jpg)
 
 ### Day 4 – Farewell to Chiapas
 After breakfast, journey back to Villahermosa for your departure.
