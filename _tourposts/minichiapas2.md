@@ -37,7 +37,7 @@ Return to San Cristóbal de las Casas and enjoy free time in the afternoon to ex
 ### Day 3 – San Cristobal - Tuxtla Gutierrez Airport
 Transfer to Tuxtla Gutiérrez Airport to continue your trip. 
 
-![Magical Chiapas](/images/destinations/chiapas/sancristobal7.jpg)
+![Magical Chiapas](/images/destinations/chiapas/sancristobal6.jpg)
 
 
 
