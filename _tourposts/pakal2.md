@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-title: Pakal Route (2 nights)
+title: Pakal Route (3 days / 2 nights)
 weight: 25
 tourlocations: Villahermosa > Palenque > Agua Azul > Palenque > Villahermosa
 duration: 3 days / 2 nights

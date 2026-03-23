@@ -35,7 +35,7 @@ Return to San Cristóbal de las Casas and enjoy free time in the afternoon to ex
 ![Magical Chiapas](/images/destinations/chiapas/sancristobal7.jpg)
 
 ### Day 3 – San Cristobal - Flight to Palenque - Palenque Archeological Site
-Transfer to Tuxtla Gutiérrez Airport to take a flight with Aerobalam to Palenque. 
+Transfer to Tuxtla Gutiérrez Airport to take a flight with Aerobalam to Palenque. The flights are available in Thursday and Sunday or private flights every day. The airplane is a small plane for 9 passengers only. The flying time is around 35 minutes. Since the plane is very small, your luggage will be transported by car and delivered to your hotel. 
 
 Visit the Archaeological Zone Palenque, one of the most important Mayan sites in Mexico, surrounded by the Chiapas jungle. Here you can admire emblematic temples such as the Temple of the Inscriptions and the Palace.
 
