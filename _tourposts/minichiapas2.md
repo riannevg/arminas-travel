@@ -43,7 +43,7 @@ Transfer to Tuxtla Gutiérrez Airport to continue your trip.
 
 <div class="map-container">
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=176ZhExgA-PS4aRAuA4PUcOOg4eradFA&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1T5j0qJPSPq9ZyzaXbhJJnXHrKJEEQrA&ehbc=2E312F&noprof=1" width="800" height="500"></iframe>
 
 </div>
 

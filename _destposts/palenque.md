@@ -60,6 +60,14 @@ Palenque’s blend of historical grandeur and natural beauty creates a unique tr
 
 <h2 class="margin-b-2 padding-t-30">Tours starting from Palenque</h2>
 <section class='grid'>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/tours/minichiapas3">
+        <div class="bg-image square" style="background-image:url('/images/destinations/chiapas/aguaazul5.jpg')">  </div>
+        <h3 class='center'>Mini Chiapas Palenque (2 nights)</h3>        
+    </a>  
+</div>
+
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/tours/pakal2">
         <div class="bg-image square" style="background-image:url('/images/destinations/palenque/palenque11.jpg')">  </div>

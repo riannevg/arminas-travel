@@ -66,6 +66,15 @@ It’s not just a stop on the map—it’s a place that stays with you.  
 <section class='grid'>
 
     <div class="col-3_sm-4_xs-6 padded-1">
+        <a href="/tours/minichiapas2">
+            <div class="bg-image square" style="background-image:url('/images/destinations/chiapas/sancristobal1.jpg')">  </div>
+            <h3 class='center'>Mini Chiapas &#174; (3 days/2 nights)</h3>        
+        </a>  
+    </div>
+
+
+
+    <div class="col-3_sm-4_xs-6 padded-1">
         <a href="/tours/minichiapas">
             <div class="bg-image square" style="background-image:url('/images/destinations/chiapas/sancristobal6.jpg')">  </div>
             <h3 class='center'>Mini Chiapas&#174; (5 days/4nights)</h3>        
