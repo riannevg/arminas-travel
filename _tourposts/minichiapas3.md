@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-title: Mini Chiapas (Palenque) &#174; (3 days / 2 nights)
+title: Mini Chiapas (Palenque) &#174;
 weight: 60
 tourlocations: Palenque > Bonampak > Yaxchilan > Agua Azul > Misol Ha > Villahermosa
 duration: 3 days / 2 nights

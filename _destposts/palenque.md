@@ -58,7 +58,7 @@ Palenque’s blend of historical grandeur and natural beauty creates a unique tr
     </a>  
 </div>
 
-<h2 class="margin-b-2 padding-t-30">Tours starting from Palenque</h2>
+<h2 class="margin-b-2">Tours starting from Palenque</h2>
 <section class='grid'>
 
 <div class="col-3_sm-4_xs-6 padded-1">
