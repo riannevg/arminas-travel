@@ -98,21 +98,21 @@ Mérida’s warm, welcoming atmosphere and rich cultural offerings make it a mus
     <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/tours/miniyuc1mer">
         <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/valladolid.jpg')">  </div>
-        <h3 class='center'>Mini Yucatan 1 from Merida</h3>        
+        <h3 class='center'>Mini Yucatan 1 from Merida&#174;</h3>        
     </a>  
     </div>
 
     <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/tours/miniyuc2mer">
         <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan19.jpg')">  </div>
-        <h3 class='center'>Mini Yucatan 2 from Merida</h3>        
+        <h3 class='center'>Mini Yucatan 2 from Merida&#174;</h3>        
     </a>  
     </div>
 
     <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/tours/miniyuc3mer">
         <div class="bg-image square" style="background-image:url('/images/destinations/yucatan/yucatan26.jpg')">  </div>
-        <h3 class='center'>Mini Yucatan 3 from Merida</h3>        
+        <h3 class='center'>Mini Yucatan 3 from Merida&#174;</h3>        
     </a>  
     </div>
 

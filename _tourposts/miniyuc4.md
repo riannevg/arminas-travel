@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-title: Mini Yucatan 4
+title: Mini Yucatan 4 &#174;
 weight: 9
 tourlocations: >-
   Cancun > Ek Balam > Chichen Itza > Merida > Uxmal > Campeche > Palenque >

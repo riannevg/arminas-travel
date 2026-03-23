@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-title: Mini Yucatan 2
+title: Mini Yucatan 2 &#174;
 weight: 7
 tourlocations: Cancun > Chichen Itza > Merida > Uxmal > Celestun > Coba > Riviera Maya
 duration: 3 days / 2 nights

@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-title: Mini Yucatan 1 from Merida
+title: Mini Yucatan 1 from Merida &#174;
 weight: 6
 tourlocations: Merida > Chichen Ita > Valladolid > Riviera Maya
 duration: 2 days / 1 night

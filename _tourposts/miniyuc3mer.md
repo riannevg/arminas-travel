@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-title: Mini Yucatan 3 from Merida
+title: Mini Yucatan 3 from Merida &#174;
 weight: 8
 tourlocations: >-
   Merida > Uxmal > Celestun > Chichen Itza > Valladolid > Ek Balam > Riviera Maya

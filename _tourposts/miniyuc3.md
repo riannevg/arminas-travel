@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-title: Mini Yucatan 3
+title: Mini Yucatan 3 &#174;
 weight: 8
 tourlocations: >-
   Cancun > Tulum > Coba > Chetumal > Palenque > Campeche > Chichen Itza >

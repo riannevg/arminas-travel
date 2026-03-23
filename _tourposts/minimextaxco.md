@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-title: Mini Mexico Taxco
+title: Mini Mexico Taxco &#174;
 weight: 15
 tourlocations: Mexico City > Taxco > Mexico City
 duration: 4 days / 3 nights

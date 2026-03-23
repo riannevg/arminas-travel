@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-title: Mini Mexico Acapulco
+title: Mini Mexico Acapulco &#174;
 weight: 14
 tourlocations: Mexico City > Taxo > Cuernavaca > Acapulco > Mexico City
 duration: 5 days / 4 nights

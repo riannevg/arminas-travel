@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-title: Mini Yucatan 2 from Merida
+title: Mini Yucatan 2 from Merida &#174;
 weight: 7
 tourlocations: Merida > Uxmal > Celestun > Chichen Itza > Valladolid > Riviera Maya
 duration: 3 days / 2 nights

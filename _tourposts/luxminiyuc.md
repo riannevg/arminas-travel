@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-title: Luxury Mini Yucatan
+title: Luxury Mini Yucatan &#174;
 weight: 5
 tourlocations: Cancun > Valladolid > Hacienda Xcanatun > Chable Yucatan > Riviera Maya
 duration: 5 days / 4 nights
