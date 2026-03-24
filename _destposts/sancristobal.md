@@ -76,7 +76,7 @@ It’s not just a stop on the map—it’s a place that stays with you.  
 
     <div class="col-3_sm-4_xs-6 padded-1">
         <a href="/tours/minichiapas">
-            <div class="bg-image square" style="background-image:url('/images/destinations/chiapas/sancristobal6.jpg')">  </div>
+            <div class="bg-image square" style="background-image:url('/images/destinations/chiapas/tuxtla2.jpg')">  </div>
             <h3 class='center'>Mini Chiapas&#174; (5 days/4nights)</h3>        
         </a>  
     </div>

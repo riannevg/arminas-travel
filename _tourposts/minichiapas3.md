@@ -2,7 +2,7 @@
 layout: tour-layout
 title: Mini Chiapas (Palenque) &#174;
 weight: 60
-tourlocations: Palenque > Bonampak > Yaxchilan > Agua Azul > Misol Ha > Villahermosa
+tourlocations: Villahermosa or Palenque Airport > Bonampak > Yaxchilan > Agua Azul > Misol Ha > Villahermosa
 duration: 3 days / 2 nights
 featured: false
 categories:
@@ -17,27 +17,27 @@ position-4: photo-center
 ---
 
 ### Day 1 – Arrival at Villahermosa Airport or Palenque
-Visit the Archaeological Zone Palenque, one of the most important Mayan sites in Mexico, surrounded by the Chiapas jungle. Here you can admire emblematic temples such as the Temple of the Inscriptions and the Palace.
+Upon arrival, visit the Archaeological Zone of Palenque, one of the most remarkable Mayan sites in Mexico, set amidst the lush Chiapas jungle. Surrounded by dense greenery and the sounds of nature, explore its impressive structures, including the Temple of the Inscriptions and the Palace, each telling stories of an ancient civilisation at its peak.  
 
-Overnight in Palenque.
+Overnight in Palenque. 
 
-![Magical Chiapas](/images/destinations/chiapas/sancristobal3.jpg)
+![Magical Chiapas](/images/destinations/chiapas/palenque22.jpg)
 
 ### Day 2 – Palenque - Bonampak & Yaxchilán - Palenque
-05:30 am – Early departure to the Lacandon Jungle to visit the Archaeological Site of Bonampak, renowned for its impressive Mayan murals depicting ceremonial scenes and aspects of the political life of this ancient civilisation.
+05:30 am – An early departure takes you deep into the Lacandon Jungle, one of the most remote and untouched regions of Chiapas. Your first stop is the Archaeological Site of Bonampak, celebrated for its extraordinary murals that vividly depict ceremonial scenes and aspects of political and social life from the Mayan era.  
 
-Afterwards, transfer to Frontera Corozal to board a boat along the Usumacinta River and reach Yaxchilán, a Mayan city nestled deep in the jungle, famous for its carved stelae and lintels.
+The journey continues to Frontera Corozal, where you will board a boat and travel along the Usumacinta River, surrounded by dense jungle scenery. This river journey leads you to Yaxchilán, an ancient Mayan city hidden within the rainforest, known for its intricate stone carvings, stelae, and lintels that offer a glimpse into its powerful past.  
 
-At the end of the visits, return to Palenque in the afternoon for rest. Overnight in Palenque.
+After this immersive day of exploration, return to Palenque in the afternoon to relax and unwind. Overnight in Palenque.  
 
 ![Magical Chiapas](/images/destinations/chiapas/yaxchilan5.jpg)
 
 ### Day 3 – Palenque - Agua Azul – Misol-Ha – Airport Villahermosa
-Agua Azul Waterfalls, a series of stunning turquoise cascades formed by the Tulijá River, where you can walk and enjoy the natural surroundings.
+Your final day begins with a visit to the stunning Agua Azul Waterfalls, a series of cascading turquoise pools formed by the Tulijá River. Surrounded by lush vegetation, this natural wonder invites you to walk along its paths, take in the scenery, and enjoy the refreshing atmosphere.  
 
-Continue to the Misol-Ha waterfall, with a drop of approximately 30 metres, surrounded by tropical jungle.
+Continue to the Misol-Ha waterfall, where water plunges approximately 30 metres into a serene pool below, framed by dense tropical jungle. The setting is both dramatic and tranquil, offering a perfect conclusion to your journey through Chiapas.  
 
-At the end of the visit, transfer to Villahermosa Airport to take your flight (there are direct flights to Cancun).
+At the end of the visit, you will be transferred to Villahermosa Airport for your onward flight, with convenient direct connections to Cancún.  
 
 ![Magical Chiapas](/images/destinations/palenque/palenque8.jpg)
 

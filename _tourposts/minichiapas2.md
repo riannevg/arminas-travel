@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-title: Mini Chiapas &#174;
+title: Mini Chiapas &#174; (San Cristobal de las Casas)
 weight: 7
 tourlocations: Tuxtla Gutierrez > Cañon del Sumidero > Chiapa de Corzo > San Cristobal de las Casas > San Juan Chamula > Zinancantan > Tuxla Gutierrez
 duration: 3 days / 2 nights
@@ -17,25 +17,27 @@ position-4: photo-center
 ---
 
 ### Day 1 – Arrival at Tuxtl Gutierrez Airport - Cañon del Sumidero - Chiapas de Corzo - San Cristobal de las Casas
-Arrival at Tuxtla Gutierrez Airport, from there, transfer to the Sumidero Canyon, Chiapa de Corzo and San Cristóbal de las Casas. You will be taken to the pier to begin a boat tour through the majestic Sumidero Canyon, an impressive geological formation with walls rising up to one thousand metres, where you can observe natural formations, local wildlife such as crocodiles and birds, and spectacular scenery.
+Upon arrival at Tuxtla Gutiérrez Airport, your journey through the rich landscapes of Chiapas begins. From here, you will be transferred to the breathtaking Sumidero Canyon, followed by visits to Chiapa de Corzo and San Cristóbal de las Casas. 
 
-Afterwards, visit the Pueblo Mágico of Chiapa de Corzo, famous for its sixteenth century Mudéjar fountain and colourful arcades.
+At the pier, board a boat to explore the majestic Sumidero Canyon, where towering cliffs rise dramatically up to one thousand metres above the Grijalva River. As you glide through this impressive natural formation, observe unique rock shapes, lush vegetation, and local wildlife including crocodiles and a variety of bird species, all set against a spectacular backdrop.  
 
-Continue onwards to San Cristóbal de las Casas. Overnight.
+Following this experience, continue to the Pueblo Mágico of Chiapa de Corzo, a charming town known for its sixteenth century Mudéjar-style fountain and vibrant arcades that reflect its rich cultural heritage.  
 
-![Magical Chiapas](/images/destinations/chiapas/sancristobal3.jpg)
+Your journey then continues to San Cristóbal de las Casas, where the cool mountain air and colonial charm welcome you for the evening. Overnight.  
+
+![Magical Chiapas](/images/destinations/chiapas/canon3.jpg)
 
 ### Day 2 – San Juan Chamula – Zinacantán – City Tour San Cristobal de las Casas
-Visit the indigenous community of San Juan Chamula, where you will explore its emblematic church, renowned for its traditional rituals that blend Mayan and Catholic beliefs in a unique and deeply mystical atmosphere.
+Today offers a deep cultural immersion into the traditions of the highlands. Begin with a visit to the indigenous community of San Juan Chamula, where the local church reveals a fascinating blend of Mayan spirituality and Catholic influence. Inside, the atmosphere is unlike anywhere else, filled with candlelight, rituals, and centuries-old customs that remain deeply rooted in daily life.  
 
-Continue to Zinacantán, a Tzotzil village known for its vibrant, handcrafted textiles. Visit a traditional home to learn about the production process and enjoy a tasting of a local beverage.
+Continue to Zinacantán, a picturesque Tzotzil village renowned for its vibrant textiles and artisanal craftsmanship. Visit a traditional family home to discover the intricate process behind these handwoven creations, and enjoy a tasting of a local beverage in a warm and authentic setting.  
 
-Return to San Cristóbal de las Casas and enjoy free time in the afternoon to explore its historic centre, pedestrian streets, and colonial atmosphere. Overnight in San Cristóbal de las Casas.
+Return to San Cristóbal de las Casas, where the afternoon is yours to explore at leisure. Wander through its cobblestone streets, discover local boutiques and cafés, or simply enjoy the relaxed colonial atmosphere. Overnight in San Cristóbal de las Casas.  
 
 ![Magical Chiapas](/images/destinations/chiapas/sancristobal7.jpg)
 
 ### Day 3 – San Cristobal - Tuxtla Gutierrez Airport
-Transfer to Tuxtla Gutiérrez Airport to continue your trip. 
+Today is your last day in San Cristobal de las Casas. Depening on the time of your flight you can still enjoy the local markets, drink some delicious coffee or extend for a couple more nights to go biking, hiking or visit some musea. When ready you transfer to Tuxtla Gutiérrez Airport to continue your journey. 
 
 ![Magical Chiapas](/images/destinations/chiapas/sancristobal6.jpg)
 

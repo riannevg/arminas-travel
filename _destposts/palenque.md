@@ -58,6 +58,8 @@ Palenque’s blend of historical grandeur and natural beauty creates a unique tr
     </a>  
 </div>
 
+</section>
+
 <h2 class="margin-b-2">Tours starting from Palenque</h2>
 <section class='grid'>
 
@@ -67,20 +69,7 @@ Palenque’s blend of historical grandeur and natural beauty creates a unique tr
         <h3 class='center'>Mini Chiapas Palenque (2 nights)</h3>        
     </a>  
 </div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/tours/pakal2">
-        <div class="bg-image square" style="background-image:url('/images/destinations/palenque/palenque11.jpg')">  </div>
-        <h3 class='center'>Pakal Route (2 nights)</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/tours/pakalroute">
-        <div class="bg-image square" style="background-image:url('/images/destinations/chiapas/chiapas13.jpg')">  </div>
-        <h3 class='center'>Pakal Route (3 nights)</h3>        
-    </a>  
-</div>
+</section>
 
 
 <div class='map-container center margin-1'>

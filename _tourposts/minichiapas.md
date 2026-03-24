@@ -1,6 +1,6 @@
 ---
 layout: tour-layout
-title: Mini Chiapas &#174;
+title: Mini Chiapas &#174; (San Cristobal + Palenque)
 weight: 8
 tourlocations: Tuxtla Gutierrez > Cañon del Sumidero > Chiapa de Corzo > San Cristobal de las Casas > San Juan Chamula > Zinancantan > Palenque > Bonampak > Yaxchilan > Villahermosa
 duration: 5 days / 4 nights
@@ -8,59 +8,60 @@ featured: false
 categories:
   - Chiapas-Tours
   - San-Cristobal-Tours
-header_image: /images/destinations/chiapas/sancristobal6.jpg
-slider_one_image: /images/destinations/chiapas/sancristobal6.jpg
-slider_two_image: /images/destinations/chiapas/tuxtla2.jpg
-slider_three_image: /images/destinations/chiapas/aguaazul5.jpg
-slider_four_image: /images/destinations/chiapas/canon3.jpg
-position-4: photo-center
+header_image: /images/destinations/chiapas/tuxtla2.jpg
+slider_one_image: /images/destinations/chiapas/tuxtla2.jpg
+slider_two_image: /images/destinations/chiapas/aguaazul5.jpg
+slider_three_image: /images/destinations/chiapas/flight1.jpg
+slider_four_image: /images/destinations/chiapas/palenque15.jpg
 ---
 
 ### Day 1 – Arrival at Tuxtl Gutierrez Airport - Cañon del Sumidero - Chiapas de Corzo - San Cristobal de las Casas
-Arrival at Tuxtla Gutierrez Airport, from there, transfer to the Sumidero Canyon, Chiapa de Corzo and San Cristóbal de las Casas. You will be taken to the pier to begin a boat tour through the majestic Sumidero Canyon, an impressive geological formation with walls rising up to one thousand metres, where you can observe natural formations, local wildlife such as crocodiles and birds, and spectacular scenery.
+Upon arrival at Tuxtla Gutiérrez Airport, your journey through the rich landscapes of Chiapas begins. From here, you will be transferred to the breathtaking Sumidero Canyon, followed by visits to Chiapa de Corzo and San Cristóbal de las Casas. 
 
-Afterwards, visit the Pueblo Mágico of Chiapa de Corzo, famous for its sixteenth century Mudéjar fountain and colourful arcades.
+At the pier, board a boat to explore the majestic Sumidero Canyon, where towering cliffs rise dramatically up to one thousand metres above the Grijalva River. As you glide through this impressive natural formation, observe unique rock shapes, lush vegetation, and local wildlife including crocodiles and a variety of bird species, all set against a spectacular backdrop.  
 
-Continue onwards to San Cristóbal de las Casas. Overnight.
+Following this experience, continue to the Pueblo Mágico of Chiapa de Corzo, a charming town known for its sixteenth century Mudéjar-style fountain and vibrant arcades that reflect its rich cultural heritage.  
+
+Your journey then continues to San Cristóbal de las Casas, where the cool mountain air and colonial charm welcome you for the evening. Overnight.  
 
 ![Magical Chiapas](/images/destinations/chiapas/sancristobal3.jpg)
 
 ### Day 2 – San Juan Chamula – Zinacantán – City Tour San Cristobal de las Casas
-Visit the indigenous community of San Juan Chamula, where you will explore its emblematic church, renowned for its traditional rituals that blend Mayan and Catholic beliefs in a unique and deeply mystical atmosphere.
+Today offers a deep cultural immersion into the traditions of the highlands. Begin with a visit to the indigenous community of San Juan Chamula, where the local church reveals a fascinating blend of Mayan spirituality and Catholic influence. Inside, the atmosphere is unlike anywhere else, filled with candlelight, rituals, and centuries-old customs that remain deeply rooted in daily life.  
 
-Continue to Zinacantán, a Tzotzil village known for its vibrant, handcrafted textiles. Visit a traditional home to learn about the production process and enjoy a tasting of a local beverage.
+Continue to Zinacantán, a picturesque Tzotzil village renowned for its vibrant textiles and artisanal craftsmanship. Visit a traditional family home to discover the intricate process behind these handwoven creations, and enjoy a tasting of a local beverage in a warm and authentic setting.  
 
-Return to San Cristóbal de las Casas and enjoy free time in the afternoon to explore its historic centre, pedestrian streets, and colonial atmosphere. Overnight in San Cristóbal de las Casas.
+Return to San Cristóbal de las Casas, where the afternoon is yours to explore at leisure. Wander through its cobblestone streets, discover local boutiques and cafés, or simply enjoy the relaxed colonial atmosphere. Overnight in San Cristóbal de las Casas.  
 
-![Magical Chiapas](/images/destinations/chiapas/sancristobal7.jpg)
+![Magical Chiapas](/images/destinations/chiapas/zinancantan.jpg)
 
 ### Day 3 – San Cristobal - Flight to Palenque - Palenque Archeological Site
-Transfer to Tuxtla Gutiérrez Airport to take a flight with Aerobalam to Palenque. The flights are available in Thursday and Sunday or private flights every day. The airplane is a small plane for 9 passengers only. The flying time is around 35 minutes. Since the plane is very small, your luggage will be transported by car and delivered to your hotel. 
+This morning, transfer to Tuxtla Gutiérrez Airport to board a scenic flight to Palenque with Aerobalam. Flights operate on Thursdays and Sundays, with private flights available daily. The journey takes approximately 35 minutes aboard a small aircraft accommodating up to nine passengers, offering a unique and intimate travel experience. Your luggage will be transported separately by road and delivered directly to your hotel.  
 
-Visit the Archaeological Zone Palenque, one of the most important Mayan sites in Mexico, surrounded by the Chiapas jungle. Here you can admire emblematic temples such as the Temple of the Inscriptions and the Palace.
+Upon arrival, visit the Archaeological Zone of Palenque, one of the most remarkable Mayan sites in Mexico, set amidst the lush Chiapas jungle. Surrounded by dense greenery and the sounds of nature, explore its impressive structures, including the Temple of the Inscriptions and the Palace, each telling stories of an ancient civilisation at its peak.  
 
-Overnight in Palenque.
+Overnight in Palenque.  
 
 ![Magical Chiapas](/images/destinations/chiapas/chiapas1.jpg)
 
 
 ### Day 4 – Palenque - Bonampak & Yaxchilán - Palenque
-05:30 am – Early departure to the Lacandon Jungle to visit the Archaeological Site of Bonampak, renowned for its impressive Mayan murals depicting ceremonial scenes and aspects of the political life of this ancient civilisation.
+05:30 am – An early departure takes you deep into the Lacandon Jungle, one of the most remote and untouched regions of Chiapas. Your first stop is the Archaeological Site of Bonampak, celebrated for its extraordinary murals that vividly depict ceremonial scenes and aspects of political and social life from the Mayan era.  
 
-Afterwards, transfer to Frontera Corozal to board a boat along the Usumacinta River and reach Yaxchilán, a Mayan city nestled deep in the jungle, famous for its carved stelae and lintels.
+The journey continues to Frontera Corozal, where you will board a boat and travel along the Usumacinta River, surrounded by dense jungle scenery. This river journey leads you to Yaxchilán, an ancient Mayan city hidden within the rainforest, known for its intricate stone carvings, stelae, and lintels that offer a glimpse into its powerful past.  
 
-At the end of the visits, return to Palenque in the afternoon for rest. Overnight in Palenque.
+After this immersive day of exploration, return to Palenque in the afternoon to relax and unwind. Overnight in Palenque.  
 
-![Magical Chiapas](/images/destinations/chiapas/tuxtla3.jpg)
+![Magical Chiapas](/images/destinations/chiapas/bonampak13.jpg)
 
 ### Day 5 – Palenque - Agua Azul – Misol-Ha – Airport Villahermosa
-Agua Azul Waterfalls, a series of stunning turquoise cascades formed by the Tulijá River, where you can walk and enjoy the natural surroundings.
+Your final day begins with a visit to the stunning Agua Azul Waterfalls, a series of cascading turquoise pools formed by the Tulijá River. Surrounded by lush vegetation, this natural wonder invites you to walk along its paths, take in the scenery, and enjoy the refreshing atmosphere.  
 
-Continue to the Misol-Ha waterfall, with a drop of approximately 30 metres, surrounded by tropical jungle.
+Continue to the Misol-Ha waterfall, where water plunges approximately 30 metres into a serene pool below, framed by dense tropical jungle. The setting is both dramatic and tranquil, offering a perfect conclusion to your journey through Chiapas.  
 
-At the end of the visit, transfer to Villahermosa Airport to take your flight (there are direct flights to Cancun).
+At the end of the visit, you will be transferred to Villahermosa Airport for your onward flight, with convenient direct connections to Cancún.  
 
-![Magical Chiapas](/images/destinations/palenque/palenque11.jpg)
+![Magical Chiapas](/images/destinations/chiapas/palenque23.jpg)
 
 <div class="map-container">
 
