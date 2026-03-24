@@ -5,6 +5,7 @@ location: Palenque
 featured: false
 categories:
   - Palenque
+  - Chiapas
 header_image: /images/hotels/nututun/nututun1.jpg
 position: photo-center
 ---

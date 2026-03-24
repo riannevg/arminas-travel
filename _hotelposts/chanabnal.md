@@ -5,6 +5,7 @@ location: Palenque
 featured: false
 categories:
   - Palenque
+  - Chiapas
 header_image: /images/hotels/quintachan/quintachan1.jpg
 position: photo-center
 ---

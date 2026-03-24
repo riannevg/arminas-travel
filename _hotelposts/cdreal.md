@@ -1,14 +1,15 @@
 ---
 layout: hotel-layout
-title: Ciudad Real
+title: Ciudad Real Palenque
 location: Palenque
 featured: false
 categories:
   - Palenque
+  - Chiapas
 header_image: /images/hotels/ciudadreal/ciudadreal2.jpg
 position: photo-center
 ---
-## Hotel Ciudad Real: A Comfortable Gateway to Palenque’s Wonders
+##  Ciudad Real Palenque: A Comfortable Gateway to Palenque’s Wonders
 
 &nbsp;
 

@@ -77,7 +77,7 @@ A diversity of experiences, from gastronomy and coffee culture to adventure and 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/cdreal">
         <div class="bg-image square" style="background-image:url('/images/hotels/ciudadreal/ciudadreal2.jpg')">  </div>
-        <h3 class='center'>Ciudad Real</h3>        
+        <h3 class='center'>Ciudad Real Palenque</h3>        
     </a>  
 </div>
 
@@ -88,12 +88,12 @@ A diversity of experiences, from gastronomy and coffee culture to adventure and 
     </a>  
 </div>
 
-<div class="col-3_sm-4_xs-6 padded-1">
+<!-- <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/nututun">
         <div class="bg-image square" style="background-image:url('/images/hotels/nututun/nututun1.jpg')">  </div>
         <h3 class='center'>Nututun</h3>        
     </a>  
-</div>
+</div> -->
 
 </section>
 

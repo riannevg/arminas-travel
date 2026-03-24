@@ -5,6 +5,7 @@ location: San Cristobal de las Casas
 featured: false
 categories:
   - San-Cristobal
+  - Chiapas
 header_image: /images/hotels/bo/bo5.jpg
 position: photo-center
 ---
