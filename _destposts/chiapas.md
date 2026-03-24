@@ -7,7 +7,7 @@ categories:
   - Palenque
   - San-Cristobal
 header_image: /images/destinations/chiapas/aguaazul5.jpg
-position: center
+position: bottom
 ---
 
 # **Chiapas, jungle, colours, wildlife and much more!**
