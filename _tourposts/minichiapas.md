@@ -1,7 +1,7 @@
 ---
 layout: tour-layout
 title: Mini Chiapas &#174; (San Cristobal + Palenque)
-weight: 8
+weight: 80
 tourlocations: Tuxtla Gutierrez > Cañon del Sumidero > Chiapa de Corzo > San Cristobal de las Casas > San Juan Chamula > Zinancantan > Palenque > Bonampak > Yaxchilan > Villahermosa
 duration: 5 days / 4 nights
 featured: false

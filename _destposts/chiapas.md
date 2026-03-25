@@ -123,7 +123,12 @@ A diversity of experiences, from gastronomy and coffee culture to adventure and 
     </a>  
 </div>
 
-
+   <div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/tours/aerobalam">
+        <div class="bg-image square" style="background-image:url('/images/destinations/chiapas/aerobalam3.jpg')">  </div>
+        <h3 class='center'>AeroBalam Flight</h3>        
+    </a>  
+    </div>
 
 
 </section>

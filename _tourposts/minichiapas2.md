@@ -1,7 +1,7 @@
 ---
 layout: tour-layout
 title: Mini Chiapas &#174; (San Cristobal de las Casas)
-weight: 7
+weight: 50
 tourlocations: Tuxtla Gutierrez > Cañon del Sumidero > Chiapa de Corzo > San Cristobal de las Casas > San Juan Chamula > Zinancantan > Tuxla Gutierrez
 duration: 3 days / 2 nights
 featured: false

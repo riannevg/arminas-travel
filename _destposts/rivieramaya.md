@@ -31,18 +31,12 @@ The Riviera Maya is more than a destination; it’s an experience that caters to
 ## Hotels in Riviera Maya
 
 <section class='grid'>
-<!-- <div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/andaz">
-        <div class="bg-image square" style="background-image:url('/images/hotels/andazmyk/andazmyk8.webp')">  </div>
-        <h3 class='center'>Andaz Mayakoba</h3>        
-    </a>  
-</div> -->
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/banyantree">
-        <div class="bg-image square" style="background-image:url('/images/hotels/banyanmyk/banyanmyk5.jpg')">  </div>
-        <h3 class='center'>Banyan Tree Mayakoba</h3>   
-        <p class="center"> Riviera Maya</p>     
+        <div class="bg-image square" style="background-image:url('/images/hotels/banyanmyk/banyanmyk4.jpg')"></div>
+        <h3 class="center">Banyan Tree Mayakoba</h3>      
+        <p class="center">Riviera Maya</p>  
     </a>  
 </div>
 
@@ -83,6 +77,14 @@ The Riviera Maya is more than a destination; it’s an experience that caters to
         <div class="bg-image square" style="background-image:url('/images/hotels/rosewoodmyk/rosewoodmyk3.webp')">  </div>
         <h3 class='center'>Rosewood Mayakoba</h3> 
         <p class="center"> Riviera Maya</p>       
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/alilamayakoba">
+        <div class="bg-image square" style="background-image:url('/images/hotels/alilamayakoba/alilamayakoba1.jpg')"></div>
+        <h3 class='center'>Alila Mayakoba</h3>   
+        <p class="center"> Riviera Maya</p>     
     </a>  
 </div>
 
