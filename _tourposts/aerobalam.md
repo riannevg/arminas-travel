@@ -16,7 +16,7 @@ slider_three_image: /images/destinations/chiapas/aerobalam6.jpg
 slider_four_image: /images/destinations/chiapas/aerobalam8.jpg
 ---
 
-### AeroBalam Flights – Tuxtla Gutiérrez to Palenque or Palenque to Tuxtla Gutiérrez
+### AeroBalam Flights from Tuxtla Gutiérrez to Palenque or Palenque to Tuxtla Gutiérrez
 &nbsp;  
 
 To enhance your journey through Chiapas, flights are available between Tuxtla Gutiérrez and Palenque with Aerobalam, offering a unique and time-efficient way to travel between regions.  
