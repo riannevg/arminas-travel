@@ -69,11 +69,13 @@ A diversity of experiences, from gastronomy and coffee culture to adventure and 
 
 </section>
 
-<section class='grid'>
 
 <h2 class="margin-b-2">Hotels in Palenque</h2>
-
 <section class='grid'>
+
+
+
+
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/cdreal">
         <div class="bg-image square" style="background-image:url('/images/hotels/ciudadreal/ciudadreal2.jpg')">  </div>

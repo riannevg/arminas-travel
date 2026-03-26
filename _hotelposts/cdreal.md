@@ -6,7 +6,7 @@ featured: false
 categories:
   - Palenque
   - Chiapas
-header_image: /images/hotels/ciudadreal/ciudadreal2.jpg
+header_image: /images/hotels/ciudadreal/ciudadreal3.jpg
 position: photo-center
 ---
 ##  Ciudad Real Palenque: A Comfortable Gateway to Palenque’s Wonders
@@ -27,7 +27,7 @@ Hotel Ciudad Real is conveniently located in Palenque, offering guests a comfort
 
 Hotel Ciudad Real offers a range of amenities designed to enhance the guest experience. The hotel features a beautiful outdoor pool, perfect for cooling off after a day of exploring the ruins and surrounding area. Guests can also enjoy relaxing in the hotel's garden or take advantage of the on-site restaurant, which serves a variety of local and international dishes. The hotel’s friendly staff can assist with arranging tours to the Palenque archaeological site, as well as trips to nearby natural attractions such as the Misol-Ha and Agua Azul waterfalls.
 
-![](/images/hotels/ciudadreal/ciudadreal3.jpg)
+![](/images/hotels/ciudadreal/ciudadreal4.jpeg)
 
 ### Dining at Hotel Ciudad Real
 
@@ -40,6 +40,8 @@ The hotel's restaurant provides a pleasant dining experience with a focus on bot
 **Comfortable Amenities:** The outdoor pool, garden area, and on-site restaurant offer a range of amenities that enhance the guest experience and provide relaxation after a day of adventure.&nbsp;
 
 **Local and International Cuisine:** The restaurant’s menu, featuring both local and international dishes, ensures a satisfying and diverse dining experience during your stay.&nbsp;
+
+![](/images/hotels/ciudadreal/ciudadreal2.jpg)
 
 <div class='map-container center'>
 
