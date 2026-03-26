@@ -11,9 +11,9 @@ categories:
   - Palenque-Tours
 header_image: /images/destinations/chiapas/chiapas1.jpg
 slider_one_image: /images/destinations/chiapas/chiapas1.jpg
-slider_two_image: /images/destinations/chiapas/aerobalam2.jpg
-slider_three_image: /images/destinations/chiapas/aerobalam6.jpg
-slider_four_image: /images/destinations/chiapas/aerobalam8.jpg
+slider_two_image: /images/destinations/chiapas/aerobalam5.jpg
+slider_three_image: /images/destinations/chiapas/aerobalam8.jpg
+slider_four_image: /images/destinations/chiapas/aerobalam6.jpg
 ---
 
 ### AeroBalam Flights from Tuxtla Gutiérrez to Palenque or Palenque to Tuxtla Gutiérrez
@@ -30,4 +30,4 @@ The flight duration between Tuxtla Gutiérrez and Palenque is approximately 35 t
 Please note that on shared flights only hand luggage is permitted onboard. Larger suitcases will be transported separately by road and will be delivered directly to your hotel in Palenque upon arrival.  
 &nbsp;  
 
-![Magical Chiapas](/images/destinations/chiapas/aerobalam1.jpg)
+![Magical Chiapas](/images/destinations/chiapas/aerobalam7.jpg)
