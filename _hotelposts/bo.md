@@ -6,7 +6,7 @@ featured: false
 categories:
   - San-Cristobal
   - Chiapas
-header_image: /images/hotels/bo/bo5.jpg
+header_image: /images/hotels/bo/bo1.jpg
 position: photo-center
 ---
 
@@ -16,19 +16,19 @@ position: photo-center
 
 Hotel Bö is a refined and design-forward retreat in the heart of San Cristóbal de Las Casas. Seamlessly blending contemporary Mexican design with indigenous Chiapaneco artistry, this boutique property redefines the highlands' hospitality experience. Meaning "water" in the Tzotzil language, Bö is a celebration of nature, culture, and conscious luxury.
 
-![](/images/hotels/bo/bo1.jpg)
+![](/images/hotels/bo/bo2.jpg)
 
 ### Location
 
 Tucked away on a quiet street just a few blocks from the central plaza, Hotel Bö offers both tranquillity and proximity to the town’s most iconic sights. Within minutes, you can reach charming cafés, artisanal markets, and historic churches, all while enjoying a discreet and serene setting. The location strikes a perfect balance between central and secluded.
 
-![](/images/hotels/bo/bo2.jpg)
+![](/images/hotels/bo/bo3.jpg)
 
 ### What to Do
 
 Explore the vibrant streets of San Cristóbal, where colonial façades meet indigenous traditions. Take part in guided cultural walks, shop for handwoven textiles, or visit the nearby Tzotzil villages of San Juan Chamula and Zinacantán. For nature lovers, day trips to Sumidero Canyon or the El Chiflón waterfalls are unforgettable. At the hotel, you’ll find curated experiences such as mezcal tastings, craft workshops, or yoga sessions in the garden.
 
-![](/images/hotels/bo/bo3.jpg)
+![](/images/hotels/bo/bo4.jpg)
 
 ### Why We Recommend This Hotel
 
@@ -42,7 +42,7 @@ The rooms are elegant sanctuaries with bespoke furnishings, artisanal touches, a
 
 Perfect for travellers seeking sophistication, creativity, and a strong connection to local culture. &nbsp;  
 
-![](/images/hotels/bo/bo10.jpg)
+![](/images/hotels/bo/bo5.jpg)
 
 ### Dining Options
 

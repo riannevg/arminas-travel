@@ -44,7 +44,7 @@ It’s not just a stop on the map—it’s a place that stays with you.  
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/bo/">
-        <div class="bg-image square" style="background-image:url('/images/hotels/bo/bo5.jpg')">  </div>
+        <div class="bg-image square" style="background-image:url('/images/hotels/bo/bo1.jpg')">  </div>
         <h3 class='center'>Hotel Bo</h3>        
     </a>  
 </div>
