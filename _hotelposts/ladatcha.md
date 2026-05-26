@@ -1,7 +1,7 @@
 ---
 layout: hotel-layout
 title: La Datcha 
-location: Cabos San Lucas
+location: Cabo San Lucas
 featured: false
 categories:
   - Los-Cabos

@@ -57,7 +57,7 @@ Los Cabos’ unique combination of desert and sea creates a spectacular setting 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/ladatcha">
         <div class="bg-image square" style="background-image:url('/images/hotels/ladatcha/ladatcha2.jpg')">  </div>
-        <h3 class='center'>La Datcha Cabos San Lucas</h3>        
+        <h3 class='center'>La Datcha Cabo San Lucas</h3>        
     </a>  
 </div>
 
