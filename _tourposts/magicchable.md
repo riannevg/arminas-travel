@@ -1,9 +1,9 @@
 ---
 layout: tour-layout
-title: Magic Chable
+title: The Ultimate Chable & Carribean Escape 
 weight: 6
 tourlocations: Cancun > Valladolid > Chable Yucatan > Casa Chable > Chable Maroma 
-duration: 10 days / 9 nights
+duration: 9 days / 8 nights
 featured: false
 categories:
   - Cancun-Tours
@@ -32,46 +32,37 @@ Spend the day immersing yourself in the serenity of <strong>[Chable Yucatán](/h
 ![](/images/hotels/chableyuc/chableyuc12.jpeg)
 
 ### Day 3: Uxmal – Celestun - Chable Yucatan
-Today, visit the ancient Mayan city of **Uxmal**, famous for its impressive pyramid structures and detailed stone carvings. Explore the Pyramid of the Magician and the intricate architecture of the Governor’s Palace. After the tour, head to Celestun, a stunning coastal biosphere reserve. Here, you'll take a boat tour through the mangroves, where you'll witness colonies of pink flamingos and other wildlife in their natural habitat. Afterward, return to the luxurious <strong>[Chable Yucatán](/hotels/chableyuc)</strong> for another night of rest and relaxation.  
+Today, visit the ancient Mayan city of Uxmal, famous for its impressive pyramid structures and detailed stone carvings. Explore the Pyramid of the Magician and the intricate architecture of the Governor’s Palace. After the tour, head to Celestun, a stunning coastal biosphere reserve. Here, you'll take a boat tour through the mangroves, where you'll witness colonies of pink flamingos and other wildlife in their natural habitat. Afterward, return to the luxurious <strong>[Chable Yucatán](/hotels/chableyuc)</strong> for another night of rest and relaxation.  
 &nbsp;  
 
-### Day 4: Chable Yucatan – Izamal – Casa Chable  
-Today you’ll journey to the "Yellow City" of Izamal, a magical town where nearly every building is painted a brilliant shade of yellow. Explore the historic convent, and visit the ancient Mayan pyramid located in the heart of the town. Afterward, continue to <strong>[Casa Chable](/hotels/casachable)</strong>, a luxurious and secluded eco-retreat on the Yucatan Peninsula. Nestled between the jungle and the Caribbean Sea, Casa Chable offers unparalleled privacy and immersion in nature.  
+### Day 4: Chable Yucatan – Izamal – Casa Malca, Tulum  
+Today you’ll journey to the "Yellow City" of Izamal, a magical town where nearly every building is painted a brilliant shade of yellow. Explore the historic convent, and visit the ancient Mayan pyramid located in the heart of the town. Afterward, continue to <strong>[Casa Malca](/hotels/casamalca)</strong>, a luxurious and secluded eco-retreat on the Yucatan Peninsula. Nestled between the jungle and the Caribbean Sea, Casa Chable offers unparalleled privacy and immersion in nature.  
 &nbsp;  
 
+### Day 5: Free Day at Casa Malca  
+Spend the day at leisure enjoying the unique atmosphere of Casa Malca, a luxurious beachfront retreat in Tulum. Relax on the pristine Caribbean beach, unwind by the pool, or indulge in a rejuvenating spa treatment. The hotel’s striking contemporary art collection and bohemian design create a truly distinctive setting, while its exceptional dining experiences and breathtaking ocean views make for a perfect day of relaxation.
 
-### Day 5: Free Day at Casa Chable  
-Spend your first day at <strong>[Casa Chable](/hotels/casachable)</strong> enjoying the resort’s array of activities or simply basking in the natural beauty surrounding you. You can explore the nearby mangroves and coastal areas by kayak, or snorkel in crystal-clear waters to discover vibrant marine life. For a more adventurous option, you can enjoy ziplining through the jungle or take a guided tour to discover the rich biodiversity of the region. If relaxation is your preference, the pristine beach offers a peaceful retreat where you can unwind with a good book or indulge in a beachside massage.  
-&nbsp;  
+![](/images/hotels/casamalca/casamalca3.jpg)
 
-![](/images/hotels/chablecasa/casachable12.jpeg)
-
-### Day 6: Free Day at Casa Chable  
-Continue your stay at <strong>[Casa Chable](/hotels/casachable)</strong> with another day of leisure. For a cultural experience, explore nearby Mayan ruins or cenotes, or visit local communities to learn about traditional crafts and cuisine. The resort offers exquisite dining with meals prepared from fresh, locally sourced ingredients. If you're looking to deepen your relaxation, enjoy a yoga session on the beach or meditate to the sound of the ocean waves.  
-&nbsp;  
-
-![](/images/hotels/chablecasa/chablecasa5.jpeg)
-
-
-### Day 7: Coba – Sfer Ik Museum – Chable Maroma  
+### Day 6: Coba – Sfer Ik Museum – Chable Maroma  
 After breakfast, visit the ancient Mayan city of Coba, known for its massive **Nohoch Mul Pyramid**, the highest in the Yucatan Peninsula. You can still climb the pyramid, which offers panoramic views of the surrounding jungle. After exploring the ruins and its many ancient sacbes (Mayan roads), visit the Sfer Ik Museum in Tulum. This avant-garde museum blends contemporary art with natural elements, offering visitors a unique sensory experience. After the cultural immersion, continue to the luxurious <strong>[Chable Maroma](/hotels/chablemaroma)</strong>, an oceanfront resort renowned for its white-sand beaches and world-class service.  
 &nbsp;  
 
 ![](/images/hotels/chablemaroma/chablemaroma7.jpeg)
 
-### Day 8: Free Day at Chable Maroma  
+### Day 7: Free Day at Chable Maroma  
 Spend the day enjoying the luxury and tranquility of <strong>[Chable Maroma](/hotels/chablemaroma)</strong>. The resort offers a range of wellness and adventure activities. You can indulge in a rejuvenating spa treatment at the award-winning spa, relax in your private plunge pool, or take a stroll along the pristine beach. If you’re seeking adventure, the Riviera Maya offers plenty of options, including guided snorkel and scuba diving tours, cenote exploration, and visits to nearby ecological parks. Chable Maroma is also famous for its gourmet dining, where you can enjoy farm-to-table meals inspired by the flavors of the region.  
 &nbsp;  
 
 ![](/images/hotels/chablemaroma/chablemaroma8.jpg)
 
-### Day 9: Free Day at Chable Maroma  
+### Day 8: Free Day at Chable Maroma  
 Enjoy another day at <strong>[Chable Maroma](/hotels/chablemaroma)</strong> with more opportunities to relax or explore. You can take part in water sports like paddleboarding or deep-sea fishing, or join an excursion to nearby attractions like the Tulum ruins or the vibrant town of Playa del Carmen. Back at the resort, you can participate in a cooking class, or simply enjoy the luxurious amenities and breathtaking ocean views from your private suite.  
 &nbsp;  
 
 ![](/images/hotels/chablemaroma/chablemaroma9.jpg)
 
-### Day 10: Transfer to Cancun Airport  
+### Day 9: Transfer to Cancun Airport  
 After a memorable 10-day journey filled with history, culture, and relaxation, it's time to head back to Cancun. You'll be transferred to the airport for your departure, leaving with unforgettable memories of your luxurious Yucatan Peninsula tour.  
 &nbsp;
 
