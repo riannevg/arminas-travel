@@ -2,7 +2,7 @@
 layout: tour-layout
 title: The Ultimate Chable & Carribean Escape 
 weight: 6
-tourlocations: Cancun > Valladolid > Chable Yucatan > Casa Chable > Chable Maroma 
+tourlocations: Cancun > Valladolid > Chable Yucatan > Casa Malca > Chable Maroma 
 duration: 9 days / 8 nights
 featured: false
 categories:
