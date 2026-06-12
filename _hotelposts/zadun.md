@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-title: ZZadun Los Cabos, a Ritz-Carlton Reserve 
+title: Zadun Los Cabos, a Ritz-Carlton Reserve 
 location: Los Cabos
 featured: false
 categories:
