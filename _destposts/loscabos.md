@@ -61,6 +61,12 @@ Los Cabos’ unique combination of desert and sea creates a spectacular setting 
     </a>  
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/ladatcha">
+        <div class="bg-image square" style="background-image:url('/images/hotels/zadun/zadun4.jpg')">  </div>
+        <h3 class='center'>Zadun Los Cabos, a Ritz-Carlton Reserve </h3>        
+    </a>  
+</div>
 
 </section>
 
