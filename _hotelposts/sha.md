@@ -1,6 +1,6 @@
 ---
 layout: hotel-layout
-title: Sha Welness Clinic
+title: Sha Wellness Clinic
 location: Cancun
 date: 01-01-05
 featured: false
