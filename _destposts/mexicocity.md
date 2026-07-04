@@ -160,12 +160,15 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 </div>
 
 
+
+
 <div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/excursions/monarchexc">
-        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx14.jpg')">  </div>
-        <h3 class='center'>Monarch Butterfly Reserve </h3>        
+    <a href="/excursions/luchas">
+        <div class="bg-image square" style="background-image:url('/images/tours/luchas2.jpg')">  </div>
+        <h3 class='center'>Lucha Libre </h3>        
     </a>  
 </div>
+
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/excursions/museumsexc">
@@ -272,6 +275,13 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
     <a href="/tours/minimextaxco">
         <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx6.jpg')">  </div>
         <h3 class='center'>Mini Mexico Taxco&#174;</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/monarchexc">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/cdmx14.jpg')">  </div>
+        <h3 class='center'>Monarch Butterfly Reserve </h3>        
     </a>  
 </div>
 
