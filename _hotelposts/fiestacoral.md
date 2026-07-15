@@ -8,7 +8,7 @@ categories:
 header_image: /images/hotels/fiestacoral/fiestacoral3.jpg
 position: photo-center
 ---
-## Grand Fiesta Americana Grand Coral Beach Cancún &nbsp;
+## Grand Fiesta Americana Coral Beach Cancún &nbsp;
 
 &nbsp;  
 
@@ -16,7 +16,7 @@ position: photo-center
 
 
 ### Introduction  
-Overlooking the turquoise waters of the Caribbean, Grand Fiesta Americana Grand Coral Beach Cancún embodies timeless elegance and Mexican hospitality at its finest. A landmark of luxury in Cancún’s hotel zone, this all-suite oceanfront resort combines classic sophistication with contemporary comfort, offering panoramic views, impeccable service, and a serene ambience that feels both grand and personal.  
+Overlooking the turquoise waters of the Caribbean, Grand Fiesta Americana Coral Beach Cancún embodies timeless elegance and Mexican hospitality at its finest. A landmark of luxury in Cancún’s hotel zone, this all-suite oceanfront resort combines classic sophistication with contemporary comfort, offering panoramic views, impeccable service, and a serene ambience that feels both grand and personal.  
 
 ![](/images/hotels/fiestacoral/fiestacoral1.jpg)
 
