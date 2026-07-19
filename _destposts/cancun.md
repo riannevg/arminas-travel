@@ -135,7 +135,7 @@ world.
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/costaallure">
-        <div class="bg-image square" style="background-image:url('/images/hotels/costaallura/costaallure1.jpg')" ></div>
+        <div class="bg-image square" style="background-image:url('/images/hotels/costaallure/costaallure1.jpg')" ></div>
             <h3 class="center">Ocean Allure Costa Mujeres</h3>  
     </a>
 </div>
