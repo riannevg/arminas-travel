@@ -5,7 +5,7 @@ location: Cancun
 featured: false
 categories:
   - Cancun
-header_image: /images/hotels/costaallura/costaallure4.jpg
+header_image: /images/hotels/costaallura/costaallure1.jpg
 position: photo-center
 ---
 
