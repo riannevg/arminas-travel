@@ -21,7 +21,7 @@ Located along the pristine shores of Costa Mujeres, **Ocean Allure Costa Mujeres
 ### Location  
 Situated on the beachfront of Costa Mujeres, just north of Cancún, **Ocean Allure Costa Mujeres** enjoys a peaceful setting away from the bustle of the Hotel Zone while remaining close to the region’s highlights. The resort is surrounded by mangroves, tropical jungle, and the crystal-clear waters of the Caribbean, with easy access to downtown Cancún, shopping, restaurants, nightlife, and the ferry connections to Isla Mujeres. 
 
-![](/images/hotels/costaallure/costaallure3.jpg)
+![](/images/hotels/costaallure/costaallure6.jpg)
 
 ### What to Do  
 Days at **Ocean Allure Costa Mujeres** can be tailored to every mood, from relaxing by the beach or one of the resort’s pools to enjoying the many activities and entertainment options available. Swim in the infinity pools, experience the unique wave pool and lazy river, or unwind with a treatment at the Despacio Spa Centre. Guests can also explore the natural wonders of the Riviera Maya, from cenotes and Mayan ruins to snorkelling adventures and boat trips through the Caribbean waters. Within the resort, evenings come alive with entertainment, live shows, a theatre, disco, bowling alley, and curated experiences designed for memorable stays.  
