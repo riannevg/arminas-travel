@@ -9,41 +9,37 @@ position: photo-center
 ---
 ## Museums of Mexico City
 
-&nbsp;
+Discover the artistic soul of Mexico City through a carefully curated selection of museums that celebrate the country's creativity, history, and cultural identity. From world-renowned collections of European masterpieces to monumental Mexican murals and iconic works of modern art, this journey offers a fascinating perspective on the artistic movements that have shaped Mexico over the centuries.
 
-Explore the rich cultural and artistic heritage of Mexico City through its diverse museums. From pre-Hispanic treasures to modern masterpieces, these museums offer a deep dive into Mexico's artistic legacy.
+### Museo Soumaya
 
-### Frida Kahlo Museum in Coyoacan, Mexico City
+Designed by acclaimed architect **Fernando Romero**, the **Museo Soumaya** is one of the most recognizable landmarks in Mexico City thanks to its striking silver façade, composed of more than 16,000 hexagonal aluminium tiles. Named after Soumaya Domit, the late wife of businessman Carlos Slim, the museum opened in its current building in 2011 and offers free admission to one of Latin America's most important private art collections.
 
-Step into the world of the iconic Mexican painter Frida Kahlo at her former home, known as the "Blue House." This charming residence, where Frida lived with her husband Diego Rivera from 1929 until her death in 1954, remains a time capsule of their lives. The museum preserves the rooms as they were during her lifetime, showcasing personal mementoes, artworks by Frida and Diego, and a collection of 18th and 19th-century Mexican art.
+Spread across six exhibition floors, the museum houses more than 66,000 works spanning over 3,000 years of history. Highlights include one of the largest collections of sculptures by **Auguste Rodin** outside France, masterpieces by European artists such as El Greco, Tintoretto, Rubens, Monet and Renoir, as well as Mexican artists including Diego Rivera and Rufino Tamayo. Visitors can also admire decorative arts, historical documents, coins, and religious artefacts, making every floor a unique cultural experience.
 
-![Frida Kahlo Museum](/images/destinations/cdmx/frida.jpg)
+![Museo Soumaya](/images/destinations/cdmx/cdmx24.jpg)
 
+### Museo Vivo del Muralismo
 
-Leon Trotsky, the exiled Russian revolutionary, also resided here briefly in 1937. The museum’s collection includes pre-Columbian artifacts and examples of Mexican folk art from Frida's personal collection.
+Located within the historic headquarters of Mexico's **Secretariat of Public Education (SEP)** in the heart of the Historic Centre, the **Museo Vivo del Muralismo** offers one of the most immersive experiences into the country's celebrated muralist movement. Unlike traditional museums, the murals remain exactly where they were originally created, allowing visitors to experience these monumental works in their intended architectural setting.
+
+The museum preserves more than **3,000 square metres of mural paintings**, with the collection centred around the extraordinary works created by **Diego Rivera** between 1923 and 1928. As you wander through the historic courtyards, staircases, and corridors, you'll discover Rivera's vivid depictions of Mexican history, labour, education, indigenous traditions, markets, festivals, and revolutionary ideals. Iconic murals such as *The Assembly*, *The Arsenal*, *The Corn Festival*, *Day of the Dead*, and *The Deer Dance* showcase the richness and diversity of Mexican life.
+
+In addition to Rivera's masterpieces, the museum also features works by **David Alfaro Siqueiros**, **Roberto Montenegro**, **Jean Charlot**, **Amado de la Cueva**, and several other artists who helped shape the Mexican muralist movement. With interactive exhibition spaces, historic salons such as the **Simón Bolívar Hall** and **Ibero-American Hall**, a bookstore, library, and café, the museum provides a comprehensive introduction to one of Mexico's most influential artistic movements.
+
+![Museo Vivo del Muralismo](/images/destinations/cdmx/muralismo.jpg)
 
 ### Museum of Modern Art
 
-Immerse yourself in contemporary creativity at the **Museum of Modern Art**, located in the expansive Chapultepec Park.
+Nestled within the lush surroundings of **Chapultepec Park**, the **Museum of Modern Art (Museo de Arte Moderno)** is dedicated to showcasing the evolution of Mexican modern art from the early twentieth century to the present day. Since opening its doors in 1964, the museum has become one of the country's leading cultural institutions, housing an exceptional permanent collection alongside temporary exhibitions by both Mexican and international artists.
 
-- **Exhibitions and Collection**: Part of the Instituto Nacional de Bellas Artes, this museum offers exhibitions of both national and international contemporary artists. Its permanent collection includes works by major figures such as Frida Kahlo, Diego Rivera, and David Alfaro Siqueiros, showcasing the evolution of modern art in Mexico.
+Its galleries feature masterpieces by some of Mexico's most celebrated artists, including **Frida Kahlo**, **Diego Rivera**, **David Alfaro Siqueiros**, **José Clemente Orozco**, **Rufino Tamayo**, **Remedios Varo**, **Leonora Carrington**, and **Manuel Álvarez Bravo**. Visitors can explore the development of surrealism, abstract art, social realism, and avant-garde movements that have shaped Mexico's artistic identity, while the museum's sculpture garden offers a peaceful outdoor space surrounded by monumental contemporary works.
 
-![exhibtition](/images/destinations/cdmx/cdmx24.jpg)
-
-
-- **Artistic Legacy**: The museum’s collection spans a range of styles and periods, featuring pieces by artists like José Clemente Orozco, Manuel Álvarez Bravo, and Leonora Carrington. It provides a comprehensive view of modern art’s impact on Mexican culture.
-
-### The Museo Soumaya
-
-Experience the **Museo Soumaya**, a private museum that offers free admission and showcases an extensive collection of art and historical artifacts.
-
-- **Architectural Marvel**: Opened in 2011, the museum's striking, cloud-like structure was designed by Fernando Romero and is a modern architectural icon. It reflects the innovative spirit of its owner, Carlos Slim, and his late wife Soumaya.
-
-- **Collections and Features**: The museum houses a vast array of European art from the 15th to the 20th century, including numerous works by Auguste Rodin. It also features religious relics, historical documents, and a notable collection of coins. The museum was founded in 1994 and represents a significant cultural contribution from the Carlos Slim Foundation.
+![Museum of Modern Art](/images/destinations/cdmx/modernart.webp)
 
 &nbsp;
 
-These museums offer a fascinating glimpse into the artistic and historical richness of Mexico City, making them essential stops for any art enthusiast or cultural explorer.
+Together, these three museums offer an inspiring journey through Mexico's artistic heritage, from the monumental murals that tell the story of a nation, to world-class collections of European masterpieces and the groundbreaking works that defined modern Mexican art. Whether you are an art enthusiast or simply curious about Mexico's rich cultural legacy, these museums provide an unforgettable experience.
 
-![exhibtition](/images/destinations/cdmx/cdmx2.jpg)
+
 
