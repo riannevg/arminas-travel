@@ -51,13 +51,6 @@ Tulum’s unique combination of serene natural beauty and dynamic party scene ma
     </a>  
 </div>
 
-<!-- <div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/casachable">
-        <div class="bg-image square" style="background-image:url('/images/hotels/chablecasa/chablecasa5.jpeg')">  </div>
-        <h3 class='center'>Casa Chable</h3>        
-    </a>  
-</div> -->
-
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/nomade">
         <div class="bg-image square" style="background-image:url('/images/hotels/nomade/nomade3.jpg')">  </div>

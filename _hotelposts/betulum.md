@@ -5,6 +5,7 @@ location: Tulum
 featured: false
 categories:
   - Tulum
+  - Riviera-Maya
 header_image: /images/hotels/betulum/betulum3.jpg
 position: photo-bottom
 ---

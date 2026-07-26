@@ -9,7 +9,7 @@ header_image: /images/hotels/oriundo/oriundo1.jpg
 position: photo-center
 ---
 
-## Oriundo, Valladolid
+## Oriundo Luxury Nature Villas, Valladolid
 
 
 &nbsp;

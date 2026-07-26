@@ -5,6 +5,7 @@ location: Tulum
 featured: false
 categories:
   - Tulum
+  - Riviera Maya
 header_image: /images/hotels/kimptonaluna/kimptonaluna1.jpg
 position: photo-center
 ---

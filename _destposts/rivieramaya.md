@@ -177,7 +177,78 @@ The Riviera Maya is more than a destination; it’s an experience that caters to
     </a>
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/betulum">
+        <div class="bg-image square" style="background-image:url('/images/hotels/betulum/betulum3.jpg')">  </div>
+        <h3 class='center'>Be Destination Tulum</h3> 
+         <p class="center"> Tulum</p>
+               
+    </a>  
+</div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/casamalca">
+        <div class="bg-image square" style="background-image:url('/images/hotels/casamalca/casamalca3.jpg')">  </div>
+        <h3 class='center'>Casa Malca</h3> 
+        <p class="center"> Tulum</p>       
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/nomade">
+        <div class="bg-image square" style="background-image:url('/images/hotels/nomade/nomade3.jpg')">  </div>
+        <h3 class='center'>Nomade Temple Tulum</h3>  
+        <p class="center"> Tulum</p>      
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/kanan">
+        <div class="bg-image square" style="background-image:url('/images/hotels/kanan/kanan.jpg')">  </div>
+        <h3 class='center'>Kanan Hotel & Spa</h3>  
+        <p class="center"> Tulum</p>      
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/conrad">
+        <div class="bg-image square" style="background-image:url('/images/hotels/conrad/conrad9.jpg')"></div>
+        <h3 class='center'>Conrad Tulum</h3>  
+        <p class="center"> Tulum</p>      
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/kimptonaluna">
+        <div class="bg-image square" style="background-image:url('/images/hotels/kimptonaluna/kimptonaluna1.jpg')"></div>
+        <h3 class='center'>Kimpton Aluna</h3>
+        <p class="center"> Tulum</p>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/anayjose">
+        <div class="bg-image square" style="background-image:url('/images/hotels/anayjose/anayjose3.jpg')"></div>
+        <h3 class='center'>Ana y Jose Hotel & Spa</h3>  
+        <p class="center"> Tulum</p>      
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/sana">
+        <div class="bg-image square" style="background-image:url('/images/hotels/sana/sana5.jpg')"></div>
+        <h3 class='center'>Sana Tulum Beach Resort</h3>  
+        <p class="center"> Tulum</p>      
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/azulik">
+        <div class="bg-image square" style="background-image:url('/images/hotels/azulik/azulik1.jpeg')"></div>
+        <h3 class='center'>Azulik</h3>   
+        <p class="center"> Tulum</p>     
+    </a>  
+</div>
 
 </section>
 

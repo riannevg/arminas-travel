@@ -5,6 +5,7 @@ location: Tulum
 featured: falses
 categories:
   - Tulum
+  - Riviera-Maya
 header_image: /images/hotels/nomade/nomade3.jpg
 position: photo-bottom
 ---

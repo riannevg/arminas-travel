@@ -5,6 +5,7 @@ location: Tulum
 featured: false
 categories:
   - Tulum
+  - Riviera-Maya
 header_image: /images/hotels/azulik/azulik1.jpeg
 position: photo-center
 ---

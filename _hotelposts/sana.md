@@ -5,6 +5,7 @@ location: Tulum
 featured: false
 categories:
   - Tulum
+  - Riviera-Maya
 header_image: /images/hotels/sana/sana6.jpg
 position: photo-bottom
 ---

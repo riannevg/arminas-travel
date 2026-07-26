@@ -5,6 +5,7 @@ location: Tulum
 featured: false
 categories:
   - Tulum
+  - Riviera-Maya
 header_image: /images/hotels/anayjose/anayjose3.jpg
 position: photo-center
 ---
