@@ -130,7 +130,7 @@ The Riviera Maya is more than a destination; it’s an experience that caters to
 
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/casadlplaya">
-        <div class="bg-image square" style="background-image:url('/images/hotels/casadlplaya/cdlp1.webp')">  </div>
+        <div class="bg-image square" style="background-image:url('/images/hotels/casadlplaya/cdlp2.jpg')">  </div>
         <h3 class='center'>La Casa de la Playa</h3>  
         <p class="center"> Riviera Maya</p>      
     </a>  

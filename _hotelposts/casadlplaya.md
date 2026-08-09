@@ -5,7 +5,7 @@ location: Riviera Maya
 featured: false
 categories:
   - Riviera-Maya
-header_image: /images/hotels/casadlplaya/cdlp1.webp
+header_image: /images/hotels/casadlplaya/cdlp2.jpg
 position: photo-center
 ---
 
@@ -17,6 +17,8 @@ position: photo-center
 
 ### Overview
 La Casa de la Playa is an exclusive, boutique all-inclusive resort located in the heart of the Riviera Maya. This adults-only sanctuary offers an intimate and luxurious experience, combining modern design with the natural beauty of its surroundings. With only 63 suites, La Casa de la Playa ensures personalized service and an atmosphere of privacy and tranquility. The resort is a celebration of Mexican culture, with each aspect thoughtfully curated to immerse guests in the rich traditions and vibrant spirit of the region.
+
+![](/images/hotels/casadlplaya/cdlp1.jpg)
 
 ### Accommodation
 The suites at La Casa de la Playa are designed with an elegant blend of contemporary style and Mexican craftsmanship. Each suite features expansive living spaces, private plunge pools, and breathtaking views of either the Caribbean Sea or the lush jungle. The interiors are adorned with artisanal details, luxurious furnishings, and state-of-the-art amenities, offering the ultimate in comfort and sophistication.
