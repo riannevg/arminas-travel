@@ -13,7 +13,7 @@ header_image: /images/destinations/yucatan/yucatan5.jpg
 slider_one_image: /images/destinations/yucatan/yucatan5.jpg
 slider_two_image: /images/destinations/tulum/tulum12.jpg
 slider_three_image: /images/destinations/yucatan/sferik.jpg
-slider_four_image: /images/destinations/yucatan/yucatan7.jpg
+slider_four_image: /images/destinations/yucatan/yucatan28.jpg
 ---
 
 ### Day 1: Cancun/Riviera Maya – Ek Balam – Cenote – Valladolid
