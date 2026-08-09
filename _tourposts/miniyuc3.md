@@ -60,10 +60,5 @@ After your visit, continue to your hotel in **Cancun or the Riviera Maya**, wher
 
 </div>
 
-<div class="map-container">
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1iGLRzbmZmQdWUnRZf-nEOINq8kBf6X0&amp;ehbc=2E312F&amp;noprof=1" width="800" height="300"></iframe>
-
-</div>
 
 &nbsp;
