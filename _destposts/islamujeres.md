@@ -57,12 +57,19 @@ Isla Mujeres is the perfect blend of natural beauty, cultural richness, and laid
         </a>  
     </div>
 
-        <div class="col-3_sm-4_xs-6 padded-1">
+    <div class="col-3_sm-4_xs-6 padded-1">
         <a href="/hotels/almare">
             <div class="bg-image square" style="background-image:url('/images/hotels/almare/almare1.jpeg')">  </div>
             <h3 class='center'>Almare</h3>        
         </a>  
     </div
+
+    <div class="col-3_sm-4_xs-6 padded-1">
+        <a href="/hotels/lacoleccion">
+            <div class="bg-image square" style="background-image:url('/images/hotels/lacoleccion/lacoleccion1.jpg')">  </div>
+            <h3 class='center'>La Coleccion Residences</h3>        
+        </a>  
+    </div>
 
 </section>
 
