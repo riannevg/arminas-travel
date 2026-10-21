@@ -69,7 +69,7 @@ Mérida’s warm, welcoming atmosphere and rich cultural offerings make it a mus
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/brisasmerida">
+    <a href="/hotels/lasbrisasmerida">
         <div class="bg-image square" style="background-image:url('/images/hotels/brisasmerida/brisasmerida2.webp')">  </div>
         <h3 class='center'>Las Brisas Merida</h3>        
     </a>  
