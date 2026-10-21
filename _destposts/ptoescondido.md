@@ -55,7 +55,7 @@ Puerto Escondido’s laid-back vibe and stunning natural surroundings make it an
 <div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/santafe">
         <div class="bg-image square" style="background-image:url('/images/hotels/santafe/santafe4.jpg')"></div>
-        <h3 class='center'>Hotel Santa Fe/h3>        
+        <h3 class='center'>Hotel Santa Fe</h3>        
     </a>  
 </div>
 
