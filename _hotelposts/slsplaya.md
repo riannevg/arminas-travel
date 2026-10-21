@@ -6,7 +6,7 @@ featured: false
 date: 01-01-06
 categories:
   - Cancun
-header_image: /images/hotels/sls/slsplaya1.webp
+header_image: /images/hotels/sls/slsplaya1.jpg
 position: photo-center
 ---
 ## SLS Playa Mujeres  
@@ -16,17 +16,17 @@ position: photo-center
 ### Introduction  
 SLS Playa Mujeres is a stunning beachfront sanctuary located just north of Cancun. This luxury hotel combines contemporary elegance with the vibrant spirit of Playa Mujeres, offering a retreat that’s both sophisticated and relaxed. Surrounded by pristine beaches, lush landscapes, and exclusive amenities, SLS Playa Mujeres creates an ideal escape for travelers looking to experience Mexico's Caribbean in style.  
 
-![](/images/hotels/sls/slsplaya2.webp)
+![](/images/hotels/sls/slsplaya2.jpg)
 
 ### Location  
 Set within the tranquil gated community of Playa Mujeres, the hotel offers seclusion and exclusivity while being just a short drive from Cancun’s lively center. Guests enjoy a peaceful beach environment with direct access to the turquoise waters and a sense of privacy, making it perfect for those who wish to unwind in a secluded paradise yet stay connected to the best of the region.  
 
-![](/images/hotels/sls/slsplaya3.webp)
+![](/images/hotels/sls/slsplaya3.wjpg)
 
 ### What to Do  
 At SLS Playa Mujeres, you’ll find an array of experiences to make your stay unforgettable. Lounge by the beachfront infinity pool or unwind at the luxurious **Ciel Spa** with rejuvenating treatments inspired by the local environment. For golf enthusiasts, the nearby Greg Norman-designed course is a highlight, offering stunning views and world-class golfing. Adventure lovers can enjoy water activities such as snorkeling, paddleboarding, and sailing, while those looking to relax can bask in the beauty of the private beach.  
 
-![](/images/hotels/sls/slsplaya4.webp)
+![](/images/hotels/sls/slsplaya4.jpg)
 
 ### Why We Recommend This Hotel  
 **Elegant and Stylish Design**  
