@@ -55,7 +55,7 @@ Isla Mujeres is the perfect blend of natural beauty, cultural richness, and laid
             <div class="bg-image square" style="background-image:url('/images/hotels/impressions/impressions1.webp')">  </div>
             <h3 class='center'>Impression Isla Mujeres</h3>        
         </a>  
-    </div>
+    </div>   
 
     <div class="col-3_sm-4_xs-6 padded-1">
         <a href="/hotels/almare">
@@ -70,6 +70,9 @@ Isla Mujeres is the perfect blend of natural beauty, cultural richness, and laid
             <h3 class='center'>La Coleccion Residences</h3>        
         </a>  
     </div>
+
+
+    
 
 </section>
 
