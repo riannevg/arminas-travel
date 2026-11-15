@@ -6,7 +6,7 @@ featured: false
 categories:
    - La-Paz
 header_image: /images/hotels/perlalapaz/perlalapaz1.jpg
-position: photo-center
+position: photo-top
 ---
 
 ## Perla La Paz, Tapestry Collection by Hilton &nbsp;
