@@ -117,6 +117,12 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
     </a>
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/lavalise">
+        <div class="bg-image square" style="background-image:url('/images/hotels/lavalise/valise2.jpg)"></div>
+        <h3 class="center">La Valise</h3>
+    </a>
+</div>
 
 </section>
 
