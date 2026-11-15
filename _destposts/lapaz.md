@@ -62,6 +62,13 @@ offers a memorable experience that perfectly blends relaxation and adventure.
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/perlalapaz">
+        <div class="bg-image square" style="background-image:url('/images/hotels/perlalapaz/perlalapaz1.jpg')">  </div>
+        <h3 class='center'>Perla La Paz, Tapestry Collection</h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/kimptonmasolas">
         <div class="bg-image square" style="background-image:url('/images/hotels/kimptonmasolas/kimptonmasolas3.jpeg')">  </div>
         <h3 class='center'>Kimpton Mas Olas</h3>        
