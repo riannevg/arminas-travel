@@ -124,6 +124,13 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
     </a>
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/sofitelcdmx">
+        <div class="bg-image square" style="background-image:url('/images/hotels/sofitelcdmx/sofitelcdmx1.jpg')"></div>
+        <h3 class="center">Sofitel Mexico City Reforma</h3>
+    </a>
+</div>
+
 </section>
 
 
