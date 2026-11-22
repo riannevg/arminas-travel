@@ -68,6 +68,13 @@ Los Cabos’ unique combination of desert and sea creates a spectacular setting 
     </a>  
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/lavalisecabos">
+        <div class="bg-image square" style="background-image:url('/images/hotels/lavalisecabos/lavalisecabos3.jpg')">  </div>
+        <h3 class='center'>La Valise Los Cabos </h3>        
+    </a>  
+</div>
+
 </section>
 
 
