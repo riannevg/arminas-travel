@@ -138,6 +138,13 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
     </a>
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/elcortes">
+        <div class="bg-image square" style="background-image:url('/images/hotels/elcortes/elcortes4.jpg')"></div>
+        <h3 class="center">El Cortes</h3>
+    </a>
+</div>
+
 </section>
 
 
