@@ -48,7 +48,7 @@ A spectacular natural playground – The surrounding coastline provides access t
 ### Dining Options
 La Valise Los Cabos offers a personalised dining experience inspired by the flavours and culinary traditions of Baja California Sur. Rather than following a conventional resort restaurant concept, the property focuses on intimate experiences and tailored dining arrangements. Complimentary breakfast is included, while guests can enjoy meals and refreshments in the privacy of their Casa or on their terraces overlooking the Sea of Cortez. The concierge can arrange a variety of culinary experiences, including Baja-style tacos, Mexican cooking classes, organic salsa and guacamole workshops, and curated Mexican wine, tequila, and mezcal tastings. For a particularly memorable evening, private romantic dinners can be organised in a beautiful setting, with a bespoke menu and personalised atmosphere. This approach allows guests to discover regional flavours in a relaxed and intimate environment, while celebrating the ingredients, wines, and culinary heritage of Baja California.
 
-![](/images/hotels/lavalisecabos/lavalisecabos6.jpg)
+![](/images/hotels/lavalisecabos/lavalisecabos6.jpeg)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3665.964897213995!2d-109.44127932439868!3d23.244364408014192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86a5f30fe3698573%3A0x1220caaa31d7ba2f!2sVilla%20Del%20Faro!5e0!3m2!1sen!2sde!4v1795357873488!5m2!1sen!2sde" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
