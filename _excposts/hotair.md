@@ -19,17 +19,6 @@ Experience the magic of one of Mexico's most extraordinary archaeological sites 
 ### The Experience
 The experience typically begins early in the morning, when guests arrive at the launch site to watch the balloons being prepared and inflated. After a safety briefing from the professional flight crew, take off as the sun begins to rise over the Teotihuacán Valley. During the flight, enjoy spectacular aerial views of the archaeological complex, including its monumental pyramids, ancient ceremonial avenues, and surrounding countryside. The duration of the flight is generally around 45 to 60 minutes, depending on weather conditions. Following the landing, celebrate the experience with a traditional toast and breakfast before continuing the day with an optional visit to the archaeological site itself.
 
-### Why We Recommend This Experience
-A unique perspective – Admire the extraordinary archaeological landscape of Teotihuacán from above, with views impossible to experience from the ground. &nbsp;  
-&nbsp;  
-A spectacular sunrise – Watch the first rays of sunlight illuminate the ancient pyramids and surrounding valley. &nbsp;  
-&nbsp;  
-An unforgettable adventure – Enjoy the peaceful sensation of floating above one of Mexico's most remarkable historical destinations. &nbsp;  
-&nbsp;  
-A memorable photo opportunity – Capture breathtaking panoramic views of the Pyramid of the Sun, Pyramid of the Moon, and the surrounding landscape. &nbsp;  
-&nbsp;  
-A perfect combination of adventure and culture – Combine the balloon flight with a visit to the archaeological site for a deeper appreciation of Teotihuacán's fascinating history. &nbsp;  
-
 ![Hot Air Balloon](/images/destinations/cdmx/teotihuacan3.jpg)
 
 ### Practical Information
