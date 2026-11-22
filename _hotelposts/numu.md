@@ -27,7 +27,7 @@ Located in the heart of San Miguel de Allende, Numu Boutique Hotel is within wal
 ### Dining Options on Property  
 The hotel’s restaurant offers a creative menu that fuses Mexican flavors with international influences, prepared with locally sourced ingredients. Guests can enjoy inventive dishes and handcrafted cocktails on the rooftop, with stunning views of the city. The focus on fresh, regional ingredients ensures an exceptional dining experience that celebrates the culinary diversity of Mexico.
 
-![](/images/hotels/numu/numu3.jpg)
+![](/images/hotels/numu/numu4.jpg)
 
 ### Why We Recommend This Hotel  
 - **Rooftop Pool with Stunning Views:** Numu’s rooftop pool provides sweeping views of San Miguel’s historic architecture, creating a serene spot for relaxation.  
