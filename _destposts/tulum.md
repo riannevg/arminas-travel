@@ -100,6 +100,12 @@ Tulum’s unique combination of serene natural beauty and dynamic party scene ma
     </a>  
 </div>
 
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/lavalisetulum">
+        <div class="bg-image square" style="background-image:url('/images/hotels/lavalisetulum/lavalisetulum1.jpg')"></div>
+        <h3 class='center'>La Valise Tulum</h3>        
+    </a>  
+</div>
 
 </section>
 
