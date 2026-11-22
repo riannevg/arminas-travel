@@ -6,7 +6,7 @@ featured: true
 categories:
   - Oaxaca
 header_image: /images/hotels/luunadejade/luunadejade1.jpg
-position: photo-top
+position: photo-center
 ---
 
 ## Luuna de Jade Oaxaca &nbsp;

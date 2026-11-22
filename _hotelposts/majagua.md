@@ -6,7 +6,7 @@ featured: true
 categories:
   - Oaxaca
 header_image: /images/hotels/majagua/majagua4.jpg
-position: photo-top
+position: photo-center
 ---
 
 ## Majagua Hotel Boutique Oaxaca &nbsp;
