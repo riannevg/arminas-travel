@@ -5,6 +5,7 @@ location: Acapulco
 featured: false
 categories:
   - Acapulco
+  - Pacific-Coast
 header_image: /images/hotels/banyanaca/banyanaca3.jpg
 position: photo-center
 ---

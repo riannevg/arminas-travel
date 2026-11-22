@@ -5,6 +5,7 @@ location: Puerto Escondido
 featured: false
 categories:
   - Puerto-Escondido
+  - Pacific-Coast
 header_image: /images/hotels/puntanayaa/puntanayaa1.jpg
 position: photo-center
 ---

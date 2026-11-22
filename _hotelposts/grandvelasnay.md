@@ -6,6 +6,7 @@ featured: false
 categories:
   - Nueva-Vallarta
   - Puerto-Vallarta
+  - Pacific-Coast
 header_image: /images/hotels/velasnayarit/velasnayarit7.webp
 position: photo-center
 ---

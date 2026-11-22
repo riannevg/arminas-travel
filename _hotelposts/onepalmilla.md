@@ -5,6 +5,7 @@ location: Los Cabos
 featured: false
 categories:
   - Los-Cabos
+  - Pacific-Coast
 header_image: /images/hotels/onepalmilla/onepalmilla2.jpg
 position: photo-bottom
 ---

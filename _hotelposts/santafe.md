@@ -5,6 +5,7 @@ location: Puerto Escondido
 featured: false
 categories:
   - Puerto-Escondido
+  - Pacific-Coast
 header_image: /images/hotels/santafe/santafe4.jpg
 position: photo-center
 ---

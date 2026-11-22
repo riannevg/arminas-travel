@@ -6,6 +6,7 @@ featured: false
 categories:
   - Puerto-Vallarta
   - Punta-Mita
+  - Pacific-Coast
 header_image: /images/hotels/rosewoodman/rosewoodman6.jpg
 position: photo-center
 ---

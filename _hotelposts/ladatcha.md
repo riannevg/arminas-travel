@@ -5,6 +5,7 @@ location: Cabo San Lucas
 featured: false
 categories:
   - Los-Cabos
+  - Pacific-Coast
 header_image: /images/hotels/ladatcha/ladatcha2.jpg
 position: photo-center
 ---

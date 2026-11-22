@@ -5,6 +5,7 @@ location: Puerto Escondido
 featured: false
 categories:
   - Puerto-Escondido
+  - Pacific-Coast
 header_image: /images/hotels/terrestre/terrestre2.png
 position: photo-center
 ---

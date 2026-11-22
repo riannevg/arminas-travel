@@ -6,6 +6,7 @@ featured: false
 categories:
   - Puerto-Vallarta
   - Punta-Mita
+  - Pacific-Coast
 header_image: /images/hotels/susurros/susurros4.jpg
 position: photo-center
 ---

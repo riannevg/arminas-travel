@@ -6,6 +6,7 @@ featured: false
 categories:
   - Todos-Santos
   - La-Paz
+  - Pacific-Coast
 header_image: /images/hotels/kimptonmasolas/kimptonmasolas3.jpeg
 position: photo-center
 ---
