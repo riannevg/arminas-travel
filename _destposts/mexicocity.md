@@ -69,6 +69,20 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/casona">
+        <div class="bg-image square" style="background-image:url('/images/hotels/casonaroma/casonaroma1.jpg')"></div>
+        <h3 class="center">Casona Roma</h3>
+    </a>
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/elcortes">
+        <div class="bg-image square" style="background-image:url('/images/hotels/elcortes/elcortes4.jpg')"></div>
+        <h3 class="center">El Cortes</h3>
+    </a>
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
     <a href="/hotels/fourseasons">
         <div class="bg-image square" style="background-image:url('/images/hotels/fourseasonsmex/fourseasonsmex2.jpg')">  </div>
         <h3 class='center'>Four Seasons</h3>        
@@ -83,17 +97,10 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/ritzcdmx">
-        <div class="bg-image square" style="background-image:url('/images/hotels/ritzcdmx/ritz9.jpg')">  </div>
-        <h3 class='center'>Ritz Carlton</h3>        
-    </a>  
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/stregis">
-        <div class="bg-image square" style="background-image:url('/images/hotels/stregis/stregis1.jpg')">  </div>
-        <h3 class='center'>St. Regis Mexico City</h3>        
-    </a>  
+    <a href="/hotels/marquisreforma">
+        <div class="bg-image square" style="background-image:url('/images/hotels/marquisreforma/marquisreforma2.jpg')"></div>
+        <h3 class="center">Marquis Reforma</h3>
+    </a>
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
@@ -104,23 +111,16 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/casona">
-        <div class="bg-image square" style="background-image:url('/images/hotels/casonaroma/casonaroma1.jpg')"></div>
-        <h3 class="center">Casona Roma</h3>
-    </a>
+    <a href="/hotels/ritzcdmx">
+        <div class="bg-image square" style="background-image:url('/images/hotels/ritzcdmx/ritz9.jpg')">  </div>
+        <h3 class='center'>Ritz Carlton</h3>        
+    </a>  
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/marquisreforma">
-        <div class="bg-image square" style="background-image:url('/images/hotels/marquisreforma/marquisreforma2.jpg')"></div>
-        <h3 class="center">Marquis Reforma</h3>
-    </a>
-</div>
-
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/lavalise">
-        <div class="bg-image square" style="background-image:url('/images/hotels/lavalise/valise2.jpg')"></div>
-        <h3 class="center">La Valise</h3>
+    <a href="/hotels/sarajulieta">
+        <div class="bg-image square" style="background-image:url('/images/hotels/sara/sara1.jpg')"></div>
+        <h3 class="center">Sara & Julieta</h3>
     </a>
 </div>
 
@@ -132,18 +132,25 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
 </div>
 
 <div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/sarajulieta">
-        <div class="bg-image square" style="background-image:url('/images/hotels/sara/sara1.jpg')"></div>
-        <h3 class="center">Sara & Julieta</h3>
+    <a href="/hotels/stregis">
+        <div class="bg-image square" style="background-image:url('/images/hotels/stregis/stregis1.jpg')">  </div>
+        <h3 class='center'>St. Regis Mexico City</h3>        
+    </a>  
+</div>
+
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/hotels/lavalise">
+        <div class="bg-image square" style="background-image:url('/images/hotels/lavalise/valise2.jpg')"></div>
+        <h3 class="center">La Valise</h3>
     </a>
 </div>
 
-<div class="col-3_sm-4_xs-6 padded-1">
-    <a href="/hotels/elcortes">
-        <div class="bg-image square" style="background-image:url('/images/hotels/elcortes/elcortes4.jpg')"></div>
-        <h3 class="center">El Cortes</h3>
-    </a>
-</div>
+
+
+
+
+
 
 </section>
 
@@ -193,6 +200,13 @@ Mexico City’s vibrant energy, rich cultural tapestry, and diverse attractions 
     <a href="/excursions/luchas">
         <div class="bg-image square" style="background-image:url('/images/tours/luchas2.jpg')">  </div>
         <h3 class='center'>Lucha Libre </h3>        
+    </a>  
+</div>
+
+<div class="col-3_sm-4_xs-6 padded-1">
+    <a href="/excursions/hotair">
+        <div class="bg-image square" style="background-image:url('/images/destinations/cdmx/hotair1.jpg')">  </div>
+        <h3 class='center'>Hoit Air Balloon Teotihuacan </h3>        
     </a>  
 </div>
 
